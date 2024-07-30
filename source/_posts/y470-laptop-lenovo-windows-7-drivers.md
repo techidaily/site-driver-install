@@ -1,7 +1,7 @@
 ---
 title: Y470 Laptop - Lenovo Windows 7 Drivers
-date: 2024-07-11T15:23:02.184Z
-updated: 2024-07-12T15:23:02.184Z
+date: 2024-07-29T04:55:52.525Z
+updated: 2024-07-30T04:55:52.525Z
 tags:
   - win11
   - win10
@@ -61,18 +61,30 @@ This passage mainly shows you how to download and update device drivers for your
   
  2) Select the**Drivers & Software** button on the top part of the page.
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e1091dd41a0-1024x433.jpg)
 
 3) Enter your product name here in the search box.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e10a6c0516b-600x297.jpg)
 
 4) Make sure the operating system information is correct according to your own OS,**Windows 7 (64-bit or 32-bit)**. Then choose from the list of choice of**Component**the device driver that you need on your laptop.
   
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/look-for-drivers-or-software-for-your-machine.jpg)
   
  5) We will show you how to download the Audio driver on this webpage. Choose**Audio** from the Component category, then click the down arrow under**Download File** . Wait for your browser to download the file for you.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/download-file-form-lenovo-1024x256.jpg)
 
 6) Go to **[Device Manager](https://tools.techidaily.com/drivereasy/download/)** .
@@ -83,10 +95,16 @@ We use Audio driver as an example, so we will expand **Sound, video and game con
   
  If there is something wrong with your device driver, you might need to look for it under the category **Other devices**  and see if devices with yellow exclamation marks can be seen.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/double-click-high-definition-audio-device.png)
   
 8) Then choose**Update Drivers…**under**Driver**tab.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver.png)
 
 9) Then choose**Browse my computer for driver software**.
@@ -111,6 +129,9 @@ In addition, it is a very easy software to use. There are only two steps involve
   
 Step one, press the**Scan Now**button.
   
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f084541e01e.png)
 
 Step two, press the**Update**button next to the driver that you would like to update.
@@ -139,3 +160,45 @@ If you want to enjoy more features such as driver backup and driver restore as w
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-logo-luminosity-enhancing-gaming-channels-with-designs/"><u>[New] 2024 Approved  Logo Luminosity  Enhancing Gaming Channels with Designs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hosting-youtube-webinars-for-no-charge-for-2024/"><u>[New] Hosting YouTube Webinars for No Charge for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-comprehensive-guide-to-top-hashtag-analysis-tools-fbtwitterinsta-for-2024/"><u>[Updated] Comprehensive Guide to Top Hashtag Analysis Tools (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-initiate-into-a-tiktok-live-with-ease/"><u>[Updated] Initiate Into a TikTok Live with Ease</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-speedy-accurate-transcripts-at-your-fingertips-with-5-best-zoom-software-options/"><u>[Updated] Speedy, Accurate Transcripts at Your Fingertips with 5 Best Zoom Software Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-quality-no-cost-desktop-recording-the-best-apps-list-for-2024/"><u>[Updated] Top Quality, No Cost Desktop Recording  The Best Apps List for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-video-illumination-top-strategies-for-immaculate-cinematography/"><u>2024 Approved  Pro Video Illumination  Top Strategies for Immaculate Cinematography</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-steps-for-hyperlapse-photography-magic/"><u>2024 Approved  Steps for Hyperlapse Photography Magic</u></a></li>
+<li><a href="https://driver-install.techidaily.com/atiradeon5770windriversupdate/"><u>ATIRadeon5770WinDriversUpdate</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-tweaks-and-driver-fixes-in-windows-devices/"><u>Audio Tweaks & Driver Fixes in Windows Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/canon-mf4770n-driver-update-in-windows-1187/"><u>Canon MF4770n Driver Update in Windows 11/8/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compreehensive-breakdown-clean-installation-for-graphics-drivers/"><u>Compreehensive Breakdown: Clean Installation for Graphics Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-visual-clarity-new-hp-graphics-for-windows/"><u>Drive Visual Clarity - New HP Graphics for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-your-display-to-new-heights-win-edition/"><u>Drive Your Display to New Heights - Win Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-installation-intelligent-hd-520/"><u>Easy Installation: Intelligent HD 520</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiency-upgrade-drivers-v1659aoc/"><u>Efficiency Upgrade: Drivers V1659AOC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-setup-installing-the-hd-logitech-webcam-driver-for-pcs/"><u>Efficient Setup: Installing the HD Logitech Webcam Driver for PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-setup-asus-usb-bt400-driver-guide/"><u>Effortless Setup: Asus USB-BT400 Driver Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-mx870-compatibility-with-pre-win11-windows/"><u>Enable MX870 Compatibility with Pre-Win11 Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-audio-quality-through-win7-driver-updates/"><u>Enhance Audio Quality Through Win7 Driver Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-breakdown-for-wm6-setup/"><u>Essential Breakdown for WM6 Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062526182-fast-and-hassle-free-usb-drivers-in-a-moment/"><u>Fast & Hassle-Free USB Drivers in a Moment!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-lower-thirds-mastery-best-practices-and-techniques-for-2024/"><u>FCPX Lower Thirds Mastery Best Practices and Techniques for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-optimal-performance-download-logitech-hd-camera-software/"><u>Get Optimal Performance: Download Logitech HD Camera Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-handcrafted-driver-adjustments-for-xp-machines/"><u>Guide to Handcrafted Driver Adjustments for XP Machines</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-acquire-canon-inkjet-drivers-for-win11/"><u>How to Acquire Canon Inkjet Drivers for Win11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-p1102w-printer-driver-for-windows-users/"><u>HP P1102w Printer Driver for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-xerox-printer-connectivity-on-win11/"><u>Improve Xerox Printer Connectivity on Win11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nubia-red-magic-8s-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nubia Red Magic 8S Pro Device SIM</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-x90s-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo X90S?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-a56s-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo A56s 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-simplifying-screen-views-during-google-meet-chats/"><u>In 2024, Simplifying Screen Views During Google Meet Chats</u></a></li>
+<li><a href="https://driver-install.techidaily.com/innovate-dell-devices-latest-windows-drivers-announcement/"><u>Innovate Dell Devices: Latest Windows Drivers Announcement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-ios-video-player-apps-for-optimal-entertainment/"><u>Premier iOS Video Player Apps for Optimal Entertainment</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shade-savvy-mastering-the-art-of-color-adjustment-with-ease-for-2024/"><u>Shade Savvy  Mastering the Art of Color Adjustment with Ease for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s17-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S17 for Parents | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063375396-update-lenovo-audio-drivers-in-windows-10-easily/"><u>Update Lenovo Audio Drivers in Windows 10. Easily!</u></a></li>
+</ul></div>

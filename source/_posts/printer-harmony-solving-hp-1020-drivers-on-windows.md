@@ -1,7 +1,7 @@
 ---
 title: "Printer Harmony: Solving HP 1020 Drivers on Windows"
-date: 2024-07-11T15:24:09.897Z
-updated: 2024-07-12T15:24:09.897Z
+date: 2024-07-29T04:56:41.208Z
+updated: 2024-07-30T04:56:41.208Z
 tags:
   - win11
   - win10
@@ -20,12 +20,19 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 
  If your HP LaserJet 1020 printer series are not working properly, for instance, you see certain error when trying to print, or your printer’s status is off, don’t panic. You can update your**HP LaserJet 1020 printer driver** to the latest version to fix the issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Update HP LaserJet 1020 Driver
 
 1. [Update the printer driver manually](#Fix1)
 2. [Update the printer driver in Device Manager](#Fix2)
 3. [Update the printer driver automatically](#Fix3)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### Method 1: Update the printer driver manually
 
 Time needed:  3 minutes.
@@ -33,6 +40,9 @@ Time needed:  3 minutes.
  This method shows you how to download and install HP LaserJet 1020 printer driver from HP support.
 
 1. **Go to the HP support website.**  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
@@ -42,6 +52,9 @@ Time needed:  3 minutes.
 4. **Install the driver for your printer.**  
  Run the downloaded file, and follow the wizard to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Update the printer driver in Device Manager
 
  You can also update your printer driver using the Windows built-in solution – Device Manager.
@@ -66,6 +79,9 @@ After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Update the printer driver automatically (Recommended)
 
  Manually installing the HP Laserjet 1020 printer driver requires time and computer skills. If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -76,8 +92,14 @@ After updating, restart your computer.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 4. After updating, restart your computer to take effect.
@@ -111,3 +133,52 @@ This is a rather easy method, isn’t it?!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-free-youtube-video-editing-apps-for-iphone-and-ipad/"><u>[New] 2024 Approved  Best Free YouTube Video Editing Apps for iPhone & iPad</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-humor-hacks-simplifying-the-process-of-meme-creation/"><u>[New] Humor Hacks  Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-discover-the-ultimate-10-igtv-content-genres-that-work-best/"><u>[New] In 2024, Discover the Ultimate 10 IGTV Content Genres That Work Best</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-guides-to-the-top-10-student-focused-history-vlogs/"><u>[Updated] 2024 Approved  Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-conquer-the-controller-xbox-one-screenshot-basics/"><u>[Updated] Conquer the Controller  Xbox One Screenshot Basics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-insight-into-your-contents-success-via-youtube-rankers-for-2024/"><u>[Updated] Gain Insight Into Your Content's Success via YouTube Rankers for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-ultimate-list-of-quotes-for-tiktok-stars-for-2024/"><u>[Updated] The Ultimate List of Quotes for TikTok Stars for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-androidios-techniques-screening-google-meets/"><u>2024 Approved  Android/iOS Techniques  Screening Google Meets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-effortless-capture-winmac-tools-to-record-desktop-screens/"><u>2024 Approved  Effortless Capture  Win/Mac Tools to Record Desktop Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-music-magic-for-instagram-a-guide/"><u>2024 Approved  Music Magic for Instagram  A Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-art-of-video-marketing-11-tips-to-skyrocket-fb-traffic/"><u>2024 Approved  The Art of Video Marketing  11 Tips to Skyrocket FB Traffic</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-support-revolution-conexant-hd-driver-for-win11/"><u>Audio Support Revolution: Conexant HD Driver for Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-speed-and-stability-new-dell-pc-driver-update/"><u>Boost Speed & Stability: New Dell PC Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-printing-experience-update-hp-officejet-pro-8620-in-windows-pcs/"><u>Boost Your Printing Experience - Update HP OfficeJet Pro 8620 in Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/briskly-revamp-rx-5500xt-drivers/"><u>Briskly Revamp RX 5500XT Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-k70e-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi K70E to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-enhancement-boost-performance-and-functionality/"><u>Driver Enhancement: Boost Performance and Functionality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-updates-windows-xpvista7-drivers/"><u>Efficient Updates: Windows XP/Vista/7 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-way-to-replace-qualcomm-network-drivers/"><u>Efficient Way to Replace Qualcomm Network Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-computing-install-amds-cryptocurrency-drivers/"><u>Elevate Computing: Install AMD's Cryptocurrency Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-firmware-gtx-1060-model/"><u>Enhanced Firmware: GTX 1060 Model</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-latest-gtx-1050-ti-drivers-for-peak-performance/"><u>Get the Latest GTX 1050 Ti Drivers for Peak Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/haste-your-nvidia-driver-for-gtx-750-ti/"><u>Haste Your NVIDIA Driver for GTX 750 Ti</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2023-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2023</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-8-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 8 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-11r-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus 11R FRP Bypass</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-find-x7-ultra-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Find X7 Ultra Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ative-gaming-intro-options-free-versus-paid-for-youtube-creators-for-2024/"><u>Innovative Gaming Intro Options  Free Versus Paid for YouTube Creators for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-install-canon-print-drivers-for-pc/"><u>Instantly Install: Canon Print Drivers for PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-and-improved-a-guide-to-driver-update-in-windows-11/"><u>New and Improved: A Guide to Driver Update in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pro-level-snap-tech-free-from-any-delaying-hiccups/"><u>Pro-Level Snap Tech  Free From Any Delaying Hiccups</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-download-canon-scanner-software-windows-version/"><u>Quick Download: Canon Scanner Software (Windows) Version</u></a></li>
+<li><a href="https://driver-install.techidaily.com/razer-gaming-mouse-driver-quick-guide/"><u>Razer Gaming Mouse Driver Quick Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rebooting-your-pc-qualcomm-wireless-network-card-fix/"><u>Rebooting Your PC: Qualcomm Wireless Network Card Fix</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenate-window-display-with-simple-tweaks/"><u>Rejuvenate Window Display with Simple Tweaks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-graphic-issues-in-win-os/"><u>Resolve Graphic Issues in Win OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-drivers-update-for-w7/"><u>Streamlined Drivers Update for W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-software-upgrade-logitech-mouse-and-w11-compatibility/"><u>Streamlined Software Upgrade: Logitech Mouse & W11 Compatibility</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tailored-upgrades-for-windows-audio-systems/"><u>Tailored Upgrades for Windows Audio Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-hp-graphics-driver-in-windows-10/"><u>Update HP Graphics Driver in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-nvidias-gpu-to-quadro-rtx-6000/"><u>Update NVIDIA's GPU to Quadro RTX 6000</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063384321-update-wacom-bamboo-no-hassle-just-fast/"><u>Update Wacom Bamboo - No Hassle, Just Fast</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063332842-windows-usb-hacks-unraveled-fixed/"><u>Windows USB Hacks Unraveled - Fixed!</u></a></li>
+</ul></div>
