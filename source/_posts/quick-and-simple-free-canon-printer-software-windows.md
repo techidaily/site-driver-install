@@ -1,7 +1,7 @@
 ---
 title: "Quick & Simple: Free Canon Printer Software (Windows)"
-date: 2024-07-11T16:31:17.148Z
-updated: 2024-07-12T16:31:17.148Z
+date: 2024-08-15T14:42:25.873Z
+updated: 2024-08-16T14:42:25.873Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/c3e502f20e7efdaa79fe7247c347cba062451d0a1
 
  Note: the screenshots below come from Windows 10, and the methods also work on Windows 11, 8 ,and 7.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Method 1: Download Canon scanner driver manually
 
  You can manually download the driver for your Canon scanner from the Canon support center.
@@ -39,10 +42,16 @@ thumbnail: https://thmb.techidaily.com/c3e502f20e7efdaa79fe7247c347cba062451d0a1
 1. Go to **[Canon Support](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers)**  .
 2. Search for your scanner model from the search bar. (In my case I search for **CanoScan** LiDE 120.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 3. On your scanner result page, click**Software & Drivers**  .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-1.jpg)
 4. Select the OS and version that match with your computer. Then click**DOWNLOAD** there is a driver available for you to download.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 5. Install the driver on your computer.
 
  This requires time or computer skills. If you don’t have time or patience, you can try the solutions below.
@@ -56,11 +65,17 @@ thumbnail: https://thmb.techidaily.com/c3e502f20e7efdaa79fe7247c347cba062451d0a1
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/canon-scan.png)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -73,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/c3e502f20e7efdaa79fe7247c347cba062451d0a1
 2. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 3. Type**devmgmt.msc** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 4. In Device Manager, double-click**Printers** or**Print queues** to expand it.  Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 5. Choose**Search automatically for updated driver software** .  
@@ -104,3 +122,47 @@ thumbnail: https://thmb.techidaily.com/c3e502f20e7efdaa79fe7247c347cba062451d0a1
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-earnings-standards-new-rules-and-tips/"><u>[New] 2024 Approved  YouTube Earnings Standards  New Rules & Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-complete-guide-to-downloading-youtube-videos-to-iphone-or-ipad/"><u>[New] A Complete Guide to Downloading YouTube Videos to iPhone or iPad</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exceptional-programs-for-professional-4k-video-capture/"><u>[New] Exceptional Programs for Professional 4K Video Capture</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solved-the-third-party-inf-does-not-contain-digital-signature-information/"><u>[SOLVED] The Third-Party INF Does Not Contain Digital Signature Information</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-craft-your-vision-best-cameras-for-video-creators/"><u>[Updated] 2024 Approved  Craft Your Vision  Best Cameras for Video Creators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-comprehensive-motion-dynamics-synopsis/"><u>2024 Approved  Comprehensive Motion Dynamics Synopsis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amds-high-fidelity-audio-interface/"><u>AMD's High Fidelity Audio Interface</u></a></li>
+<li><a href="https://driver-install.techidaily.com/corrective-measures-for-hp-printer-driver-issues-win11/"><u>Corrective Measures for HP Printer Driver Issues (Win11)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defining-the-role-and-services-of-cell-service-providers/"><u>Defining the Role and Services of Cell Service Providers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-killer-network-driver-no-cost-option-for-windows-10-8-and-7/"><u>Download and Update Killer Network Driver: No Cost Option for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-display-on-pc-with-new-hp-graphics-patch/"><u>Enhance Display on PC with New HP Graphics Patch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-ink-level-indicators-through-windows-10-adjustments/"><u>Enhance Ink Level Indicators Through Windows 10 Adjustments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-windows-10s-acoustic-experience-with-nvidia-updates/"><u>Enhancing Windows 10'S Acoustic Experience with NVIDIA Updates</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/explore-your-watching-tendencies-the-ultimate-six-youtuber-categorization-challenges/"><u>Explore Your Watching Tendencies  The Ultimate Six YouTuber Categorization Challenges</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-simple-acquire-scsi-control-software/"><u>Fast & Simple: Acquire SCSI Control Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063635710-fasten-radeon-4800-driver-updates/"><u>Fasten Radeon 4800 Driver Updates!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freedomgpt-a-comprehensive-guide-to-setting-up-a-restrict-free-chatbot-on-your-windows-pc/"><u>FreedomGPT: A Comprehensive Guide to Setting Up a Restrict-Free Chatbot on Your Windows PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/geforce-gtx-1650-driver-quick-install/"><u>GeForce GTX 1650 Driver - Quick Install</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/gopro-quik-on-pc-how-to-use-it-and-explore-other-options/"><u>GoPro Quik on PC How to Use It and Explore Other Options</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-f14-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy F14 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-airlink-for-windows-7-users/"><u>Instant Airlink for Windows 7 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneous-driver-refresh-in-win11/"><u>Instantaneous Driver Refresh in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-install-windows-11-touch-support/"><u>Intuitive Install: Windows 11 Touch Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/keep-your-msi-bravo-updated-easily/"><u>Keep Your MSI Bravo Updated Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-m2-storage-in-windows-os/"><u>Mastering M.2 Storage in Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastery-over-mice-software-driver-tweaks-for-windows/"><u>Mastery Over Mice: Software Driver Tweaks for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-driver-changes-in-windows-soundscape/"><u>Navigating Driver Changes in Windows Soundscape</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfecting-presentations-choosing-from-top-10-free-screen-captures-for-mac/"><u>Perfecting Presentations  Choosing From Top 10 Free Screen Captures for Mac</u></a></li>
+<li><a href="https://driver-install.techidaily.com/printer-drivers-hps-efficient-solution/"><u>Printer Drivers: HP's Efficient Solution</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-updating-windows-7-hp-graphics-for-smoothness/"><u>Quick Fix! Updating Windows 7 HP Graphics for Smoothness</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-windows-driver-refresh-tips-win-11817-edition/"><u>Quick Windows Driver Refresh Tips (Win 11/8.1/7 Edition)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solved-usbasp-driver-troubles-on-windows-editions-10781/"><u>Solved USBasp Driver Troubles on Windows Editions (10/7/8.1)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-avchd-files-into-mp4-format-for-your-kindle-fire/"><u>Step-by-Step Guide: Converting AVCHD Files Into MP4 Format for Your Kindle Fire</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-recourse-and-resource-conflicts/"><u>System Recourse and Resource Conflicts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/"><u>Update PC's Graphics Capabilities with New Drivers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-online-video-editing-top-10-trimming-tools-2023-rankings-for-2024/"><u>Updated Free Online Video Editing Top 10 Trimming Tools 2023 Rankings for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-hardware-drivers-on-windows-xp-manually/"><u>Updating Hardware Drivers On Windows XP Manually</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wins-newest-version-updating-amd-drivers-and-compatibility/"><u>Win's Newest Version - Updating AMD Drivers and Compatibility</u></a></li>
+</ul></div>
