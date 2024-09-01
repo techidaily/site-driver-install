@@ -1,7 +1,7 @@
 ---
 title: "HP Printer 1020: Bid Adieu to Windows Driver Troubles"
-date: 2024-07-11T16:13:10.269Z
-updated: 2024-07-12T16:13:10.269Z
+date: 2024-08-31T12:54:17.034Z
+updated: 2024-09-01T12:54:17.034Z
 tags:
   - win11
   - win10
@@ -42,6 +42,9 @@ Time needed:  3 minutes.
 4. **Install the driver for your printer.**  
  Run the downloaded file, and follow the wizard to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Update the printer driver in Device Manager
 
  You can also update your printer driver using the Windows built-in solution – Device Manager.
@@ -55,17 +58,34 @@ Time needed:  3 minutes.
 3. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3: Update the printer driver automatically (Recommended)
 
  Manually installing the HP Laserjet 1020 printer driver requires time and computer skills. If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -80,6 +100,9 @@ After updating, restart your computer.
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 4. After updating, restart your computer to take effect.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -111,3 +134,63 @@ This is a rather easy method, isn’t it?!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-install.techidaily.com/fixed-conexant-hd-audio-compatibility-in-windows-os/"><u>[Fixed]: Conexant HD Audio Compatibility in Windows OS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-make-free-intros-for-youtube-plustemplates-for-2024/"><u>[New] How to Make Free Intros for YouTube? [+Templates] for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-camera-troubles-no-more-with-obs/"><u>[New] In 2024, Camera Troubles No More with OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-methods-to-rectify-obs-fullscreen-crash-for-2024/"><u>[New] Methods to Rectify OBS Fullscreen Crash for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-speed-control-the-editors-essential-handbook/"><u>[New] Seamless Speed Control  The Editor's Essential Handbook</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solved-the-third-party-inf-does-not-contain-digital-signature-information/"><u>[SOLVED] The Third-Party INF Does Not Contain Digital Signature Information</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-how-to-use-movie-maker-on-windows-8/"><u>[Updated] How to Use Movie Maker on Windows 8</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-leading-edge-techniques-for-video-based-seminars-for-2024/"><u>[Updated] Leading Edge Techniques for Video-Based Seminars for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transformative-techniques-for-capturing-on-iphone/"><u>[Updated] Transformative Techniques for Capturing on iPhone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-novice-networking-affordable-channel-buy-options/"><u>2024 Approved  Novice Networking  Affordable Channel Buy Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-webcam-innovations-for-enhanced-connectivity/"><u>2024 Approved  Webcam Innovations for Enhanced Connectivity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/align-package-with-hardware-specs/"><u>Align Package with Hardware Specs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amds-high-fidelity-audio-interface/"><u>AMD's High Fidelity Audio Interface</u></a></li>
+<li><a href="https://driver-install.techidaily.com/convenient-installation-of-asus-usb-bt-drivers-windows-8plus/"><u>Convenient Installation of Asus USB-BT Drivers Windows 8+</u></a></li>
+<li><a href="https://driver-install.techidaily.com/corrective-measures-for-hp-printer-driver-issues-win11/"><u>Corrective Measures for HP Printer Driver Issues (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-obscured-network-visibility-in-windows/"><u>Curing Obscured Network Visibility in Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/cutting-edge-editing-solutions-just-for-vimeo-for-2024/"><u>Cutting-Edge Editing Solutions Just for Vimeo for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-effortless-integration-for-windows-11s-touch/"><u>Download & Effortless Integration for Windows 11'S Touch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-display-on-pc-with-new-hp-graphics-patch/"><u>Enhance Display on PC with New HP Graphics Patch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-ink-level-indicators-through-windows-10-adjustments/"><u>Enhance Ink Level Indicators Through Windows 10 Adjustments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-windows-10s-acoustic-experience-with-nvidia-updates/"><u>Enhancing Windows 10'S Acoustic Experience with NVIDIA Updates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-mobvoi-ticwatch-e2-is-affordability-worth-compromising-quality/"><u>Evaluating the Mobvoi TicWatch E2 - Is Affordability Worth Compromising Quality?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-simple-acquire-scsi-control-software/"><u>Fast & Simple: Acquire SCSI Control Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-nvidia-driver-updates-simplified-methods/"><u>Fast Nvidia Driver Updates: Simplified Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063635710-fasten-radeon-4800-driver-updates/"><u>Fasten Radeon 4800 Driver Updates!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/geforce-gtx-1650-driver-quick-install/"><u>GeForce GTX 1650 Driver - Quick Install</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-a58-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo A58 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-v29-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo V29 Activity | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-12-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 12 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-airlink-for-windows-7-users/"><u>Instant Airlink for Windows 7 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneous-driver-refresh-in-win11/"><u>Instantaneous Driver Refresh in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-install-windows-11-touch-support/"><u>Intuitive Install: Windows 11 Touch Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/keep-your-msi-bravo-updated-easily/"><u>Keep Your MSI Bravo Updated Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-display-responsiveness-restored/"><u>Lenovo Display Responsiveness Restored</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-m2-storage-in-windows-os/"><u>Mastering M.2 Storage in Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastery-over-mice-software-driver-tweaks-for-windows/"><u>Mastery Over Mice: Software Driver Tweaks for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-driver-changes-in-windows-soundscape/"><u>Navigating Driver Changes in Windows Soundscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/navigating-the-web-discovering-your-perfect-page/"><u>Navigating the Web - Discovering Your Perfect Page</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pairwin11controllerxbox-one-ease-of-use/"><u>PairWin11ControllerXbox One Ease of Use</u></a></li>
+<li><a href="https://driver-install.techidaily.com/printer-drivers-hps-efficient-solution/"><u>Printer Drivers: HP's Efficient Solution</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-updating-windows-7-hp-graphics-for-smoothness/"><u>Quick Fix! Updating Windows 7 HP Graphics for Smoothness</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-windows-driver-refresh-tips-win-11817-edition/"><u>Quick Windows Driver Refresh Tips (Win 11/8.1/7 Edition)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalizing-astros-efficiency-through-driver-updates-and-replacement/"><u>Revitalizing Astro's Efficiency Through Driver Updates and Replacement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sharing-is-caring-learn-to-share-games-on-sonys-playstation-5/"><u>Sharing Is Caring - Learn to Share Games on Sony's PlayStation 5</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solved-usbasp-driver-troubles-on-windows-editions-10781/"><u>Solved USBasp Driver Troubles on Windows Editions (10/7/8.1)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-launch-issues-for-palworld-players-quick-guide/"><u>Solving Launch Issues for Palworld Players - Quick Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stay-current-install-the-latest-drivers-for-your-hp-officejet-pro-8620/"><u>Stay Current: Install the Latest Drivers for Your HP OfficeJet Pro 8620</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-driver-updates-for-wacom-tablets-in-win-oss-7-10-11/"><u>Streamlining Driver Updates for Wacom Tablets in Win OSs 7-10-11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-driver-update-for-amd-in-windows-10/"><u>Successful Driver Update for AMD in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-improvement-strategies-modernizing-msi-boards-in-legacy-oss/"><u>System Improvement Strategies: Modernizing MSI Boards in Legacy OSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-recourse-and-resource-conflicts/"><u>System Recourse and Resource Conflicts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshoot-windows-10-sounds-via-driver-update/"><u>Troubleshoot Windows 10 Sounds via Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/"><u>Update PC's Graphics Capabilities with New Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-hardware-drivers-on-windows-xp-manually/"><u>Updating Hardware Drivers On Windows XP Manually</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wins-newest-version-updating-amd-drivers-and-compatibility/"><u>Win's Newest Version - Updating AMD Drivers and Compatibility</u></a></li>
+</ul></div>
