@@ -1,7 +1,7 @@
 ---
 title: Swiftly Improve Your RX 5500XT Drivers
-date: 2024-08-08T06:33:54.503Z
-updated: 2024-08-09T06:33:54.503Z
+date: 2024-09-04T16:59:09.122Z
+updated: 2024-09-05T16:59:09.122Z
 tags:
   - win11
   - win10
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  In this post, I’m going to show you**how to update Radeon RX 5500 XT drivers** , automatically and manually.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/5500.png)
 
  There are two ways you can update your Radeon RX 5500 XT drivers:
@@ -45,17 +42,11 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Radeon-RX-5500-XT.png)
 4. Restart your computer for the changes to take effect.
 
  Now congrats – you’ve already updated the driver for your**AMD Radeon RX 5500 XT** graphics card.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Option 2 –** **Update Radeon RX 5500 XT drivers** manually
 
  If you don’t mind doing the legwork yourself, or you’re on non-Windows operating system, you can follow the steps below to update your**Radeon RX 5500 XT** driver.
@@ -63,20 +54,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  Updating your drivers incorrectly may cause instability or crashing issues to your system. Please proceed with caution.
 
 1. Navigate to [**AMD.com**](https://www.amd.com) , then click**DRIVERS & SUPPORT** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/AMD.png)
 2. Scroll down to the manual update section, then select Radeon RX 5500 XT from the drop-down lists. Respectively, you should choose**Graphics** \>**AMD Radeon 5500 Series** \>**AMD Radeon RX 5500 Series** \>**AMD Radeon RX 5500 XT** . After that, click**SUBMIT** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/select.png)
 3. You’ll be prompted to choose your edition of Operating System. Click the**+** symbol to unfold the available downloads for your driver. Be sure to download the first result for the latest update.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/add.png)
 4. Wait for the file to be downloaded.
 5. Once complete, open the file and follow the on-screen instructions to install the driver.
@@ -161,3 +142,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 <li><a href="https://driver-install.techidaily.com/win-users-install-razer-mice-fast-and-simple/"><u>Win Users: Install Razer Mice Fast & Simple</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-nubia-z50-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nubia Z50 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

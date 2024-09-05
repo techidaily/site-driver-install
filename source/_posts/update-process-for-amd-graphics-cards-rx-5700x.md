@@ -1,7 +1,7 @@
 ---
 title: Update Process for AMD Graphics Cards - RX 5700X
-date: 2024-08-08T06:36:38.636Z
-updated: 2024-08-09T06:36:38.636Z
+date: 2024-09-04T16:59:06.595Z
+updated: 2024-09-05T16:59:06.595Z
 tags:
   - win11
   - win10
@@ -34,27 +34,15 @@ OR
 
 1. Go to **[AMD’s support website](https://www.amd.com/en/support)**  .
 2. Select**Graphics** \>**AMD Radeon 5700 Series** \>**AMD Radeon RX 5700 Series** \>**AMD Radeon RX 5700** . Then, click**Submit** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-7.jpg)
 3. Choose your operating system. (For my case, I click Windows 10 – 64-Bit Edition).  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-10.jpg)
 4. Click the**Download** button next to the driver you want.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-5.jpg)
 5. Double-click the downloaded file and follow the on-screen instruction to install the driver.
 
  If you feel the steps above are a little complicated, try the automatic method below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 2 – Automatically update the AMD 5700 drivers (Recommended)
 
  If you don’t have the time, patience or computer skills to update the AMD 5700 drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,16 +53,10 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click the **Update**  button next to the flagged **AMD RX 5700 driver** to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -150,3 +132,10 @@ OR
 <li><a href="https://driver-install.techidaily.com/winrtx-3090-ti-performance-enhancer/"><u>WinRTX 3090 Ti Performance Enhancer</u></a></li>
 <li><a href="https://driver-install.techidaily.com/wireless-proxy-installation-easy-w7-guide/"><u>Wireless Proxy Installation: Easy W7 Guide</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

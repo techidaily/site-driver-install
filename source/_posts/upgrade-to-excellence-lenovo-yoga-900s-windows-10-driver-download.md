@@ -1,7 +1,7 @@
 ---
 title: "Upgrade to Excellence: Lenovo Yoga 900S - Windows 10 Driver Download"
-date: 2024-08-08T06:37:48.114Z
-updated: 2024-08-09T06:37:48.114Z
+date: 2024-09-04T16:59:05.612Z
+updated: 2024-09-05T16:59:05.612Z
 tags:
   - win11
   - win10
@@ -26,23 +26,14 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
   
  2\. Type**devmgmt.msc** in the run box and click**OK** button.  
   
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e432e121d.png)
 
  3\. Expand the categories and right-click on the device that you wish to update driver for. Select**Update Driver Software…** on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e4b0e8695.jpg)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install the new driver automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e4d480e00.jpg)
   
  Note It is possible that Windows doesn’t provide the new driver.  
@@ -53,16 +44,10 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
   
  1\. Click**Scan Now** button. Driver Easy will scan your computer in several seconds and provide new drivers instantly.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96c8989cb.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. With this feature, you can leave updating process alone while doing other tasks.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96d23c54f.jpg)
 
 * [Lenovo](https://tools.techidaily.com/drivereasy/download/)
@@ -142,3 +127,10 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
 <li><a href="https://win-solutions.techidaily.com/mtga-troubleshooting-successfully-tackling-the-infamous-black-screen-glitch/"><u>MTGA Troubleshooting: Successfully Tackling the Infamous Black Screen Glitch</u></a></li>
 <li><a href="https://win-able.techidaily.com/update-issues-in-ffxiv-navigating-incomplete-version-checks/"><u>Update Issues in FFXIV: Navigating Incomplete Version Checks</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

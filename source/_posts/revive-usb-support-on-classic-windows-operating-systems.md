@@ -1,7 +1,7 @@
 ---
 title: Revive USB Support on Classic Windows Operating Systems
-date: 2024-08-08T06:35:48.009Z
-updated: 2024-08-09T06:35:48.009Z
+date: 2024-09-04T16:59:07.347Z
+updated: 2024-09-05T16:59:07.347Z
 tags:
   - win11
   - win10
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to reinstall USB drivers
 
  There’re two ways you can reinstall your USB drivers on Windows 11, 10, 8 and 7\. You may not try them; just choose your preferred one.
@@ -28,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Option 1 – Reinstall the drivers using Device Manager
 
  Device Manager is a Windows built-in tool that allows you to view and control the hardware attached to your computer and update the device drivers. To reinstall the USB drivers in Device Manager, follow the steps below:
@@ -38,24 +32,27 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then, type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
 
  If you don’t have the time, patience or computer skills to reinstall the USB drivers manually or if you want to get the latest USB driver, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,10 +64,19 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**

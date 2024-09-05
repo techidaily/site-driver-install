@@ -1,7 +1,7 @@
 ---
 title: "Win11 Driver Boost: Radeon HD 5450 Upgrade"
-date: 2024-08-08T06:40:04.972Z
-updated: 2024-08-09T06:40:04.972Z
+date: 2024-09-04T16:59:03.606Z
+updated: 2024-09-05T16:59:03.606Z
 tags:
   - win11
   - win10
@@ -26,24 +26,14 @@ If you want to update driver for AMD ATI Radeon HD 5450 in Windows 10, you can d
   
  2\. Type **devmgmt.msc** in the run box and click on**OK** button. This is to open Device Manager dialog box.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a51448230.png)
   
  3\. In Device Manager, expand category “Display adapters” and right-click on AMD graphics device. Select**Update Driver Software…** on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a5367b22f.jpg)
   
  4\. Select**Search automatically for updated driver software** . Then Windows will search and install the latest driver automatically. Note Windows may fail to provide the latest driver.  
   
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a57107fc1.jpg)
   
 **Way 2: Download and Install the Latest Driver from AMD**
@@ -54,16 +44,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
   
  2\. Scroll down and locate the right series in right page. ATI Radeon HD 5450 belongs to HD 5000 series, so locate the series as below, then click on Windows 10 32-bit or 64-bit (see [How to Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) )  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a73e47916.jpg)
   
  3\. Click**DOWNLOAD** button to download the driver.  
   
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a866968be.jpg)
   
  **Way 3: Update Drivers Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -72,9 +56,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
   
 1\. Click **Scan Now**  button. Then Driver Easy will scan your computer within several seconds and provide new drivers instantly.
   
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd94c4d849e.png)
   
 2\. Click **Update**  **All** button. Then all new drivers including the AMD Ati Radeon HD 5450 driver will be downloaded and installed automatically.
@@ -158,3 +139,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 <li><a href="https://driver-install.techidaily.com/windows-711-graphics-drivers-retry/"><u>Windows 7/11: Graphics Drivers Retry</u></a></li>
 <li><a href="https://facebook.techidaily.com/1719153500304-zuckerbergs-litecoin-louie-innovative-pet-nomenclature/"><u>Zuckerberg's 'Litecoin Louie': Innovative Pet Nomenclature</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Windows 7 Driver Support for Y470 Laptop
-date: 2024-08-08T06:35:04.136Z
-updated: 2024-08-09T06:35:04.136Z
+date: 2024-09-04T16:59:08.013Z
+updated: 2024-09-05T16:59:08.013Z
 tags:
   - win11
   - win10
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 
 This passage mainly shows you how to download and update device drivers for your**Lenovo IdeaPad-Y470 laptop**. The instructions are easy to follow and clear enough for almost everyone to handle the problem totally by yourself.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/lenovo-ideapad-y470-laptop.jpg)
   
  This post will basically show you how to update device drivers in three different ways by the example of**audio driver** . These methods apply to all the other device drivers that you want to update.
@@ -40,9 +37,6 @@ This passage mainly shows you how to download and update device drivers for your
   
  If there is something wrong with your device driver, you might need to look for it under the category**Other devices**  and see if devices with yellow exclamation marks can be seen.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/sound-video-and-game-controllers.png)
 
  3) Then double click the option**High Definition Audio Device** . You should double click the device you want to update.
@@ -55,9 +49,6 @@ This passage mainly shows you how to download and update device drivers for your
 
  5) Then choose**Search automatically for updated driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/search-automatically-for-updated-driver-software.png)
 
  You may need to wait for a while for Microsoft to help you locate the correct driver.
@@ -70,10 +61,6 @@ This passage mainly shows you how to download and update device drivers for your
   
  2) Select the**Drivers & Software** button on the top part of the page.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e1091dd41a0-1024x433.jpg)
 
 3) Enter your product name here in the search box.  
@@ -86,9 +73,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
   
  5) We will show you how to download the Audio driver on this webpage. Choose**Audio** from the Component category, then click the down arrow under**Download File** . Wait for your browser to download the file for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/download-file-form-lenovo-1024x256.jpg)
 
 6) Go to **[Device Manager](https://tools.techidaily.com/drivereasy/download/)** .
@@ -111,9 +95,6 @@ We use Audio driver as an example, so we will expand **Sound, video and game con
 
 10) Copy and paste the path to the audio driver that you have downloaded to the search box here. Then click**Next**to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/paste-the-address.png)
 
 11) Wait for the installation of the audio device driver on your IdeaPad-Y470\.
@@ -130,14 +111,6 @@ In addition, it is a very easy software to use. There are only two steps involve
   
 Step one, press the**Scan Now**button.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f084541e01e.png)
 
 Step two, press the**Update**button next to the driver that you would like to update.
@@ -220,3 +193,10 @@ If you want to enjoy more features such as driver backup and driver restore as w
 <li><a href="https://driver-install.techidaily.com/quick-update-guide-logitech-earbuds-software/"><u>Quick-Update Guide: Logitech Earbuds Software</u></a></li>
 <li><a href="https://techidaily.com/sign-a-pdf-v11-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v1.1 document with electronic signature tool</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

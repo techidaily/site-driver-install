@@ -1,7 +1,7 @@
 ---
 title: Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860
-date: 2024-08-15T14:43:19.331Z
-updated: 2024-08-16T14:43:19.331Z
+date: 2024-09-04T16:59:03.154Z
+updated: 2024-09-05T16:59:03.154Z
 tags:
   - desktop
 categories:
@@ -142,5 +142,8 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

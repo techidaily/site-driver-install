@@ -1,7 +1,7 @@
 ---
 title: Revive Windows 11 Sounds with Drivers Reload
-date: 2024-08-08T06:40:21.145Z
-updated: 2024-08-09T06:40:21.145Z
+date: 2024-09-04T16:59:03.380Z
+updated: 2024-09-05T16:59:03.380Z
 tags:
   - win11
   - win10
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
  First, you need to uninstall the audio driver from Device Manager. After uninstalling the driver, you can simply restart your PC to allow Windows to reinstall the audio driver.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2 ways to reinstall your audio driver
 
 [**Option 1 – Manually**](#method1)
@@ -33,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 1\. Reinstall audio driver manually
 
  You can follow the steps below to reinstall your audio driver manually. First you’ll need to uninstall the audio driver.
@@ -45,25 +38,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) at the same time to invoke the Run box.
 2. Type**devmgmt.msc i** n the Run box and click OK to open Device Manager.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffffd514aa.png)
 3. Expand the category**Sound,video and game controllers** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffff4272b1.jpg)
 4. **Right-click on the sound device** and click**Uninstall device** (in some cases, this could be just Uninstall). In the below example, the sound device is Realtek High Definition Audio.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0027dd7b67.jpg)
 5. On the Uninstall confirm dialog box, select the**Delete the driver software for this device** option, then click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be003fba7ed5.png)  
  The option**Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information you can visit [Driver Store](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) in Microsoft. If you don’t see this option on the**Uninstall confirm dialog** box, the driver package may have been removed. In this case, just click**Uninstall** to uninstall the driver.
 6. **Restart** your computer. Usually, Windows will install an audio driver automatically when your computer is connected to the internet. (It may not give you the latest drivers — so if you found the issue persists, you can take the following methods to automatically check for driver issues or updates.)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Reinstall audio driver automatically (Recommended)
 
  The above steps may help resolve your no sound issues, but if they don’t, you can install a new audio driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -77,10 +73,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the **three dots icon** next to an audio driver and select**Uninstall driver** (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) ). Since replacing the old driver with a newer one may solve the audio issues, you can also choose to update all your drivers with one click to keep your PC drivers up-to-date.  
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/audio-driver-uninstall-driver-easy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 

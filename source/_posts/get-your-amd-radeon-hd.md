@@ -1,7 +1,7 @@
 ---
 title: Get Your AMD Radeon HD
-date: 2024-08-27T09:05:30.188Z
-updated: 2024-08-28T09:05:30.188Z
+date: 2024-09-04T16:59:01.933Z
+updated: 2024-09-05T16:59:01.933Z
 tags:
   - win11
   - win10
@@ -121,5 +121,8 @@ To download the latest Radeon HD 7770 driver from AMD, visit [here](http://suppo
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

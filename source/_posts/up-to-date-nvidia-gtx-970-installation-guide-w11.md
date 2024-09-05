@@ -1,7 +1,7 @@
 ---
 title: "Up-to-Date Nvidia GTX 970: Installation Guide W11"
-date: 2024-08-08T06:38:11.499Z
-updated: 2024-08-09T06:38:11.499Z
+date: 2024-09-04T16:59:05.273Z
+updated: 2024-09-05T16:59:05.273Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ Follow these steps:
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
@@ -57,9 +54,6 @@ Follow these steps:
 
 Follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  1\. Press **Win+R** (Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fef72359c9c.png) key and R key) at the same time. A Run dialog box will appear.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
@@ -68,17 +62,10 @@ Follow these steps.
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)
 
  **Way 3: Update the Driver Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -87,16 +74,10 @@ Follow these steps.
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -174,3 +155,10 @@ Follow these steps.
 <li><a href="https://driver-install.techidaily.com/windows-11-update-guide-enhanced-acer-support/"><u>Windows 11 Update Guide - Enhanced Acer Support</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-fusion-reinstating-usb-port-functions/"><u>Windows Fusion: Reinstating USB Port Functions</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

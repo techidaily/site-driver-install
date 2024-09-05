@@ -1,7 +1,7 @@
 ---
 title: Streamline Lenovo's Yoga 900 System Updates
-date: 2024-08-08T06:39:08.149Z
-updated: 2024-08-09T06:39:08.149Z
+date: 2024-09-04T16:59:04.423Z
+updated: 2024-09-05T16:59:04.423Z
 tags:
   - win11
   - win10
@@ -28,31 +28,16 @@ Follow these steps:
   
 2\. Type**devmgmt.msc**in the run box and click**OK**button. This is to open Device Manager.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582abbc236e36.png)
   
  3\. In Device Manager, locate the device that you wish to update driver for. Right-click on it and select**Update Driver Software…**
   
  Following screen shot is for your reference.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582abcf63195c.png)
   
  4\. Select**Search automatically for updated driver software** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582abd1f2b9b3.png)
   
  Then Windows will install a new driver for the device automatically. Sometimes Windows may fail to provide new drivers. If this way doesn’t work for you, you can use Driver Easy to update the driver.  
@@ -63,17 +48,10 @@ Follow these steps:
 
  1\. Click**Scan Now** button. Then Driver Easy will detect all problem drivers in your computer and find new drivers for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd985b66201.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd986330ec0.jpg)
 
  Moreover, you can enjoy free tech support guarantee. Just [contact our expert tech support](https://tools.techidaily.com/drivereasy/download/) for further assistance regarding any driver problem. And you will have 30-day money back guarantee. Please feel free to ask for a full refund if you are not satisfied with our product.
@@ -152,3 +130,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 <li><a href="https://driver-install.techidaily.com/win11-tips-seamless-bluetooth-driver-installation/"><u>Win11 Tips: Seamless Bluetooth Driver Installation</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-7-optimized-support-lenovo-ideapad-y470/"><u>Windows 7 Optimized Support: Lenovo IdeaPad Y470</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

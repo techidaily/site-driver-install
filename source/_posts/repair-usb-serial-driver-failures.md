@@ -1,7 +1,7 @@
 ---
 title: Repair USB-Serial Driver Failures
-date: 2024-08-08T06:38:27.305Z
-updated: 2024-08-09T06:38:27.305Z
+date: 2024-09-04T16:59:05.034Z
+updated: 2024-09-05T16:59:05.034Z
 tags:
   - win11
   - win10
@@ -30,32 +30,20 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
  2\. Locate the driver for Windows and click the**setup executable** to download the executable file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-94.png)
 
 **Note** : If you click on the version name, you’ll get driver with .inf file which requires you to install the driver step by step through [Device Manager](https://tools.techidaily.com/drivereasy/download/) . We don’t recommend you download this file unless you can’t use the executable file to install the driver successfully.  
 
  3.**Double-click the downloaded file** then**double-click on the Setup file** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-98.png)
 
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-96.png)
 
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 2: Update the FTDI USB to serial driver manually
 
  If you don’t have the time or patience to manually download and install the FTDI USB to serial driver, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -68,18 +56,12 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -152,3 +134,10 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 <li><a href="https://driver-install.techidaily.com/wins-newest-version-updating-amd-drivers-and-compatibility/"><u>Win's Newest Version - Updating AMD Drivers and Compatibility</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-7-airsync-setup-instantly/"><u>Windows 7 AirSync Setup Instantly</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

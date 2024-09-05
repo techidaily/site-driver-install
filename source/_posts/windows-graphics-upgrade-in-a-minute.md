@@ -1,7 +1,7 @@
 ---
 title: Windows Graphics Upgrade in a Minute!
-date: 2024-08-08T06:38:33.482Z
-updated: 2024-08-09T06:38:33.482Z
+date: 2024-09-04T16:59:04.939Z
+updated: 2024-09-05T16:59:04.939Z
 tags:
   - win11
   - win10
@@ -30,23 +30,14 @@ Follow these steps:
 
  2\. Type **devmgmt.msc** in the run box and click the**OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![device manager windows 10](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)
 
  3\. Expand the category “Display adapters”. Right-click on the Graphics card name and select**Update Driver Software…**  on the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5822c157389db.jpg)
 
  4\. Select **Search automatically for updated driver software** . Then Windows will automatically install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5822c693d3206.png)
 
  If Windows fails to provide the new Graphics driver for you, you can use Driver Easy to help you.
@@ -61,16 +52,10 @@ Follow these steps:
 
  1\. Click the**Scan Now** button. Then Driver Easy will scan your computer within 20 seconds and find new drivers for you immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
  2\. Click the**Update All** button. Then all drivers will be downloaded and installed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
   
  With the Driver Easy Professional version, you will enjoy a Free technical support guarantee. You can ask for assistance regarding any driver issue you may encounter. And you will have a 30-day money-back guarantee, just feel free to [contact us](https://tools.techidaily.com/drivereasy/download/) for a full refund if you are not satisfied with the product. Click [here](https://tools.techidaily.com/drivereasy/download/) to download Driver Easy now.
@@ -146,3 +131,10 @@ Follow these steps:
 <li><a href="https://driver-install.techidaily.com/windows-performance-boost-aoc-update-1659fwv/"><u>Windows Performance Boost: AOC Update 1659FWV</u></a></li>
 <li><a href="https://driver-install.techidaily.com/winxps-wan-connection-woes-now-a-thing-of-the-past/"><u>WinXP's WAN Connection Woes, Now a Thing of the Past</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

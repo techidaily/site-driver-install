@@ -1,7 +1,7 @@
 ---
 title: Refresh Graphics Drivers in Win11/7
-date: 2024-08-08T06:40:10.221Z
-updated: 2024-08-09T06:40:10.221Z
+date: 2024-09-04T16:59:03.538Z
+updated: 2024-09-05T16:59:03.538Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -34,32 +31,20 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  2) Type**devmgmt.msc** and press**Enter** to open the Device Manager window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
 
  The option **Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information about Driver Store, please see [Driver Store in Microsoft](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) . **If you don’t see this option** on the Uninstall confirm dialog box, the driver package may have been removed. In this case, **just click Uninstall to uninstall only the driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2: Install a new graphics driver
 
  There are three methods for you to reinstall the driver. One method is to download and install a new driver from the PC manufacturer or the graphics card manufacturer.
@@ -76,7 +61,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
@@ -92,6 +80,12 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
@@ -100,6 +94,12 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 

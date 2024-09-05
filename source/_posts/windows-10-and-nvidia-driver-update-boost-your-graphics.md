@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 & Nvidia Driver Update: Boost Your Graphics"
-date: 2024-08-08T06:35:29.253Z
-updated: 2024-08-09T06:35:29.253Z
+date: 2024-09-04T16:59:07.642Z
+updated: 2024-09-05T16:59:07.642Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ Follow these steps:
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
@@ -49,9 +46,6 @@ Follow these steps:
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg)
 
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.
@@ -60,9 +54,6 @@ Follow these steps:
 
 Follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  1\. Press **Win+R** (Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fef72359c9c.png) key and R key) at the same time. A Run dialog box will appear.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
@@ -75,9 +66,6 @@ Follow these steps.
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)
 
  **Way 3: Update the Driver Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -86,16 +74,10 @@ Follow these steps.
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -163,3 +145,10 @@ Follow these steps.
 <li><a href="https://driver-install.techidaily.com/upgrade-pc-graphics-efficiency-with-hp-driver/"><u>Upgrade PC Graphics Efficiency with HP Driver</u></a></li>
 <li><a href="https://driver-install.techidaily.com/wins-newest-version-updating-amd-drivers-and-compatibility/"><u>Win's Newest Version - Updating AMD Drivers and Compatibility</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

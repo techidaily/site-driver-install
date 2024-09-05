@@ -1,7 +1,7 @@
 ---
 title: Update Guide for AMD's RX 5700 Drivers
-date: 2024-08-08T06:34:23.522Z
-updated: 2024-08-09T06:34:23.522Z
+date: 2024-09-04T16:59:08.705Z
+updated: 2024-09-05T16:59:08.705Z
 tags:
   - win11
   - win10
@@ -28,38 +28,21 @@ OR
 
  The screenshot below are from Windows 10, but the steps also apply to Windows 7, 8 and 11.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Option 1 – Download and install the driver manually
 
  AMD keeps updating its drivers to prevent graphics card issues and glitches. You need to spend some time searching for the correct driver and installing it on your own. Here are the steps:
 
 1. Go to **[AMD’s support website](https://www.amd.com/en/support)**  .
 2. Select**Graphics** \>**AMD Radeon 5700 Series** \>**AMD Radeon RX 5700 Series** \>**AMD Radeon RX 5700** . Then, click**Submit** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-7.jpg)
 3. Choose your operating system. (For my case, I click Windows 10 – 64-Bit Edition).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-10.jpg)
 4. Click the**Download** button next to the driver you want.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-5.jpg)
 5. Double-click the downloaded file and follow the on-screen instruction to install the driver.
 
  If you feel the steps above are a little complicated, try the automatic method below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Option 2 – Automatically update the AMD 5700 drivers (Recommended)
 
  If you don’t have the time, patience or computer skills to update the AMD 5700 drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,16 +53,10 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click the **Update**  button next to the flagged **AMD RX 5700 driver** to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -183,3 +160,10 @@ OR
 <li><a href="https://driver-install.techidaily.com/windows-compatible-asus-bt400-driver-guide/"><u>Windows Compatible Asus BT400 Driver Guide</u></a></li>
 <li><a href="https://driver-install.techidaily.com/winssd-mastery-samsung-drives-and-windows-compatibility/"><u>WinSSD Mastery: Samsung Drives & Windows Compatibility</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

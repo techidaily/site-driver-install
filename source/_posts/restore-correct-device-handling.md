@@ -1,7 +1,7 @@
 ---
 title: Restore Correct Device Handling
-date: 2024-08-08T06:36:52.317Z
-updated: 2024-08-09T06:36:52.317Z
+date: 2024-09-04T16:59:06.402Z
+updated: 2024-09-05T16:59:06.402Z
 tags:
   - win11
   - win10
@@ -24,28 +24,18 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
  You can download the latest FTDI driver from FTDI official website. Following steps are for your reference how to download and install the driver from FTDI manufacturer. Note the steps will be different if their website is redesigned.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 1: Update the FTDI USB to serial driver manually  
 
  1\. Go to the [FTDI official website](https://www.ftdichip.com/Drivers/VCP.htm) .
 
  2\. Locate the driver for Windows and click the**setup executable** to download the executable file.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-94.png)
 
 **Note** : If you click on the version name, you’ll get driver with .inf file which requires you to install the driver step by step through [Device Manager](https://tools.techidaily.com/drivereasy/download/) . We don’t recommend you download this file unless you can’t use the executable file to install the driver successfully.  
 
  3.**Double-click the downloaded file** then**double-click on the Setup file** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-98.png)
 
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
@@ -54,9 +44,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 2: Update the FTDI USB to serial driver manually
 
  If you don’t have the time or patience to manually download and install the FTDI USB to serial driver, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -69,22 +56,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -176,3 +153,10 @@ No advertising on the website.
 <li><a href="https://driver-install.techidaily.com/win-usb-hub-glitches-now-overcome/"><u>Win-USB Hub Glitches, Now Overcome</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-10-easy-steps-for-mouse-driver-upgrade/"><u>Windows 10: Easy Steps for Mouse Driver Upgrade</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

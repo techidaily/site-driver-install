@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Experience: Optimized Yoga 900S with New Win10 Drivers"
-date: 2024-08-08T06:39:09.255Z
-updated: 2024-08-09T06:39:09.255Z
+date: 2024-09-04T16:59:04.410Z
+updated: 2024-09-05T16:59:04.410Z
 tags:
   - win11
   - win10
@@ -26,23 +26,14 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
   
  2\. Type**devmgmt.msc** in the run box and click**OK** button.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e432e121d.png)
 
  3\. Expand the categories and right-click on the device that you wish to update driver for. Select**Update Driver Software…** on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e4b0e8695.jpg)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install the new driver automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e4d480e00.jpg)
   
  Note It is possible that Windows doesn’t provide the new driver.  
@@ -53,16 +44,10 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
   
  1\. Click**Scan Now** button. Driver Easy will scan your computer in several seconds and provide new drivers instantly.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96c8989cb.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. With this feature, you can leave updating process alone while doing other tasks.  
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96d23c54f.jpg)
 
 * [Lenovo](https://tools.techidaily.com/drivereasy/download/)
@@ -144,3 +129,10 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
 <li><a href="https://howto.techidaily.com/what-to-do-when-realme-11-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme 11 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://driver-install.techidaily.com/win7-guide-streamline-hp-graphics-drives/"><u>Win7 Guide: Streamline HP Graphics Drives</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

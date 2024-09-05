@@ -1,7 +1,7 @@
 ---
 title: Update HP Graphics Driver in Windows 11
-date: 2024-08-08T06:38:48.495Z
-updated: 2024-08-09T06:38:48.495Z
+date: 2024-09-04T16:59:04.726Z
+updated: 2024-09-05T16:59:04.726Z
 tags:
   - win11
   - win10
@@ -30,23 +30,14 @@ Refer steps below:
   
  1\. In driver download page, enter your HP model number and start the search.(Let’s take Envy 15 k110tx for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57ad4424aa19a.png)
   
  2\. In the driver download page, change the system to Windows 10\.
   
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57ad44c51bb2d.jpg)
 
  3\. Under category “Driver-Graphics”, you can find the Graphics driver. Locate and download the right one according to your system version.
   
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57ad46ac400ee.png)
   
  After downloading the driver, you just need to double-click on the downloaded file (.exe) and follow the on-screen instructions to install the driver.
@@ -61,16 +52,10 @@ Driver Easy has Free version and Professional version. Both versions can be used
   
 1\. Click**Scan Now**button. After scanning completes, you will get a list of new drivers.
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58feef8535796.png)
 
  2\. Click**Update All** button. Then All drivers will be downloaded and installed automatically.  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58feefa0e7d29.jpg)
 
 More importantly, you will enjoy free technical support guarantee with Professional version. We offer 30-day money back guarantee. You can get a refund for any reason if you are not satisfied with the product. Click [here](https://tools.techidaily.com/drivereasy/download/), then Driver Easy will be downloaded automatically.
@@ -142,3 +127,10 @@ More importantly, you will enjoy free technical support guarantee with Professio
 <li><a href="https://driver-install.techidaily.com/win-usb-driver-fixes-you-need-now/"><u>Win-USB Driver Fixes You Need Now</u></a></li>
 <li><a href="https://driver-install.techidaily.com/win7-streamlined-updates-to-improve-hp-graphics/"><u>Win7 Streamlined Updates to Improve HP Graphics</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

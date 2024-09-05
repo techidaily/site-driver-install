@@ -1,7 +1,7 @@
 ---
 title: Seamless WIN11/10 Integration Through MTK USB Support
-date: 2024-08-08T06:37:27.471Z
-updated: 2024-08-09T06:37:27.471Z
+date: 2024-09-04T16:59:05.922Z
+updated: 2024-09-05T16:59:05.922Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ There are two methods for you to download and install MediaTek drivers.
 * Option 1 –**[Manually](#m1)** – You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it, and install it step by step.
 * Option 2 –**[Automatically](#m2)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1 Manually
 
 To download and install MediaTek drivers manually, you need to:
@@ -60,9 +57,6 @@ To download and install MediaTek drivers manually, you need to:
 
  1) Click**Settings** and select**Update & Security** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-control-panel-1.jpg)
 
  2) On the left panel, select the**Recovery** tab. Under**Advanced startup** , click**Restart now** .
@@ -83,9 +77,6 @@ To download and install MediaTek drivers manually, you need to:
 
 3) Click the Restart now button.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery-restart.jpg)
 
  4) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
@@ -98,16 +89,10 @@ To download and install MediaTek drivers manually, you need to:
 
  1) Type**device manager** in the search box and select**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/win11-type-device.jpg)
 
  2) In Device Manager,**click on your PC name** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
 
  3) Click**Action** and select**Add legacy hardware** .
@@ -120,9 +105,6 @@ To download and install MediaTek drivers manually, you need to:
 
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard2.jpg)
 
  6) Click**Show All Devices** and then**Next** .
@@ -131,9 +113,6 @@ To download and install MediaTek drivers manually, you need to:
 
  7) Select**Have Disk** and select the .inf file you extracted before.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard4.jpg)
 
  8) Select **MTK\_Driver\_ext > SP\_Drivers\_v2.0 > Android > android\_winusb** inf.
@@ -142,6 +121,12 @@ To download and install MediaTek drivers manually, you need to:
 
 10) Restart your PC and connect your MediaTek device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2 Automatically
 
  To update MTK drivers, it may take a lot of time to search online and install it manually. If you don’t have the time, patience, or computer skills to update the MediaTek driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -158,13 +143,22 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** . )
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/updateall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .

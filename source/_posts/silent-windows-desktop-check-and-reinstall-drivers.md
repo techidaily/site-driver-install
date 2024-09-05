@@ -1,7 +1,7 @@
 ---
 title: Silent Windows Desktop? Check and Reinstall Drivers
-date: 2024-08-08T06:34:26.597Z
-updated: 2024-08-09T06:34:26.597Z
+date: 2024-09-04T16:59:08.652Z
+updated: 2024-09-05T16:59:08.652Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### 1\. Reinstall audio driver manually
 
  You can follow the steps below to reinstall your audio driver manually. First you’ll need to uninstall the audio driver.
@@ -43,23 +40,19 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 2. Type**devmgmt.msc i** n the Run box and click OK to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffffd514aa.png)
 3. Expand the category**Sound,video and game controllers** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffff4272b1.jpg)
 4. **Right-click on the sound device** and click**Uninstall device** (in some cases, this could be just Uninstall). In the below example, the sound device is Realtek High Definition Audio.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0027dd7b67.jpg)
 5. On the Uninstall confirm dialog box, select the**Delete the driver software for this device** option, then click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be003fba7ed5.png)  
  The option**Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information you can visit [Driver Store](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) in Microsoft. If you don’t see this option on the**Uninstall confirm dialog** box, the driver package may have been removed. In this case, just click**Uninstall** to uninstall the driver.
 6. **Restart** your computer. Usually, Windows will install an audio driver automatically when your computer is connected to the internet. (It may not give you the latest drivers — so if you found the issue persists, you can take the following methods to automatically check for driver issues or updates.)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Reinstall audio driver automatically (Recommended)
 
@@ -71,16 +64,22 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer for any outdated or faulty drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the **three dots icon** next to an audio driver and select**Uninstall driver** (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) ). Since replacing the old driver with a newer one may solve the audio issues, you can also choose to update all your drivers with one click to keep your PC drivers up-to-date.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/audio-driver-uninstall-driver-easy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 

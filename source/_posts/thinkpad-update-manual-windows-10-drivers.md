@@ -1,7 +1,7 @@
 ---
 title: "ThinkPad Update Manual: Windows 10 Drivers"
-date: 2024-08-08T06:40:12.862Z
-updated: 2024-08-09T06:40:12.862Z
+date: 2024-09-04T16:59:03.506Z
+updated: 2024-09-05T16:59:03.506Z
 tags:
   - win11
   - win10
@@ -30,16 +30,10 @@ You can go to Lenovo’s official website to check for and download the latest W
   
 2\. Click **Laptops** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578d9d1d472a1.png)
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
   
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e353b836c7f.jpg)
 
  4.**Select Sub-Series** . (Let’s take 11e (Type 20D9, 20DA) Laptop (Thinkpad) for example.)  
@@ -70,16 +64,10 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355190d0976.png)
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551c56595c.png)
   
  **Way 3 (Recommended): Update the Drivers Automatically**
@@ -90,16 +78,10 @@ Follow these steps to install new audio drivers via Device Manager.
   
  1\. Click**Scan Now** button. After a few seconds, you will be given a list of new drivers to update.  
   
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99aab8ab8.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99bde5485.jpg)
 
  With Driver Easy, you can update Lenovo Thinkpad Windows 10 drivers in several minutes.
@@ -194,3 +176,10 @@ Follow these steps to install new audio drivers via Device Manager.
 <li><a href="https://driver-install.techidaily.com/upgrading-to-new-drivers-on-your-msi-bravo-15/"><u>Upgrading to New Drivers on Your MSI Bravo 15</u></a></li>
 <li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-motorola-edge-40-pro-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Motorola Edge 40 Pro</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

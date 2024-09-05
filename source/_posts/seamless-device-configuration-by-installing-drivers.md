@@ -1,7 +1,7 @@
 ---
 title: Seamless Device Configuration by Installing Drivers
-date: 2024-08-08T06:35:22.753Z
-updated: 2024-08-09T06:35:22.753Z
+date: 2024-09-04T16:59:07.724Z
+updated: 2024-09-05T16:59:07.724Z
 tags:
   - win11
   - win10
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
  As you know, a driver is software that a device uses to work with your PC. When your device isn’t working properly, you can check if the driver is installed correctly. A faulty driver could always be the cause. To fix the problem, you need to update the driver. For some devices, Windows can update the driver automatically. For some devices especially external devices, you need to install the updated drivers yourself, then you need to download the driver manually.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Download the driver manually
 
  To download new drivers, go to the PC manufacturer’s website or the device manufacturer’s website. Driver updates are often available in the Support section of their website. If you are using a branded computer, it is recommended that you go to the PC manufacturer’s website to check for the latest driver first, as they may customize the driver. You are required to use the **PC model** and the **operating system** that you are using to download the correct driver. Usually, the PC model can be found on the machine. See [How to Check Your Operating System Version](https://tools.techidaily.com/drivereasy/download/) . If you need to download the driver from device manufacturer, then you are required to know the device model.
@@ -34,28 +31,16 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
  For a zip file, you need to unzip it and find the executable file in the archive. If you cannot find an executable file, you need to install the driver step by step using the “**.inf** ” file. The following steps are for your reference how to install the driver in this way.
 
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Then type**devmgmt.msc** and hit Enter.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 2. Right-click on the device that needs a driver update and select **Update driver** . (Here we take a video card as an example.)  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Update-driver.jpg)
 3. Select **Browse my computer for drivers** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse-my-computer-for-drivers-Graphics-card.jpg)
 4. Select **Let me pick from a list of device drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Let-me-pick-from-a-list-of-available-drivers-on-my-computer-Graphics-driver.jpg)
 5. Click the **Have Disk…** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Have-disk.jpg)
 6. Click the **Browse…** button. Navigate to the folder where you saved the downloaded driver file and browse the .inf driver file.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse.jpg)
 7. Click the**OK** button and then **Next** button to finish the installation. You might be asked for an admin password or to confirm your choice.
 
@@ -71,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
@@ -152,3 +134,10 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 <li><a href="https://driver-install.techidaily.com/wacom-digital-pen-driver-safe-and-free-windows-edition/"><u>Wacom Digital Pen Driver - Safe & FREE Windows Edition</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-11-canon-printer-software-installation-guide/"><u>Windows 11 Canon Printer Software Installation Guide</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

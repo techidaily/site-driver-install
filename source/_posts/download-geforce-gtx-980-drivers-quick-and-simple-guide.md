@@ -1,7 +1,7 @@
 ---
 title: "Download GeForce GTX 980 Drivers: Quick & Simple Guide"
-date: 2024-08-27T09:05:20.218Z
-updated: 2024-08-28T09:05:20.218Z
+date: 2024-09-04T16:59:01.785Z
+updated: 2024-09-05T16:59:01.785Z
 tags:
   - win11
   - win10
@@ -147,5 +147,8 @@ Follow these steps:
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

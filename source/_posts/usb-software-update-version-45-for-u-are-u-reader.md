@@ -1,7 +1,7 @@
 ---
 title: "USB Software Update: Version 4.5 for U-Are-U Reader"
-date: 2024-08-08T06:38:34.496Z
-updated: 2024-08-09T06:38:34.496Z
+date: 2024-09-04T16:59:04.927Z
+updated: 2024-09-05T16:59:04.927Z
 tags:
   - win11
   - win10
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 
  In this article, we’re showing you 2 easy ways to get the latest U.are.U. 4500 fingerprint driver.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to update U. are. U 4500 fingerprint reader driver
 
 **[Option 1 – Manually](#o2)** – You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it and install it step by step.
@@ -33,50 +30,26 @@ OR
 
 **[Option 2 – Automatically (Recommended)](#o1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
 #### Step 1: Download the driver from the official website
 
  1) If you’d like to update your U.are.U 4500 driver manually, you can download the correct and latest driver from the official website of [Digital Persona](https://devportal.digitalpersona.com/portal.php) . Log in and download the exact driver according to your Windows version (such as Windows 10 Pro, 64-bit).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-27_15-45-07.png)
 
  2) Or you can obtain the driver from your PC vendor. You’ll need to visit the official website of Lenovo, Dell, or any other vendors, and locate its**Support** section. Then select**Drivers & Software** or**Drivers & Download** to enter the download page of drivers. Search for**U.are.U 4500 fingerprint reader driver** and download the exact driver according to your Windows variant.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
 
 #### Step 2: Install the driver manually
 
  1) On your keyboard, press the **Windows logo key + R** at the same time, type **devmgmt.msc** , and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device-manager-1.png)
 
  2) Double click**Biometric devices** , then right-click**U.are.U 4500 Fingerprint Reader,** and select **Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
 
  3) Click**Browse my computer for driver software** .
@@ -91,6 +64,18 @@ See if your fingerprint reader works properly again.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update the fingerprint driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -105,12 +90,30 @@ See if your fingerprint reader works properly again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
 
  Or click the**Update All** button to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get full support and 30 day money-back guarantee. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Restart your PC after finishing installing.
 
  Now you’ve already installed the latest fingerprint driver, see if you can use your fingerprint reader again.

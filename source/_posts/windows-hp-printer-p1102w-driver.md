@@ -1,7 +1,7 @@
 ---
 title: Windows HP Printer P1102w Driver
-date: 2024-08-15T14:43:34.252Z
-updated: 2024-08-16T14:43:34.252Z
+date: 2024-09-04T16:59:02.938Z
+updated: 2024-09-05T16:59:02.938Z
 tags:
   - win11
   - win10
@@ -55,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
   
 **NOTE** : You might need to refer to the instruction documentation if you have an problems during the driver installation.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Option 2: Download & Update HP LaserJet Pro P1102w printer driver automatically
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -75,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd7369cc2f3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [HP](https://tools.techidaily.com/drivereasy/download/)
 * [HP printer](https://tools.techidaily.com/drivereasy/download/)
@@ -145,3 +139,16 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 <li><a href="https://driver-install.techidaily.com/usb-to-ethernet-bridge-seamless-integration-guide/"><u>USB-to-Ethernet Bridge: Seamless Integration Guide</u></a></li>
 <li><a href="https://driver-install.techidaily.com/win11-compatible-conexant-hd-audio-drivers-guide/"><u>Win11 Compatible Conexant HD Audio Drivers Guide</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: RH5770Windows11GraphicsDriver
-date: 2024-08-08T06:38:25.263Z
-updated: 2024-08-09T06:38:25.263Z
+date: 2024-09-04T16:59:05.068Z
+updated: 2024-09-05T16:59:05.068Z
 tags:
   - win11
   - win10
@@ -30,16 +30,10 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
   
  3\. In Device Manager, expand category “Display adapters” and right-click on AMD graphics device. Select**Update Driver Software…** on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a5367b22f.jpg)
   
  4\. Select**Search automatically for updated driver software** . Then Windows will search and install the latest driver automatically. Note Windows may fail to provide the latest driver.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a57107fc1.jpg)
   
 **Way 2: Download and Install the Latest Driver from AMD**
@@ -50,16 +44,10 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
   
  2\. Scroll down and locate the right series in right page. ATI Radeon HD 5770 belongs to HD 5000 series, so locate the series as below, then click on Windows 10 32-bit or 64-bit (see [How to Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) )  
   
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a73e47916.jpg)
   
  3\. Click**DOWNLOAD** button to download the driver.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a866968be.jpg)
   
  **Way 3: Update Drivers Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -68,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
   
 1\. Click **Scan Now**  button. Then Driver Easy will scan your computer within several seconds and provide new drivers instantly.
   
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd8f490cd6c.png)
   
 2\. Click **Update**  **All** button. Then all new drivers including the ATI Radeon HD 5770 driver will be downloaded and installed automatically.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd900b2662f.jpg)
 
  With [Driver Easy Professional version](https://tools.techidaily.com/drivereasy/download/) , you can expect all drivers will be updated in several minutes. We offer 30-day trial period. If you are not completely satisfied with our product, you can get a full refund for any reason.
@@ -171,3 +153,10 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
 <li><a href="https://driver-install.techidaily.com/wacom-bamboo-instant-driver-download/"><u>Wacom Bamboo: Instant Driver Download</u></a></li>
 <li><a href="https://screen-recording.techidaily.com/webcam-integration-for-flawless-gameplay-logs-for-2024/"><u>Webcam Integration for Flawless Gameplay Logs for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving GeForce Experience Driver Downloads That Won't Start"
-date: 2024-08-27T09:05:49.580Z
-updated: 2024-08-28T09:05:49.580Z
+date: 2024-09-04T16:59:02.171Z
+updated: 2024-09-05T16:59:02.171Z
 tags:
   - win11
   - win10
@@ -55,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  2\. Close unnecessary programs
 
  GPU monitoring programs such as EVGA Precision X and MSI Afterburner could affect the driver download and installation process in GeForce Experience and therefore cause problems like_**Driver download failed**_ . So you can try to close such monitoring programs if you have them running in the background. To do so:
@@ -65,17 +62,18 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 1. On your keyboard, press the**Windows** key and**X** at the same time to select**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-42.png)
 2. Select the GPU monitoring programs you have running in the background (like the ones for tuning, overclocking, fan control, etc.) and click**End Task** to close them one by one.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 
  Then run GeForce Experience and try the driver download again and see if it works. If the problem still remains, please move on to the next fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  3\. Try a clean NVIDIA driver installation
 
  If the above two methods don’t help to fix the Driver download failed issue in GeForce Experience, it’s possible that some older driver files are causing stability and performance issues with the app. In that case, you should try to do a clean reinstallation of the Nvidia display driver. To do so, DDU (Display Driver Uninstaller) is usually recommended, as it can do a pretty good job removing all the older or faulty display driver files on your computer.
@@ -89,10 +87,19 @@ To do a clean reinstallation of the display card driver with DDU:
 4. When in Safe Mode, go to the folder where you unzip the DDU execution file. Double-click to run**Display Driver Uninstaller** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-2.png)
 5. Select **GPU** and **your GPU manufacturer** on the right side. Then click **Clean and restart** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-1.png)
 6. Your computer should restart when the old driver files for your graphics card are cleaned.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 7. Double-click the setup file for the Nvidia display card driver you’ve downloaded from step 1 to run the driver installation.
 8. Restart your computer afterward.
@@ -113,27 +120,36 @@ To add GeForce Experience to your Windows firewall exception list:
 2. Type **control firewall.cpl**  and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-44.png)
 3. From the left navigation pane, click **Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-46.png)
 4. Scroll down and check if **GeForce Experience** is on the list.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 5. If not, click the **Change settings** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-47.png)
 6. Click **Allow another app…** .  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click **Browse…** and go to the installation folder for**GeForce Experience** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     
  If you don’t know what the installation folder is for your GeForce Experience, simply right-click on its shortcut and select **Open file location** .
 8. When it’s located, click **Add** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-106.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Try the driver download in GeForece Experience again to see how it works.
 

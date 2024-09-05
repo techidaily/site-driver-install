@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Tech Life: Easy Driver Installation Guide"
-date: 2024-08-08T06:36:02.799Z
-updated: 2024-08-09T06:36:02.799Z
+date: 2024-09-04T16:59:07.119Z
+updated: 2024-09-05T16:59:07.119Z
 tags:
   - win11
   - win10
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
 
  To download new drivers, go to the PC manufacturer’s website or the device manufacturer’s website. Driver updates are often available in the Support section of their website. If you are using a branded computer, it is recommended that you go to the PC manufacturer’s website to check for the latest driver first, as they may customize the driver. You are required to use the **PC model** and the **operating system** that you are using to download the correct driver. Usually, the PC model can be found on the machine. See [How to Check Your Operating System Version](https://tools.techidaily.com/drivereasy/download/) . If you need to download the driver from device manufacturer, then you are required to know the device model.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to install the driver
 
  The downloaded driver file will be an executable file (The file name ends in “.exe”.) or a zip file (The file name ends in “.zip”.).
@@ -34,28 +31,16 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
  For a zip file, you need to unzip it and find the executable file in the archive. If you cannot find an executable file, you need to install the driver step by step using the “**.inf** ” file. The following steps are for your reference how to install the driver in this way.
 
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Then type**devmgmt.msc** and hit Enter.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 2. Right-click on the device that needs a driver update and select **Update driver** . (Here we take a video card as an example.)  
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Update-driver.jpg)
 3. Select **Browse my computer for drivers** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse-my-computer-for-drivers-Graphics-card.jpg)
 4. Select **Let me pick from a list of device drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Let-me-pick-from-a-list-of-available-drivers-on-my-computer-Graphics-driver.jpg)
 5. Click the **Have Disk…** button.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Have-disk.jpg)
 6. Click the **Browse…** button. Navigate to the folder where you saved the downloaded driver file and browse the .inf driver file.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse.jpg)
 7. Click the**OK** button and then **Next** button to finish the installation. You might be asked for an admin password or to confirm your choice.
 
@@ -67,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
@@ -145,3 +127,10 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
 <li><a href="https://win-amazing.techidaily.com/windows-7-webcam-driver-download-quick-simple-and-comprehensive-tutorials/"><u>Windows 7 Webcam Driver Download - Quick, Simple & Comprehensive Tutorials</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-driver-update-revamping-your-mouse-controls/"><u>Windows Driver Update: Revamping Your Mouse Controls</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

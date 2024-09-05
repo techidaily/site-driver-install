@@ -1,7 +1,7 @@
 ---
 title: Update Quickly for Nvidia GTX 760
-date: 2024-08-08T06:39:40.787Z
-updated: 2024-08-09T06:39:40.787Z
+date: 2024-09-04T16:59:03.966Z
+updated: 2024-09-05T16:59:03.966Z
 tags:
   - win11
   - win10
@@ -28,30 +28,18 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
  3) Go to the **Drivers** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ae9ba668a3e.jpg)
   
  4) Under Manual Driver Search section, select the right Series (**Geforce700 Series**), product name (**Geforce GTX 760**) and the operating system version according to the system running on your PC. After that, click**START SEARCH** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ae9c1c594d0.png)
   
  5) Then you’ll see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ae9c3e2117b.jpg)
   
  6) Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ae9c6236d24.jpg)
 
  7) Once download completes, double-click the downloaded file and follow the on-screen instructions to install the driver.  
@@ -66,27 +54,12 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b179d3c91ec2.jpg)
 
  3) Click the **Update**   button next to a flagged GTX 760 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)   – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b179d5205710.jpg)
 
 **TIP** : If you have any questions while using Driver Easy, please feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) for further assistance. Our support team would be happy to help you resolve this error. Please attach the URL of this article so we could assist you better.
@@ -151,3 +124,10 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 <li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y77t-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y77t Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-10-upgrade-new-gtx-970-graphics-drivers/"><u>Windows 10 Upgrade - New GTX 970 Graphics Drivers</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

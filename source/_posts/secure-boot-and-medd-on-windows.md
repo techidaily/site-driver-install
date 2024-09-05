@@ -1,7 +1,7 @@
 ---
 title: Secure Boot & MEDD on Windows
-date: 2024-08-08T06:37:08.366Z
-updated: 2024-08-09T06:37:08.366Z
+date: 2024-09-04T16:59:06.185Z
+updated: 2024-09-05T16:59:06.185Z
 tags:
   - win11
   - win10
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 ## Secure Boot & MEDD on Windows
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7a4f7da7c0.jpg)
 
  Use [Driver Easy Free](https://tools.techidaily.com/drivereasy/download/) to download and install Intel(R) Management Engine Interface driver immediately!
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 **[Intel Management Engine Driver for WIndows 10, 8.1, 7 for Intel NUC](https://downloadmirror.intel.com/26135/eng/ME%5FConsumer%5FWin8.1%5F10%5F11.0.6.1194.zip)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Step 2: Install the driver accordingly**
 
  1) You will be downloading a .zip file to your computer. Un-zip it first.  
@@ -53,28 +47,14 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
   
  2) If you want to install the drivers and the**ME Security Status application and control panel** , choose to run the setup file in**ME\_SW\_MSI** folder.  
   
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cba0066eb.png)
   
  3) If you only want to install the drivers, you can choose the setup file in folder**MEI-Only Installer MSI** .
   
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ccff509cb.png)
   
  4) Folder**WINDOWSDriverPackages** contains the .inf files for IT professionals. Check it if you are interested.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cd9324cad.png)
 
 **PRO TIP:**
@@ -105,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
   
  2) If the Intel Management Engine driver is not successfully installed, you may see an error notification in**Device Manager > PCI Simple Communications Controller** .
   
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cecf378b7.jpg)
   
  3) If you are seeing a yellow exclamation mark next to**Intel Management Engine** in**Device Manager** , here is a post that you might find helpful:
@@ -171,3 +148,16 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 <li><a href="https://driver-install.techidaily.com/streamlined-method-windows-1011-bluetooth-drivers-installed-quickly/"><u>Streamlined Method: Windows 10/11 Bluetooth Drivers, Installed Quickly</u></a></li>
 <li><a href="https://on-screen-recording.techidaily.com/top-windows-simulations-for-playstation-3-games-5/"><u>Top Windows Simulations for PlayStation 3 Games (5)</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

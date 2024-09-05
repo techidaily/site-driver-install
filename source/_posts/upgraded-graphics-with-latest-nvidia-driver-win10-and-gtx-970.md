@@ -1,7 +1,7 @@
 ---
 title: Upgraded Graphics with Latest Nvidia Driver - Win10 & GTX 970
-date: 2024-08-08T06:37:41.911Z
-updated: 2024-08-09T06:37:41.911Z
+date: 2024-09-04T16:59:05.700Z
+updated: 2024-09-05T16:59:05.700Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ Follow these steps:
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
@@ -52,10 +46,6 @@ Follow these steps:
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg)
 
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.
@@ -68,9 +58,6 @@ Follow these steps.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
@@ -79,10 +66,6 @@ Follow these steps.
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)
 
  **Way 3: Update the Driver Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -91,9 +74,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
@@ -194,3 +174,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 <li><a href="https://driver-install.techidaily.com/1720063375396-update-lenovo-audio-drivers-in-windows-10-easily/"><u>Update Lenovo Audio Drivers in Windows 10. Easily!</u></a></li>
 <li><a href="https://driver-install.techidaily.com/1720063001373-wireless-proxy-installer-w7-edition/"><u>Wireless Proxy Installer, W7 Edition!</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

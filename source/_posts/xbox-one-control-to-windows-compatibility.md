@@ -1,7 +1,7 @@
 ---
 title: Xbox One Control to Windows Compatibility
-date: 2024-08-08T06:38:50.510Z
-updated: 2024-08-09T06:38:50.510Z
+date: 2024-09-04T16:59:04.693Z
+updated: 2024-09-05T16:59:04.693Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
  **Way 1:[Update the Driver via Device Manager](#way1)**
  **Way 2:[Update the Driver Using Driver Easy](#way2)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 1: Update the Driver via Device Manager
 
  If Windows doesn’t install the driver automatically, you can update the driver manually via Device Manager. Follow these steps:
@@ -40,23 +37,14 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
 6) Check to see if you can use the Xbox One Controller properly.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 2: Update the Driver Using Driver Easy
 
  If you don’t have the time, patience or computer skills to update the driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -69,18 +57,12 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
 
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
@@ -166,3 +148,10 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 <li><a href="https://driver-install.techidaily.com/windows-11-audiophile-experience-integrate-conexant-hd-drivers/"><u>Windows 11 Audiophile Experience: Integrate Conexant HD Drivers</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-mf4770n-firmware-upgrade-guide/"><u>Windows MF4770n Firmware Upgrade Guide</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

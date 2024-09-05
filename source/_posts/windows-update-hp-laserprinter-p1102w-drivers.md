@@ -1,7 +1,7 @@
 ---
 title: "Windows Update: HP LaserPrinter P1102w Drivers"
-date: 2024-08-08T06:34:52.489Z
-updated: 2024-08-09T06:34:52.489Z
+date: 2024-09-04T16:59:08.200Z
+updated: 2024-09-05T16:59:08.200Z
 tags:
   - win11
   - win10
@@ -23,19 +23,12 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 1. [Download HP LaserJet Pro P1102w printer driver from HP Support](#option1)
 2. [Download & Update HP LaserJet Pro P1102w printer driver automatically](#option2)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Option 1: Download HP LaserJet Pro P1102w printer driver from HP Support
 
 **NOTE** : The printer driver for LaserJet Pro P1102w is also adaptable to P1560 and P1600 series of HP LaserJet printers.
   
  1) First, type**HP Printer Support** into the search box of the preferred searching engine. Then go to the support webpage of HP Printers.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96658ae2b.png)
 
  2) You can either type the model of your printer in the search box here, or use the navigation here so it can lead you to the correct web page for your printer driver. We go with the later option here. Choose**Laser Jet Printers** .
@@ -44,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
   
  3) Then choose**LaserJet P1000** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98b14cda6.jpg)
   
  4) You should be able to see the Pro P1102 printer listed here. Click to see more details.  
@@ -59,18 +49,12 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
   
  6) Click the**Change** button to choose your operating system accordingly. Then hit the**Download** button to get the printer driver that you need downloaded.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd9a3f80551.jpg)
   
  7) When the download finishes, run the setup file as instructed to update your printer driver.
   
 **NOTE** : You might need to refer to the instruction documentation if you have an problems during the driver installation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Option 2: Download & Update HP LaserJet Pro P1102w printer driver automatically
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -87,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd7369cc2f3.jpg)
 
 * [HP](https://tools.techidaily.com/drivereasy/download/)
@@ -169,3 +150,10 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 <li><a href="https://win-able.techidaily.com/unlock-the-secrets-understanding-the-release-roadblocks-for-guilty-gear-strive/"><u>Unlock the Secrets: Understanding the Release Roadblocks for Guilty Gear Strive</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-can-you-enhance-your-drone-footage-with-cinematic-drone-luts-this-article-discusses-top-drone-luts-recommendations-to-simplify-video-editing-for-202/"><u>Updated Can You Enhance Your Drone Footage with Cinematic Drone LUTs? This Article Discusses Top Drone LUTs Recommendations to Simplify Video Editing for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

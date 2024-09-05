@@ -1,7 +1,7 @@
 ---
 title: "Restoring GPU Efficiency: The Latest DDU Guide"
-date: 2024-08-08T06:38:06.380Z
-updated: 2024-08-09T06:38:06.380Z
+date: 2024-09-04T16:59:05.361Z
+updated: 2024-09-05T16:59:05.362Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ Here’s how to do a clean reinstallation of your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-1.jpg)
 2. Once downloaded, unzip the file to your Desktop. Then open the folder and double click**DDU.exe** to extract the files.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-2.jpg)
 
  Next you need to boot your PC into Safe Mode. And here’s how to do that on both Windows 10 and 11.
@@ -55,9 +52,6 @@ Here’s how to do a clean reinstallation of your graphics driver:
 2. Select**System** .
 3. Then click**Recovery** .
 4. Under **Recovery options** , next to **Advanced startup** , select **Restart now** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/windows-11-advanced-restart-now.jpg)
 
  Then you will see a**Choose an option** screen.
@@ -67,27 +61,15 @@ Here’s how to do a clean reinstallation of your graphics driver:
 2. Click**Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
 3. Click **Startup Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Startup-settings.jpg)
 4. Click **Restart** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/restart-1.jpg)
 5. You will see a list of different startup options. On your keyboard, press the**number 4 key** to enter**Safe Mode without internet access** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/safe-mode-startup-settings.jpg)
 
  Once you’re in Safe Mode, follow these instructions to reinstall with DDU.
 
 1. log in as you normally would and open DDU.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-3.jpg)
 2. In the pop-up**Option** window, choose your preferences. If you’re not sure, simply close the window  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-option.jpg)
@@ -96,9 +78,6 @@ Here’s how to do a clean reinstallation of your graphics driver:
 
 So you’ve reinstalled the graphics driver, what next?
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## How to prevent graphics issues
 
  After reinstalling drivers with DDU, Windows will download and install the generic graphics driver automatically.
@@ -111,15 +90,9 @@ So you’ve reinstalled the graphics driver, what next?
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -200,3 +173,10 @@ So you’ve reinstalled the graphics driver, what next?
 <li><a href="https://driver-install.techidaily.com/update-hp-laserjet-printer-drivers-for-windows-11/"><u>Update HP Laserjet Printer Drivers for Windows 11</u></a></li>
 <li><a href="https://driver-install.techidaily.com/upgrading-w10s-sound-drivers-nvidias-path/"><u>Upgrading W10's Sound Drivers: NVIDIA's Path</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

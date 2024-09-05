@@ -1,7 +1,7 @@
 ---
 title: Windows Compatible HP P1102w Drivers
-date: 2024-08-08T06:39:05.134Z
-updated: 2024-08-09T06:39:05.134Z
+date: 2024-09-04T16:59:04.476Z
+updated: 2024-09-05T16:59:04.476Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 1. [Download HP LaserJet Pro P1102w printer driver from HP Support](#option1)
 2. [Download & Update HP LaserJet Pro P1102w printer driver automatically](#option2)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Option 1: Download HP LaserJet Pro P1102w printer driver from HP Support
 
 **NOTE** : The printer driver for LaserJet Pro P1102w is also adaptable to P1560 and P1600 series of HP LaserJet printers.
@@ -36,46 +33,22 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
  2) You can either type the model of your printer in the search box here, or use the navigation here so it can lead you to the correct web page for your printer driver. We go with the later option here. Choose**Laser Jet Printers** .
   
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd989eac56d.jpg)
   
  3) Then choose**LaserJet P1000** .
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98b14cda6.jpg)
   
  4) You should be able to see the Pro P1102 printer listed here. Click to see more details.  
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98d05d78f.jpg)
   
  5) Choose**Software and Drivers** on the left side, then click**Go** to go to the driver page.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98eed7738.png)
   
  6) Click the**Change** button to choose your operating system accordingly. Then hit the**Download** button to get the printer driver that you need downloaded.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd9a3f80551.jpg)
   
  7) When the download finishes, run the setup file as instructed to update your printer driver.
@@ -168,3 +141,10 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 <li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-windows-10s-video-creation-capabilities/"><u>The Ultimate Guide to Windows 10'S Video Creation Capabilities</u></a></li>
 <li><a href="https://driver-install.techidaily.com/update-hp-omen-15-ensure-the-latest-hardware-interaction/"><u>Update HP Omen 15: Ensure the Latest Hardware Interaction</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

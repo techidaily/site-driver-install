@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Mice Controls: A Clear Windows Instructional Guide"
-date: 2024-08-08T06:35:57.761Z
-updated: 2024-08-09T06:35:57.761Z
+date: 2024-09-04T16:59:07.202Z
+updated: 2024-09-05T16:59:07.202Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 1. **[Update Microsoft mosue driver manually](#M1)**
 2. **[Update Microsoft mouse driver automatically (Recommended)](#M2)**
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Update Microsoft mouse driver manually
 
  The whole manual mouse driver updating process needs time, patience and certain levels of computer skills. If you’re not comfortable playing with device drivers, or worrying about any risks in the process, **[jump to Method 2](#M2)**  to do it automatically.
@@ -40,20 +37,10 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 
  2) Double-click on**Mice and other pointing devices** , right-click on**the mouse device** your computer is using and click**Update driver** . (Here**HID-compliant mouse** is used as the example mouse, same as below).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51ac3e5fae8.jpg)
 
  3) Select**Search** **automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51ac8001d44.jpg)
 
 4) Wait a bit and see if Windows provides you with a driver available:
@@ -61,9 +48,6 @@ No advertising on the website.
 * If**yes** , then follow the on-screen instructions to update the driver and skip the rest of the steps. Then restart your computer for the changes to take effect.
 * If**no** , and instead you got the message **The best drivers for your device already installed** , then you might have to continue with the following steps to get the latest driver for your mouse. Since the message isn’t always true and Windows can fail to do its job.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51ae91b9fc2.jpg)
 
 5) Go to [Microsoft Downloads for Accessories](https://www.microsoft.com/accessories/en-us/downloads) .
@@ -75,7 +59,16 @@ No advertising on the website.
 8) Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2: Update Microsoft mouse driver automatically (Recommended)
 
@@ -91,13 +84,22 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer to finish the update.

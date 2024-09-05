@@ -1,7 +1,7 @@
 ---
 title: "Set up Printer: Canon Inkjet, OS Versions"
-date: 2024-08-08T06:39:14.425Z
-updated: 2024-08-09T06:39:14.425Z
+date: 2024-09-04T16:59:04.337Z
+updated: 2024-09-05T16:59:04.337Z
 tags:
   - win11
   - win10
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
 ## Set up Printer: Canon Inkjet, OS Versions
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-5.jpg)
 
  Get a new Canon PIXMA MX870? In order to connect it successfully with your Windows operating system, you need to install its correct driver on your computer. Throughout the Internet, you can find many ways to download the driver. However, most of them are not reliable as there might be some unsafe attachments downloaded together with the driver file. Here in this article, we will be introducing you two easiest and trustworthy ways to **install Canon MX870 driver** on Windows. Please take a few minutes to go on with the steps below to choose the way you prefer.
@@ -26,25 +23,16 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 * [**Way 1. Download the latest Canon MX870 driver from Canon website**](#Way1)
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
 
  1) Head to [Canon Driver download center](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers) .
 
  2) Enter **MX870**  in the search box and click **PIXMA MX870** from the matched result. Go on to click **Go** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
  4) Click **DOWNLOAD** .
@@ -53,18 +41,12 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
 
  As you see, download driver from website needs a lot clicks. And you should find the correct driver by yourself. It’s a 100% correct way to install the proper driver though, it’s time-consuming.
 
  If you are not a tech savvy, or you just want to save much time, way 2 is your choice — Using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to download the latest drivers automatically. Driver Easy is a 100% safe and extremely helpful driver tool. It can help you solve all the drivers problem, including missing, outdated and incompatible drivers. And it supports most Windows versions, from Vista to the newly Windows 10\. Its [Free version](https://tools.techidaily.com/drivereasy/download/) will find the correct drivers for you to install one by one. But if upgrade to [Pro version](https://tools.techidaily.com/drivereasy/download/) , it will update all your drivers with just one click — **Update All** . Of cause including your Canon MX870 driver.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
@@ -130,3 +112,10 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 <li><a href="https://driver-install.techidaily.com/windows-10-driver-upgrade-for-enhanced-lenovo/"><u>Windows 10 Driver Upgrade for Enhanced Lenovo</u></a></li>
 <li><a href="https://tech-haven.techidaily.com/zerogpt-myths-debunked-why-you-should-doubt-these-common-ai-detectors-with-4-proof-points/"><u>ZeroGPT Myths Debunked: Why You Should Doubt These Common AI Detectors (With 4 Proof Points)</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

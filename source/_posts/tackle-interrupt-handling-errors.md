@@ -1,7 +1,7 @@
 ---
 title: Tackle Interrupt Handling Errors
-date: 2024-08-08T06:39:03.022Z
-updated: 2024-08-09T06:39:03.022Z
+date: 2024-09-04T16:59:04.505Z
+updated: 2024-09-05T16:59:04.505Z
 tags:
   - win11
   - win10
@@ -24,18 +24,12 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
  You can download the latest FTDI driver from FTDI official website. Following steps are for your reference how to download and install the driver from FTDI manufacturer. Note the steps will be different if their website is redesigned.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Way 1: Update the FTDI USB to serial driver manually  
 
  1\. Go to the [FTDI official website](https://www.ftdichip.com/Drivers/VCP.htm) .
 
  2\. Locate the driver for Windows and click the**setup executable** to download the executable file.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-94.png)
 
 **Note** : If you click on the version name, you’ll get driver with .inf file which requires you to install the driver step by step through [Device Manager](https://tools.techidaily.com/drivereasy/download/) . We don’t recommend you download this file unless you can’t use the executable file to install the driver successfully.  
@@ -46,16 +40,10 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-96.png)
 
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 2: Update the FTDI USB to serial driver manually
 
  If you don’t have the time or patience to manually download and install the FTDI USB to serial driver, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -68,18 +56,12 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -154,3 +136,10 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 <li><a href="https://driver-install.techidaily.com/win8vista-to-modern-systems-overcoming-startech-issues/"><u>Win8/Vista to Modern Systems: Overcoming StarTech Issues</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-printer-software-installation-kit-epson-model-2650/"><u>Windows Printer Software Installation Kit - Epson Model 2650</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-08-15T14:43:43.934Z
-updated: 2024-08-16T14:43:43.934Z
+date: 2024-09-04T16:59:02.801Z
+updated: 2024-09-05T16:59:02.801Z
 tags:
   - desktop
 categories:
@@ -94,5 +94,8 @@ Today we have one great deal that turns into two when you take up a bundle offer
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

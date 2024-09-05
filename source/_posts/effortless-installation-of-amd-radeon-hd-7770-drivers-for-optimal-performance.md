@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of AMD Radeon HD 7770 Drivers for Optimal Performance
-date: 2024-08-27T09:05:23.686Z
-updated: 2024-08-28T09:05:23.686Z
+date: 2024-09-04T16:59:01.824Z
+updated: 2024-09-05T16:59:01.824Z
 tags:
   - win11
   - win10
@@ -140,5 +140,8 @@ To download the latest Radeon HD 7770 driver from AMD, visit [here](http://suppo
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
