@@ -1,7 +1,7 @@
 ---
 title: Initial Delivery of AceMagic Tailored Minicomputers Found to Have Factory-Integrated Spying Tools, Reports Company
-date: 2024-09-04T16:59:02.721Z
-updated: 2024-09-05T16:59:02.721Z
+date: 2024-09-09T05:10:51.791Z
+updated: 2024-09-10T05:10:51.791Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/dRHyNaamRCQLExiuR9YCBH-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhancing Old PCs: The Persistent Trend of Modifying AGP Slots for New GPUs & Improved Networking - Discover the Top 2 Adapters
 
 Strangely enough, the past few months of 2024 have seen prominent discussions of a few modern-day AGP (Accelerated Graphics Port) mods — the first is a mod of questionable practicality to get a GTX 960 working on an AGP board, which took considerable gymnastics. The second involves repurposing an AGP port on a Super Socket 7 motherboard for faster, more modern networking speeds.
@@ -19,6 +31,12 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 ![Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.](https://cdn.mos.cms.futurecdn.net/QYgYq7hUqARXB4fFQkNQ84-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.  (Image credit: Christian Rudewig on FB (via @tercio\_miranda on Twitter))
 
  For instance, back in August of 2009, Don Woligroski,[writing for_Tom's Hardware_](https://www.tomshardware.com/reviews/agp-radeon-overclocking,2395-4.html) , used an OC'd CPU and a powerful native AGP card[to get Crysis running at 65 FPS](https://www.tomshardware.com/reviews/agp-radeon-overclocking,2395-4.html) on Low Physics on an AGP board originally released in November 2005\. PCIe debuted in 2003, so this was well after many faster boards with newer standards were already on the market. This means that, yes, AGP could run Crysis while it was still common, and it remained one of the most demanding games on PC for several years after its 2007 release.
@@ -31,6 +49,12 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -106,10 +130,3 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 <li><a href="https://driver-install.techidaily.com/updating-wacom-software-for-enhanced-performance-in-win-10117/"><u>Updating Wacom Software for Enhanced Performance in Win 10/11/7</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-7-system-enhancement-lenovo-ideapad-y470/"><u>Windows 7 System Enhancement: Lenovo IdeaPad Y470</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Download & Update Lenovo Y900 System Drivers for Windows 11: Comprehensive Guide"
-date: 2024-09-04T16:59:01.748Z
-updated: 2024-09-05T16:59:01.748Z
+date: 2024-09-09T05:10:50.891Z
+updated: 2024-09-10T05:10:50.891Z
 tags:
   - win11
   - win10
@@ -17,6 +17,18 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d0318ca356-600x397.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  This post will generally shows you three different ways to download and update device drivers for Lenovo Y900 series (both laptops and desktops) fast and easily. Both Ideapad and Ideacentre Y900 are built for hardcore gamers: with their solid core processor and great display, they are surely made for perfect gaming experience.   
   
@@ -33,16 +45,40 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d25f77a789.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  2) If you see any device driver or drivers are with a yellow exclamation mark or a question mark next to it, right click it and choose**Update Driver Software…** .   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d26d86670e.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  3) Then choose**Search automatically for updated driver software** .   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d275459f1b-600x437.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4) If you don’t see any problematic device drivers marked out in Device Manager, you can still upgrade your device driver by expanding the category that it is in and then repeat step 2) and 3).   
   
@@ -50,6 +86,12 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d2800916a1.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In this case, you need to go to Method Two and Three to get your device drivers updated.   
   
   
@@ -69,6 +111,12 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d2b0f567df-1024x422.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4) If you know exactly what device drivers you are looking for, just type the keyword into the**keyword** box and hit**Enter** . Or choose from the**Component** list of choices.   
   
@@ -158,10 +206,3 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 <li><a href="https://driver-install.techidaily.com/visual-excellence-rtx-3090-drivers-direct-download/"><u>Visual Excellence: RTX 3090 Drivers, Direct Download</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-11-update-guide-enhanced-acer-support/"><u>Windows 11 Update Guide - Enhanced Acer Support</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-09-04T16:59:02.801Z
-updated: 2024-09-05T16:59:02.801Z
+date: 2024-09-09T05:10:51.861Z
+updated: 2024-09-10T05:10:51.861Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3d25bebb5c143d9e5179f4c7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unbeatable Deal Alert: Combo Offer on Latest Aurora R16 Gaming System and Spectacular 34” Alienware OLED Monitor - Cut Costs by $700 Now
 
 Today we have one great deal that turns into two when you take up a bundle offering and save yourself a whopping $700 with both offers combined. If you like the look of a new[Alienware Aurora R16](https://www.tomshardware.com/reviews/alienware-aurora-r16) gaming PC, then check out this deal that not only saves you $300 off of the cost of a new gaming rig, but if you add the 34-inch[Alienware AW3423DWF](https://www.tomshardware.com/reviews/alienware-aw3423dwf) to your order you can save 44% ($400) off of the listed price of this fantastic curved QD-OLED monitor as well.
@@ -92,10 +98,3 @@ Today we have one great deal that turns into two when you take up a bundle offer
 <li><a href="https://driver-install.techidaily.com/troubleshooting-and-updating-atheros-drivers-for-win11/"><u>Troubleshooting and Updating: Atheros Drivers for Win11</u></a></li>
 <li><a href="https://driver-install.techidaily.com/unlock-potential-new-drivers-available-for-dell-computers/"><u>Unlock Potential: New Drivers Available for Dell Computers</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

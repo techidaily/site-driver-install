@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Download & Install Nvidia GTX 980 GPU Drivers
-date: 2024-09-04T16:59:02.102Z
-updated: 2024-09-05T16:59:02.102Z
+date: 2024-09-09T05:10:51.238Z
+updated: 2024-09-10T05:10:51.238Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Simple Steps to Download & Install Nvidia GTX 98
 thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c8228611ca9a5690c1d2c490.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Simple Steps to Download & Install Nvidia GTX 980 GPU Drivers
 
 As GeForce GTX 980 users, if you want to have the best performance while playing games, you should keep the graphics driver up to date. There are two ways you can use to download and install the driver. Read on to learn how to download GeForce GTX 980 drivers easily.  
@@ -32,11 +38,29 @@ Follow these steps:
  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5363520e92.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 980) and the operating system version (see[How to Get Operating System Version](https://tools.techidaily.com/drivereasy/download/)). After that, click**START SEARCH** button.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b536573138f.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)   
@@ -58,6 +82,18 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)   
   
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5372d89286.jpg) 
@@ -67,6 +103,12 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **Way 3: Update the Driver Using[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**   
   
  If you have difficulty updating the driver manually, you can use Driver Easy to help you. Or if you just want to save time on updating drivers, you can use Driver Easy to help you. Driver Easy has a[Free version](https://tools.techidaily.com/drivereasy/download/) . You can use the Free version to download the latest GTX 980 drivers. To enjoy full features, you can consider upgrading to the PRO version. With the PRO version, to update all drivers, you just need to click your mouse two times. Driver Easy PRO offers you 30-day money back guarantee. You can get a full refund for any reason. Use it to update the  GTX 980 drivers in Windows now.  
@@ -75,6 +117,18 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f1cb4c3aadf.png) 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.  
   
@@ -145,16 +199,3 @@ Follow these steps:
 <li><a href="https://driver-install.techidaily.com/windows-enhancement-with-chipset-fixes/"><u>Windows Enhancement with Chipset Fixes</u></a></li>
 <li><a href="https://driver-install.techidaily.com/zero-hassle-drawing-wacom-tablet-software-for-win10-free/"><u>Zero Hassle Drawing: Wacom Tablet Software for Win10 [Free]</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

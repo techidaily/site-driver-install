@@ -1,7 +1,7 @@
 ---
 title: "Download GeForce GTX 980 Drivers: Quick & Simple Guide"
-date: 2024-09-04T16:59:01.785Z
-updated: 2024-09-05T16:59:01.785Z
+date: 2024-09-09T05:10:50.931Z
+updated: 2024-09-10T05:10:50.931Z
 tags:
   - win11
   - win10
@@ -27,16 +27,34 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b535756371c.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  3\. Go to**Drivers** section.  
  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5363520e92.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 980) and the operating system version (see[How to Get Operating System Version](https://tools.techidaily.com/drivereasy/download/)). After that, click**START SEARCH** button.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b536573138f.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)   
@@ -45,6 +63,12 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.  
   
@@ -62,6 +86,12 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5372d89286.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.  
   
@@ -80,6 +110,12 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f1cb443644e.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [GeForce](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -145,10 +181,3 @@ Follow these steps:
 <li><a href="https://driver-install.techidaily.com/update-your-amd-graphics-card-download-latest-firmware/"><u>Update Your AMD Graphics Card - Download Latest Firmware</u></a></li>
 <li><a href="https://driver-install.techidaily.com/xbox-controllers-integration-with-windows/"><u>XBox Controllers Integration with Windows</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

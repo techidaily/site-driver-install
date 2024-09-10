@@ -1,7 +1,7 @@
 ---
 title: RH5770Windows11GraphicsDriver
-date: 2024-09-04T16:59:05.068Z
-updated: 2024-09-05T16:59:05.068Z
+date: 2024-09-09T05:10:54.016Z
+updated: 2024-09-10T05:10:54.016Z
 tags:
   - win11
   - win10
@@ -28,14 +28,32 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a51448230.png)
   
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. In Device Manager, expand category “Display adapters” and right-click on AMD graphics device. Select**Update Driver Software…** on the context menu.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a5367b22f.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4\. Select**Search automatically for updated driver software** . Then Windows will search and install the latest driver automatically. Note Windows may fail to provide the latest driver.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a57107fc1.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Way 2: Download and Install the Latest Driver from AMD**
   
  You can download and install the latest Windows 10 driver from AMD. If you have no idea how to download the right driver on AMD’s website, refer to steps below.  
@@ -46,10 +64,22 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a73e47916.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. Click**DOWNLOAD** button to download the driver.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a866968be.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  **Way 3: Update Drivers Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
 
  Driver Easy can scan your computer and detect all problem drivers, then give you new drivers. It has Free version and Professional version. With Professional version, you can save much time on updating drivers by enjoying higher download speed and one-click function.  To update ATI Radeon HD 5770 driver for Windows 10, all you need to do is click your mouse 2 times.
@@ -58,6 +88,12 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd8f490cd6c.png)
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2\. Click **Update**  **All** button. Then all new drivers including the ATI Radeon HD 5770 driver will be downloaded and installed automatically.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd900b2662f.jpg)
@@ -153,10 +189,3 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
 <li><a href="https://driver-install.techidaily.com/wacom-bamboo-instant-driver-download/"><u>Wacom Bamboo: Instant Driver Download</u></a></li>
 <li><a href="https://screen-recording.techidaily.com/webcam-integration-for-flawless-gameplay-logs-for-2024/"><u>Webcam Integration for Flawless Gameplay Logs for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

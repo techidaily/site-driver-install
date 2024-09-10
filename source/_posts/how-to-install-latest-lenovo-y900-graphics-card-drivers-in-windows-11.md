@@ -1,7 +1,7 @@
 ---
 title: How to Install Latest Lenovo Y900 Graphics Card Drivers in Windows 11
-date: 2024-09-04T16:59:01.971Z
-updated: 2024-09-05T16:59:01.971Z
+date: 2024-09-09T05:10:51.102Z
+updated: 2024-09-10T05:10:51.102Z
 tags:
   - win11
   - win10
@@ -33,6 +33,12 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d25f77a789.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  2) If you see any device driver or drivers are with a yellow exclamation mark or a question mark next to it, right click it and choose**Update Driver Software…** .   
   
@@ -43,6 +49,12 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d275459f1b-600x437.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4) If you don’t see any problematic device drivers marked out in Device Manager, you can still upgrade your device driver by expanding the category that it is in and then repeat step 2) and 3).   
   
@@ -50,6 +62,12 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d2800916a1.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In this case, you need to go to Method Two and Three to get your device drivers updated.   
   
   
@@ -59,6 +77,18 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d2a179f8c4-600x180.png) 
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  2) Choose the operating system accordingly and the press the**Drivers & Software** button.   
   
@@ -78,6 +108,12 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d2ce16581b.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) Then double click the downloaded file from the support website to run the installation.   
   
  7) After the installation, restart your computer to make the newly installed device driver take effect.   
@@ -92,6 +128,12 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8b62adb4a7.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you are looking for easier and faster ways of getting all you device drivers updated, you must have a try at the[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Adding to the professional version, you can also get the professional tech support helping with your driver problems. And if you are not satisfied with the purchase, you can always ask for a refund thirty days within the purchase. What you are still waiting for? Place your[**order now**](https://tools.techidaily.com/drivereasy/download/) !
 
 <ins class="adsbygoogle"
@@ -151,10 +193,3 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 <li><a href="https://driver-install.techidaily.com/upgrade-pc-graphics-efficiency-with-hp-driver/"><u>Upgrade PC Graphics Efficiency with HP Driver</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-7-airsync-setup-instantly/"><u>Windows 7 AirSync Setup Instantly</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

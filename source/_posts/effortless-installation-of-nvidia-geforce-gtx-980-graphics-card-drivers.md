@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of NVIDIA GeForce GTX 980 Graphics Card Drivers
-date: 2024-09-04T16:59:01.836Z
-updated: 2024-09-05T16:59:01.836Z
+date: 2024-09-09T05:10:50.991Z
+updated: 2024-09-10T05:10:50.991Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Effortless Installation of NVIDIA GeForce GTX 98
 thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536be03bd52fccab5d6aa482430.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Effortless Installation of NVIDIA GeForce GTX 980 Graphics Card Drivers
 
 As GeForce GTX 980 users, if you want to have the best performance while playing games, you should keep the graphics driver up to date. There are two ways you can use to download and install the driver. Read on to learn how to download GeForce GTX 980 drivers easily.  
@@ -32,11 +38,29 @@ Follow these steps:
  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5363520e92.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 980) and the operating system version (see[How to Get Operating System Version](https://tools.techidaily.com/drivereasy/download/)). After that, click**START SEARCH** button.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b536573138f.png)   
   
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)   
@@ -58,10 +82,22 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5372d89286.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.  
   
@@ -80,6 +116,12 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f1cb443644e.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [GeForce](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -150,10 +192,3 @@ Follow these steps:
 <li><a href="https://driver-install.techidaily.com/xbox-control-software-windows-10-compatibility/"><u>Xbox Control Software: Windows 10 Compatibility</u></a></li>
 <li><a href="https://driver-install.techidaily.com/yamaha-steinberg-universal-audio-drivers-download/"><u>Yamaha Steinberg Universal Audio Drivers Download</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
