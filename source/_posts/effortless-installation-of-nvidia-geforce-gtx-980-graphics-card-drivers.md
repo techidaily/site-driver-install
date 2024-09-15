@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of NVIDIA GeForce GTX 980 Graphics Card Drivers
-date: 2024-09-09T05:10:50.991Z
-updated: 2024-09-10T05:10:50.991Z
+date: 2024-09-11T07:33:49.795Z
+updated: 2024-09-15T06:43:26.208Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Effortless Installation of NVIDIA GeForce GTX 98
 thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536be03bd52fccab5d6aa482430.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Effortless Installation of NVIDIA GeForce GTX 980 Graphics Card Drivers
 
 As GeForce GTX 980 users, if you want to have the best performance while playing games, you should keep the graphics driver up to date. There are two ways you can use to download and install the driver. Read on to learn how to download GeForce GTX 980 drivers easily.  
@@ -38,29 +32,11 @@ Follow these steps:
  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5363520e92.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 980) and the operating system version (see[How to Get Operating System Version](https://tools.techidaily.com/drivereasy/download/)). After that, click**START SEARCH** button.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b536573138f.png)   
   
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)   
@@ -82,22 +58,10 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)   
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5372d89286.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.  
   
@@ -116,12 +80,6 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f1cb443644e.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [GeForce](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -129,8 +87,6 @@ Follow these steps:
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,54 +97,22 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-discovering-the-worlds-most-popular-shorter-videos-free/"><u>[New] 2024 Approved  Discovering the World's Most Popular Shorter Videos (FREE)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ultimate-list-the-top-10-thrilling-action-packed-games/"><u>[New] In 2024, Ultimate List  The Top 10 Thrilling Action-Packed Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-microphone-data-review-tips-for-2024/"><u>[New] Microphone Data Review Tips for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-radiant-reels-elevate-your-visuals-with-3-insta-tactics-for-2024/"><u>[New] Radiant Reels  Elevate Your Visuals with 3 Insta Tactics for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-3d-text-design-in-ps/"><u>2024 Approved  The Ultimate Guide to 3D Text Design in PS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/audiopiece-recorder-guide-installation-and-test-for-2024/"><u>AudioPiece Recorder Guide  Installation & Test for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cutting-edge-audio-upgrading-to-latest-scarlett-drivers-guide/"><u>Cutting-Edge Audio: Upgrading to Latest Scarlett Drivers Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-access-obtaining-canon-printer-support-for-win11-systems/"><u>Direct Access: Obtaining Canon Printer Support for WIN11 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-geforce-gtx-1650-for-win-710/"><u>Download GeForce GTX 1650 for Win 7/10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-hp-laserjet-p1102w-for-pcs/"><u>Download HP LaserJet P1102w for PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-usage-experience-with-win-1110-mtk-drivers/"><u>Elevate Usage Experience with Win 11/10 MTK Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-download-geforce-gtx-1650-drivers/"><u>Fast Download: GeForce GTX 1650 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fixing-driver-installation-errors-in-windows-systems/"><u>Fixing Driver Installation Errors in Windows Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-to-instal-latest-nvidia-hd-audio-drivers-on-windows-11-pcs/"><u>Guide to Instal Latest NVIDIA HD Audio Drivers on Windows 11 PCs</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Plus Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-capturing-classroom-dynamics-easily/"><u>In 2024, Capturing Classroom Dynamics Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-new-frontier-of-android-gaming-with-kinemaster/"><u>In 2024, Exploring the New Frontier of Android Gaming with KineMaster</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-spark-10-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Spark 10 Pro Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-driver-updates-on-winos-a-brief-overview-win10plus81plus7/"><u>Instant Driver Updates on WINOS: A Brief Overview (Win10+8.1+7)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/interaction-system-friction/"><u>Interaction System Friction</u></a></li>
-<li><a href="https://driver-install.techidaily.com/master-the-art-of-audio-driver-refresh-in-windows-11/"><u>Master the Art of Audio Driver Refresh in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-startech-integration-across-older-and-newer-oses/"><u>Mastering StarTech Integration Across Older & Newer OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-usbasp-in-a-world-of-windows-variants-from-8-to-win11/"><u>Mastering USBasp in a World of Windows Variants From 8 to Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-gaming-on-amd-rx-570-with-newest-windows-drivers-update/"><u>Maximize Gaming on AMD RX 570 with Newest Windows Drivers Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-1650-os-specific-driver-download/"><u>NVIDIA GTX 1650: OS-Specific Driver Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-performance-nvidia-gtx-970-driver-updates-wins/"><u>Optimize Performance: Nvidia GTX 970 Driver Updates Wins</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-and-simple-gain-full-device-support-now/"><u>Quick & Simple: Gain Full Device Support Now!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-install-essential-asus-software-for-windows-pcs/"><u>Quick Install: Essential Asus Software for Windows PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/restoring-printer-capabilities-by-relaunching-win71011-drivers/"><u>Restoring Printer Capabilities by Relaunching Win7/10/11 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-hp-display-settings-on-windows-os/"><u>Revamp HP Display Settings on Windows OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-relationships-post-gaming-overload/"><u>Reviving Relationships Post-Gaming Overload</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rx-570-windows-compatible-drivers-release-available/"><u>RX 570 Windows Compatible Drivers Release Available</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-integration-installing-canon-printer-drivers-on-win11-devices/"><u>Seamless Integration: Installing Canon Printer Drivers on Win11 Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-speed-up-printer-f4770n-with-new-driver/"><u>Secure & Speed Up Printer F4770N with New Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-stable-windows-environment-post-samsung-drive-fixes/"><u>Secure & Stable Windows Environment Post-Samsung Drive Fixes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-upgrade-download-vega-3-graphics-update-24/"><u>Secure & Upgrade: Download Vega 3 Graphics Update '24</u></a></li>
-<li><a href="https://driver-install.techidaily.com/setup-avstar-lan-networking-on-hp-elitebooks/"><u>Setup AVSTAR LAN Networking on HP EliteBooks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-operation-solve-audio-track-fails/"><u>Smooth Operation: Solve Audio Track Fails</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smoothen-win11-hp-printer-issues-effortlessly/"><u>Smoothen Win11 HP Printer Issues Effortlessly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-your-logitech-devices-performance/"><u>Streamline Your Logitech Device's Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-method-for-win71011-mouse-driver-revival/"><u>Streamlined Method for Win7/10/11 Mouse Driver Revival</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-5-sleep-apps-to-enhance-rest-on-your-apple-watch/"><u>The Best 5 Sleep Apps to Enhance Rest on Your Apple Watch</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-6-windows-11-prime-fps-monitors-and-trackers/"><u>Top 6 Windows 11: Prime FPS Monitors & Trackers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-essential-2023-playlist-the-most-influential-rock-hits-so-far-for-2024/"><u>Updated Essential 2023 Playlist The Most Influential Rock Hits So Far for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/user-friendly-update-for-lenovo-ideapad-u310/"><u>User-Friendly Update for Lenovo Ideapad U310</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-os-wi-fi-recovery-guide-installs-drivers-quickly/"><u>Win OS Wi-Fi Recovery Guide: Installs Drivers Quickly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-performance-boost-me-driver/"><u>Windows Performance Boost - ME Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xbox-control-software-windows-10-compatibility/"><u>Xbox Control Software: Windows 10 Compatibility</u></a></li>
-<li><a href="https://driver-install.techidaily.com/yamaha-steinberg-universal-audio-drivers-download/"><u>Yamaha Steinberg Universal Audio Drivers Download</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-shoes-for-virtual-ground-leading-treadmill-insights/"><u>[New] 2024 Approved Shoes for Virtual Ground Leading Treadmill Insights</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-anime-inspired-dance-routines-top-20-tiktok-trends/"><u>[New] Anime-Inspired Dance Routines Top 20 TikTok Trends</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-prime-8-android-apps-for-multi-person-video-conferencing/"><u>[Updated] 2024 Approved Prime 8 Android Apps for Multi-Person Video Conferencing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unlocking-time-lapse-potential-on-samsung-screens/"><u>[Updated] 2024 Approved Unlocking Time-Lapse Potential on Samsung Screens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-the-ultimate-guide-to-youtube-thumbnails/"><u>2024 Approved The Ultimate Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-samsung-galaxy-a54-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/silence-windows-10-noise-reinstall-audio-drivers-first/"><u>Silence Windows 10 Noise? Reinstall Audio Drivers First</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-win11-display-via-acer-drivers/"><u>Streamline Win11 Display via Acer Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-sdk-update-hd-graphics-540/"><u>Swift SDK Update: HD Graphics 540</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-connections-install-tp-link-usb-wi-fi-drivers-windows/"><u>Update Your Connections: Install TP Link USB Wi-Fi Drivers Windows</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

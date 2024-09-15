@@ -1,7 +1,7 @@
 ---
 title: Immersive Gaming Experience with the Philips 49 Curved OLED Display
-date: 2024-09-09T05:10:51.491Z
-updated: 2024-09-10T05:10:51.491Z
+date: 2024-09-11T07:20:18.431Z
+updated: 2024-09-14T21:48:49.188Z
 categories:
   - BestProducts
 description: This Article Describes Immersive Gaming Experience with the Philips 49 Curved OLED Display
@@ -37,12 +37,6 @@ Lifewire / Jonno Hill
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
@@ -77,12 +71,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
  The HP OMEN Obelisk looks good in pictures but starts to fall apart a little when examined up close. Overall, HP did a pretty decent job here, but there are plenty of areas for improvement.
@@ -105,13 +93,14 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance** :**Great components for gaming and productivity**
 
@@ -122,11 +111,12 @@ Lifewire / Jonno Hill
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Gaming** :**Great for the most demanding titles**
 
  Gaming performance is great on the HP OMEN Obelisk thanks to the Nvidia GTX GeForce 2080 Super and Intel i9-9900K combo. I tested a number of games on my 3440x1440 monitor to get a sense of performance. To put this in perspective, this resolution is roughly 60 percent of the pixels of a 4K monitor.
@@ -141,12 +131,6 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Jonno Hill
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
@@ -155,12 +139,6 @@ Lifewire / Jonno Hill
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Software: Just enough options**
 
  The HP OMEN Obelisk comes with the OMEN Command Center, which is used to manage your desktop as well as any other OMEN products such as headsets, keyboards, and mice. From here, you have the option to click on your desktop and start managing your PC or choose from one of the various other options such as rewards, coaching, remote play, and My Games (a game launcher).
@@ -181,12 +159,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
  If you want something even smaller, and even more monolithic, the[Corsair One Pro](https://www.lifewire.com/corsair-one-pro-review-5072820) (see on[Corsair](https://www.corsair.com/us/en/Categories/Products/Systems/CORSAIR-ONE/CORSAIR-ONE-PRO-i180-Compact-Workstation-Grade-PC/p/CS-9040001-NA) ) manages to pack a high-end gaming rig in a minuscule 12-liter case, making even the HP OMEN seem large by comparison. It has a very solid construction and manages to fit water cooling for both the CPU and GPU inside its small frame.
@@ -200,11 +172,18 @@ Lifewire / Jonno Hill
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Omen Obelisk
@@ -224,14 +203,11 @@ Lifewire / Jonno Hill
 * Network  Wi-Fi 5 (2x2), Gigabit Ethernet, Bluetooth 4.2
 * Warranty  1 year limited
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -242,52 +218,17 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-grab-tiktok-videos-online-for-free/"><u>[New] In 2024, Grab TikTok Videos Online for FREE</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-screenprime-pro-for-advanced-users-for-2024/"><u>[New] ScreenPrime Pro for Advanced Users for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-socialites-secret-accelerate-your-fame-on-insta-with-our-top-15-hacks/"><u>[New] Socialite's Secret  Accelerate Your Fame on Insta with Our Top 15 Hacks</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-srt-pinnacle-selecting-the-premier-turbo-charger-systems-for-os-xwin/"><u>[Updated] 2024 Approved  SRT Pinnacle  Selecting the Premier Turbo Charger Systems for OS X/Win</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-best-ways-to-record-live-sports-streaming/"><u>[Updated] Best Ways to Record Live Sports Streaming</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-speech-to-text-technology-absolutely-gratuitous/"><u>[Updated] Speech-to-Text Technology, Absolutely Gratuitous</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-secrets-of-self-playing-fb-videos/"><u>[Updated] Unveiling the Secrets of Self-Playing FB Videos</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-8-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 8 Activity | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-perfect-sync-saving-your-camera-memories-seamlessly-on-snapchat/"><u>2024 Approved  Perfect Sync  Saving Your Camera Memories Seamlessly on Snapchat</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unleashing-potential-pilots-choice-top-10-drone-must-haves/"><u>2024 Approved  Unleashing Potential  Pilot's Choice - Top 10 Drone Must-Haves</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-f14-5g-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy F14 5G FRP Bypass</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-driver-changes-on-winos-versions-a-straightforward-tutorial/"><u>Accelerate Driver Changes on WINOS Versions - A Straightforward Tutorial</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-system-speed-new-update-for-dell-and-os-drivers/"><u>Accelerate System Speed: New Update for Dell and OS Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amd-graphics-card-latest-rx-570-drivers-downloadable/"><u>AMD Graphics Card: Latest RX 570 Drivers Downloadable</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-hot-40i-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix Hot 40i.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/captivating-visuals-for-digital-stagecraft-for-2024/"><u>Captivating Visuals for Digital Stagecraft for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-install-the-latest-drivers-for-officejetpro-8620-hp/"><u>Download & Install the Latest Drivers for OfficeJetPro 8620, HP</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-setup-guide-update-tp-link-usb-wi-fi-on-windows-pcs/"><u>Efficient Setup Guide: Update TP Link USB Wi-Fi on Windows PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-device-compatibility-asus-drivers-win-update/"><u>Effortless Device Compatibility - ASUS Drivers Win Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-deskjet-hp-print-efficiency-on-win11/"><u>Enhance Deskjet HP Print Efficiency on Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-hp-officejet-pro-8620-driver-upgrades-for-windows-users/"><u>Essential HP OfficeJet Pro 8620 Driver Upgrades for Windows Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exploring-imovies-automated-size-control/"><u>Exploring iMovie's Automated Size Control</u></a></li>
-<li><a href="https://driver-install.techidaily.com/flawless-installation-of-wacom-bamboo-drivers/"><u>Flawless Installation of Wacom Bamboo Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-breathe-new-life-into-your-microsoft-mouse-in-os-x/"><u>How to Breathe New Life Into Your Microsoft Mouse in OS X</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-atheros-network-interface-cards-nic/"><u>How to Update Atheros Network Interface Cards (NIC)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-swiftly-update-wireless-networking-software-in-win11/"><u>How To: Swiftly Update Wireless Networking Software in Win11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/inf-validation-without-third-party-signs/"><u>Inf Validation Without Third-Party Signs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-microsoft-pro-4-drivers-on-windows-os/"><u>Installing Microsoft Pro 4 Drivers on Windows OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/laserjet-1102w-drivers-for-windows-pcs/"><u>LaserJet 1102W Drivers for Windows PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-yoga-900s-windows-10-drivers-download/"><u>Lenovo Yoga 900S Windows 10 Drivers Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-the-art-of-printer-driver-installation/"><u>Mastering the Art of Printer Driver Installation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-msi-drivers-in-classic-oss-a-stepwise-approach/"><u>Navigating MSI Drivers in Classic OSs: A Stepwise Approach</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-rtx-3090-with-direct-download/"><u>Optimize RTX 3090 with Direct Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-guide-updating-printer-drivers-on-legacy-oses/"><u>Quick Guide: Updating Printer Drivers on Legacy OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-improvement-for-intel-uhd520/"><u>Quick Improvement for Intel UHD520</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstall-audio-drivers-to-solve-windows-11-sound-issue/"><u>Reinstall Audio Drivers to Solve Windows 11 Sound Issue</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolve-print-spooler-errors-in-windows-10/"><u>Resolve Print Spooler Errors in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reverse-ftdi-serial-connectivity-issues/"><u>Reverse FTDI Serial Connectivity Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamlessly-reactivate-bluetooth-with-a-few-steps-on-windows-11/"><u>Seamlessly Reactivate Bluetooth with a Few Steps on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-boot-features-intels-medd/"><u>Secure Boot Features - Intel's MEDD</u></a></li>
-<li><a href="https://techidaily.com/solved-microsoft-excel-2007-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2007 File Error The document cannot be saved</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-drive-fixes-for-windows-10-acer-users/"><u>Speedy Drive Fixes for Windows 10 Acer Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-your-workflow-with-updated-hp-printer-4630-firmware/"><u>Streamline Your Workflow with Updated HP Printer 4630 Firmware</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-method-windows-1011-bluetooth-drivers-installed-quickly/"><u>Streamlined Method: Windows 10/11 Bluetooth Drivers, Installed Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/trouble-connecting-to-nintendo-switch-online-server-error-or-user-glitch/"><u>Trouble Connecting to Nintendo Switch Online: Server Error or User Glitch?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-compatibility-fixes-in-antique-windows-versions/"><u>USB Compatibility Fixes in Antique Windows Versions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unveiling-new-ways-to-record-presentations-for-2024/"><u>[New] Unveiling New Ways to Record Presentations for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dissecting-youtubes-criteria-for-featured-community-inputs/"><u>[Updated] In 2024, Dissecting YouTube's Criteria for Featured Community Inputs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pathway-to-get-your-hands-on-movie-maker-6/"><u>[Updated] Pathway to Get Your Hands on Movie Maker 6</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-prove-your-worth-in-the-world-of-photography-essential-pixlr-skills-for-2024/"><u>[Updated] Prove Your Worth in the World of Photography Essential Pixlr Skills for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-slug-line-creation-techniques-for-online-copy/"><u>[Updated] Slug Line Creation Techniques for Online Copy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-v27-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo V27 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-connection-protocol-for-windows-usb-guide/"><u>Direct Connection Protocol for Windows: USB Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-usb-driver-pack-for-versatile-oss-epson-2650/"><u>Direct USB Driver Pack for Versatile OSs - Epson 2650</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062890212-how-to-update-drivers-in-windows-10-81-7-quickly-and-easily/"><u>How to Update Drivers in Windows 10, 8.1, 7. Quickly & Easily</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 13 Pro Max and iPad</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-giant-whatsapp-sues-over-indian-it-regulation-concerns/"><u>Tech Giant WhatsApp Sues Over Indian IT Regulation Concerns</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-wireless-standards-exploring-ieees-80211-be-ax-ac-bgn-and-a/"><u>The Ultimate Guide to Wireless Standards: Exploring IEEE's 802.11 Be, Ax, Ac, B/G/N & A</u></a></li>
 </ul></div>
+

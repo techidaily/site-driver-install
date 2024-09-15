@@ -1,7 +1,7 @@
 ---
 title: Update Realtek PCIe GBE Family Controller Drivers on Windows 11
-date: 2024-09-04T16:59:06.292Z
-updated: 2024-09-05T16:59:06.292Z
+date: 2024-09-09T20:25:13.917Z
+updated: 2024-09-15T08:21:33.853Z
 tags:
   - win11
   - win10
@@ -64,30 +64,12 @@ _Realtek PCIe GBE Familly Controller_
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3\. Update the Driver Manually
 
  You can go to your PC manufacturer’s website to download the Windows 10 driver for this device. Alternatively, you can visit [Realtek](http://www.realtek.com/downloads/) website to download the Windows 10 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-521.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Usually, the driver can be self-installing. After you download the driver, double-click on the file to begin the installation. If the driver cannot be installed in this way, you might have to install it manually, then follow steps below to install the driver.
 
  1) On your keyboard, press **Win+R** (Windows logo key and R key) at the same time to invoke the Run box.
@@ -100,48 +82,18 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023a099bb2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click **Browse my Computer for driver software.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023ca8557c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023f947709.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Click on   **Next** button to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0244b633c8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7) Check to see if the driver is installed successfully.
 
  Hopefully you can update the Realtek PCIe GbE Familly controller driver easily with the steps above. If you have any questions or ideas, feel free to leave your comments below. We’d love to hear of any ideas or suggestions.
@@ -152,8 +104,6 @@ _Realtek PCIe GBE Familly Controller_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,44 +113,27 @@ _Realtek PCIe GBE Familly Controller_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-youtube-to-insta-a-video-posting-guide/"><u>[New] 2024 Approved  From YouTube to Insta  A Video Posting Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-from-visual-tweets-to-mp3-outputs-for-2024/"><u>[New] From Visual Tweets to MP3 Outputs for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-navigating-discords-broadcast-settings-for-easy-streaming/"><u>[New] In 2024, Navigating Discord's Broadcast Settings for Easy Streaming</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-making-friends-across-networks-instagram-plus-facebook/"><u>[New] Making Friends Across Networks  Instagram + Facebook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unrivaled-experience-with-these-top-12-pc-clicker-games-for-2024/"><u>[New] Unrivaled Experience with These Top 12 PC Clicker Games for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-techniques-for-youtube-end-screen-designs/"><u>[Updated] In 2024, Essential Techniques for YouTube End Screen Designs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ultimate-list-15-anime-focused-youtube-binge-spots/"><u>[Updated] Ultimate List  15 Anime-Focused YouTube Binge Spots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhancing-engagement-through-effective-video-strategies-on-fb/"><u>2024 Approved  Enhancing Engagement Through Effective Video Strategies on FB</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-thwarting-vr-discomfort-tips-for-a-smooth-experience/"><u>2024 Approved  Thwarting VR Discomfort  Tips for a Smooth Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/asus-proart-hdr-master-the-4k-quest-continues-for-2024/"><u>ASUS ProArt HDR Master  The 4K Quest Continues for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/canon-printer-drivers-download-for-windows-11/"><u>Canon Printer Drivers Download for Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/combine-hp-envy-5530-drivers-in-your-win10-pcs/"><u>Combine HP Envy 5530 Drivers in Your Win10 PCs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-camon-20-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Camon 20 Pro 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elden-ring-release-delayed-what-you-need-to-know/"><u>Elden Ring Release Delayed: What You Need to Know</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fastest-route-to-updating-winos-drivers/"><u>Fastest Route to Updating WinOS Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/freshly-updated-zexmte-adapter-driver-software-for-microsoft-windows-platforms/"><u>Freshly Updated Zexmte Adapter Driver Software for Microsoft Windows Platforms</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gaomon-s620-drivers-installation-made-simple/"><u>Gaomon S620 Drivers Installation Made Simple</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gpu-driver-restart-made-simple-with-ddu/"><u>GPU Driver Restart Made Simple with DDU</u></a></li>
-<li><a href="https://driver-install.techidaily.com/high-speed-update-radeons-hd-4800-drivers/"><u>High-Speed Update: Radeon's HD 4800 Drivers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/identifying-and-correcting-unrecognized-usb-errors-in-win-78/"><u>Identifying and Correcting Unrecognized USB Errors in Win 7/8</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-note-12-proplus-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi Note 12 Pro+ 5G FRP Bypass</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-connection-boost-with-quick-adb-driver-access/"><u>Instant Connection Boost with Quick ADB Driver Access</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-scsi-support-lightning-fast-driver-download/"><u>Instant SCSI Support: Lightning-Fast Driver Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-improve-connectivity-with-win1110-mtk-support/"><u>Instantly Improve Connectivity with Win11/10 MTK Support</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lamptrons-latest-st060-cpu-cooler-a-mighty-large-6-inch-display-matching-iphone-15-specs-and-acts-as-an-extra-screen/"><u>Lamptron's Latest ST060 CPU Cooler: A Mighty Large 6-Inch Display Matching iPhone 15 Specs and Acts as an Extra Screen!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovos-u310-hassle-free-driver-updates/"><u>Lenovo's U310: Hassle-Free Driver Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mend-hp-laserjet-pro-400-drivers-windows-sync-issues/"><u>Mend: HP LaserJet Pro 400 Drivers, Windows Sync Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/methodical-approach-to-renewing-wacom-support-in-windows-versions/"><u>Methodical Approach to Renewing Wacom Support in Windows Versions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-aoc-firmware-update-for-winoss/"><u>New AOC Firmware Update for WinOSs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-graphics-driver-enhancement-gtx-1060/"><u>Nvidia Graphics Driver Enhancement: GTX 1060</u></a></li>
-<li><a href="https://facebook.techidaily.com/opt-out-of-whatsapps-updated-policy-no-limits-on-account/"><u>Opt-Out of WhatsApp's Updated Policy, No Limits on Account</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-brother-mfp-print-queues-in-win11/"><u>Optimize Brother MFP Print Queues in Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-windows-10-for-optimal-atheros-wi-fi-performance/"><u>Revamping Windows 10 for Optimal Atheros Wi-Fi Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-soundscape-how-to-update-focusrites-scarlett-6i6/"><u>Seamless Soundscape: How to Update Focusrite's Scarlett 6I6</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-os-functionality-with-mf4770n-driver-update-guide/"><u>Smooth OS Functionality with MF4770n Driver Update Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/solved-common-usb-hacks-for-windows/"><u>Solved: Common USB Hacks for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sound-loss-in-win11-reinstall-audio-software-fix/"><u>Sound Loss in Win11? Reinstall Audio Software Fix</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722642525619-the-tcl-32s325-roku-experience-a-blend-of-smart-technology-and-stylish-design-as-explored-in-our-comprehensive-2019-review/"><u>The TCL 32S325 Roku Experience - A Blend of Smart Technology and Stylish Design, as Explored in Our Comprehensive 2019 Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/what-if-windows-struggles-with-new-driver-setup/"><u>What If Windows Struggles with New Driver Setup?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windriver-troubleshooting-installation-glitches/"><u>WinDriver: Troubleshooting Installation Glitches</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-savvy-top-5-methods-for-building-a-thriving-influencer-profile/"><u>[New] 2024 Approved Instagram Savvy Top 5 Methods for Building a Thriving Influencer Profile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-time-honored-treasures-free-of-restrictions/"><u>[New] Time-Honored Treasures, Free of Restrictions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discovering-if-quick-youtube-subscriptions-really-work/"><u>[Updated] 2024 Approved Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-50plus-best-practices-in-video-text-design/"><u>2024 Approved 50+ Best Practices in Video Text Design</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amplify-visuals-windows-10-plus-hp-graphics-update/"><u>Amplify Visuals: Windows 10 + HP Graphics Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gaomon-s620-installation-quick-and-easy-steps/"><u>Gaomon S620 Installation - Quick and Easy Steps</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-go-2023-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark Go (2023) Without Password | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-make-a-photo-video-with-pixiz/"><u>In 2024, How to Make a Photo Video with Pixiz?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-windows-10-atheros-wi-fi-driver-refresh-techniques/"><u>Mastering Windows 10: Atheros Wi-Fi Driver Refresh Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-geforce-gtx-960-driver-version-update/"><u>Nvidia GeForce GTX 960 Driver Version Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-usbasp-driver-discrepancies-in-windows-environments/"><u>Resolving USBasp Driver Discrepancies in Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201318600-steelseries-arctis-5-audio-trouble-heres-how-to-fix-the-mic-problem-permanently/"><u>SteelSeries Arctis 5 Audio Trouble? Here's How to Fix the Mic Problem Permanently!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware/"><u>Tom's Tech Hub: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7-streamlined-updates-to-improve-hp-graphics/"><u>Win7 Streamlined Updates to Improve HP Graphics</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

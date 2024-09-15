@@ -1,7 +1,7 @@
 ---
 title: Upgrading Windows 11 for Optimal HDMI Functionality
-date: 2024-07-11T15:57:34.910Z
-updated: 2024-07-12T15:57:34.910Z
+date: 2024-09-08T20:56:06.950Z
+updated: 2024-09-15T02:49:19.900Z
 tags:
   - win11
   - win10
@@ -57,12 +57,26 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ## Is HDMI still not working?
 
  Updating your graphics driver can fix some HDMI issues, but if this method didn’t do the trick, you might want to try the following troubleshooting steps:
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1 – Change display settings
 
@@ -73,6 +87,19 @@ OR
 _Display modes on Windows 11_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/project-mode.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Display modes on Windows 10_
 
@@ -112,8 +139,6 @@ _Display modes on Windows 10_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +146,20 @@ _Display modes on Windows 10_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-directed-camera-roll-efficient-sync-with-snapchat-features/"><u>[New] Directed Camera Roll Efficient Sync with Snapchat Features</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-harnessing-the-power-of-video-the-most-effective-fb-ad-practices/"><u>[Updated] 2024 Approved Harnessing the Power of Video The Most Effective FB Ad Practices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-vdx-quickcapture-evaluation-guide-comprehensive-review-for-2024/"><u>[Updated] VDX QuickCapture Evaluation Guide Comprehensive Review for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-windows-10-with-updated-acer-drivers/"><u>Accelerate Windows 10 with Updated Acer Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-bluetooth-usb-adapter-setup-instructions/"><u>Asus Bluetooth USB Adapter Setup Instructions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conquering-usbasp-driver-hurdles-on-widely-spanning-windows-oss/"><u>Conquering USBasp Driver Hurdles on Widely Spanning Windows OSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-connectivity-mf4770n-drivers-for-windows-oses/"><u>Enhance Connectivity: MF4770n Drivers for Windows OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-logitech-cam-software/"><u>Essential Logitech Cam Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exemplary-execution-using-apple-watch-to-open-mac-for-2024/"><u>Exemplary Execution Using Apple Watch to Open Mac for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-asus-bt400-driver-and-tutorial-for-pcs/"><u>Free Asus BT400 Driver & Tutorial for PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y78-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y78 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-linux-with-chatgpt-assistance-my-success-story/"><u>Mastering Linux with ChatGPT Assistance: My Success Story</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-system-settings-oversight-by-your-company-explained/"><u>Windows System Settings Oversight by Your Company - Explained</u></a></li>
+</ul></div>
 

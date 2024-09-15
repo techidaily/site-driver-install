@@ -1,7 +1,7 @@
 ---
 title: Unifying USBasp Driver in Widely Used Windows Versions (7-11) [SOLVED]
-date: 2024-09-04T16:59:06.805Z
-updated: 2024-09-05T16:59:06.805Z
+date: 2024-09-12T16:28:20.463Z
+updated: 2024-09-14T17:32:08.672Z
 tags:
   - win11
   - win10
@@ -47,12 +47,6 @@ To do so:
 
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Download and update USBasp driver automatically
 
  Manually updating the USBasp driver requires time and computer skills. If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,25 +59,20 @@ To do so:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddda67fba.jpg)
 3. Click the**Update** button next to the device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd828e09e9b7.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](mailto:support@drivereasy.com) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 Tada, now you should have updated the USBasp driver easily.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Download and update USBasp driver via Device Manager
 
@@ -95,28 +84,24 @@ Here’s what you need to do:
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dcf3157ac.jpg)
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
 4. Choose**Search automatically for updated driver software** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -127,8 +112,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,39 +121,21 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/download-hp-laserjet-p2055dn-driver/"><u>[Download] HP LaserJet P2055dn Driver</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-step-by-step-utilizing-your-twitter-archive/"><u>[New] 2024 Approved  Step-by-Step  Utilizing Your Twitter Archive</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-cutting-edge-zoom-techniques-for-peak-call-quality/"><u>[New] Cutting Edge Zoom Techniques for Peak Call Quality</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-transition-moving-your-snapchat-savings-home/"><u>[New] Mastering the Transition  Moving Your Snapchat Savings Home</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastery-in-conflict-the-leading-7-total-war-tactics/"><u>[Updated] Mastery in Conflict  The Leading 7 Total War Tactics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-streamline-your-playlist-import-music-into-inshot/"><u>2024 Approved  Streamline Your Playlist  Import Music Into InShot</u></a></li>
-<li><a href="https://driver-install.techidaily.com/conexant-drivers-fixed-on-windows-10/"><u>Conexant Drivers Fixed on Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/correcting-hp-printer-glitches-in-10-edition/"><u>Correcting HP Printer Glitches in 10 Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-reactivate-bluetooth-via-win11-drivers/"><u>Efficiently Reactivate Bluetooth via Win11 Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/epson-xp-330-printer-driver-download-free-and-upgraded/"><u>Epson XP-330 Printer Driver Download – Free and Upgraded</u></a></li>
-<li><a href="https://driver-install.techidaily.com/from-glitches-to-gains-revitalizing-windows-astro-experience/"><u>From Glitches to Gains: Revitalizing Windows Astro Experience</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-accurate-results-faster-hp-projector-8710-software-download/"><u>Get Accurate Results Faster - HP Projector 8710 Software Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/high-fidelity-video-capture-with-logitech-hd-webcam-c270-for-pcs/"><u>High Fidelity Video Capture with Logitech HD Webcam C270 for PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-hp-laptop-screen-flickering-or-blinking-issues/"><u>How To Fix HP Laptop Screen Flickering Or Blinking Issues</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 11 Pro Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-loop-a-video-in-canva-editor/"><u>In 2024, How to Loop a Video in Canva Editor</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-s18-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo S18 Easily?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/inf-lacks-digital-signatures-issue-solved/"><u>Inf Lacks Digital Signatures, Issue Solved</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-fisheye-photography-for-full-spheres-for-2024/"><u>Mastering Fisheye Photography for Full Spheres for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722986351132-outriders-not-starting-up-on-your-pc-try-these-fixes-now/"><u>Outriders Not Starting Up on Your PC ? Try These Fixes Now</u></a></li>
-<li><a href="https://driver-install.techidaily.com/perfect-the-art-of-mixing-with-updated-focusrite-drivers/"><u>Perfect the Art of Mixing with Updated Focusrite Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/perfecting-samsung-ssd-interaction-with-windows-os/"><u>Perfecting Samsung SSD Interaction with Windows OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fix-for-latest-radeon-rx-5500xt-drivers/"><u>Quick Fix for Latest Radeon RX 5500XT Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/regenerate-mouse-interface-on-winx7-os/"><u>Regenerate Mouse Interface on WINX/7 OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-and-simple-lenovo-ideapad-u310-updates/"><u>Smooth and Simple: Lenovo Ideapad U310 Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-your-system-quick-driver-update-strategies-for-hyperx-headsets/"><u>Streamlining Your System: Quick Driver Update Strategies for HyperX Headsets</u></a></li>
-<li><a href="https://driver-install.techidaily.com/supercharge-your-driver-updating-speed-in-win-10-81-and-7/"><u>Supercharge Your Driver Updating Speed in Win 10, 8.1 & 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/support-and-download-asus-bt400-drivers/"><u>Support & Download Asus BT400 Drivers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/tiktok-video-aspect-ratios/"><u>TikTok Video Aspect Ratios</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unifying-usbasp-driver-functionality-in-old-and-new-windows/"><u>Unifying USBasp Driver Functionality in Old & New Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-ati-radeon-hd-4800-drivers-quickly-and-easily/"><u>Update ATI Radeon HD 4800 Drivers Quickly & Easily</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-graphic-suite-on-acer-pcs-running-win11/"><u>Update Graphic Suite on Acer Pcs Running Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-win11s-graphic-backbone-using-acer-tools/"><u>Update Win11's Graphic Backbone Using Acer Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-chipset-drivers-for-win-10-8plus-systems/"><u>Upgrade Chipset Drivers for WIN 10-8+ Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-a-visual-journey-the-art-of-editing-with-snapchat-filters/"><u>[New] In 2024, A Visual Journey The Art of Editing with Snapchat Filters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/contingency-planning-for-systems/"><u>Contingency Planning for Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-epson-et-3760-printer-drivers-on-windows-machines/"><u>Easy Guide to Downloading & Updating Epson ET-3760 Printer Drivers on Windows Machines</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-wacom-bamboo-software-update/"><u>Effortless Wacom Bamboo Software Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-well-being-with-these-9-innovative-uses-of-chatgpt/"><u>Elevate Your Well-Being with These 9 Innovative Uses of ChatGPT</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-pova-5-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Pova 5 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fresh-beats-new-software-tips-for-scarlett-6i6-driver-update/"><u>Fresh Beats, New Software: Tips for Scarlett 6I6 Driver Update</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-asmr-methods-by-leading-talents/"><u>In 2024, Masterful ASMR Methods by Leading Talents</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-racing-hearts-22-short-track-triumph/"><u>In 2024, Racing Hearts '22 Short-Track Triumph</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-software-integration-with-lenovos-u310/"><u>Intuitive Software Integration with Lenovo's U310</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-fuss-just-updates-new-drivers-on-z50-70/"><u>No Fuss, Just Updates: New Drivers on Z50-70</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/performance-evaluation-of-netgears-combined-modem-and-router-a-closer-look-at-the-c370er/"><u>Performance Evaluation of Netgear's Combined Modem & Router: A Closer Look at the C370er</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precision-wacom-driver-safe-and-compatible-with-windows-tablets/"><u>Precision Wacom Driver - Safe & Compatible with Windows Tablets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rapid-videoaudio-editing-using-winxvideo-ais-gpu-acceleration-techniques/"><u>Rapid Video/Audio Editing Using Winxvideo AI's GPU Acceleration Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-hp-laserjet-printer-driver-errors-on-windows/"><u>Resolve: HP LaserJet Printer Driver Errors on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-google-pixel-8-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Google Pixel 8 Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
+

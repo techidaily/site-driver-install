@@ -1,7 +1,7 @@
 ---
 title: Optimizing PC with New M.2 Drivers
-date: 2024-07-11T15:52:44.513Z
-updated: 2024-07-12T15:52:44.513Z
+date: 2024-09-10T05:33:51.135Z
+updated: 2024-09-14T23:38:23.551Z
 tags:
   - win11
   - win10
@@ -52,8 +52,24 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10a997de115.jpg)
 3. You can upgrade to the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10aa12c40ce.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer to take effect.
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](mailto:support@drivereasy.com) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -69,8 +85,6 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,6 +92,21 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-playlist-best-sandbox-game-choices/"><u>[New] 2024 Approved The Ultimate Playlist Best Sandbox Game Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-strategically-use-tags-for-youtube-success/"><u>[New] In 2024, How to Strategically Use Tags for YouTube Success</u></a></li>
+<li><a href="https://driver-install.techidaily.com/apex-legends-quiet-zone-heres-how-to-get-game-sounds-back/"><u>Apex Legends Quiet Zone? Here's How to Get Game Sounds Back!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3s-new-editing-tools-overview-and-improvement-areas/"><u>DALL-E 3'S New Editing Tools Overview and Improvement Areas</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone X Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-substitutes-for-winmovie-new-windows-editors/"><u>In 2024, Substitutes for WinMovie New Windows Editors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-input-solutions-windows-11-plus-xboxone-controller/"><u>Seamless Input Solutions - Windows 11 + XboxOne Controller</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-methods-to-keep-your-nvidia-up-to-date/"><u>Seamless Methods to Keep Your Nvidia Up-to-Date</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-steps-to-restore-windows-1011s-bluetooth-functionality/"><u>Simple Steps to Restore Windows 10/11'S Bluetooth Functionality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tech-enhancement-latest-intel-chipset-drivers/"><u>Tech Enhancement: Latest Intel Chipset Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-wi-fi-controller-support-in-win11-release/"><u>Upgrade Wi-Fi Controller Support in Win11 Release</u></a></li>
+</ul></div>
 

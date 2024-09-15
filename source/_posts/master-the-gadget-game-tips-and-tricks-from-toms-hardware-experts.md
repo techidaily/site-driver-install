@@ -1,7 +1,7 @@
 ---
 title: Master the Gadget Game - Tips & Tricks From Tom's Hardware Experts
-date: 2024-09-09T05:10:52.147Z
-updated: 2024-09-10T05:10:52.147Z
+date: 2024-09-14T03:01:12.255Z
+updated: 2024-09-15T07:38:55.069Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/t9zgmQU4UmKc6YYCw4eErP-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Innovation Hub: The Inside Scoop From Tom's Hardware for Gadget Lovers
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -27,38 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -71,18 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -91,14 +49,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,48 +64,27 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-learn-to-film-great-content-on-your-mac-for-youtube-beginners/"><u>[New] 2024 Approved  Learn to Film Great Content on Your Mac for YouTube Beginners</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription/"><u>[Updated] In 2024, From Speech to Text  A Complete, FREE Workshop on YouTube Transcription</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-top-5-drones-experts-choice-revealed/"><u>[Updated] Ultimate Top 5 Drones - Expert's Choice Revealed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/automate-and-streamline-your-amd-drivers-process/"><u>Automate and Streamline Your AMD Drivers Process</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-graphics-device-performance-huion-h420-update-guide/"><u>Boost Graphics Device Performance - Huion H420 Update Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-install-tp-link-usb-wi-fi-driver-in-minutes/"><u>Download & Install TP Link USB Wi-Fi Driver in Minutes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-latest-drivers-netgear-a6200-usb-adapter/"><u>Download Latest Drivers: Netgear A6200 USB-Adapter</u></a></li>
-<li><a href="https://driver-install.techidaily.com/driver-package-for-u-are-u-fingerreader-v45/"><u>Driver Package for U-Are-U FingerReader V4.5</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-system-performance-with-s620-drivers/"><u>Efficient System Performance with S620 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-gaming-rtx-3090-driver-win-edition/"><u>Elevate Gaming: RTX 3090 Driver, Win Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-performance-essential-win10-drivers-for-yoga-900s/"><u>Elevate Performance: Essential Win10 Drivers for Yoga 900S</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-amd-audio-driver-for-windows/"><u>Enhanced AMD Audio Driver for Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/fixes-for-disabled-obs-fullscreen-mode-for-2024/"><u>Fixes for Disabled OBS Fullscreen Mode for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-scsi-drivers-in-a-flash/"><u>Get SCSI Drivers in a Flash</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-the-latest-nvidia-gtx-960-drivers/"><u>Get the Latest Nvidia GTX 960 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonize-intel-drivers-with-latest-windows-11-7-and-81-standards/"><u>Harmonize Intel Drivers with Latest Windows 11, 7 & 8.1 Standards</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hassle-free-headset-driver-update-guide/"><u>Hassle-Free Headset Driver Update Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-lava-blaze-2-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Lava Blaze 2 PIN</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-smart-8-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Smart 8 Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-and-reinstall-astro-drivers-on-windows/"><u>How to Update and Reinstall Astro Drivers on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oppo-reno-10-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Oppo Reno 10 Pro 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-itel-a60s-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Itel A60s FRP</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-agni-2-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Lava Agni 2 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seo-power-play-strategies-to-amplify-your-podcasts-impact/"><u>In 2024, SEO Power Play  Strategies To Amplify Your Podcast's Impact</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-pova-5-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Pova 5 Pro Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intuitive-ways-to-revamp-your-nvidia-graphics-drivers/"><u>Intuitive Ways to Revamp Your Nvidia Graphics Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-tech-update-nvidia-970-for-windows-11-users/"><u>Latest Tech Update: Nvidia 970 for Windows 11 Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-efficiency-with-up-to-date-hp-printer-drivers-in-windows-11/"><u>Maximize Efficiency with Up-to-Date HP Printer Drivers in Windows 11</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/navigate-the-transfer-of-quick-images-from-popular-chat-app/"><u>Navigate the Transfer of Quick Images From Popular Chat App</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigate-through-driver-updates-in-windows-xp-manually/"><u>Navigate Through Driver Updates in Windows XP Manually</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-usbasp-errors-across-different-windows-editions/"><u>Navigating USBasp Errors Across Different Windows Editions</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-premiere-pro-compatibility-ensure-smooth-performance-on-your-computer/"><u>New 2024 Approved Premiere Pro Compatibility Ensure Smooth Performance on Your Computer</u></a></li>
-<li><a href="https://driver-install.techidaily.com/one-click-headset-software-updates/"><u>One-Click Headset Software Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/paving-way-for-optimal-performance-updating-msi-drivers-and-bios/"><u>Paving Way for Optimal Performance: Updating MSI Drivers & BIOS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-latest-driver-release/"><u>Quadro RTX 6000 Latest Driver Release</u></a></li>
-<li><a href="https://driver-install.techidaily.com/recommended-practices-for-nvidia-audio-drivers-in-win11/"><u>Recommended Practices for NVIDIA Audio Drivers in Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sync-hp-envy-5530-driver-with-windows-10-pcs/"><u>Sync HP Envy 5530 Driver with Windows 10 PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-definitive-guide-to-hyperx-soundcard-driver-improvements/"><u>The Definitive Guide to HyperX Soundcard Driver Improvements</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-wireless-driver-revamp-for-atheros-in-windows-10/"><u>The Ultimate Guide: Wireless Driver Revamp for Atheros in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-acer-driver-setup-for-optimized-graphics/"><u>Update Acer Driver Setup for Optimized Graphics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-xerox-copier-6515-drivers/"><u>Update Xerox Copier 6515 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-drivers-for-your-hp-officejet-pro-8620-in-windows-os/"><u>Upgraded Drivers for Your HP OfficeJet Pro 8620 in Windows OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-stability-secured-for-win-users/"><u>USB Stability Secured for WIN Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-all-inclusive-iptv-delivery-systems-for-2024/"><u>[Updated] All-Inclusive IPTV Delivery Systems for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-5-next-level-editors-to-transcend-the-standard-youtube-videos/"><u>[Updated] In 2024, 5 Next-Level Editors to Transcend the Standard Youtube Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-key-screen-snapping-programs-for-content-sharing/"><u>[Updated] Key Screen-Snapping Programs for Content Sharing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-obs-configurations-on-frugal-devices/"><u>2024 Approved Top OBS Configurations on Frugal Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-usb-bt400-bt-driver-win11-8-support/"><u>Asus USB-BT400 BT Driver - Win11, 8 Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bravo-15s-latest-driver-version-guide/"><u>Bravo 15'S Latest Driver Version Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/epic-games-age-of-empires-iv-installation-woes-solutions-and-tips-for-ms-users/"><u>Epic Games' Age of Empires IV Installation Woes: Solutions and Tips for MS Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-latest-geforce-drivers-gtx-1650/"><u>Get Latest GeForce Drivers – GTX 1650</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-motorola-moto-g-5g-2023-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Motorola Moto G 5G (2023) For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-driver-installation-for-u-are-u-fp-v45/"><u>Instant Driver Installation for U-Are-U FP V4.5</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/pixelpioneer-creating-collages-for-instagramplusdevices/"><u>PixelPioneer Creating Collages for Instagram+Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solving-win98-network-issues-the-ultimate-fix-it-guide/"><u>Solving Win98 Network Issues - The Ultimate Fix-It Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-settle-m-track-driver-problems/"><u>Swiftly Settle M-Track Driver Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-must-play-imessage-games/"><u>Top 7 Must-Play iMessage Games</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-best-top-10-video-editing-software-for-creators/"><u>Updated The Best of the Best Top 10 Video Editing Software for Creators</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

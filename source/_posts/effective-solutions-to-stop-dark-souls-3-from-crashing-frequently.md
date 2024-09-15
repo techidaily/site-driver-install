@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to Stop Dark Souls 3 From Crashing Frequently
-date: 2024-09-09T05:10:54.730Z
-updated: 2024-09-10T05:10:54.730Z
+date: 2024-09-11T11:09:45.154Z
+updated: 2024-09-15T02:06:40.910Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Effective Solutions to Stop Dark Souls 3 From Cr
 thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba43bbccdd544fcfb9e3bcdf69.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Stop XCOM 2 From Crashing on Your Windows Computer: Effective Fixes
 
 It’s really annoying to have**XCOM 2 crashed** during the startup or even worse while playing the game. Don’t worry, you may try the fixes here one by one to solve the problem.
@@ -44,12 +38,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -60,12 +48,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -84,12 +66,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
@@ -97,17 +73,12 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable Steam Overlay
 
  The Steam overlay is a piece of Steam user interface that can let users access friend list, web browser and in-game DLC purchasing. This feature is very useful but sometimes it can be the reason for game crash. You can disable it and check whether it could solve the crashes.
@@ -116,6 +87,19 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your driver
 
@@ -139,12 +123,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 
@@ -160,8 +138,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,43 +147,19 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[New] 2024 Approved  Fresh Footage, Frequent Flows  Do's & Don'ts for Streamlining Video Content</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlocking-the-power-of-social-medias-fb-covers/"><u>[New] 2024 Approved  Unlocking the Power of Social Media's FB Covers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-a-step-by-step-guide-to-autoplaying-youtube-in-facebook-groups-and-pages/"><u>[New] In 2024, A Step-by-Step Guide to Autoplaying Youtube in Facebook Groups and Pages</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/intage-video-making-masterclass-complete-tutorial-for-2024/"><u>[New] Vintage Video Making Masterclass  Complete Tutorial for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-checklist-for-ideal-podcast-title-creation-for-2024/"><u>[Updated] The Ultimate Checklist for Ideal Podcast Title Creation for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-immerse-audiences-integrating-sound-effectively-in-canva-films/"><u>2024 Approved  Immerse Audiences  Integrating Sound Effectively in Canva Films</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-obtaining-professional-photo-banners/"><u>2024 Approved  Mastering the Art of Obtaining Professional Photo Banners</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-sliding-to-victory-celebrating-the-best-in-snowboard-cross-winter-games-22/"><u>2024 Approved  Sliding to Victory  Celebrating the Best in Snowboard Cross, Winter Games '22</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unbeatable-tag-analyzers-for-facebook-twitter-and-instagram-sites/"><u>2024 Approved  Unbeatable Tag Analyzers for Facebook, Twitter & Instagram Sites</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-x-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone X and iPad Securely</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amd-gpu-install-new-rx-5700-driver-version/"><u>AMD GPU: Install New RX 5700 Driver Version</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beats-and-bits-video-sound-mixing-on-win11-for-2024/"><u>Beats & Bits  Video Sound Mixing on Win11 for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-networking-performance-rtl8723b-driver-revamp/"><u>Boost Networking Performance: RTL8723B Driver Revamp</u></a></li>
-<li><a href="https://driver-install.techidaily.com/connexion-to-high-definition-windows-11-audio-via-conexant-upgrade/"><u>Connexion to High Definition: Windows 11 Audio via Conexant Upgrade</u></a></li>
-<li><a href="https://driver-install.techidaily.com/customized-techniques-for-manual-updates-on-windows-xp/"><u>Customized Techniques for Manual Updates on Windows XP</u></a></li>
-<li><a href="https://driver-install.techidaily.com/directly-boost-performance-with-driver-downloads/"><u>Directly Boost Performance with Driver Downloads</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-latest-drivers-for-hp-printer-4630-model/"><u>Download Latest Drivers for HP Printer 4630 Model</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-steps-to-smoother-audio-driver-performance/"><u>Easy Steps to Smoother Audio Driver Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-gfx-driver-installation-with-ddu/"><u>Efficient GFX Driver Installation with DDU</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-graphics-driver-installation-wndows/"><u>Efficient Graphics Driver Installation Wndows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-managing-atheros-wireless-driver-updates-in-windows-11/"><u>Efficiently Managing Atheros Wireless Driver Updates in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-reinstalling-hardware-drivers-for-all-windows-editions/"><u>Efficiently Reinstalling Hardware Drivers for All Windows Editions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-wifi-resurrection-reinstallation-of-bluetooth-driver-in-windows-1111/"><u>Effortless WiFi Resurrection: Reinstallation of Bluetooth Driver in Windows 11/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-your-audio-journey-with-upgraded-nvidia-drivers-for-win7/"><u>Elevate Your Audio Journey with Upgraded Nvidia Drivers for Win7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-windows-11-sound-experience-convex-audio-drivers/"><u>Enhance Windows 11 Sound Experience - Convex Audio Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-windows-security-with-me/"><u>Enhance Windows Security with ME</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/enhance-youtube-creations-with-soundtrack-perfection-guide-for-2024/"><u>Enhance YouTube Creations with Soundtrack Perfection Guide for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-graphics-via-hp-software-windows-10/"><u>Enhanced Graphics via HP Software, Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/execute-drivers-patches-in-vista-independently/"><u>Execute Drivers Patches in Vista Independently</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-track-gpu-update-gtx-750-ti/"><u>Fast-Track GPU Update: GTX 750 Ti</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-the-perfect-print-experience-with-canon-xp-drivers/"><u>Get the Perfect Print Experience with Canon XP Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-1650-graphics-driver-for-windows-users/"><u>GTX 1650 Graphics Driver for Windows Users</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/hear-now-or-never-the-solution-for-twitter-vids/"><u>Hear Now or Never  The Solution for Twitter Vids</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-x100-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo X100 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-professional-screen-grabber-for-win11/"><u>In 2024, Professional Screen Grabber for Win11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062242675-simplify-usb-drive-management-with-instant-adb-installation/"><u>Simplify USB Drive Management with Instant ADB Installation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-updating-hp-z440-system-driver-packages/"><u>Step-by-Step Guide to Updating HP Z440 System Driver Packages</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-11-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme 11 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-crafting-impeccable-srt-from-xml-ssa-and-ttml-files/"><u>[New] Crafting Impeccable SRT From XML, SSA & TTML Files</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevate-your-snaps-the-soundtrack-edition-for-2024/"><u>[New] Elevate Your Snaps The Soundtrack Edition for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-a-guide-to-the-best-5-book-tt-examples/"><u>2024 Approved A Guide to the Best 5 Book TT Examples</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-above-average-cloud-service-selections/"><u>2024 Approved Above-Average Cloud Service Selections</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-revamp-your-tone-7-premier-vocal-modification-tools/"><u>2024 Approved Revamp Your Tone 7 Premier Vocal Modification Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-math-behind-making-money-youtubes-viewer-insights/"><u>2024 Approved The Math Behind Making Money YouTube’s Viewer Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/complete-tech-makeover-reinstalling-your-video-driver/"><u>Complete Tech Makeover: Reinstalling Your Video Driver</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/embrace-mematic-your-personal-digital-diary-for-2024/"><u>Embrace Mematic Your Personal Digital Diary for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/execute-compatible-software-for-radeon-gfx-drivers/"><u>Execute Compatible Software for Radeon GFX Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/high-performance-and-robust-protection-a-deep-dive-into-the-asus-ac68u-rt-ac68u-5g-router-review/"><u>High Performance & Robust Protection: A Deep Dive Into the Asus AC68U (RT-AC68U) 5G Router Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-update-your-lenovo-dock-drivers/"><u>Rapid Update: Your Lenovo Dock Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-ftdi-signal-misalignment/"><u>Rectify FTDI Signal Misalignment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-interface-xbox-joy-con-on-windows/"><u>Seamless Interface: Xbox Joy-Con on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062979287-streamline-your-connectivity-with-one-click-adb-driver/"><u>Streamline Your Connectivity with One-Click ADB Driver!</u></a></li>
 </ul></div>
+

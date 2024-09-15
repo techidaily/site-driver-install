@@ -1,7 +1,7 @@
 ---
 title: "Set up Printer: Canon Inkjet, OS Versions"
-date: 2024-09-09T05:10:53.303Z
-updated: 2024-09-10T05:10:53.303Z
+date: 2024-09-09T05:04:47.053Z
+updated: 2024-09-15T09:54:12.724Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Canon Inkjet Setup Guide,Printer Configuration for Canon Inkjets,Canon
 thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e93a7a87ff86f1d0befba824a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Set up Printer: Canon Inkjet, OS Versions
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-5.jpg)
@@ -29,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 * [**Way 1. Download the latest Canon MX870 driver from Canon website**](#Way1)
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
 
  1) Head to [Canon Driver download center](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers) .
@@ -43,40 +31,16 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click **DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
 
  As you see, download driver from website needs a lot clicks. And you should find the correct driver by yourself. It’s a 100% correct way to install the proper driver though, it’s time-consuming.
@@ -95,8 +59,6 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,45 +68,26 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-reel-relationships-establishing-a-strong-social-media-presence-with-memes/"><u>[New] 2024 Approved  Reel Relationships  Establishing a Strong Social Media Presence with Memes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-worlds-finest-screen-recording-software-no-deadline/"><u>[New] 2024 Approved  World's Finest Screen Recording Software (No Deadline)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-benq-sw320-review-a-gateway-to-true-high-definition/"><u>[New] BenQ SW320 Review  A Gateway to True High Definition</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-bring-your-favorite-tunes-to-the-social-network-iphoneandroid/"><u>[New] Bring Your Favorite Tunes to the Social Network (iPhone/Android)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-nikon-d7500-review/"><u>[New] Nikon D7500 Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-do-i-access-the-full-range-of-shared-media-on-messenger/"><u>[Updated] How Do I Access the Full Range of Shared Media on Messenger?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-rediscover-lost-eyes-only-pics-for-2024/"><u>[Updated] Rediscover Lost Eyes-Only Pics for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-earning-money-with-your-facebook-page-for-2024/"><u>[Updated] The Art of Earning Money with Your Facebook Page for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unlock-more-views-with-these-tiktok-text-tools-of-2023/"><u>[Updated] Unlock More Views with These TikTok Text Tools of 2023</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ae-presets-unleashed-10-essential-design-principles/"><u>AE Presets Unleashed  10 Essential Design Principles</u></a></li>
-<li><a href="https://driver-install.techidaily.com/breeze-through-updating-logitech-mouse-win-7-edition/"><u>Breeze Through Updating Logitech Mouse, Win 7 Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevate-your-virtual-presentations-with-zoom-sharing/"><u>Elevate Your Virtual Presentations with Zoom Sharing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-connectivity-and-performance-on-winxp1110-install-mtk-drivers/"><u>Enhance Connectivity & Performance on WINXP11/10 - Install MTK Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-webcam-driver-for-clear-video-capture-logitech-c270/"><u>Essential Webcam Driver for Clear Video Capture: Logitech C270</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exciting-virtual-play-top-7-games-for-youngsters-online/"><u>Exciting Virtual Play: Top 7 Games for Youngsters Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fun-on-a-budget-meme-creators-handbook/"><u>Fun on a Budget – Meme Creator’s Handbook</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hands-off-driver-tweak-experience-on-z50-70/"><u>Hands-Off Driver Tweak Experience on Z50-70</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-keep-your-pcs-w11-drivers-current/"><u>How To Keep Your PC's W11 Drivers Current</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-x5-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-watch-facebook-live-on-your-apple-media-hub/"><u>In 2024, How to Watch Facebook Live on Your Apple Media Hub</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instagram-collage-made-simple-a-quick-how-to/"><u>Instagram Collage Made Simple  A Quick How-To</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/integrating-tracks-into-video-production-in-premiere-pro-for-2024/"><u>Integrating Tracks Into Video Production in Premiere Pro for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lead-in-tech-quick-scsi-drives-ready/"><u>Lead-In Tech: Quick SCSI Drives Ready</u></a></li>
-<li><a href="https://driver-install.techidaily.com/manual-enhancement-of-windows-vista-devices/"><u>Manual Enhancement of Windows Vista Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-audio-driver-changes-on-windows-11/"><u>Mastering Audio Driver Changes on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-horizons-installing-latest-sound-drivers-on-windows-11/"><u>New Horizons: Installing Latest Sound Drivers on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063414263-no-hassle-no-stress-m-track-fixes-now/"><u>No Hassle, No Stress - M-Track Fixes Now!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-operations-download-latest-canon-print-software/"><u>Optimize Operations: Download Latest Canon Print Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-your-w10w11-setup-with-updated-hdmi-driver-tips/"><u>Optimize Your W10/W11 Setup with Updated HDMI Driver Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/push-limits-rtx-3090-ultra-gaming-drivers/"><u>Push Limits: RTX 3090, Ultra Gaming Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-lenovo-ideapad-u310/"><u>Quick Driver Updates on Lenovo Ideapad U310</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rejuvenate-your-computer-points-with-new-omen-15-driver-software/"><u>Rejuvenate Your Computer' Points With New Omen 15 Driver Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-fast-wi-fi-driver-get-it-free-from-tp-link/"><u>Secure & Fast Wi-Fi Driver: Get It FREE From TP Link</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stepwise-reinstallation-of-printer-drivers-on-vintage-pcs/"><u>Stepwise Reinstallation of Printer Drivers on Vintage PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-intel-hd-graphics-530-driver-quickly-and-easily/"><u>Update Intel HD Graphics 530 Driver Quickly & Easily</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-sound-systems-successful-windows-10-integration/"><u>Upgraded Sound Systems: Successful Windows 10 Integration</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-drivers-revamp-in-vintage-windows-environments/"><u>USB Drivers Revamp in Vintage Windows Environments</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-driver-upgrade-for-enhanced-lenovo/"><u>Windows 10 Driver Upgrade for Enhanced Lenovo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zerogpt-myths-debunked-why-you-should-doubt-these-common-ai-detectors-with-4-proof-points/"><u>ZeroGPT Myths Debunked: Why You Should Doubt These Common AI Detectors (With 4 Proof Points)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-recovering-individual-snap-secrets/"><u>[New] In 2024, Recovering Individual Snap Secrets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/utube-havens-for-entrepreneurs-and-business-gurus-for-2024/"><u>10 YouTube Havens for Entrepreneurs & Business Gurus for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-making-waves-in-popularity-how-to-earn-vimeo-writers-picks/"><u>2024 Approved Making Waves in Popularity How to Earn Vimeo' Writers’ Picks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-full-potential-for-hp-graphics/"><u>Enable Full Potential for HP Graphics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-guide-to-screencasting-with-google-meet/"><u>Essential Guide to Screencasting with Google Meet</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-decision-temporary-ban-on-trump-proves-prudent/"><u>Facebook's Decision: Temporary Ban on Trump Proves Prudent</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-printer-4630-upgrade-software-release/"><u>HP Printer 4630 Upgrade Software Release</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-iphones-screen-lagging-on-shutdown-heres-what-to-do-about-it/"><u>Is Your iPhone's Screen Lagging on Shutdown? Here's What To Do About It</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-windows-1011-audio-drivers-quickly/"><u>Optimizing Windows 10/11 Audio Drivers Quickly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/raise-the-decibels-custom-sound-adjustments-on-a-windows-10-machine/"><u>Raise the Decibels: Custom Sound Adjustments on a Windows 10 Machine</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstall-audio-driver-to-fix-sound-problems-on-windows-10/"><u>Reinstall Audio Driver to Fix Sound Problems on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/snap-fixed-problems-with-driver-rehabilitation/"><u>Snap Fixed Problems with Driver Rehabilitation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/synchronize-uart-and-ftdi-devices/"><u>Synchronize UART and FTDI Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sx740-hs-camera-ultra-portable-lens-master/"><u>The SX740 HS Camera - Ultra-Portable Lens Master</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

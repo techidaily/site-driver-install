@@ -1,7 +1,7 @@
 ---
 title: "Cross-Platform USBasp: Win7 to Win10 Drivers Made Easy"
-date: 2024-07-11T15:53:08.850Z
-updated: 2024-07-12T15:53:08.850Z
+date: 2024-09-10T16:01:05.154Z
+updated: 2024-09-14T16:03:07.602Z
 tags:
   - win11
   - win10
@@ -77,10 +77,25 @@ Here’s what you need to do:
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dcf3157ac.jpg)
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
 4. Choose**Search automatically for updated driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -91,8 +106,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,6 +113,19 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>[New] 2024 Approved Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-how-to-use-9gag-to-create-meme/"><u>[Updated] In 2024, How to Use 9GAG to Create Meme</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-zoom-room-usage-for-first-time-users-for-2024/"><u>[Updated] Zoom Room Usage for First-Time Users for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rhythmic-rarities-assembling-the-best-dj-video-samples/"><u>2024 Approved Rhythmic Rarities Assembling the Best DJ Video Samples</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-ios-email-solutions-find-your-perfect-match/"><u>Essential iOS Email Solutions : Find Your Perfect Match</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-resolve-lack-of-sound-over-hdmi-from-a-computer-connected-to-monitor-and-tv/"><u>How To Resolve Lack of Sound Over HDMI From a Computer Connected to Monitor and TV</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-engagement-hubs-unite-facebook-twitter-instagram-and-youtube-insights/"><u>Social Engagement Hubs Unite: Facebook, Twitter, Instagram, and Youtube Insights.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transitioning-joy-cons-from-xbox-to-windows-pcs/"><u>Transitioning Joy-Cons From Xbox to Windows PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-common-issues-resolving-halo-3s-computer-system-failures/"><u>Troubleshooting Common Issues: Resolving Halo 3'S Computer System Failures</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ultra-performance-winrtx-3090-ti-driver/"><u>Ultra Performance: WinRTX 3090 Ti Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11s-aural-ascension-convex-audio-driver-update-required/"><u>Win11's Aural Ascension - Convex Audio Driver Update Required</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xbox-one-controller-drivers-for-windows-11/"><u>Xbox One Controller Drivers for Windows 11</u></a></li>
+</ul></div>
 

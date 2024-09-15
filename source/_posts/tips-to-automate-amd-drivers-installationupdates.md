@@ -1,7 +1,7 @@
 ---
 title: Tips to Automate AMD Drivers Installation/Updates
-date: 2024-09-09T05:10:54.083Z
-updated: 2024-09-10T05:10:54.083Z
+date: 2024-09-14T04:39:33.520Z
+updated: 2024-09-15T04:58:36.422Z
 tags:
   - win11
   - win10
@@ -28,18 +28,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 2. [Update your AMD video driver automatically](#Fix2)
 3. [Update your AMD video driver in Device Manager](#Fix3)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Download your AMD video driver manually
 
  As one of the biggest manufacturers of graphics cards, you can download the latest version of your AMD graphics driver from the AMD website:
@@ -52,12 +40,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f81d33633c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or you can identify your AMD graphics hardware by selecting your video card model and Windows system to download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f82b2be76c.jpg)
@@ -70,12 +52,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
  Manually downloading drivers requires time and computer skills. If this method doesn’t work for you, you can try other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update your AMD video driver automatically
 
  If you don’t have time or patience, you can automatically update your AMD video drivers with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -101,11 +77,12 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Update your AMD video driver in Device Manager
 
  You can also update the driver for your AMD video card in Device Manager, where you can view and manage hardware settings and driver software installed on your computer. Here’s how to do it:
@@ -114,46 +91,36 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Double click**Display adapters** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f857166088.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Right click on your**AMD video card device** , and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) If you have the AMD video driver in a DVD or CD delivered with your graphics card, you can choose**Browse my computer for driver software** , then insert the DVD into your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85aa9e26e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don’t have the AMD video driver stored in the DVD media, you can choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85bdaac43.jpg)
@@ -177,8 +144,6 @@ Feel free to add a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,40 +153,19 @@ Feel free to add a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-shared-surface-video-chronicling/"><u>[New] In 2024, Shared Surface Video Chronicling</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/remier-online-entrepreneurs-for-2024/"><u>[New] Premier Online Entrepreneurs for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevate-your-fb-chronicles-with-complimentary-extension-tools/"><u>[Updated] 2024 Approved  Elevate Your FB Chronicles with Complimentary Extension Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-beyond-3d-a-comparative-guide-to-metaverse-and-omniverse-realities/"><u>2024 Approved  Beyond 3D  A Comparative Guide to Metaverse and Omniverse Realities</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amd-graphic-advancement-download-rx-570-for-windows-oses/"><u>AMD Graphic Advancement - Download RX 570 for Windows OSes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/best-tecno-frp-bypass-guide-by-drfone-android/"><u>Best Tecno FRP Bypass Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/device-driver-installation-basics/"><u>Device Driver Installation Basics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-and-swift-methods-to-amplify-graphics-power-with-nvidia-drivers/"><u>Easy & Swift Methods to Amplify Graphics Power with Nvidia Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-software-update-hp-officejet-4630-edition/"><u>Enhanced Software Update: HP Officejet 4630 Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-sound-clarity-new-audio-drivers-in-win7-release/"><u>Enhanced Sound Clarity: New Audio Drivers in Win7 Release</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-driver-installation-tips/"><u>Essential Driver Installation Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tips-for-hyperx-soundcard-driver-tweaks/"><u>Essential Tips for HyperX Soundcard Driver Tweaks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s24-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S24 FRP Locks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063687158-get-your-tp-link-wireless-adapter-software-no-price/"><u>Get Your TP Link Wireless Adapter Software, No Price!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-effortlessly-stay-updated-with-newest-amd-graphics-cards/"><u>How to Effortlessly Stay Updated with Newest AMD Graphics Cards</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-printer-model-p1102w-driver-for-windows-os/"><u>HP Printer Model P1102w Driver for Windows OS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life/"><u>Humor in Captivity  Top 20 Memes From Jail to Joys of Online Life</u></a></li>
-<li><a href="https://driver-install.techidaily.com/implement-intels-hardware-features/"><u>Implement Intel's Hardware Features</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-touch-enhancement-for-windows-10-users/"><u>Instant Touch Enhancement for Windows 10 Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/jailbreak-comedy-hour-best-fb-moments-of-amusement-and-awe/"><u>Jailbreak Comedy Hour  Best FB Moments of Amusement and Awe</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-automatic-youtube-playback-on-social-media-hubs-for-2024/"><u>Mastering Automatic YouTube Playback on Social Media Hubs for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-driver-releases-enhancing-dell-portable-systems/"><u>New Driver Releases: Enhancing Dell Portable Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-release-nvidia-drivers-update-gtx-970-and-windows-11/"><u>New Release: Nvidia Drivers Update - GTX 970 & Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-installation-of-intel-igpu64/"><u>Quick Installation of Intel iGPU64</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quickly-enable-bluetooth-on-windows-7/"><u>Quickly Enable Bluetooth on Windows 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-reinstallation-of-bluetooth-drivers-in-win-1011/"><u>Rapid Reinstallation of Bluetooth Drivers in Win 10/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-acer-visual-support-on-windows-11/"><u>Revamp Acer Visual Support on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-driver-update-logitech-mouse-and-windows-11/"><u>Seamless Driver Update: Logitech Mouse & Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-system-functionality-with-asus-drivers/"><u>Simplify System Functionality with ASUS Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-chipset-functionality-with-updated-drivers-for-win-11781/"><u>Streamline Chipset Functionality with Updated Drivers for Win 11/7/8.1</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-windows-10-wi-fi-with-updated-advanced-atheros-drivers/"><u>Streamlining Windows 10 Wi-Fi with Updated, Advanced Atheros Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackle-xerox-print-job-failures-on-windows-11/"><u>Tackle Xerox Print Job Failures on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/uniting-win7-and-10-with-stable-usbasp-support/"><u>Uniting Win7 and 10 with Stable USBasp Support</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-11-xbox-one-controller-support-software/"><u>Windows 11 Xbox One Controller Support Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-1110-reviving-outdated-wi-fi-hardware/"><u>Windows 11/10: Reviving Outdated Wi-Fi Hardware</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-androids-playbook-for-rotating-and-joining-videography-for-2024/"><u>[New] Android's Playbook for Rotating and Joining Videography for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-complete-motion-evaluation-2023/"><u>[New] Complete Motion Evaluation 2023</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-hp-graphics-the-win7-updating-guide/"><u>Effortless HP Graphics – The Win7 Updating Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-self-improvement-with-innovative-ai-plugins/"><u>Elevate Self-Improvement with Innovative AI Plugins</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-zte-nubia-flip-5g-by-drfone-android/"><u>How to Bypass FRP from ZTE Nubia Flip 5G?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-display-processing-on-devices/"><u>Improve Display Processing on Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chinas-bargain-bin-of-virtual-reality-gear/"><u>In 2024, China's Bargain Bin of Virtual Reality Gear</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-windows-astro-driver-updates-and-replacements/"><u>Mastering Windows: Astro Driver Updates & Replacements</u></a></li>
+<li><a href="https://windows11.techidaily.com/peeling-back-the-layers-of-runtime-brokers-on-pcs/"><u>Peeling Back the Layers of Runtime Brokers on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-driver-changes-in-windows-7/"><u>Simplified Driver Changes in Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-device-management-with-canon-mf4770n-drivers-update-in-win-1087/"><u>Simplify Device Management with Canon MF4770n Drivers Update in Win 10/8/7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/streamline-your-mobile-workforce-with-verizon-wirelesss-efficient-mdm-solutions/"><u>Streamline Your Mobile Workforce with Verizon Wireless's Efficient MDM Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-noise-reconnecting-headset-and-controller-steps/"><u>Troubleshoot Noise: Reconnecting Headset & Controller Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/zero-hassle-drawing-wacom-tablet-software-for-win10-free/"><u>Zero Hassle Drawing: Wacom Tablet Software for Win10 [Free]</u></a></li>
 </ul></div>
+

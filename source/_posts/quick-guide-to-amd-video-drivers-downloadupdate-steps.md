@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide to AMD Video Drivers: Download/Update Steps"
-date: 2024-07-11T15:55:47.418Z
-updated: 2024-07-12T15:55:47.418Z
+date: 2024-09-10T01:27:04.922Z
+updated: 2024-09-14T21:47:51.331Z
 tags:
   - win11
   - win10
@@ -84,6 +84,19 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
@@ -92,9 +105,23 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f857166088.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right click on your**AMD video card device** , and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) If you have the AMD video driver in a DVD or CD delivered with your graphics card, you can choose**Browse my computer for driver software** , then insert the DVD into your computer.
 
@@ -123,8 +150,6 @@ Feel free to add a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,6 +157,22 @@ Feel free to add a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-hit-pump-mode-20-top-songs-to-energize-your-fitness-regime/"><u>[New] Hit Pump Mode 20 Top Songs to Energize Your Fitness Regime</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-corsair-h80i-v2-water-block-driver-for-optimal-performance/"><u>Get Your Corsair H80I-V2 Water Block Driver for Optimal Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s24plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S24+ To Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-c33-2023-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-win11s-ultimate-video-recorder-guide/"><u>In 2024, Win11's Ultimate Video Recorder Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instructions-microsoft-pro-4-drivers-in-windows/"><u>Instructions: Microsoft Pro 4 Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-y470-usb-win7-compatibility/"><u>Lenovo Y470 USB-Win7 Compatibility</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-direct-m2-firmware-on-pcs/"><u>Mastering Direct M.2 Firmware on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-hawku-cars-simple-solutions/"><u>Navigating Hawku Cars: Simple Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-add-professional-sound-effects-to-final-cut-pro-without-breaking-the-bank/"><u>New Add Professional Sound Effects to Final Cut Pro without Breaking the Bank</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-digsign-in-third-party-inf-resolved/"><u>No DigSign in Third-Party Inf: Resolved</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-new-driver-installation-guide/"><u>Nvidia GTX 970 - New Driver Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimal-printing-update-for-latest-hp-officejet-4630-driver/"><u>Optimal Printing: Update for Latest HP Officejet 4630 Driver</u></a></li>
+<li><a href="https://blog-min.techidaily.com/xmedia-recode/"><u>Xmedia Recodeでのビデオマージング不能に対応する最も手っ取り早い解決策</u></a></li>
+</ul></div>
 

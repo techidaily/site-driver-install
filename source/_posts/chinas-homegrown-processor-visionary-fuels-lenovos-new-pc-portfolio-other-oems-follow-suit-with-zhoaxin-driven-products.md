@@ -1,7 +1,7 @@
 ---
 title: China's Homegrown Processor Visionary Fuels Lenovo's New PC Portfolio; Other OEMs Follow Suit With Zhoaxin-Driven Products
-date: 2024-09-09T05:10:51.504Z
-updated: 2024-09-10T05:10:51.504Z
+date: 2024-09-11T17:08:04.474Z
+updated: 2024-09-14T17:46:41.102Z
 tags:
   - desktop
 categories:
@@ -9,24 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/La2gosMTvXC5DmJY6Lape9-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Launching Soon: The Budget-Friendly Qualcomm Mini Desktop PC with Snapdragon X Processor Available for Preorder
 
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
 * **SoC** : Qualcomm Snapdragon X Elite X-1E-00-1DE, specs divided between CPU, GPU, and NPU below
@@ -48,12 +36,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -68,8 +50,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,48 +59,26 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-faster-viewing-experience-for-instagram-videos/"><u>[New] 2024 Approved  Faster Viewing Experience for Instagram Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-from-facebook-to-hd-how-to-convert-videos-to-premium-mp4-format-free/"><u>[New] 2024 Approved  From Facebook to HD  How To Convert Videos to Premium MP4 Format (Free)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-capture-perfection-at-home-these-are-the-best-5-filming-hacks/"><u>[Updated] Capture Perfection at Home  These Are the Best 5 Filming Hacks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-fast-snapfinders-handbook-for-2024/"><u>[Updated] Fast Snapfinder's Handbook for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-olympic-sprint-spotlight-year-2022/"><u>2024 Approved  Olympic Sprint Spotlight  Year 2022</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-smart-shopping-for-quality-budget-friendly-4k-cameras/"><u>2024 Approved  Smart Shopping for Quality  Budget-Friendly 4K Cameras</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amplify-systems-visual-capabilities/"><u>Amplify System's Visual Capabilities</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cross-platform-steinberg-audio-driver-downloads/"><u>Cross-Platform Steinberg Audio Driver Downloads</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cross-platform-usbethernet-adapter-setup-manual/"><u>Cross-Platform USB/Ethernet Adapter Setup Manual</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-upgrade-conexant-hd-compatible-with-win11/"><u>Drive Upgrade: Conexant HD Compatible with Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-ati-hd-4800-drivers-update/"><u>Effortless ATI HD 4800 Drivers Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-win10-touchscreen-driver-fixes/"><u>Effortless Win10 TouchScreen Driver Fixes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-performance-with-updated-s1500-firmware-guide/"><u>Elevate Performance with Updated S1500 Firmware Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-printer-connectivity-with-new-windows-10-drivers/"><u>Enhance Printer Connectivity with New Windows 10 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fixing-usbasp-on-xp-7-81-and-10-for-uninterrupted-use/"><u>Fixing USBasp on XP, 7, 8.1 & 10 for Uninterrupted Use</u></a></li>
-<li><a href="https://driver-install.techidaily.com/free-canon-scan-software-windows-installation-guide/"><u>Free Canon Scan Software: Windows Installation Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-to-downloading-and-installing-officejet-8620-drivers-on-pcs/"><u>Guide to Downloading and Installing OfficeJet 8620 Drivers on PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonize-your-hp-laserjet-with-latest-windows-11-drivers/"><u>Harmonize Your HP Laserjet with Latest Windows 11 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hassle-free-handling-quick-track-corrections/"><u>Hassle-Free Handling: Quick Track Corrections</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How does the stardust trade cost In pokemon go On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c67-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme C67 4G?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-a34-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-take-your-videos-to-the-next-level-professional-1080p-video-editing-tools/"><u>In 2024, Take Your Videos to the Next Level Professional 1080P Video Editing Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/in-depth-guide-starting-anew-with-graphics-drivers/"><u>In-Depth Guide: Starting Anew with Graphics Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-wireless-network-performance-with-updated-atheros-drivers-in-win11/"><u>Mastering Wireless Network Performance with Updated Atheros Drivers in Win11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-moto-e13-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto E13 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-the-update-process-of-nvidia-sound-drivers-on-w10/"><u>Navigating the Update Process of NVIDIA Sound Drivers on W10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-wireless-card-functionality-with-new-windows-11-drivers/"><u>Optimize Wireless Card Functionality with New Windows 11 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overlapping-functionality-review/"><u>Overlapping Functionality Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-atheros-drivers-in-windows-10-easily/"><u>Revamping Atheros Drivers in Windows 10 Easily</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-screen-drivers-in-win10/"><u>Seamless Screen Drivers in Win10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/signature-absence-in-third-party-data-cleared/"><u>Signature Absence in Third-Party Data Cleared</u></a></li>
-<li><a href="https://driver-install.techidaily.com/solve-udp-ftdi-link-problems/"><u>Solve UDP-FTDI Link Problems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stay-ahead-of-the-curve-with-latest-drivers-for-hp-omen-15/"><u>Stay Ahead of the Curve with Latest Drivers for HP Omen 15</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steinberg-software-driver-downloads/"><u>Steinberg Software Driver Downloads</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-drivers-update-in-windows-versions-10plus81plus7/"><u>Streamlined Drivers Update in Windows Versions 10+8.1+7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-tech-upgrades-for-lenovo-u310/"><u>Streamlined Tech Upgrades for Lenovo U310</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshooting-guide-for-hp-printer-drivers-win11/"><u>Troubleshooting Guide for HP Printer Drivers (Win11)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveil-clearer-windows-10-sounds-audio-driver-reinstallation/"><u>Unveil Clearer Windows 10 Sounds: Audio Driver Reinstallation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-system-sound-on-windows-7-using-idt-drivers/"><u>Update System Sound on Windows 7 Using IDT Drivers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-future-of-branding-10-indispensable-marketing-podcasts-on-social-media-integration/"><u>Updated The Future of Branding 10 Indispensable Marketing Podcasts on Social Media Integration</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-lexmark-printer-drivers-with-minimal-hassle/"><u>Upgrade Lexmark Printer Drivers with Minimal Hassle</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-compatibility-perfected-hp-printer-driver/"><u>Win Compatibility: Perfected HP Printer Driver</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-cutting-clout-not-content-efficient-video-length-reduction/"><u>[New] 2024 Approved Cutting Clout, Not Content Efficient Video Length Reduction</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>[New] 2024 Approved The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freeloaders-guide-discovering-beautiful-tiktok-screenshots/"><u>[New] Freeloaders' Guide Discovering Beautiful TikTok Screenshots</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-explore-virtual-worlds-pcs-1-list-of-vr-360-game-streamers/"><u>[Updated] In 2024, Explore Virtual Worlds PC's #1 List of VR 360 Game Streamers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-gb-board-software-upgrade-windows-guide/"><u>Free GB Board Software Upgrade, Windows Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-driver-upgrade-windows-10-compatibility/"><u>GTX 970 Driver Upgrade: Windows 10 Compatibility</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-nvidia-hd-audio-drivers-for-windows-11/"><u>How to Update NVIDIA HD Audio Drivers for Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-driver-upgrade-for-radeon-hd-4800/"><u>Instant Driver Upgrade for Radeon HD 4800</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-razer-blackwidow-driver-updates-a-step-by-step-guide/"><u>Mastering Razer BlackWidow Driver Updates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-setting-up-videoleap-on-macbook-download-install-and-start-editing/"><u>New In 2024, Setting Up Videoleap on MacBook Download, Install, and Start Editing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-pcs-with-new-aoc-drivers-e1659fwu/"><u>Optimize Your PCs with New AOC Drivers - E1659FWU</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-to-update-to-usb-30-drivers-in-windows-environment/"><u>Step-by-Step Instructions to Update to USB 3.0 Drivers in Windows Environment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-lenovo-thinkspad-install-driver-updates-on-win11/"><u>Transform Your Lenovo ThinksPad - Install Driver Updates on Win11</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

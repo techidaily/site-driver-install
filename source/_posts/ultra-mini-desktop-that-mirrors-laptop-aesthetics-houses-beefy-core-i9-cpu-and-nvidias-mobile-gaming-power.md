@@ -1,7 +1,7 @@
 ---
 title: Ultra Mini Desktop That Mirrors Laptop Aesthetics - Houses Beefy Core I9 CPU and NVIDIA's Mobile Gaming Power
-date: 2024-09-09T05:10:51.607Z
-updated: 2024-09-10T05:10:51.607Z
+date: 2024-09-11T08:39:03.839Z
+updated: 2024-09-15T09:45:37.057Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/czUcAAVLzo69hDEYddAqaU-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Asus Unveils Revolutionary ROG NUC with Advanced Core Ultra 9 Processors and Impressive RTX nVidia Graphics Starting at Just $1,629
 
 Asus is launching its first gaming mini-PC with the ROG NUC. This tiny PC weighs just 2.6 kg and comes in a 2.5-liter chassis that measures 270 x 180 x 50mm. Even though it has a diminutive form factor, you won't miss out on performance as it comes with either an Intel Core Ultra 7 155H or a Core Ultra 9 185H. Both models also have a discrete GPU — an RTX 4060 for the Ultra 7 and RTX 4070 for the Ultra 9.
@@ -47,12 +41,6 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,14 +49,11 @@ These are the specifications of the two Asus ROG NUC models:
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,47 +64,27 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-androids-facetime-essentials-explained/"><u>[New] Android's FaceTime Essentials Explained</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mirth-mechanics-gratis-tools-to-amuse-and-entertain/"><u>[New] Mirth Mechanics  Gratis Tools to Amuse and Entertain</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-choosing-youtube-downloader-apps-on-your-android-device-for-2024/"><u>[Updated] Choosing YouTube Downloader Apps on Your Android Device for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-freely-accessible-cutting-edge-video-editor-tools/"><u>[Updated] Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-top-2-ios-video-editors-compared-cameo-versus-filmorago/"><u>[Updated] In 2024, Top 2 iOS Video Editors Compared  Cameo Versus FilmoraGo</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seamless-techniques-for-effective-iphone-screen-captures-for-2024/"><u>[Updated] Seamless Techniques for Effective Iphone Screen Captures for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-cutting-edge-techniques-recording-in-adobe-presenter/"><u>2024 Approved  Cutting Edge Techniques  Recording in Adobe Presenter</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/aid-to-the-poorest-foundation-danny-colombia-way/"><u>Aid to the Poorest: Foundation Danny Colombia Way</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amd-radeon-vega-3-graphics-driver-download-2024/"><u>AMD Radeon Vega 3 Graphics Driver Download 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-mac-visual-snapshot-list-limit-156-chars/"><u>Best Mac Visual Snapshot List (Limit  156 Chars)</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/directx-driver-software-windows-11-plus-xone-gaming/"><u>DirectX Driver Software: Windows 11 + Xone Gaming</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-mtk-usb-drivers-for-windows-11-10/"><u>Download MTK USB Drivers for Windows 11, 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-netgear-amped-wireless-usb-driver-for-pcs/"><u>Download NETGEAR Amped Wireless USB Driver for PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-xbox-controller-in-windows-os/"><u>Drive Xbox Controller in Windows OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-ie-driver-placement-in-windows-10plus/"><u>Efficient IE Driver Placement in Windows 10+</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-methods-msi-bravo-15-driver-patches/"><u>Efficient Methods: MSI Bravo 15 Driver Patches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortless-capture-of-webcast-radios-your-practical-guide-for-2024/"><u>Effortless Capture of Webcast Radios  Your Practical Guide for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortlessly-link-pc-to-airspace-w7/"><u>Effortlessly Link PC to Airspace W7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-waste-to-wonder-achieving-true-to-life-texture-appearance-and-smell-of-wood-through-3d-printing-with-sawdust-ink/"><u>From Waste to Wonder: Achieving True-to-Life Texture, Appearance, and Smell of Wood Through 3D Printing with Sawdust Ink</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tarted-with-youtube-video-ad-building-without-spending/"><u>Get Started with YouTube Video Ad Building Without Spending</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-disruption-device-unavailable/"><u>Graphics Disruption: Device Unavailable</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hookup-hp-envy-5530-driver-with-windows-10/"><u>Hookup HP Envy 5530 Driver with Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-enable-msi-afterburner-detect-gpu-feature-for-seamless-performance-on-windows-11-systems/"><u>How to Enable MSI Afterburner Detect GPU Feature for Seamless Performance on Windows 11 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-securely-update-your-print-driver-for-windows-11-canon/"><u>How to Securely Update Your Print Driver for Windows 11 Canon</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-upgrade-ie-drivers-in-widely-used-operating-systems/"><u>How to Upgrade IE Drivers in Widely-Used Operating Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-top-5-book-trailers-that-will-captivate-you/"><u>In 2024, Top 5 Book Trailers That Will Captivate You</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-gpu-firmware-release-gtx-1060/"><u>Latest GPU Firmware Release - GTX 1060</u></a></li>
-<li><a href="https://driver-install.techidaily.com/modernizing-nvidia-audio-drivers-in-w10-environment/"><u>Modernizing NVIDIA Audio Drivers in W10 Environment</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-windows-11-hdmi-updates-with-ease/"><u>Navigating Windows 11 HDMI Updates with Ease</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-os-security-intellme-driver/"><u>Optimize OS Security - IntellME Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-your-laserjet-new-drivers-compatible-with-win10/"><u>Optimize Your Laserjet: New Drivers Compatible with Win10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimizing-driver-updates-across-windows-versions-10plus81plus7/"><u>Optimizing Driver Updates Across Windows Versions 10+8.1+7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/razer-usb-mouse-setup-for-windows-1078-users/"><u>Razer USB Mouse Setup for Windows 10/7/8 Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-your-printere-performance-update-officejet-pro-8620-in-windows/"><u>Revitalize Your Printer'e Performance: Update OfficeJet Pro 8620 in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalizing-usb-functionality-on-historic-oss/"><u>Revitalizing USB Functionality on Historic OSs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-data-access-resolving-samsung-drives-on-pcs/"><u>Streamlined Data Access: Resolving Samsung Drives on PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-dell-audio-support-realtek-update-guide/"><u>Streamlining Dell Audio Support: Realtek Update Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/transformative-audio-experience-new-nvidia-driver-for-win7/"><u>Transformative Audio Experience: New Nvidia Driver for Win7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/triumph-in-windows-graphics-with-three-steps/"><u>Triumph in Windows Graphics With Three Steps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/uncomplicated-scsi-driver-integration/"><u>Uncomplicated SCSI Driver Integration</u></a></li>
-<li><a href="https://driver-install.techidaily.com/uncomplicated-way-to-bluetooth-driver-install-in-win-1011/"><u>Uncomplicated Way to Bluetooth Driver Install in Win 10/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/winprinter-setup-epson-et-2650-windows-installation/"><u>WinPrinter Setup: Epson ET-2650 Windows Installation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-boost-your-video-skills-using-adobe-connect-for-editing-techniques-for-2024/"><u>[Updated] Boost Your Video Skills Using Adobe Connect for Editing Techniques for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-discovering-win11s-finest-screen-grabbers/"><u>[Updated] In 2024, Discovering Win11's Finest Screen Grabbers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-unwanted-scenes-for-creative-outcomes/"><u>[Updated] Leveraging Unwanted Scenes for Creative Outcomes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capture-your-device-free-android-recorder-for-2024/"><u>Capture Your Device – Free Android Recorder for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compatible-tp-link-dongle-supports-with-windows-driver-update/"><u>Compatible TP Link Dongle Supports with Windows Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-your-crypto-gains-forward-windows-and-amd-driver-compatibility-guide/"><u>Drive Your Crypto Gains Forward: Windows & AMD Driver Compatibility Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamped-drives-for-pcs-new-acer-updates-in-win11/"><u>Revamped Drives for PCs: New Acer Updates in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-steps-to-solving-m-track-problems/"><u>Swift Steps to Solving M-Track Problems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-perfect-blend-of-cost-and-performance-exploring-the-oculus-quest-2/"><u>The Perfect Blend of Cost and Performance - Exploring the Oculus Quest 2</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

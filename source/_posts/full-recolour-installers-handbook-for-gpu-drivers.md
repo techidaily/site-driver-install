@@ -1,7 +1,7 @@
 ---
 title: "Full Recolour: Installer's Handbook for GPU Drivers"
-date: 2024-07-11T15:52:31.063Z
-updated: 2024-07-12T15:52:31.063Z
+date: 2024-09-13T16:50:55.373Z
+updated: 2024-09-15T00:19:30.374Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ OK, enough intro. Let’s see what you should do:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Create a system restore point
 
  This step is actually not imperative, but I strongly suggest you create a restore point as a precaution before proceeding to the next step. The restore point allows you to revert your system to a previous state when it’s still functioning well (especially before any problems come up). But don’t panic – you’ll rarely have serious issues during the clean installation.
@@ -91,6 +98,19 @@ OK, enough intro. Let’s see what you should do:
  Then, click**Select device** and choose your graphics card type, such as NVIDIA.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-21.png)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) There are three options in the upper left:
 
@@ -126,6 +146,13 @@ Finally, the last step is to install your driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-10-47.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -146,8 +173,6 @@ Finally, the last step is to install your driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,6 +180,16 @@ Finally, the last step is to install your driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-5-video-screens-for-ps5-players/"><u>2024 Approved Premier 5 Video Screens for PS5 Players</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-epic-saga-watching-order-of-how-to-train-your-dragon-sequences-explained/"><u>Experience the Epic Saga: Watching Order of How to Train Your Dragon Sequences Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-assembling-visual-slices-photo-montage-techniques/"><u>In 2024, Assembling Visual Slices Photo Montage Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-p40pluss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Itel P40+s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-edge-speech-recognition-tools/"><u>Leading Edge Speech Recognition Tools</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/mobile-memory-mender-restore-and-save/"><u>Mobile Memory Mender, Restore & Save</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-process-for-amd-graphics-cards-rx-5700x/"><u>Update Process for AMD Graphics Cards - RX 5700X</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-c270-driver-for-enhanced-hd-performance-on-windows-11/"><u>Upgrade C270 Driver for Enhanced HD Performance on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-enhanced-new-drivers-for-your-hp-printer/"><u>Windows 11 Enhanced: New Drivers for Your HP Printer</u></a></li>
+</ul></div>
 

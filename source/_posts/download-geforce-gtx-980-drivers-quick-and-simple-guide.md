@@ -1,7 +1,7 @@
 ---
 title: "Download GeForce GTX 980 Drivers: Quick & Simple Guide"
-date: 2024-09-09T05:10:50.931Z
-updated: 2024-09-10T05:10:50.931Z
+date: 2024-09-14T07:42:28.401Z
+updated: 2024-09-14T18:58:53.466Z
 tags:
   - win11
   - win10
@@ -27,34 +27,16 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b535756371c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
  3\. Go to**Drivers** section.  
  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5363520e92.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 980) and the operating system version (see[How to Get Operating System Version](https://tools.techidaily.com/drivereasy/download/)). After that, click**START SEARCH** button.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b536573138f.png)   
   
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)   
@@ -63,12 +45,6 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.  
   
@@ -86,12 +62,6 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b5372d89286.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.  
   
@@ -110,12 +80,6 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f1cb443644e.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [GeForce](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -123,8 +87,6 @@ Follow these steps:
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,49 +97,27 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-banner-bonanza-unlimited-50-free-youtube-designs/"><u>[New] 2024 Approved  Banner Bonanza  Unlimited 50 FREE YouTube Designs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-in-depth-analysis-asus-proart-pa-329q-4k-monitor/"><u>[New] In 2024, In-Depth Analysis  Asus ProArt PA 329Q 4K Monitor</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-professional-tips-integrating-closed-captions-with-ease-on-youtube/"><u>[New] In 2024, Professional Tips  Integrating Closed Captions with Ease on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-screen-recorder-showdown-apoyser-vs-emerging-alternatives-review/"><u>[New] In 2024, Screen Recorder Showdown  Apoyser Vs Emerging Alternatives Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlocking-creative-potential-in-lyric-videos-with-lyric-video-maker/"><u>[Updated] In 2024, Unlocking Creative Potential in Lyric Videos with Lyric Video Maker</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-reliving-retro-fun-with-top-5-emulated-game-boy-advance-games-on-desktop-systems/"><u>2024 Approved  Reliving Retro Fun with Top 5 Emulated Game Boy Advance Games on Desktop Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-headset-driver-enhancement-for-logitech/"><u>Accelerate Headset Driver Enhancement for Logitech</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-pc-performance-get-scsi-drivers-now/"><u>Accelerate PC Performance: Get SCSI Drivers Now</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accessing-canon-print-driver-files-for-windows-11/"><u>Accessing Canon Print Driver Files for Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/archiving-intelligence-methods-to-retain-and-revisit-chatgpt-discussions-anytime/"><u>Archiving Intelligence: Methods to Retain and Revisit ChatGPT Discussions Anytime</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ati-radeon-hd-5770-drivers-for-windows-11/"><u>ATI Radeon HD 5770 Drivers for Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-performance-via-swift-nvidia-driver-update-tactics/"><u>Boost Performance via Swift Nvidia Driver Update Tactics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-installation-of-bitcoin-capable-amd-drivers-on-your-os/"><u>Direct Installation of Bitcoin-Capable AMD Drivers on Your OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-upgrade-for-nvidias-gtx-750-ti/"><u>Direct Upgrade for NVIDIA's GTX 750 Ti</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-display-quality-with-latest-acer-cards-win11/"><u>Elevate Display Quality with Latest Acer Cards, Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevating-the-television-experience-with-4k-pixels/"><u>Elevating the Television Experience with 4K Pixels</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-graphics-engine-new-amd-vega-3-driver-version/"><u>Enhanced Graphics Engine - New AMD Vega 3 Driver Version</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-canon-software-drivers-for-new-win11-os/"><u>Essential Canon Software: Drivers for New Win11 OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fresh-start-with-qualcomm-wireless-card-driver-installation/"><u>Fresh Start with Qualcomm Wireless Card Driver Installation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/happy-printing-unleash-power-of-officejet-7740/"><u>Happy Printing: Unleash Power of Officejet 7740</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hassle-free-canon-printer-drivers-windows-guide/"><u>Hassle-Free Canon Printer Drivers: Windows Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-w7-system-sounds-through-new-audio-drivers/"><u>Improve W7 System Sounds Through New Audio Drivers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-12r-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus 12R via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-note-13-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 13 5G Fingerprint Lock</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-nvidia-gtx-1650-drivers-on-pc/"><u>Install Nvidia GTX 1650 Drivers on PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/jumpstart-new-logitech-mouse-features-via-win11-update/"><u>Jumpstart New Logitech Mouse Features via Win11 Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-intel-device-driver-updates-on-windows/"><u>Mastering Intel Device Driver Updates on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fix-windows-os-drivers-11-81-7/"><u>Quick-Fix Windows OS Drivers (11, 8.1, 7)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rectify-usb-serial-signaling-glitches/"><u>Rectify USB-Serial Signaling Glitches</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstallation-revamp-streamlined-graphics-support-via-ddu/"><u>Reinstallation Revamp: Streamlined Graphics Support via DDU</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstate-windows-11-sounds-via-drivers-reinstallation/"><u>Reinstate Windows 11 Sounds via Drivers Reinstallation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rejuvenate-printing-tasks-update-mf4770n-drivers-in-win-8710/"><u>Rejuvenate Printing Tasks: Update MF4770n Drivers in Win 8/7/10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-implementing-new-scansnap-s1500-drivers/"><u>Step-by-Step: Implementing New ScanSnap S1500 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-for-resolving-driver-setup-issues-in-windows/"><u>Steps for Resolving Driver Setup Issues in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stepwise-driver-correction-procedure-in-vista-system/"><u>Stepwise Driver Correction Procedure in Vista System</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stepwise-integration-of-new-windows-and-intel-devices/"><u>Stepwise Integration of New Windows & Intel Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stepwise-methodology-to-upgrade-dells-auditory-equipment/"><u>Stepwise Methodology to Upgrade Dell's Auditory Equipment</u></a></li>
-<li><a href="https://driver-install.techidaily.com/synchronize-package-with-hardware/"><u>Synchronize Package with Hardware</u></a></li>
-<li><a href="https://driver-install.techidaily.com/triple-technique-upgrade-win-graphics-boost/"><u>Triple-Technique Upgrade: Win Graphics Boost</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-video-experience-12-live-and-on-demand-app/"><u>Ultimate Video Experience  12 Live & On-Demand App</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-potential-with-windows-1110-include-mtk-usb-drivers/"><u>Unleash Potential with Windows 11/10: Include MTK USB Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-graphics-driver-on-windows-3-easy-ways/"><u>Update Graphics Driver on Windows (3 Easy Ways)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-amd-graphics-card-download-latest-firmware/"><u>Update Your AMD Graphics Card - Download Latest Firmware</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xbox-controllers-integration-with-windows/"><u>XBox Controllers Integration with Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-avoid-every-interruption-the-ultimate-guide-to-7-adblocking-tools/"><u>2024 Approved Avoid Every Interruption The Ultimate Guide to 7 AdBlocking Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715860312256-2024-approved-xbox-game-memories-save-them-with-screenshots/"><u>2024 Approved Xbox Game Memories, Save Them with Screenshots!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-lava-yuva-2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Lava Yuva 2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-a15-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy A15 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-guide-accumulating-massive-amounts-of-tiktok-videos/"><u>In 2024, A Comprehensive Guide Accumulating Massive Amounts of TikTok Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y36i-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y36i Face Lock?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/meet-the-behemoth-epic-zen-cpus-latest-edition-a-whopping-512mb-l3-cache-supported-by-an-incredible-array-of-128-cores/"><u>Meet the Behemoth: Epic Zen CPU's Latest Edition – A Whopping 512MB L3 Cache Supported by an Incredible Array of 128 Cores</u></a></li>
+<li><a href="https://driver-install.techidaily.com/razer-mouse-setup-guide-for-efficient-windows-use/"><u>Razer Mouse Setup Guide for Efficient Windows Use</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rtx-3090-ti-driver-download-for-windows-111087/"><u>RTX 3090 Ti Driver Download for Windows 11/10/8/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-your-network-with-free-tp-link-drivers-downloads/"><u>Secure Your Network with Free TP Link Drivers Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-operations-installing-hd-webcam-software-from-logitech/"><u>Streamline Operations: Installing HD Webcam Software From Logitech</u></a></li>
+<li><a href="https://driver-install.techidaily.com/surface-pro-4-driver-setup-for-windows-pcs/"><u>Surface Pro 4 Driver Setup for Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/synchronize-dell-inkjet-with-win11/"><u>Synchronize Dell Inkjet with Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win10-simple-touchscreen-drivers-updates/"><u>Win10: Simple Touchscreen Drivers Updates</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Sound Troubleshooting: Start with Driver Reinstall"
-date: 2024-09-09T05:10:54.505Z
-updated: 2024-09-10T05:10:54.505Z
+date: 2024-09-13T18:30:51.661Z
+updated: 2024-09-14T21:11:17.683Z
 tags:
   - win11
   - win10
@@ -30,12 +30,6 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Reinstall audio driver manually
 
  You can follow the steps below to reinstall your audio driver manually. First you’ll need to uninstall the audio driver.
@@ -46,38 +40,14 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 2. Type**devmgmt.msc i** n the Run box and click OK to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffffd514aa.png)
 3. Expand the category**Sound,video and game controllers** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffff4272b1.jpg)
 4. **Right-click on the sound device** and click**Uninstall device** (in some cases, this could be just Uninstall). In the below example, the sound device is Realtek High Definition Audio.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0027dd7b67.jpg)
 5. On the Uninstall confirm dialog box, select the**Delete the driver software for this device** option, then click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be003fba7ed5.png)  
  The option**Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information you can visit [Driver Store](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) in Microsoft. If you don’t see this option on the**Uninstall confirm dialog** box, the driver package may have been removed. In this case, just click**Uninstall** to uninstall the driver.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. **Restart** your computer. Usually, Windows will install an audio driver automatically when your computer is connected to the internet. (It may not give you the latest drivers — so if you found the issue persists, you can take the following methods to automatically check for driver issues or updates.)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Reinstall audio driver automatically (Recommended)
 
  The above steps may help resolve your no sound issues, but if they don’t, you can install a new audio driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -90,12 +60,6 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer for any outdated or faulty drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the **three dots icon** next to an audio driver and select**Uninstall driver** (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) ). Since replacing the old driver with a newer one may solve the audio issues, you can also choose to update all your drivers with one click to keep your PC drivers up-to-date.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/audio-driver-uninstall-driver-easy.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -113,8 +77,6 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,41 +86,24 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-concepts-for-captivating-youtube-video-thumbnails/"><u>[New] 2024 Approved  Cutting-Edge Concepts for Captivating YouTube Video Thumbnails</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exploring-apeaksofts-innovations-in-screen-recording/"><u>[Updated] 2024 Approved  Exploring Apeaksoft’s Innovations in Screen Recording</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-video-editing-journeys-end-discover-the-best-10-tools/"><u>[Updated] 2024 Approved  Video Editing Journey's End  Discover the Best 10 Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-digital-image-grabbers/"><u>[Updated] Elite Digital Image Grabbers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-win10-users-guide-to-recording-mov/"><u>[Updated] In 2024, The Win10 User's Guide to Recording MOV</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/affordable-high-definition-top-mirrorless-under-(1k-for-2024/"><u>Affordable High Definition - Top Mirrorless Under <$1K for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-lexars-usb-controller-software-a-fast-and-simple-solution/"><u>Download Lexar's USB Controller Software: A Fast & Simple Solution</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-apple-iphone-7-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from Apple iPhone 7 Plus Safe and Legal</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-smoothie-moments-selecting-the-best-slo-motion-capture-apps-iosandroid/"><u>Essential Smoothie Moments  Selecting the Best Slo-Motion Capture Apps iOS/Android</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-v29-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo V29 Pro</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-v29e-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo V29e Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-internet-access-via-ethernet-from-usb-hub/"><u>Instant Internet Access via Ethernet From USB Hub</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantaneous-gtx-750-ti-drivers-access/"><u>Instantaneous GTX 750 Ti Drivers Access</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-g580-simplified-driver-changes/"><u>Lenovo G580: Simplified Driver Changes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovos-u310-update-operations-simplified/"><u>Lenovo's U310: Update Operations Simplified</u></a></li>
-<li><a href="https://driver-install.techidaily.com/logitech-webcam-safe-update-tool/"><u>Logitech Webcam Safe Update Tool</u></a></li>
-<li><a href="https://driver-install.techidaily.com/m2-to-windows-connector/"><u>M.2 To Windows Connector</u></a></li>
-<li><a href="https://driver-install.techidaily.com/masterful-device-management-via-installed-hardware-drivers/"><u>Masterful Device Management via Installed Hardware Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-privacy-how-to-thoroughly-erase-files-and-directories-with-stellar-file-eraser-v5-for-windows-users/"><u>Mastering Privacy: How to Thoroughly Erase Files & Directories with Stellar File Eraser v5 for Windows Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-windows-startechs-expertise-in-fixing-drivers-7-11/"><u>Mastering Windows: StarTech's Expertise in Fixing Drivers (7-11)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastery-in-solid-state-resolving-windows-samsung-issues-done/"><u>Mastery in Solid State: Resolving Windows Samsung Issues [Done]</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-fps-hp-graphics-in-windows-10/"><u>Maximize FPS: HP Graphics in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigate-to-installed-r9-drivers-for-windows/"><u>Navigate to Installed R9 Drivers for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/network-fixation-restoring-qualcomm-wireless-operator/"><u>Network Fixation: Restoring Qualcomm Wireless Operator</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nextgen-console-driver-software-win11xbone/"><u>NextGen Console Driver Software - Win11/Xbone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-geforce-update-for-gtx-1060/"><u>Nvidia GeForce Update for GTX 1060</u></a></li>
-<li><a href="https://driver-install.techidaily.com/obtaining-official-canon-drivers-for-11-windows-system/"><u>Obtaining Official Canon Drivers for 11 Windows System</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-document-printing-speed-in-windows-10/"><u>Optimize Document Printing Speed in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/patch-perfection-win95-win11-driver-flawlessness-for-startech/"><u>Patch Perfection: Win95-Win11 Driver Flawlessness for StarTech</u></a></li>
-<li><a href="https://driver-install.techidaily.com/perfect-pc-integration-update-thinkspad-drivers-on-windows-11/"><u>Perfect PC Integration - Update ThinksPad Drivers on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722872704883-pixel-10-preview-inside-scoop-on-rumored-pricing-specs-and-the-exciting-future-of-google-phones/"><u>Pixel 10 Preview - Inside Scoop on Rumored Pricing, Specs and the Exciting Future of Google Phones!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/power-up-your-dell-latest-driver-update-release-notes/"><u>Power Up Your Dell: Latest Driver Update Release Notes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/purchase-hp-officejet-pro-8710-usb-drivers-for-windows/"><u>Purchase: HP OfficeJet Pro 8710 USB Drivers for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-and-easy-acer-drivers-update-for-boosted-windows-10-performance/"><u>Quick & Easy Acer Drivers Update for Boosted Windows 10 Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fixes-for-outdated-nvidia-on-windows-pc/"><u>Quick Fixes for Outdated NVIDIA on Windows PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-patch-solving-m-audio-track-fails/"><u>Quick Patch: Solving M-Audio Track Fails</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-setup-guide-for-windows-10-printer/"><u>Quick Setup Guide for Windows 10 Printer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-15-best-sites-to-find-and-download-royalty-free-music-for-youtube-for-2024/"><u>[New] 15 Best Sites to Find & Download Royalty-Free Music for YouTube for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-pro-level-video-editing-with-vivacut-full-review-and-guidebook/"><u>[New] 2024 Approved Pro-Level Video Editing with VivaCut Full Review & Guidebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-free-to-do-approach-for-text-and-video-combination/"><u>[New] In 2024, The Free-to-Do Approach for Text & Video Combination</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-guide-for-diy-gif-makers-youtube-to-visual-storytelling/"><u>[Updated] The Essential Guide for DIY GIF Makers YouTube to Visual Storytelling</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-12-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 12 Space | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-t2-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo T2 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-checklist-tracking-igtv-analytics/"><u>In 2024, The Ultimate Checklist Tracking IGTV Analytics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximizing-gpu-performance-via-reinstallation-guide/"><u>Maximizing GPU Performance via Reinstallation Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-guide-to-adding-snapchat-on-your-macbook/"><u>Quick Guide to Adding Snapchat on Your MacBook</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-video-driver-settings-win-71011/"><u>Refresh Video Driver Settings (Win 7/10/11)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winrtx-3090-ti-enhanced-performance/"><u>WinRTX 3090 Ti Enhanced Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winssd-optimizing-samsung-drives-on-your-machine/"><u>WinSSD: Optimizing Samsung Drives on Your Machine</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
