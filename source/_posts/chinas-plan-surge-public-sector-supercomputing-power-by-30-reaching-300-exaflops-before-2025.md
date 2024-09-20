@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-09-10T07:16:33.618Z
-updated: 2024-09-14T18:36:30.970Z
+date: 2024-09-18T16:35:58.392Z
+updated: 2024-09-20T16:25:41.647Z
 tags:
   - desktop
 categories:
@@ -56,25 +56,22 @@ Today we have one great deal that turns into two when you take up a bundle offer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-youtubers-blueprint-building-a-powerhouse-channel/"><u>[New] 2024 Approved The YouTuber’s Blueprint Building a Powerhouse Channel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-experts-pathway-navigating-fullscreen-realms-in-premiere-pro/"><u>[Updated] Expert's Pathway Navigating Fullscreen Realms in Premiere Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-collages-thanks-to-picshot/"><u>[Updated] Master the Art of Collages, Thanks to Picshot</u></a></li>
-<li><a href="https://driver-install.techidaily.com/compatibility-dilemma-queries/"><u>Compatibility Dilemma Queries</u></a></li>
-<li><a href="https://driver-install.techidaily.com/directwave-software-unified-console-controls-win11xone/"><u>DirectWave Software: Unified Console Controls, Win11/Xone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/invisible-display-laptop-hdmi-not-recognized-by-tv/"><u>Invisible Display: Laptop HDMI Not Recognized By TV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revealing-10-mixer-marvels-perfected-for-professional-podcasting-for-2024/"><u>Revealing 10 Mixer Marvels, Perfected For Professional Podcasting for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reviving-rides-essential-steps-for-easy-hawku-repairs/"><u>Reviving Rides: Essential Steps for Easy Hawku Repairs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-sweepstakes-top-tunes-for-viral-youtube-short-videos-for-2024/"><u>Sonic Sweepstakes Top Tunes for Viral YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-your-approach-persuasive-proposal-via-ai/"><u>Transforming Your Approach: Persuasive Proposal via AI</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-performance-for-dell-notebooks-via-driver-update/"><u>Upgraded Performance for Dell Notebooks via Driver Update</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720673913826-video-enhancement-issues-with-a-specific-tool/"><u>Video Enhancement Issues with a Specific Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-low-volume-playback-system-guide/"><u>[New] The Art of Low-Volume Playback System Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-real-time-aspect-ratio-modification-tips/"><u>[Updated] Real-Time Aspect Ratio Modification Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-navigating-powerpoints-voice-recognition-lands-market/"><u>2024 Approved Navigating PowerPoint's Voice Recognition Lands Market</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-performance-by-updating-motherboard-drivers-on-your-windows-computer-a-simple-guide/"><u>Boost Performance by Updating Motherboard Drivers on Your Windows Computer - A Simple Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/decades-of-taskbars-windows-journey-19852023/"><u>Decades of Taskbars: Windows' Journey (1985–2023)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-htc-u23-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for HTC U23</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-gpu-firmware-gtx-1060/"><u>Latest GPU Firmware: GTX 1060</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-performance-updating-your-hyperx-headsets-hardware-drivers/"><u>Optimize Performance: Updating Your HyperX Headsets' Hardware Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-thumbnail-packs-free-pubg-montages/"><u>Premier Thumbnail Packs Free PUBG Montages</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-windows-10-experience-on-lenovo-yoga-900s/"><u>Seamless Windows 10 Experience on Lenovo Yoga 900S</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

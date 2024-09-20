@@ -1,7 +1,7 @@
 ---
 title: How to Fix Kotion Each G2000 Mic Not Working
-date: 2024-09-12T06:26:27.449Z
-updated: 2024-09-15T01:57:11.508Z
+date: 2024-09-13T16:14:09.481Z
+updated: 2024-09-20T16:00:45.143Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038f642ae65.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If instead of**Internal Speakers** , you see **Digital Output** or**No output devices found** , then insert your headphone into the headphone port and pull it out. Keep plugging and unplugging until **Internal Speakers** appears. Then repeat step 2).
 
 3) Check if you get sound back on your Mac.
@@ -76,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 * If**yes** : click**Turn Bluetooth Off** , then click the close button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
@@ -106,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
 
 4) After the start-up, your computer will be refreshed to the default settings. This time, you might need to  reconfigure settings for speaker volume, time zone, and display solution etc.
@@ -115,16 +122,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix **7: Create a testing account on safe mode**
@@ -142,22 +143,15 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
@@ -177,10 +171,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix **8: Update your Mac OS**
@@ -223,20 +217,16 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-top-9-live-stream-enhancers-ultimate-filter-guide/"><u>[New] Top 9 Live-Stream Enhancers Ultimate Filter Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-expert-tips-on-jump-cuts-for-dynamic-video-editing/"><u>[Updated] Expert Tips on Jump Cuts for Dynamic Video Editing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-how-to-change-name-in-google-meet-on-laptop-and-mobile-devices-in-2024/"><u>[Updated] How to Change Name in Google Meet on Laptop and Mobile Devices, In 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-perfecting-your-podcast-in-depth-zoom-video-recording-tutorial/"><u>[Updated] In 2024, Perfecting Your Podcast In-Depth Zoom Video Recording Tutorial</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unify-instagram-and-facebook-a-step-by-step-guide-for-2024/"><u>[Updated] Unify Instagram and Facebook A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/compreenas-easy-guide-for-upgrading-ie-drivers-in-legacy-oses/"><u>Compreenas Easy Guide for Upgrading IE Drivers in Legacy OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hardware-software-bottleneck/"><u>Hardware-Software Bottleneck</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplified-approach-to-reinstalling-print-drivers/"><u>Simplified Approach to Reinstalling Print Drivers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-repairing-realtek-hd-graphics-drivers-easily/"><u>Step-by-Step Tutorial on Repairing Realtek HD Graphics Drivers Easily</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-bitcoin-potential-on-windows-via-amd-drivers/"><u>Unlock Bitcoin Potential on Windows via AMD Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveiling-the-procedure-for-dell-realtek-driver-renewal/"><u>Unveiling the Procedure for Dell Realtek Driver Renewal</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgraded-amd-drivers-windows-10s-latest-feature-for-radeon-hd-6950/"><u>Upgraded AMD Drivers: Windows 10'S Latest Feature for Radeon HD 6950</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-20-conversion-to-ethernet-in-minutes/"><u>USB 2.0 Conversion to Ethernet in Minutes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-hub-mastery-achieved-post-fixes/"><u>Windows Hub Mastery Achieved Post-Fixes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-elevating-your-images-essential-hdr-tips-for-photoshop/"><u>[New] 2024 Approved Elevating Your Images Essential HDR Tips for Photoshop</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-network-settings-with-precision-win11/"><u>Adjusting Network Settings with Precision (Win11)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amds-performance-boost-rx-570-windows-driver-download-available/"><u>AMD's Performance Boost: RX 570 Windows Driver Download Available</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/effortless-image-incorrante-on-instagram-for-2024/"><u>Effortless Image Incorrante on Instagram for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-reliable-driver-install-a6200-netgear-usb/"><u>Fast & Reliable Driver Install: A6200 Netgear USB</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062899423-firmware-revolution-for-your-wired-gear/"><u>Firmware Revolution for Your Wired Gear</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-windows-10-how-to-prevent-fallout-3-from-crashing/"><u>Fixing Windows 10: How to Prevent Fallout 3 From Crashing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-windows-file-transfer-securely-install-mtk-usb-driver/"><u>Optimize Windows File Transfer: Securely Install MTK USB Driver</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-into-virtuality-comparing-best-vr-treadmills/"><u>Step Into Virtuality Comparing Best VR Treadmills</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-intel-hardware-controls-in-win-11-7-and-81-environments/"><u>Update Intel Hardware Controls in Win 11, 7 & 8.1 Environments</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-simplest-online-tone-generators-our-top-picks/"><u>Updated Simplest Online Tone Generators Our Top Picks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
-date: 2024-09-11T01:20:15.096Z
-updated: 2024-09-15T07:37:52.830Z
+date: 2024-09-18T16:14:58.047Z
+updated: 2024-09-20T16:35:17.448Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
@@ -72,18 +72,18 @@ Lifewire / Kelsey Simon
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Gameplay: Dialogue prompts and effort**
 
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -100,16 +100,10 @@ Lifewire / Kelsey Simon
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Graphics: Outdated and simplistic**
@@ -121,6 +115,13 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -141,13 +142,6 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -172,21 +166,21 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-selection-the-best-12-pc-games-for-click-enthusiasts/"><u>[New] 2024 Approved Prime Selection The Best 12 PC Games for Click Enthusiasts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/avigating-youtube-strikes-understanding-and-resolving-copyright-issues-for-2024/"><u>[New] Navigating YouTube Strikes Understanding and Resolving Copyright Issues for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-13-mini-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 13 mini Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cut-down-wait-time-with-updated-acer-drivers-for-win10/"><u>Cut Down Wait Time with Updated Acer Drivers for Win10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-adapter-drivers-for-netgear-ac1200/"><u>Download Adapter Drivers for NETGEAR AC1200</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-conversion-usb-ethernet-pairing-steps/"><u>Effortless Conversion: USB-Ethernet Pairing Steps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/development-behind-the-scenes/"><u>Game Development Behind-the-Scenes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonizing-usbasp-with-windows-solutions-for-multiple-versions/"><u>Harmonizing USBasp with Windows: Solutions for Multiple Versions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-oppo-reno-10-proplus-5g-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Oppo Reno 10 Pro+ 5G with Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improved-connectivity-installing-logitech-hd-camera-c270-for-windows-1011/"><u>Improved Connectivity: Installing Logitech HD Camera (C270) for Windows 10/11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-6s-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 6s and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-fn-key-malfunction-heres-how-to-restore-it/"><u>Lenovo Fn Key Malfunction? Here's How to Restore It</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-usbasp-operation-on-vista7-8110-systems/"><u>Seamless USBasp Operation on Vista/7, 8.1/10 Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/synthesizing-soundscapes-the-revamped-magic-of-magix-music-maker-2024/"><u>Synthesizing Soundscapes The Revamped Magic of Magix Music Maker 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-nvidia-driver-a-complete-reboot-guide/"><u>Windows NVIDIA Driver: A Complete Reboot Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-your-youtube-experience-tips-on-channel-art-and-sizes-for-2024/"><u>[Updated] Elevating Your YouTube Experience Tips on Channel Art and Sizes for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chrome-plugin-impersonating-chatgpt-exposes-facebook-accounts/"><u>Chrome Plugin Impersonating ChatGPT Exposes Facebook Accounts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-solutions-for-hp-beat-audio-driver-troubles-in-multiple-windows-editions/"><u>Effective Solutions for HP Beat Audio Driver Troubles in Multiple Windows Editions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/flexible-driver-changes-on-lenovos-u310/"><u>Flexible Driver Changes on Lenovo's U310</u></a></li>
+<li><a href="https://driver-install.techidaily.com/full-guide-mastering-the-reinstall-of-video-drivers/"><u>Full Guide: Mastering the Reinstall of Video Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-wacom-bamboo-firmware-updates/"><u>Hassle-Free Wacom Bamboo Firmware Updates</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweet-to-tune-video-to-audible-file/"><u>In 2024, Tweet-to-Tune Video to Audible File</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pairing-w11-with-xbox-one-gaming-controllers/"><u>Pairing W11 with Xbox One Gaming Controllers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/real-time-broadcasting-obs-to-instagram/"><u>Real-Time Broadcasting OBS to Instagram</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-setup-direct-installation-of-asus-bt400-drivers/"><u>Seamless Setup: Direct Installation of Asus BT400 Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essence-of-shareable-humorous-content/"><u>The Essence of Shareable Humorous Content</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-full-potential-with-officejet-printer-driver/"><u>Unlock Full Potential with Officejet Printer Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-printers-install-canon-mx870-win-versions/"><u>Update Printers: Install Canon MX870 Win Versions</u></a></li>
 </ul></div>
 

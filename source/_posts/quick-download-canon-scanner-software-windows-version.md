@@ -1,7 +1,7 @@
 ---
 title: "Quick Download: Canon Scanner Software (Windows) Version"
-date: 2024-07-11T15:48:48.443Z
-updated: 2024-07-12T15:48:48.443Z
+date: 2024-09-14T16:03:14.241Z
+updated: 2024-09-20T16:26:12.962Z
 tags:
   - win11
   - win10
@@ -72,10 +72,26 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 1. Make sure you’ve connected your Canon scanner to your Windows computer.
 2. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 3. Type**devmgmt.msc** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 4. In Device Manager, double-click**Printers** or**Print queues** to expand it.  Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 5. Choose**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 6. Follow the on-screen instructions to finish updating the driver.
 7. Restart your computer afterward.
@@ -92,8 +108,6 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,6 +115,21 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-tips-for-creating-compelling-free-ads-on-youtube-for-2024/"><u>[New] Essential Tips for Creating Compelling Free Ads on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-creating-captivating-360-footage-for-social-media-sharing/"><u>[Updated] In 2024, Creating Captivating 360 Footage for Social Media Sharing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amdradeon5770winrtkenhance/"><u>AMDRADEON5770WinRTKEnhance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/displaying-your-pc-desktop-on-tv-screens-via-google-cast-an-in-depth-tutorial/"><u>Displaying Your PC Desktop On TV Screens Via Google Cast - An In-Depth Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968452582-download-and-install-m-audio-fast-track-drivers-for-various-windows-versions-today/"><u>Download & Install M-Audio Fast Track Drivers for Various Windows Versions Today</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-motorola-moto-g13-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Motorola Moto G13 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-poco-c50-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Poco C50 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-driver-update-geforce-gtx-1060-drivers-download-and-update/"><u>Nvidia Driver Update | GeForce GTX 1060 Drivers Download and Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-intel-hm63-driver/"><u>Quick Fix: Intel HM63 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-windows-11-acer-driver-updates/"><u>Quick Windows 11 Acer Driver Updates</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-androids-malfunctioned-mp4-files/"><u>Repairing Android's Malfunctioned MP4 Files</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steinberg-driver-downloads-windows-macos-linux-support/"><u>Steinberg Driver Downloads - Windows, MacOS, Linux Support</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/techniques-to-enhance-your-slow-motion-photos-for-instagram-audiences-for-2024/"><u>Techniques to Enhance Your Slow Motion Photos for Instagram Audiences for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unboxing-is-an-ipad-a-smart-investment/"><u>Unboxing: Is an iPad a Smart Investment?</u></a></li>
+</ul></div>
 

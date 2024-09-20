@@ -1,7 +1,7 @@
 ---
 title: Immersive Gaming Experience with the Philips 49 Curved OLED Display
-date: 2024-09-11T07:20:18.431Z
-updated: 2024-09-14T21:48:49.188Z
+date: 2024-09-19T16:01:20.057Z
+updated: 2024-09-20T16:26:34.249Z
 categories:
   - BestProducts
 description: This Article Describes Immersive Gaming Experience with the Philips 49 Curved OLED Display
@@ -95,13 +95,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance** :**Great components for gaming and productivity**
 
  The HP OMEN Obelisk that I tested featured a 9th Gen Intel Core i9 9900K, 32GB of RAM, a 1TB SSD, and the Nvidia GTX GeForce 2080 Super graphics card. This is a potent combination of components in a gaming PC, and I was appropriately impressed by the results.
@@ -109,13 +102,6 @@ Lifewire / Jonno Hill
  The desktop scored an impressive 6,967 in the productivity-focused benchmarking application PCMark 10\. On the gaming front, the Omen managed a score of 10,740 in 3DMark’s Time Spy. In real-world use, this means more than 60fps at 4K in many popular titles like GTA V, but less than 60fps in others like Deus Ex: Mankind Divided. In other words, the Omen is mostly capable of 4K gameplay and is nearly always capable of 60+ fps in most common resolutions shy of 4K.
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -131,7 +117,21 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
@@ -148,6 +148,13 @@ Lifewire / Jonno Hill
  The lighting is executed fairly well on the HP OMEN Obelisk. There are only two lighting zones: one for the interior of the case, and one for the logo on the front exterior. Through the OMEN Command Center, you can set and customize lighting profiles for each zone. You can choose a static color, but also may choose from animation profiles that cycle between preset or user-defined colors. Luckily you can also choose the brightness, if you want to tone down the lighting a bit, and choose a separate profile for when the desktop is asleep.
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Highly competitive**
 
@@ -170,19 +177,6 @@ Lifewire / Jonno Hill
  **High performance and fantastic value, but upsetting thermals.**
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -218,17 +212,15 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-unveiling-new-ways-to-record-presentations-for-2024/"><u>[New] Unveiling New Ways to Record Presentations for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dissecting-youtubes-criteria-for-featured-community-inputs/"><u>[Updated] In 2024, Dissecting YouTube's Criteria for Featured Community Inputs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pathway-to-get-your-hands-on-movie-maker-6/"><u>[Updated] Pathway to Get Your Hands on Movie Maker 6</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-prove-your-worth-in-the-world-of-photography-essential-pixlr-skills-for-2024/"><u>[Updated] Prove Your Worth in the World of Photography Essential Pixlr Skills for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-slug-line-creation-techniques-for-online-copy/"><u>[Updated] Slug Line Creation Techniques for Online Copy</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-v27-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo V27 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-connection-protocol-for-windows-usb-guide/"><u>Direct Connection Protocol for Windows: USB Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-usb-driver-pack-for-versatile-oss-epson-2650/"><u>Direct USB Driver Pack for Versatile OSs - Epson 2650</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062890212-how-to-update-drivers-in-windows-10-81-7-quickly-and-easily/"><u>How to Update Drivers in Windows 10, 8.1, 7. Quickly & Easily</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 13 Pro Max and iPad</u></a></li>
-<li><a href="https://facebook.techidaily.com/tech-giant-whatsapp-sues-over-indian-it-regulation-concerns/"><u>Tech Giant WhatsApp Sues Over Indian IT Regulation Concerns</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-wireless-standards-exploring-ieees-80211-be-ax-ac-bgn-and-a/"><u>The Ultimate Guide to Wireless Standards: Exploring IEEE's 802.11 Be, Ax, Ac, B/G/N & A</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-expanding-your-audience-syncing-igtv-and-facebook/"><u>[Updated] In 2024, Expanding Your Audience Syncing IGTV & Facebook</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-driver-pack-installer-windows-edition/"><u>ASUS Driver Pack Installer, Windows Edition</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-5-subtitle-conversion-tools-for-effortlessly-changing-txt-to-srtstlasssccttml/"><u>Discover the Ultimate 5 Subtitle Conversion Tools for Effortlessly Changing TXT to SRT/STL/ASS/SCC/TTML</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi Note 13 5G?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-12-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 12 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-audio-driver-update-process-for-win11-users/"><u>Seamless Audio Driver Update Process for Win11 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-hdmi-on-windows-11-a-driver-update-tutorial/"><u>Streamlining HDMI on Windows 11: A Driver Update Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-startech-drivers-for-windows-7-10/"><u>Streamlining StarTech Drivers for Windows 7-10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-experts-guide-to-instagrams-licensed-music-posting-policies-for-2024/"><u>The Expert’s Guide to Instagram's Licensed Music Posting Policies for 2024</u></a></li>
 </ul></div>
 
