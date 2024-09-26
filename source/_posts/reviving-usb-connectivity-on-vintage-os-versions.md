@@ -1,7 +1,7 @@
 ---
 title: Reviving USB Connectivity on Vintage OS Versions
-date: 2024-09-19T16:15:07.140Z
-updated: 2024-09-20T16:21:44.447Z
+date: 2024-09-23T16:45:52.109Z
+updated: 2024-09-26T16:00:12.993Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1 – Reinstall the drivers using Device Manager
 
  Device Manager is a Windows built-in tool that allows you to view and control the hardware attached to your computer and update the device drivers. To reinstall the USB drivers in Device Manager, follow the steps below:
@@ -32,12 +39,35 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then, type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
@@ -75,12 +105,23 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemaster-edge-the-ultimate-transition-strategies/"><u>[Updated] Kinemaster Edge The Ultimate Transition Strategies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-widi-chipset-version/"><u>Accelerate WiDi Chipset Version</u></a></li>
+<li><a href="https://discover-best.techidaily.com/automated-user-tracking-with-the-help-of-cookiebot-technology/"><u>Automated User Tracking with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-usb-and-serial-connections-smoothly/"><u>Bridge USB and Serial Connections Smoothly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-immersive-experiences-with-captions-on-stories-and-reels/"><u>Crafting Immersive Experiences with Captions on Stories & Reels</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-intel-520-driver-update/"><u>Efficient Intel 520 Driver Update</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-pathway-to-viral-stardom-explained-for-2024/"><u>Facebook's Pathway to Viral Stardom Explained for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-5-lite-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 5 Lite Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-seamlessly-revamp-windows-and-intels/"><u>How to Seamlessly Revamp Windows & Intels</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-3d-painting-with-these-tips/"><u>Master the Art of 3D Painting with These Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/operational-boundary-testing/"><u>Operational Boundary Testing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/restart-graphics-support-in-winos/"><u>Restart Graphics Support in WinOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-download-of-amd-drivers-for-auto-detecting-systems/"><u>Seamless Download of AMD Drivers for Auto-Detecting Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-basic-ps-color-correction/"><u>Step-by-Step Guide to Basic PS Color Correction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-on-merging-chatgpt-with-your-google-sheets-workflow-efficiently/"><u>The Ultimate Tutorial on Merging ChatGPT with Your Google Sheets Workflow Efficiently</u></a></li>
+<li><a href="https://driver-install.techidaily.com/visual-upgrade-for-win-users-the-triad-approach/"><u>Visual Upgrade for Win Users - The Triad Approach</u></a></li>
+</ul></div>
 

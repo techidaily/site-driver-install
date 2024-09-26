@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-09-18T16:35:58.392Z
-updated: 2024-09-20T16:25:41.647Z
+date: 2024-09-21T16:57:25.123Z
+updated: 2024-09-26T16:24:36.104Z
 tags:
   - desktop
 categories:
@@ -54,12 +54,26 @@ Today we have one great deal that turns into two when you take up a bundle offer
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-buy-list-selecting-the-premier-video-cards-for-youtube/"><u>[Updated] 2024 Approved Best Buy List Selecting the Premier Video Cards for YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premium-terraria-enhancements-guide/"><u>[Updated] Premium Terraria Enhancements Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-a23-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy A23 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boosting-nvidia-hd-audio-via-windows-update/"><u>Boosting NVIDIA HD Audio via Windows Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-method-revive-your-wacom-experience-in-win-10117-devices/"><u>Direct Method: Revive Your Wacom Experience in Win 10/11/7 Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-webcam-experience-with-logitech-c270-usb-driver/"><u>Enhance Your Webcam Experience with Logitech C270 USB Driver</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gamers-dilemma-oculus-htc-and-sonys-vr-dominance-for-2024/"><u>Gamers' Dilemma Oculus, HTC & Sony's VR Dominance for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-dominate-youtube-with-these-strategic-freefire-video-hashtags/"><u>In 2024, Dominate YouTube with These Strategic FreeFire Video Hashtags</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resource-allocation-strategies/"><u>Resource Allocation Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-pova-5-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Pova 5 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-acer-graphics-drivers-in-windows-11/"><u>Update Acer Graphics Drivers in Windows 11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-ways-to-merge-videos-in-handbrake-expectation-vs-reality/"><u>Updated 2024 Approved Ways to Merge Videos in HandBrake? Expectation Vs. Reality</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

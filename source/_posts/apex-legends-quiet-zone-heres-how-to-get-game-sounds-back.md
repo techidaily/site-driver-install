@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Quiet Zone? Here's How to Get Game Sounds Back!
-date: 2024-09-13T07:12:26.221Z
-updated: 2024-09-14T22:53:07.772Z
+date: 2024-09-21T16:50:57.984Z
+updated: 2024-09-26T17:04:00.430Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
@@ -85,13 +92,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -102,6 +102,13 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -110,20 +117,27 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -134,19 +148,6 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -174,5 +175,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-digital-rehearsal-mastery-in-recording-streaming-audio-for-2024/"><u>[New] Digital Rehearsal Mastery in Recording Streaming Audio for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-from-playback-to-perfection-expert-steam-video-guidance/"><u>[New] In 2024, From Playback to Perfection Expert Steam Video Guidance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-creators-uniting-for-marvels-digital-future/"><u>[Updated] 2024 Approved Creators Uniting for Marvel's Digital Future</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-dominating-the-digital-realm-youtube-marketing-secrets/"><u>[Updated] In 2024, Dominating the Digital Realm YouTube Marketing Secrets</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressing-software-failure-during-windows-driver-rollout/"><u>Addressing Software Failure During Windows Driver Rollout</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blueprints-to-locate-top-tier-videographers/"><u>Blueprints to Locate Top-Tier Videographers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-online-presence-update-logitech-c270-drivers-in-windows-11/"><u>Boost Your Online Presence: Update Logitech C270 Drivers in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-to-update-drivers-in-windows-7/"><u>Easy to Update Drivers in Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-personal-management-of-devices-in-vista-os/"><u>Guide to Personal Management of Devices in Vista OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-x9a-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor X9a Phone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-windows-10-network-new-approach-to-atheros-driver-installation/"><u>Revamping Windows 10 Network: New Approach to Atheros Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rh5770rtkgraphicsupdatewin/"><u>RH5770RTKGraphicsUpdateWin</u></a></li>
+<li><a href="https://driver-install.techidaily.com/snap-up-issues-with-easy-m-track-fixes/"><u>Snap Up Issues with Easy M-Track Fixes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-youtube-video-blueprint-mastering-visual-content-sharing-for-2024/"><u>The Ultimate Youtube Video Blueprint Mastering Visual Content Sharing for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-secrets-solving-win7-miniport-conflicts/"><u>Unlocking Secrets: Solving Win7 Miniport Conflicts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-intuos-4-driver-free-download-for-windows-100-safe/"><u>Wacom Intuos 4 Driver Free Download for Windows [100% Safe]</u></a></li>
+</ul></div>
 

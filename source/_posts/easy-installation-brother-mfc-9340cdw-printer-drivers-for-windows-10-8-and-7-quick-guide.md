@@ -1,7 +1,7 @@
 ---
 title: "Easy Installation: Brother MFC-9340CDW Printer Drivers for Windows 10, 8 & 7 - Quick Guide!"
-date: 2024-09-17T16:01:26.035Z
-updated: 2024-09-20T16:34:35.412Z
+date: 2024-09-23T16:35:45.284Z
+updated: 2024-09-26T17:30:24.271Z
 tags:
   - win11
   - win10
@@ -35,17 +35,41 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Printer queues** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC-9340CDW** and click **Uninstall device** .
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click **Product Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f9dbc2b1f.jpg)
 5. Type**MFC-9340CDW**  into the **Search by Model Name** box and click **Search** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a35c4d2e36.png)
 6. Click **Downloads** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a35fed0b08.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a364817b74.jpg)
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a3678d7562.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
@@ -53,7 +77,27 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Method 2: Update your Brother MFC-9340CDW driver automatically (Recommended)
 
@@ -92,12 +136,26 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-become-a-streaming-sensation-on-twitter-platform/"><u>[New] In 2024, Become a Streaming Sensation on Twitter Platform</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-new-normal-for-vr-industry-insights/"><u>[New] The New Normal for VR Industry Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ebpage-wonders-enhancing-with-youtubes-playlist-features/"><u>[New] Webpage Wonders Enhancing with YouTube's Playlist Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplified-nft-artistry-for-first-timers/"><u>[Updated] Simplified NFT Artistry for First-Timers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-image-enhancement-10-pro-tips-for-using-pixlr-effectively/"><u>2024 Approved Master Image Enhancement 10 Pro Tips for Using Pixlr Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/current-acer-vision-enhancements-in-win11/"><u>Current Acer Vision Enhancements in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-installd-gaomon-s620-for-superior-performance/"><u>Download & Installd Gaomon S620 for Superior Performance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-boost-instagram-growth-with-advanced-analysis-platforms/"><u>In 2024, Boost Instagram Growth with Advanced Analysis Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instant-inspiration-free-video-intro-kits/"><u>In 2024, Instant Inspiration - Free Video Intro Kits</u></a></li>
+<li><a href="https://driver-install.techidaily.com/include-hp-envy-5530-software-in-windows-10-setup/"><u>Include HP Envy 5530 Software in Windows 10 Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-drawing-experience-wacom-intuos-4-free-download/"><u>Intuitive Drawing Experience: Wacom Intuos 4 FREE Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precise-instructions-updating-dells-audio-components/"><u>Precise Instructions: Updating Dell's Audio Components</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-bluetooth-setup-in-windows-7/"><u>Quick Bluetooth Setup in Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-driver-rollouts-for-nvidias-760/"><u>Rapid Driver Rollouts for Nvidia's 760</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revise-idt-audio-protocols-in-w7-os/"><u>Revise IDT Audio Protocols in W7 OS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-t2-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo T2 5G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-essential-features-in-java-gaming-world/"><u>Top Picks: Essential Features in Java Gaming World</u></a></li>
+<li><a href="https://driver-install.techidaily.com/triumph-over-wan-miniport-glitches-windows-8-guide/"><u>Triumph Over WAN Miniport Glitches - Windows 8 Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-iphone-6s-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your iPhone 6s Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+</ul></div>
 

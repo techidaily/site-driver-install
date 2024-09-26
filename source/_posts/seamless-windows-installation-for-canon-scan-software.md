@@ -1,7 +1,7 @@
 ---
 title: Seamless Windows Installation for Canon Scan Software
-date: 2024-09-12T01:34:43.150Z
-updated: 2024-09-15T03:02:15.969Z
+date: 2024-09-22T17:38:27.367Z
+updated: 2024-09-26T17:28:23.722Z
 tags:
   - win11
   - win10
@@ -40,12 +40,27 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 2. Search for your scanner model from the search bar. (In my case I search for **CanoScan** LiDE 120.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search.jpg)
 3. On your scanner result page, click**Software & Drivers**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-1.jpg)
 4. Select the OS and version that match with your computer. Then click**DOWNLOAD** there is a driver available for you to download.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-2.jpg)
 5. Install the driver on your computer.
 
  This requires time or computer skills. If you don’t have time or patience, you can try the solutions below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Update Canon scanner driver automatically
 
@@ -63,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/canon-scan.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 ## Method 3: Update Canon scanner driver via Device Manager
@@ -75,24 +97,18 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 4. In Device Manager, double-click**Printers** or**Print queues** to expand it.  Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 5. Choose**Search automatically for updated driver software** .  
-![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
-6. Follow the on-screen instructions to finish updating the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
+6. Follow the on-screen instructions to finish updating the driver.
 
 7. Restart your computer afterward.
 
@@ -115,5 +131,18 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-breaking-the-screens-top-10-most-popular-female-youtubers-for-2024/"><u>[New] Breaking the Screens Top 10 Most Popular Female YouTubers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-cutting-edge-framing-apps-for-stunning-images/"><u>[New] In 2024, Cutting-Edge Framing Apps for Stunning Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-10-insta-management-gadgets-for-boosting-engagement/"><u>[Updated] 2024 Approved Top 10 Insta Management Gadgets for Boosting Engagement</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elevate-presentations-harnessing-aiseesoft-screen-recordings/"><u>[Updated] Elevate Presentations Harnessing Aiseesoft Screen Recordings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-workforce-ds-30-drivers-compatible-with-windows-1087/"><u>Epson WorkForce DS 30 Drivers - Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Passcode Screen?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063414263-no-hassle-no-stress-m-track-fixes-now/"><u>No Hassle, No Stress - M-Track Fixes Now!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/push-limits-rtx-3090-ultra-gaming-drivers/"><u>Push Limits: RTX 3090, Ultra Gaming Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-installing-the-latest-dell-speaker-driver/"><u>Quick Guide: Installing the Latest Dell Speaker Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/snappy-drivers-update-techniques-for-all-windows-versions/"><u>Snappy Drivers Update Techniques for All Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-driver-upgrade-for-enhanced-lenovo/"><u>Windows 10 Driver Upgrade for Enhanced Lenovo</u></a></li>
+</ul></div>
 

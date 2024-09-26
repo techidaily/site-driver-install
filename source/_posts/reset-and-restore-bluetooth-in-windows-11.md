@@ -1,7 +1,7 @@
 ---
 title: "Reset and Restore: Bluetooth in Windows 11"
-date: 2024-09-11T19:41:06.476Z
-updated: 2024-09-15T04:17:47.931Z
+date: 2024-09-21T16:03:31.028Z
+updated: 2024-09-26T17:21:09.720Z
 tags:
   - win11
   - win10
@@ -37,8 +37,30 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 1. On your keyboard, press the**Windows** logo key and the**R** key at the same time to invoke the Run box. Type or paste**devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-box-device-manager.jpg)
 2. Double-click**Bluetooth** to expand the category. Then right-click your Bluetooth adapter and select**Uninstall device** . (If you don’t see a Bluetooth adapter, try using [Driver Easy](https://tools.techidaily.com/drivereasy/download/) to scan for missing drivers.)  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-uninstall-bluetooth-driver.jpg)  
  To identify the Bluetooth adapter, one common method is to look for the name that**starts with a manufacturer** (e.g. Intel, Qualcomm or Realtek) and**ends with a “Bluetooth”** .
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the pop-up window, check the box next to**Delete the driver software for this device** . Then click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/uninstall-device-driver-02.jpg)
 4. Once you’ve uninstalled your Bluetooth driver, restart your computer.
@@ -48,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
  If you’re on**Windows 10 or 11** , Windows will automatically install the missing Bluetooth driver after a reboot. (Note that you might need an**Internet connection** for this function.)
 
  If you’re on**Windows 8 or 7** , you can visit the manufacturer’s website of your**PC or motherboard** , then search for your model and download the latest installation wizard compatible with your operating system.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Reinstall Bluetooth driver automatically (Recommended)
 
@@ -64,19 +93,6 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  After updating your Bluetooth driver,**restart your computer** for it to take full effect.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## If the problem is still there
 
  Given that we all use our computers differently, it’s sometimes impossible to locate the problem manually. In this case, you can use a system repair tool to run a full scan of your PC.
@@ -87,20 +103,15 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -123,5 +134,26 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-stream-viewer-unraveler/"><u>[New] In 2024, Stream Viewer Unraveler</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-why-are-recommended-youtube-movies-elusive-on-facebook/"><u>[Updated] 2024 Approved Why Are Recommended YouTube Movies Elusive on Facebook?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-successfully-upload-elongated-youtube-clips-for-2024/"><u>[Updated] How to Successfully Upload Elongated YouTube Clips for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-cloud-apps-for-android-the-most-reliable/"><u>2024 Approved Premium Cloud Apps for Android The Most Reliable</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027323528-xmedia-recode/"><u>効率的にXMedia Recodeを使った動画結合ガイド</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-yoga-900s-download-comprehensive-windows-10-driver-pack/"><u>Boost Yoga 900S: Download Comprehensive Windows 10 Driver Pack</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/connoisseurs-compendium-budget-friendly-photography-havens-for-2024/"><u>Connoisseur's Compendium Budget-Friendly Photography Havens for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effective-technique-uninstall-and-reinstall-wacom-on-various-windows-editions/"><u>Effective Technique: Uninstall & Reinstall Wacom on Various Windows Editions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-setup-with-canon-scanner-driver-pack-windows/"><u>Instant Setup with Canon Scanner Driver Pack (Windows)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-thinkpad-with-latest-windows-11-drivers/"><u>Optimize Thinkpad with Latest Windows 11 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-nvidia-drivers-in-windows-10-setup/"><u>Optimizing NVIDIA Drivers in Windows 10 Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickening-data-exchange-diminishing-pings-and-delay-duration/"><u>Quickening Data Exchange: Diminishing Pings and Delay Duration</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-optimization-update-logitech-usb-audio-drivers/"><u>Rapid Optimization: Update Logitech USB Audio Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-adobe-issues-fixing-the-error-code-c0000022/"><u>Resolving Adobe Issues: Fixing the Error Code C0000022</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-lenovo-g580-one-tap-driver-updates/"><u>Revamp Lenovo G580: One-Tap Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-canon-printer-drivers-in-windows-pre-win11/"><u>Setup Canon Printer Drivers in Windows Pre-Win11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-strategies-unveiled-essential-youtube-video-resources-for-2024/"><u>Stock Strategies Unveiled Essential YouTube Video Resources for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-zte-axon-40-lite-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your ZTE Axon 40 Lite Phone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-computer-with-windows-11-touch-driver/"><u>Transform Your Computer with Windows 11 Touch Driver</u></a></li>
+</ul></div>
 

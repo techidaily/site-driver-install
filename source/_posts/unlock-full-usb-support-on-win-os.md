@@ -1,7 +1,7 @@
 ---
 title: Unlock Full USB Support on WIN OS
-date: 2024-09-17T16:15:01.573Z
-updated: 2024-09-20T16:23:32.943Z
+date: 2024-09-21T16:44:02.179Z
+updated: 2024-09-26T16:37:41.432Z
 tags:
   - win11
   - win10
@@ -35,6 +35,20 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and**R** at the same time to invoke the**Run** box.
 2. Type**devmgmt.msc** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
@@ -44,7 +58,21 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Method 2: Update Generic USB Hub driver automatically
 
@@ -58,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5be1edc38.jpg)
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
@@ -81,12 +116,21 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-saving-your-iphone-screen-a-step-by-step-approach/"><u>[New] 2024 Approved Saving Your iPhone Screen A Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-go-beyond-screens-how-to-watch-360-videos-and-vr-via-android/"><u>[Updated] Go Beyond Screens How to Watch 360 Videos & VR via Android</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-paving-the-pathway-to-popularity-thriving-on-instagram/"><u>[Updated] In 2024, Paving the Pathway to Popularity Thriving on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-best-screen-recording-and-streaming-app-manycam-ultimate-virtual-camera-solution/"><u>1. Best Screen Recording and Streaming App - ManyCam: Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-new-version-of-brother-printer-drivers-hl-l2300d-edition/"><u>Get the New Version of Brother Printer Drivers - HL-L2300D Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-quickly-restore-bluetooth-functionality-win11/"><u>How to Quickly Restore Bluetooth Functionality Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-marvell-ac-wifi-in-windows-server-environment/"><u>Install Marvell Ac WiFi in Windows Server Environment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-enhance-lenovo-g580-with-new-drivers/"><u>Instantly Enhance Lenovo G580 with New Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-windodrive-on-pc-timely-techniques-and-tips/"><u>Refresh WindoDrive on PC - Timely Techniques and Tips</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-galaxy-s23plus-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Galaxy S23+</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-when-your-usb-port-sharing-fails/"><u>Step-by-Step Solutions When Your USB Port Sharing Fails</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-controller-solution-xbox-and-windows/"><u>Universal Controller Solution: Xbox & Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-printer-drivers-for-hp-officejet-pro-8620-now-available-in-windows/"><u>Upgraded Printer Drivers for HP OfficeJet Pro 8620: Now Available in Windows</u></a></li>
+</ul></div>
 

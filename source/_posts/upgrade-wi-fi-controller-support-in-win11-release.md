@@ -1,7 +1,7 @@
 ---
 title: Upgrade Wi-Fi Controller Support in Win11 Release
-date: 2024-09-14T09:41:28.654Z
-updated: 2024-09-15T11:39:37.273Z
+date: 2024-09-20T16:54:25.917Z
+updated: 2024-09-26T17:01:37.277Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ _Realtek PCIe GBE Familly Controller_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Use Windows Update
 
  You can use [Windows Update](https://tools.techidaily.com/drivereasy/download/) to check for the updates in Windows 10\. It may help install the driver for your Realtek PCIe GbE Family Controller. If this feature in your Window 10 has been set to install updates automatically, you can skip this way.
@@ -70,6 +77,13 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-521.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Usually, the driver can be self-installing. After you download the driver, double-click on the file to begin the installation. If the driver cannot be installed in this way, you might have to install it manually, then follow steps below to install the driver.
 
  1) On your keyboard, press **Win+R** (Windows logo key and R key) at the same time to invoke the Run box.
@@ -77,6 +91,13 @@ _Realtek PCIe GBE Familly Controller_
  2) Type **devmgmt.msc** in the run box and click **OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0234c3a594.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In Device Manager, expand category **Network adapters** . Under this category, right-click on the**Realtek PCIe GbE Family Controller** . Then click**Update Driver Software…**
 
@@ -89,6 +110,13 @@ _Realtek PCIe GBE Familly Controller_
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023f947709.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Click on   **Next** button to install the driver.
 
@@ -111,12 +139,22 @@ _Realtek PCIe GBE Familly Controller_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-comprehensive-look-at-vr-video-recording-systems/"><u>[Updated] 2024 Approved A Comprehensive Look at VR Video Recording Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-filter-pack-for-oceanic-video-shooting/"><u>2024 Approved Optimal Filter Pack for Oceanic Video Shooting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-3-cam-exploration-a-deep-dive-into-ions-latest-offer/"><u>2024 Approved Pro 3 Cam Exploration A Deep Dive Into ION's Latest Offer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-print-operations-by-redoing-driver-installation/"><u>Enhancing Print Operations by Redoing Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/graphics-driver-reboot-a-comprehensive-guidebook/"><u>Graphics Driver Reboot: A Comprehensive Guidebook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-14-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 14?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-content-proven-pathways-to-live-video-conversion/"><u>In 2024, Unlocking Content Proven Pathways to Live Video Conversion</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-upgrade-your-pcs-network-capabilities/"><u>Instantly Upgrade Your PC's Network Capabilities</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-pc-audio-with-newly-installed-realtek-driver/"><u>Revitalize PC Audio with Newly Installed Realtek Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-update-of-windows-11-device-drivers-guide/"><u>Smooth Update of Windows 11 Device Drivers Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-404-page-not-found-mistake-and-easy-fixes/"><u>Understanding the 404 'Page Not Found' Mistake & Easy Fixes</u></a></li>
+<li><a href="https://techidaily.com/will-galaxy-s21-fe-5g-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy S21 FE 5G (2023) play AVCHD mts files?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-amd-radeon-r9-driver-update-guide/"><u>Win AMD Radeon R9 Driver Update Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-compatible-hp-1020-printer-driver-glitch-overcome/"><u>Windows Compatible: HP 1020 Printer Driver Glitch Overcome</u></a></li>
+</ul></div>
 

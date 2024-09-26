@@ -1,7 +1,7 @@
 ---
 title: "Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
-date: 2024-09-18T16:14:58.047Z
-updated: 2024-09-20T16:35:17.448Z
+date: 2024-09-19T17:23:13.897Z
+updated: 2024-09-26T17:27:17.369Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
@@ -35,6 +35,13 @@ Lifewire / Kelsey Simon
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
 
 2.7
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## inXile Entertainment Torment: Tides of Numenera
 
@@ -73,10 +80,10 @@ Lifewire / Kelsey Simon
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
@@ -84,6 +91,13 @@ Lifewire / Kelsey Simon
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -99,13 +113,6 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -117,10 +124,10 @@ Lifewire / Kelsey Simon
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -164,5 +171,26 @@ Lifewire / Kelsey Simon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-empowering-your-wit-crafting-humor-with-gifs-step-by-step/"><u>[New] 2024 Approved Empowering Your Wit Crafting Humor with GIFs Step by Step</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-navigating-through-io-screenshot-functionality/"><u>[Updated] 2024 Approved Navigating Through IO Screenshot Functionality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-steady-hand-techniques-for-videographers/"><u>[Updated] Steady-Hand Techniques for Videographers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-your-speech-any-sound-discover-the-best-vocal-transformation-tools-on-android-for-2024/"><u>[Updated] Your Speech, Any Sound Discover the Best Vocal Transformation Tools on Android for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elevate-your-images-mastering-text-on-pc-and-mac-photos/"><u>2024 Approved Elevate Your Images Mastering Text on PC & Mac Photos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-drive-improvement-for-enhanced-win10-experience/"><u>Audio Drive Improvement for Enhanced Win10 Experience</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/bundle-up-for-ultimate-entertainment-get-netflix-peacock-and-apple-tvplus-with-xfinitys-exclusive-offering-now/"><u>Bundle Up for Ultimate Entertainment - Get Netflix, Peacock & Apple TV+ With Xfinity's Exclusive Offering Now!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/cross-platform-rendering-with-opengl/"><u>Cross-Platform Rendering with OpenGL</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-use-high-performance-logitech-video-capture-c270-on-windows-1011/"><u>Download & Use High-Performance Logitech Video Capture (C270) on Windows 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-pro-6-driver-rollbacks/"><u>Effortless Pro 6 Driver Rollbacks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-print-quality-on-win10-through-driver-update/"><u>Improve Print Quality on WIN10 Through Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-mouse-driver-replacement-in-win11-and-10/"><u>Navigating Mouse Driver Replacement in Win11 & 10</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimized-with-advanced-traffic-analysis-the-cookiebot-difference/"><u>Optimized with Advanced Traffic Analysis: The Cookiebot Difference</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-your-audio-experience-with-updated-hyperx-device-drivers/"><u>Revamp Your Audio Experience with Updated HyperX Device Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-your-device-the-importance-of-the-intel-82579lm-driver-update/"><u>Revitalize Your Device: The Importance of the Intel 82579LM Driver Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210050397-revive-your-arrow-keys-on-the-keyboard-with-these-expert-fixes/"><u>Revive Your Arrow Keys on the Keyboard with These Expert Fixes!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-pinterest-planning-programs-explore-these-5-options/"><u>The Ultimate List of Pinterest Planning Programs: Explore These 5 Options!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-entering-safe-mode-and-deleting-problematic-graphics-drivers-on-windows-8/"><u>Troubleshooting: Entering Safe Mode & Deleting Problematic Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-installation-guide-for-convex-audio-support/"><u>Windows 11: Installation Guide for Convex Audio Support</u></a></li>
+</ul></div>
 
