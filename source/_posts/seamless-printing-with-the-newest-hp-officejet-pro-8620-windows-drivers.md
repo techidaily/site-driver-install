@@ -1,7 +1,7 @@
 ---
 title: Seamless Printing with the Newest HP OfficeJet Pro 8620 Windows Drivers
-date: 2024-08-08T06:30:11.368Z
-updated: 2024-08-09T06:30:11.368Z
+date: 2024-09-30T18:25:36.394Z
+updated: 2024-10-01T17:19:07.715Z
 tags:
   - win11
   - win10
@@ -16,27 +16,18 @@ thumbnail: https://thmb.techidaily.com/a0af520127c446b45e79a1a60bb9e112f600a9371
 
 ## Seamless Printing with the Newest HP OfficeJet Pro 8620 Windows Drivers
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f24d1dbae.jpg)
 
  This post will show you how to download or update**drivers for HP OfficeJet Pro 8620** e-All-in-One printer series.
 
  If you have issues with your printer, for instance, your printer is offline, your printer is not working properly, you should really consider updating your HP printer drivers to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to download or update HP OfficeJet Pro 8620 driver
 
 1. [Download HP OfficeJet Pro 8620 driver manually](#Fix1)
 2. [Update HP OfficeJet Pro 8620 driver in Device Manager](#Fix2)
 3. [Update HP OfficeJet Pro 8620 driver automatically](#Fix3) (Recommended)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Method 1: Download HP OfficeJet Pro 8620 driver manually
 
  HP support center provides software and drivers for customers to download, so you can manually download the driver you need from the website.
@@ -49,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/a0af520127c446b45e79a1a60bb9e112f600a9371
 
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f337c3865.png)
 
  3) Make sure the detected **operating system** is correct, and click**Download** .
@@ -72,17 +60,18 @@ thumbnail: https://thmb.techidaily.com/a0af520127c446b45e79a1a60bb9e112f600a9371
 
  1) Make sure you’ve connected your HP printer to your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
  3) Type**devmgmt.msc** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) In Device Manager, double click**Printers** or**Print queues** to expand it.
 
@@ -96,11 +85,25 @@ thumbnail: https://thmb.techidaily.com/a0af520127c446b45e79a1a60bb9e112f600a9371
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Follow the on-screen instructions to finish updating the driver.
 
 8) After updating, restart your computer.
 
 Still no luck? OK. There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
@@ -116,14 +119,25 @@ Still no luck? OK. There’s one more thing to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) After updating, restart your computer to take effect.
 
@@ -144,8 +158,6 @@ If you have any questions, feel free to add a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +165,23 @@ If you have any questions, feel free to add a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ace-driving-realism-series-best-5/"><u>[New] 2024 Approved Ace Driving Realism Series (Best 5)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-direct-webcam-streaming-with-vlc/"><u>[New] In 2024, Direct Webcam Streaming with VLC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-swift-method-image-alchemy-into-engaging-youtube-thumbnail-pics/"><u>[New] Swift Method Image Alchemy Into Engaging YouTube Thumbnail Pics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-exit-wave-analysis/"><u>2024 Approved Instagram Exit Wave Analysis</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-power-of-ai-thumbnail-generators/"><u>2024 Approved Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-innovative-approaches-to-refine-gpt-interaction-quality/"><u>7 Innovative Approaches to Refine GPT Interaction Quality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/gaming-memories-made-easy-with-fraps-for-2024/"><u>Gaming Memories Made Easy with Fraps for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-s620-a-compreenased-guide-to-enhanced-performance/"><u>Installing S620: A Compreenased Guide to Enhanced Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-upgrade-for-your-lexmark-printer-driver/"><u>Instant Upgrade for Your Lexmark Printer Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovos-z50-70-now-features-simple-updates/"><u>Lenovo's Z50-70 Now Features Simple Updates</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-the-art-of-autofitting-columns-and-rows-in-microsoft-excel/"><u>Mastering the Art of AutoFitting Columns and Rows in Microsoft Excel</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-through-the-driver-update-journey-in-windows-8-platforms/"><u>Navigating Through the Driver Update Journey in Windows 8 Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-machine-with-windows-11-tactile-upgrade/"><u>Optimize Your Machine with Windows 11 Tactile Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-drivers-update-tips-rx-5500xt/"><u>Quick Drivers Update Tips: RX 5500XT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-patch-nextgen-pro-6-driver-release/"><u>Quick-Patch: NextGen Pro 6 Driver Release</u></a></li>
+</ul></div>
 

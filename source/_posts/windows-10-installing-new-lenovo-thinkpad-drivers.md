@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Installing New Lenovo ThinkPad Drivers"
-date: 2024-08-08T06:32:40.875Z
-updated: 2024-08-09T06:32:40.875Z
+date: 2024-09-30T18:56:13.746Z
+updated: 2024-10-01T16:08:45.333Z
 tags:
   - win11
   - win10
@@ -34,23 +34,14 @@ You can go to Lenovo’s official website to check for and download the latest W
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e353b836c7f.jpg)
 
  4.**Select Sub-Series** . (Let’s take 11e (Type 20D9, 20DA) Laptop (Thinkpad) for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3551d14e36.jpg)
 
  5\. Click**view all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e355a7dd5d4.jpg)
 
  6\. Scroll down and pick a component that you wish to update driver for. And select the Operating System to Windows 10 64-bit or Windows 32-bit. If you are not sure what specific version of Windows 10 that your PC is running, see [Quickly Get Operating System Version (Windows)](https://tools.techidaily.com/drivereasy/download/) .
@@ -69,9 +60,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
 1\. Press **Win+R** (**Windows logo** key and **R**  key) at the same time. A Run dialog box will appear. Then Device Manager will open.  
   
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
@@ -80,9 +68,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551c56595c.png)
   
  **Way 3 (Recommended): Update the Drivers Automatically**
@@ -93,9 +78,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  1\. Click**Scan Now** button. After a few seconds, you will be given a list of new drivers to update.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99aab8ab8.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
@@ -110,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +99,24 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techtrends.techidaily.com/conversion-rapide-et-gratuite-du-format-ogg-a-laac-sur-internet-via-mouvavi-facile-dutilisation/"><u>Conversion Rapide Et Gratuite Du Format OGG À L'AAC Sur Internet via Mouvavi - Facile D'utilisation!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/cutting-edge-techniques-for-google-meet-aesthetic-enhancement/"><u>Cutting-Edge Techniques for Google Meet Aesthetic Enhancement</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y100a-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y100A Devices | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-to-keep-the-momentum-ios-and-android-gif-savings/"><u>How to Keep the Momentum IOS & Android GIF Savings</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-restore-printer-functionality-across-os-lines/"><u>How To: Restore Printer Functionality Across OS Lines</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/leverage-amd-to-power-bitcoin-on-pc-via-driver-upgrade/"><u>Leverage AMD to Power Bitcoin on PC via Driver Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-graphics-performance-on-windows-10/"><u>Revamp Graphics Performance on Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-poco-m6-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Poco M6 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-graphics-display-win7-hp-driver-update/"><u>Transform Your Graphics Display – Win7 HP Driver Update</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "USB Controllers: Transitioning to Windows"
-date: 2024-08-08T06:30:06.416Z
-updated: 2024-08-09T06:30:06.416Z
+date: 2024-09-28T19:49:13.895Z
+updated: 2024-10-01T18:57:26.494Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
  **Way 1:[Update the Driver via Device Manager](#way1)**
  **Way 2:[Update the Driver Using Driver Easy](#way2)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 1: Update the Driver via Device Manager
 
  If Windows doesn’t install the driver automatically, you can update the driver manually via Device Manager. Follow these steps:
@@ -34,32 +31,27 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 
  2) Type**devmgmt.msc** and press**Enter** on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
 
  3) Expand the branch **Microsoft Xbox One Controller** .
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
 6) Check to see if you can use the Xbox One Controller properly.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 2: Update the Driver Using Driver Easy
 
  If you don’t have the time, patience or computer skills to update the driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -74,14 +66,25 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
 
@@ -96,8 +99,6 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +106,21 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-a-guide-to-seamless-inshot-video-segments/"><u>[New] In 2024, A Guide to Seamless Inshot Video Segments</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-step-by-step-guide-to-obs-streaming-success/"><u>[Updated] In 2024, The Step-by-Step Guide to OBS Streaming Success</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-the-drivers-not-found-issue-on-windows-10-8-and-7-a-step-by-step-guide/"><u>Fixing the 'Drivers Not Found' Issue on Windows 10, 8 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-t2x-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo T2x 5G Face Lock?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v13-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.3 file when manual method fails</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-updated-hp-officejet-8620-drivers-on-windows/"><u>Installing Updated HP OfficeJet 8620 Drivers on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-blockchain-technology-into-your-computer-via-amd-drivers/"><u>Integrate Blockchain Technology Into Your Computer via AMD Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/m2-ssd-detection-and-installation-guide/"><u>M.2 SSD Detection & Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/msi-bravo-15-driver-upgrade-guide/"><u>MSI Bravo 15 Driver Upgrade Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-ai-voice-text-to-speech/"><u>New 2024 Approved What Is AI Voice Text to Speech?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-graphic-driver-release-hp-and-windows-11/"><u>New Graphic Driver Release: HP & Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-dim-uncover-the-10-key-reasons-behind-automatic-brightness-adjustment/"><u>Why Does My iPhone Dim? Uncover the 10 Key Reasons Behind Automatic Brightness Adjustment</u></a></li>
+<li><a href="https://discover-help.techidaily.com/wie-man-dvds-in-digitale-dateiformate-konvertiert-mit-windows-b-oder-macos/"><u>Wie Man DVDs in Digitale Dateiformate Konvertiert Mit Windows #B# Oder macOS</u></a></li>
+</ul></div>
 

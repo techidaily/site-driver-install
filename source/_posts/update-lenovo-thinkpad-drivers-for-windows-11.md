@@ -1,7 +1,7 @@
 ---
 title: Update Lenovo Thinkpad Drivers for Windows 11
-date: 2024-08-08T06:30:51.995Z
-updated: 2024-08-09T06:30:51.995Z
+date: 2024-09-28T18:33:39.063Z
+updated: 2024-10-01T17:09:18.810Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ You can go to Lenovo’s official website to check for and download the latest W
   
 2\. Click **Laptops** .
   
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578d9d1d472a1.png)
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
@@ -45,9 +42,6 @@ You can go to Lenovo’s official website to check for and download the latest W
 
  5\. Click**view all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e355a7dd5d4.jpg)
 
  6\. Scroll down and pick a component that you wish to update driver for. And select the Operating System to Windows 10 64-bit or Windows 32-bit. If you are not sure what specific version of Windows 10 that your PC is running, see [Quickly Get Operating System Version (Windows)](https://tools.techidaily.com/drivereasy/download/) .
@@ -66,16 +60,10 @@ Follow these steps to install new audio drivers via Device Manager.
   
 1\. Press **Win+R** (**Windows logo** key and **R**  key) at the same time. A Run dialog box will appear. Then Device Manager will open.  
   
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355190d0976.png)
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
@@ -90,16 +78,10 @@ Follow these steps to install new audio drivers via Device Manager.
   
  1\. Click**Scan Now** button. After a few seconds, you will be given a list of new drivers to update.  
   
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99aab8ab8.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99bde5485.jpg)
 
  With Driver Easy, you can update Lenovo Thinkpad Windows 10 drivers in several minutes.
@@ -110,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +99,34 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>[New] In 2024, Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compreehensive-breakdown-clean-installation-for-graphics-drivers/"><u>Compreehensive Breakdown: Clean Installation for Graphics Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-setup-asus-usb-bt400-driver-guide/"><u>Effortless Setup: Asus USB-BT400 Driver Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/exploring-ancient-facebook-tales-your-pcmobile-checklist-for-2024/"><u>Exploring Ancient Facebook Tales Your PC/Mobile Checklist for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-handcrafted-driver-adjustments-for-xp-machines/"><u>Guide to Handcrafted Driver Adjustments for XP Machines</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-acquire-canon-inkjet-drivers-for-win11/"><u>How to Acquire Canon Inkjet Drivers for Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-ae-lifesavers-budget-friendly-template-assortment/"><u>In 2024, AE Lifesavers Budget-Friendly Template Assortment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instantaneous-effortless-podcast-live/"><u>In 2024, Instantaneous Effortless Podcast Live</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/innovate-dell-devices-latest-windows-drivers-announcement/"><u>Innovate Dell Devices: Latest Windows Drivers Announcement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-guided-by-toms-expertise/"><u>Unveiling the Latest in Hardware - Guided by Tom's Expertise</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063375396-update-lenovo-audio-drivers-in-windows-10-easily/"><u>Update Lenovo Audio Drivers in Windows 10. Easily!</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Nokia C12 Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo Find X7 | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Game On, Save More: Don’t Miss Out on iBUYPOWER'amooring Memorial Day Deals for Cutting-Edge Gaming Systems"
-date: 2024-09-19T17:08:12.272Z
-updated: 2024-09-26T17:28:18.103Z
+date: 2024-09-28T16:02:07.485Z
+updated: 2024-10-01T19:15:58.966Z
 tags:
   - desktop
 categories:
@@ -27,16 +27,16 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best $500 PC Build for Gaming
 
 ![Cooler Master MasterBox Q300L](https://cdn.mos.cms.futurecdn.net/Zoebn2FkWQprjxmm7jKxZS-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -100,6 +100,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![14400 CPU vs competition](https://cdn.mos.cms.futurecdn.net/FVyBrR3Fkm8RXeguWat4ik-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  To go with this Intel processor, we're using an ASRock B760M-HDV motherboard because it supports 14th Gen CPUs without a BIOS update. It's a DDR4 board so we can save money by using DDR4 memory. It also features two M.2 slots for SSDs, with one of them supporting PCIe 4.0 drives.
@@ -107,6 +114,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our graphics card at this price point is the Nvidia RTX 4060, which comes in just under $300\. The 4060 has strong performance at 1080p, ultra settings, having averaged 84.9 fps on our suite of tests. It ranks just above the RTX 2080 and below the Raden RX 6700 on our[GPU benchmarks hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html) .
 
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -122,22 +136,22 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Our case is the Gamdias Aura GC1, a full-size ATX case that comes with four ARGB fans. The GC1 has a mesh front for optimal airflow and plenty of room for expansion.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best $1,000 PC Build for Gaming
 
 ![Phanteks XT Pro](https://cdn.mos.cms.futurecdn.net/AeCzMV4DUqQFiBnV2hPQuf-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -182,22 +196,15 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -235,35 +242,22 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
 
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best $2000 PC Build for Gaming
 
 ![Hyte Y40](https://cdn.mos.cms.futurecdn.net/4uhnTrJWRufEuBFQzenypi-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -295,6 +289,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Ryzen 7 7800X3D 1080p gaming tests](https://cdn.mos.cms.futurecdn.net/c5TiEiPPHBkLtGTfkp3Tyh-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  To cool the CPU, we're using an Iceberg Thermal IceFLOE Oasis 360\. When we[tested the IceFLOE](https://www.tomshardware.com/pc-components/liquid-cooling/iceberg-thermal-icefloe-oasis-360mm-240mm-review) , we were impressed with its low noise output and fantastic cooling output that allowed it to disperse up to 237 watts of heat. It has attractive RGB and you get all of that for a measly $89.
@@ -302,6 +303,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our motherboard is Gigabyte B650M Aorus Elite AX which is one of the more affordable AM5 motherboards you can buy but it still packs in Wi-Fi 6E radio. AMD Zen 7000 chips require DDR5 RAM so we're going with 32GB of G.Skill Trident Z5\. The Trident Z5 kit tops our list of[best RAM](https://www.tomshardware.com/reviews/best-ram,4057.html) , thanks to its tight-timings, fast performance and overclocking potential. In our tests, the Z5 also had the lowest memory latency of its competitors.
 
 ![Memory Latency](https://cdn.mos.cms.futurecdn.net/ew9VS2PUuTupX8YSvcyb5X-320-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Future)
 
@@ -339,13 +347,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our CPU is AMD's Ryzen 9 7950X3D, which offers faster gaming than any Intel CPU on the market, including the Core i9-14900K. It has a whopping 140MB of cache, thanks to AMDs innovative 3D V-Cache and it boasts 16 full-power cores and 32 threads, which is more regular cores than the 13900K's set of 8 (to go with 16 E-Cores).
@@ -353,13 +354,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  On our tests, the Ryzen 9 7950X3D beat Intel's flagship, the 14900K by a full 21 fps on our 1440p suite of gaming tests. The cheaper, Ryzen 7 7800X3D is also really good at gaming, but does have as many cores for productivity.
 
 ![Ryzen 7 7950X3D Charts](https://cdn.mos.cms.futurecdn.net/DiWoGh9Fc2ovFWFiYuJeuG-320-80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -396,18 +390,20 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-advanced-techniques-in-xbox-gaming-recording-setup/"><u>[New] Advanced Techniques in Xbox Gaming Recording Setup</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-evolution-of-music-production-software-with-magix-studio-max-2024/"><u>[New] The Evolution of Music Production Software with Magix Studio Max 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-windows-11-gamers-guide-to-stunning-game-recordings/"><u>[Updated] In 2024, Windows 11 Gamers' Guide to Stunning Game Recordings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/10-cost-free-innovative-photo-overlays-for-mobile-devices-for-2024/"><u>10 Cost-Free, Innovative Photo Overlays for Mobile Devices for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-10-youtube-stations-for-sector-reports/"><u>2024 Approved Prime 10 YouTube Stations for Sector Reports</u></a></li>
-<li><a href="https://driver-install.techidaily.com/asus-bluetooth-driver-for-w11plus-windows-8plus-release/"><u>ASUS Bluetooth Driver for W11+ Windows 8+ Release</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-blade-a73-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Blade A73 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-graphics-in-win11-with-hp-drivers/"><u>Improve Graphics in Win11 with HP Drivers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-navigating-the-modern-landscape-of-live-audio-capturing-for-streaming/"><u>New 2024 Approved Navigating the Modern Landscape of Live Audio Capturing for Streaming</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-top-10-audio-reversal-tools-latest-edition-for-pcs-and-mobile-devices/"><u>New Top 10 Audio Reversal Tools Latest Edition for PCs & Mobile Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sync-drivers-windows-and-hp-printer-jetpro400-compatibility/"><u>Sync Drivers: Windows and HP Printer JetPro400 Compatibility</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-intel-chipset-drivers-for-windows-11-7-and-81/"><u>Update Intel Chipset Drivers for Windows 11, 7 & 8.1</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-11-streamlining-driver-updates-now/"><u>Windows 11: Streamlining Driver Updates Now</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlimited-legal-fb-beats-access/"><u>[New] 2024 Approved Unlimited, Legal FB Beats Access</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-viewer-payouts-for-video-engagement/"><u>[New] 2024 Approved Viewer Payouts for Video Engagement</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevating-engagement-the-pillars-of-youtube-rankings-for-2024/"><u>[Updated] Elevating Engagement The Pillars of YouTube Rankings for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-worlds-best-short-videos-download-now-free-for-2024/"><u>[Updated] World's Best Short Videos – Download Now! (Free) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-infinite-storage-pathways-select-services-showcase/"><u>2024 Approved Infinite Storage Pathways Select Services Showcase</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-music-streaming-services-that-support-airplay-your-ultimate-list-of-must-download-apps-for-high-quality-audio/"><u>Free Music Streaming Services That Support AirPlay – Your Ultimate List of Must-Download Apps for High-Quality Audio</u></a></li>
+<li><a href="https://techidaily.com/remove-honor-x50-gt-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Honor X50 GT unlock screen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-your-printing-experience-download-and-update-officejet-pro-8620-drivers-in-windows/"><u>Revamp Your Printing Experience - Download & Update OfficeJet Pro 8620 Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-drivers-lenovo-z50-70-updates-now/"><u>Smooth Drivers: Lenovo Z50-70 Updates Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-experience-free-vega-3-graphics-driver-24/"><u>Streamline Experience - Free Vega 3 Graphics Driver '24</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-reno-10-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo Reno 10 5G Location | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-win10-tactile-response/"><u>Upgrade Your Win10 Tactile Response</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-driver-setup-in-windows-versions-xp-zt/"><u>USB Driver Setup in Windows Versions: XP-ZT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-enhanced-sound-experience-via-new-drivers/"><u>Windows 10: Enhanced Sound Experience via New Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-driver-updates-simplified-guide/"><u>Windows 11 Driver Updates: Simplified Guide</u></a></li>
 </ul></div>
 

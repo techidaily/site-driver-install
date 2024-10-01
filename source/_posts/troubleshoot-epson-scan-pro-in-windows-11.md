@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Epson Scan Pro in Windows 11
-date: 2024-09-19T17:38:15.079Z
-updated: 2024-09-26T17:35:55.225Z
+date: 2024-09-28T20:08:47.659Z
+updated: 2024-10-01T20:23:52.857Z
 tags:
   - win11
   - win10
@@ -64,16 +64,16 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In Settings window, click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
@@ -81,22 +81,15 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
@@ -113,6 +106,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -120,10 +120,10 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
@@ -143,15 +143,19 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-extraordinary.techidaily.com/1-partnerschaft-mit-winx-dvd-professionelle-filmkopierlosungen-fur-unternehmen/"><u>1. Partnerschaft Mit WinX DVD: Professionelle Filmkopierlösungen Für Unternehmen</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-stand-out-with-style-ios-and-androids-best-apps-for-adding-stickers/"><u>2024 Approved Stand Out with Style IOS and Android's Best Apps for Adding Stickers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-driver-installation-u-are-u-reader-version-45/"><u>Instant Driver Installation: U-Are-U Reader Version 4.5</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mp4-video-tag-editing-software-reviews-and-comparisons-for-windows-and-mac/"><u>MP4 Video Tag Editing Software Reviews and Comparisons for Windows and Mac</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-path-for-nvidia-driver-recollection/"><u>Quick Path for NVIDIA Driver Recollection</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reviving-your-network-card-via-driver-reload/"><u>Reviving Your Network Card via Driver Reload</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-performance-direct-gigabyte-mb-support-download/"><u>Streamlined Performance: Direct Gigabyte MB Support Download</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-peak-of-pc-gaming-a-world-without-launchers/"><u>The Peak of PC Gaming: A World Without Launchers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-imessage-for-android-users-a-comprehensive-guide/"><u>Unlock iMessage for Android Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-a-guide-to-picking-top-quality-free-srt-translation-platforms/"><u>[Updated] In 2024, A Guide to Picking Top-Quality, Free SRT Translation Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/audiovisual-expertise-selecting-top-video-minds/"><u>Audiovisual Expertise Selecting Top Video Minds</u></a></li>
+<li><a href="https://win-unique.techidaily.com/complimentary-superb-templates-featuring-slide-in-navigation-on-flipbuildercom/"><u>Complimentary Superb Templates Featuring Slide-In Navigation on FlipBuilder.com</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-usb-enhancement-universal-adb-downloads-here/"><u>Instant USB Enhancement – Universal ADB Downloads Here</u></a></li>
+<li><a href="https://driver-install.techidaily.com/msi-bravo-software-update-essentials/"><u>MSI Bravo Software Update Essentials</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-tip-guide-effortlessly-updating-wi-fi-drivers-in-windows-10/"><u>Quick Tip Guide: Effortlessly Updating Wi-Fi Drivers in Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-downloading-your-amd-ryzen-5-2400g-drivers-secure-and-easy/"><u>Quick-Guide to Downloading Your AMD Ryzen 5 2400G Drivers - Secure & Easy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-hp-display-driver-in-windows/"><u>Refresh HP Display Driver in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-your-graphics-engine-update-windows-10-11-hdmi-driver/"><u>Revamping Your Graphics Engine: Update Windows 10, 11 HDMI Driver</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/slidecasting-simplified-a-modern-webcam-approach/"><u>Slidecasting Simplified A Modern, Webcam Approach</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-and-erasing-your-fb-watch-history/"><u>Understanding & Erasing Your FB Watch History</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-making-a-movie-simplified-for-2024/"><u>Updated The Ultimate Guide to Making a Movie Simplified for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrading-logitech-m310s-firmware-a-comprehensive-tutorial/"><u>Upgrading Logitech M310's Firmware - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-driver-restoration-in-7-and-ancillary-windows-versions/"><u>USB Driver Restoration in 7 & Ancillary Windows Versions</u></a></li>
 </ul></div>
 

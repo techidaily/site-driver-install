@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Update: Nvidia GTX 970 Drivers"
-date: 2024-08-08T06:33:23.146Z
-updated: 2024-08-09T06:33:23.146Z
+date: 2024-09-27T19:12:40.076Z
+updated: 2024-10-01T18:52:02.114Z
 tags:
   - win11
   - win10
@@ -34,9 +34,6 @@ Follow these steps:
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
@@ -45,9 +42,6 @@ Follow these steps:
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
@@ -60,23 +54,14 @@ Follow these steps:
 
 Follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  1\. Press **Win+R** (Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fef72359c9c.png) key and R key) at the same time. A Run dialog box will appear.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
@@ -93,15 +78,6 @@ Follow these steps.
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -114,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +97,39 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elite-7-cameras-elevating-interactive-learning-vlogs-and-tutorials/"><u>[New] 2024 Approved Elite 7 Cameras Elevating Interactive Learning Vlogs & Tutorials</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-quick-guide-on-recording-gotomeeting-chats-with-ease/"><u>[Updated] 2024 Approved Quick Guide on Recording GoToMeeting Chats with Ease</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-mobileweb-invest-in-no-cost-imagery-upgrade/"><u>2024 Approved Prime Mobile/Web Invest in No-Cost Imagery Upgrade</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-itel-a60s-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Itel A60s to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-problems-on-win11-try-driver-reload/"><u>Audio Problems on Win11? Try Driver Reload</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-keep-your-astro-running-flawlessly-on-windows/"><u>How to Keep Your Astro Running Flawlessly on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/immerse-in-crystal-clear-sounds-of-windows-7-thanks-to-nvidia/"><u>Immerse in Crystal Clear Sounds of Windows 7, Thanks to NVIDIA</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a24-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-10-free-web-conferencing-software-for-online-meeting/"><u>In 2024, 10 Free Web Conferencing Software for Online Meeting</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unlock-flv-video-editing-on-windows-8-a-beginners-guide/"><u>In 2024, Unlock FLV Video Editing on Windows 8 A Beginners Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-fast-drivers-updates-across-winos-generations/"><u>Mastering Fast Drivers Updates Across WINOS Generations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstall-visual-interface-software/"><u>Reinstall Visual Interface Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-creativity-using-nightshades-against-ai-generated-imitations/"><u>Safeguarding Creativity: Using Nightshades Against AI-Generated Imitations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-computers-upgrade-chip-drivers/"><u>Streamline Computers: Upgrade Chip-Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/trusted-logitech-cam-firmware/"><u>Trusted Logitech Cam Firmware</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-15-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 15 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-the-process-of-new-driver-setup/"><u>Unveiling the Process of New Driver Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-based-strategy-for-nvidia-drivers-reboot/"><u>Windows-Based Strategy for NVIDIA Drivers Reboot</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

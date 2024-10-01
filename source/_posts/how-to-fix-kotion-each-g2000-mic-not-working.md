@@ -1,7 +1,7 @@
 ---
 title: How to Fix Kotion Each G2000 Mic Not Working
-date: 2024-09-22T16:16:28.696Z
-updated: 2024-09-26T16:27:11.852Z
+date: 2024-09-24T17:26:11.142Z
+updated: 2024-10-01T19:14:00.487Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -42,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 * If**no** (no sound on ALL apps), then move on to**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disconnect external speakers
 
@@ -64,15 +64,22 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038f642ae65.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If instead of**Internal Speakers** , you see **Digital Output** or**No output devices found** , then insert your headphone into the headphone port and pull it out. Keep plugging and unplugging until **Internal Speakers** appears. Then repeat step 2).
@@ -105,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Reset **NVRAM**
 
  By resetting NVRAM, we bring back the default settings (including speaker volume, time zone, and display solution etc.). This may well help solve sound-related problems.
@@ -113,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
 
 4) After the start-up, your computer will be refreshed to the default settings. This time, you might need to  reconfigure settings for speaker volume, time zone, and display solution etc.
@@ -127,19 +134,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 5) Test to see if the sound works properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix **7: Create a testing account on safe mode**
 
@@ -155,26 +149,32 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038a64edd48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: no password for this account is needed since it’s only a testing account.
@@ -230,20 +230,18 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-does-vegaspros-2019-version-improve-gaming/"><u>[New] How Does VegasPro's 2019 Version Improve Gaming</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-guide-to-consolidating-your-youtube-video-collection-for-2024/"><u>[Updated] Guide to Consolidating Your YouTube Video Collection for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>[Updated] Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-transformation-convex-hd-driver-for-windows-11/"><u>Audio Transformation: Convex HD Driver for Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/beat-dota-2-latency-proven-fixes-for-a-smoother-gameplay-experience/"><u>Beat Dota 2 Latency: Proven Fixes for a Smoother Gameplay Experience</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-device-interactions-simple-adb-download/"><u>Enhance Device Interactions – Simple ADB Download</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-update-noticed-understanding-the-urgency-of-upgrading-to-ios-153/"><u>Essential Update Noticed: Understanding the Urgency of Upgrading to iOS 15.3</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/initiate-a-fresh-start-with-your-pcs-mouse-software/"><u>Initiate a Fresh Start with Your PC's Mouse Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/master-your-pcs-performance-with-updated-hp-omen-drivers/"><u>Master Your PC's Performance with Updated HP Omen Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigate-to-faster-usb-c-driver-intel/"><u>Navigate to Faster USB-C Driver, Intel</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamlessly-install-updated-drivers-on-your-lenovo-t430s-laptop-the-fast-way-with-windows/"><u>Seamlessly Install Updated Drivers on Your Lenovo T430s Laptop: The Fast Way with Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-driver-update-on-windows-10-acer-style/"><u>Streamline Driver Update on Windows 10 - Acer Style</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-astro-performance-update-and-install-steps/"><u>Streamlining Astro Performance: Update & Install Steps</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-asus-rog-phone-7-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Asus ROG Phone 7.</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-access-your-secret-snaps-archive/"><u>[New] 2024 Approved How to Access Your Secret Snaps Archive</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mediascreen-reviewer-pro-for-2024/"><u>[New] MediaScreen Reviewer Pro for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-quick-guide-saving-screen-share-dialogue/"><u>[Updated] In 2024, Quick Guide Saving Screen Share Dialogue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-your-broken-pcdevice-a-step-by-nstep-repair-guide/"><u>Easy Fixes for Your Broken PC/Device: A Step-by-nStep Repair Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-prevent-nba-2k21-from-freezing-on-your-computer-system/"><u>Expert Tips to Prevent NBA 2K21 From Freezing on Your Computer System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-xr-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone XR Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-chuckle-collective-top-15-hilarious-youtubers-for-boredom-beaters/"><u>In 2024, Chuckle Collective Top 15 Hilarious YouTubers for Boredom Beaters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-navigating-skypes-ecosystem-essential-free-and-paid-recording-methods-windowsmac/"><u>In 2024, Navigating Skype's Ecosystem Essential Free and Paid Recording Methods (Windows/Mac)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackle-interrupt-handling-errors/"><u>Tackle Interrupt Handling Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tips-for-changing-your-microsoft-mouse-drivers/"><u>Tips for Changing Your Microsoft Mouse Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-realtek-audio-software-on-dell-systems/"><u>Updating Realtek Audio Software on Dell Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-compatible-hp-p1102w-drivers/"><u>Windows Compatible HP P1102w Drivers</u></a></li>
 </ul></div>
 

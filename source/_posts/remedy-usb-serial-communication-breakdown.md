@@ -1,7 +1,7 @@
 ---
 title: Remedy USB-Serial Communication Breakdown
-date: 2024-08-08T06:30:03.468Z
-updated: 2024-08-09T06:30:03.468Z
+date: 2024-09-25T20:00:36.403Z
+updated: 2024-10-01T18:52:41.440Z
 tags:
   - win11
   - win10
@@ -30,39 +30,27 @@ thumbnail: https://thmb.techidaily.com/130efd155dd3113027502bebb58cb6e6e0e86e94c
 
  2\. Locate the driver for Windows and click the**setup executable** to download the executable file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-94.png)
 
 **Note** : If you click on the version name, you’ll get driver with .inf file which requires you to install the driver step by step through [Device Manager](https://tools.techidaily.com/drivereasy/download/) . We don’t recommend you download this file unless you can’t use the executable file to install the driver successfully.  
 
  3.**Double-click the downloaded file** then**double-click on the Setup file** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-98.png)
 
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-96.png)
 
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 2: Update the FTDI USB to serial driver manually
 
  If you don’t have the time or patience to manually download and install the FTDI USB to serial driver, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -75,19 +63,27 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
 
@@ -102,8 +98,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +105,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-top-20-best-anime-opening-songs/"><u>[New] Top 20 Best Anime Opening Songs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-budget-gaming-hardware-the-ultimate-keyboard-list/"><u>[Updated] Essential Budget Gaming Hardware The Ultimate Keyboard List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-serenity-in-animated-worlds-top-youtube-picks/"><u>[Updated] In 2024, Finding Serenity in Animated Worlds Top YouTube Picks</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-s23plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/grandi-converter-videio-free-per-windows-11-top-3-migliori-software-di-trasformazione-del-2020/"><u>Grandi Converter Videio Free Per Windows 11: TOP 3 Migliori Software Di Trasformazione Del 2020</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-leverage-openais-shap-e-for-insightful-feature-attribution-in-ai-models/"><u>How to Leverage OpenAI’s Shap-E for Insightful Feature Attribution in AI Models</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-12r-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 12R to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-canon-mx870-into-win-oss-earlier-than-11/"><u>Integrate Canon MX870 Into Win OSs Earlier than 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-wi-fi-driver-update-for-atheros-devices-on-windows/"><u>Mastering Wi-Fi Driver Update for Atheros Devices on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-driver-software-package-hp-model-4630/"><u>New Driver Software Package HP Model 4630</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-need-for-signatures-in-third-party-information/"><u>No Need for Signatures in Third-Party Information</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-performance-upgraded-drivers-for-msi-in-windows-environments/"><u>Optimizing Performance: Upgraded Drivers for MSI in Windows Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pro-6-no-hassle-drivers-updater/"><u>Pro 6: No Hassle Drivers Updater</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-change-drivers-on-windows-7/"><u>Quick-Change Drivers on Windows 7</u></a></li>
+</ul></div>
 

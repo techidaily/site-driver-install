@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Refresh Your Lenovo Dock
-date: 2024-09-19T16:56:26.046Z
-updated: 2024-09-26T16:27:06.369Z
+date: 2024-09-28T18:18:34.886Z
+updated: 2024-10-01T18:47:53.217Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update**Lenovo USB-C Dock driver** s manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,24 +54,17 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
 
@@ -73,27 +79,34 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Double-click on the execution file and follow the on-screen instructions to install.
 8. Don’t forget to restart your computer for the changes to take effect.
@@ -122,18 +135,21 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-virtual-liquids-top-game-showcase/"><u>[New] Mastering Virtual Liquids Top Game Showcase</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-up-to-date-techniques-for-screenshotting-idevices/"><u>[Updated] In 2024, Up-to-Date Techniques for Screenshotting iDevices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bard-ai-upgrades-unveiled-7-game-changing-features-from-the-latest-google-io/"><u>Bard AI Upgrades Unveiled: 7 Game-Changing Features From the Latest Google I/O</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063153514-elevate-your-connections-effortlessly-with-our-driver-tools/"><u>Elevate Your Connections Effortlessly with Our Driver Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-squad-mic-issues-with-our-2024-step-by-step-guide/"><u>Fix Your Squad Mic Issues with Our 2024 Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-lenovo-usb-c-dock-drivers-quickly-and-easily/"><u>How To Update Lenovo USB-C Dock Drivers. Quickly & Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/initiate-xp-project-masterpiece-creation-package/"><u>Initiate XP Project Masterpiece Creation Package</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-graphics-card-potential-with-newly-available-nvidia-rtx-2n80-super-driver-software-optimal-for-win10win11/"><u>Maximize Your Graphics Card Potential with Newly Available NVIDIA RTX 2N80 Super Driver Software - Optimal for Win10/Win11!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-link-to-asus-bt400-driver-and-support-for-os-x/"><u>Quick Link to Asus BT400 Driver & Support for OS X</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-old-oses-with-updated-chipset-drivers/"><u>Revamp Old OSes with Updated Chipset Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/transform-data-exchange-with-mtk-usb-drivers-for-winxp1110/"><u>Transform Data Exchange with MTK USB Drivers for WINXP11/10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-ai-potential-step-by-step-tutorial-on-harnessing-gpt-3-with-python/"><u>Unlocking AI Potential: Step-by-Step Tutorial on Harnessing GPT-3 with Python</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-usb-driver-fixes-you-need-now/"><u>Win-USB Driver Fixes You Need Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-recovery-methods-for-erased-reddit-topics/"><u>[Updated] Quick Recovery Methods for Erased Reddit Topics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/address-serial-interface-defects/"><u>Address Serial Interface Defects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-your-channels-moniker-youtube-naming-tools-and-tips/"><u>Craft Your Channel's Moniker YouTube Naming Tools and Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/crafting-musical-content-on-instagram/"><u>Crafting Musical Content on Instagram</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-setup-intel-me-drivers/"><u>Download & Setup Intel ME Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-compatibility-with-hardware-package/"><u>Fix Compatibility with Hardware Package</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-how-to-edit-the-length-of-a-video-on-youtube/"><u>In 2024, How to Edit the Length of a Video on YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-audio-settings-of-halo-infinite-for-optimal-performance/"><u>Mastering the Audio Settings of Halo Infinite for Optimal Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-computers-sounds-with-the-latest-nvidia-hd-audio-on-win11/"><u>Optimize Your Computer's Sounds with the Latest NVIDIA HD Audio on Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/safely-download-your-pcs-tp-link-wi-fi-driver-here/"><u>Safely Download Your PC's TP Link Wi-Fi Driver Here</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tech-savvy-tips-updating-win-11-driver-effortlessly/"><u>Tech Savvy Tips: Updating Win 11 Driver Effortlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-using-google-maps-for-electric-vehicle-charging-spot-detection/"><u>The Ultimate How-To: Using Google Maps for Electric Vehicle Charging Spot Detection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-oneplus-open-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from OnePlus Open to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-the-secrets-to-instagram-post-replicas-for-2024/"><u>Unlocking the Secrets to Instagram Post Replicas for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/up-to-date-rx-5500xt-graphics-drivers/"><u>Up-to-Date RX 5500XT Graphics Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-revival-swift-solutions-to-camera-malfunctions/"><u>Zoom Revival: Swift Solutions to Camera Malfunctions</u></a></li>
 </ul></div>
 

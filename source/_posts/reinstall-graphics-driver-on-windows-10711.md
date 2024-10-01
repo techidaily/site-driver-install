@@ -1,7 +1,7 @@
 ---
 title: Reinstall Graphics Driver on Windows 10/7/11
-date: 2024-08-08T06:30:56.594Z
-updated: 2024-08-09T06:30:56.594Z
+date: 2024-09-30T18:53:44.829Z
+updated: 2024-10-01T18:12:54.828Z
 tags:
   - win11
   - win10
@@ -31,28 +31,26 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  2) Type**devmgmt.msc** and press**Enter** to open the Device Manager window.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
 
  The option **Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information about Driver Store, please see [Driver Store in Microsoft](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) . **If you don’t see this option** on the Uninstall confirm dialog box, the driver package may have been removed. In this case, **just click Uninstall to uninstall only the driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
 
@@ -70,13 +68,12 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
  If you don’t have the time, patience or computer skills to reinstall the driver manually, or if Windows doesn’t provide the latest driver, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,10 +86,14 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  2) Run**Driver Easy** and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -100,10 +101,14 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
  In the screenshot shown below, take NVIDIA GeForce GT 640 for example. If you’re using Intel graphics driver, or AMD graphics driver, you’ll see the specific Intel or AMD graphics card model in the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -119,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +131,24 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-concealed-video-streaming-background-youtube-watch/"><u>[Updated] 2024 Approved Concealed Video Streaming Background YouTube Watch</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-breaking-down-the-secrets-of-impactful-asmr-video-creation/"><u>[Updated] Breaking Down the Secrets of Impactful ASMR Video Creation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-laugh-out-loud-essential-comedy-channels-for-endless-fun-for-2024/"><u>[Updated] Laugh Out Loud Essential Comedy Channels for Endless Fun for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-guide-to-mobile-snapchat-screen-recording/"><u>[Updated] Step-by-Step Guide to Mobile Snapchat Screen Recording</u></a></li>
+<li><a href="https://driver-install.techidaily.com/affiliate-hp-envy-5530-with-your-windows-environment/"><u>Affiliate HP Envy 5530 with Your Windows Environment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/auditory-brilliance-step-by-step-for-scarlett-6i6-driver-revamp/"><u>Auditory Brilliance: Step by Step for Scarlett 6I6 Driver Revamp</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-8-youtube-editing-software-for-linux/"><u>Best 8 YouTube Editing Software for Linux</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensible-methods-to-set-up-new-nvidia/"><u>Comprehensible Methods to Set Up New NVIDIA</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-canon-drivers-in-windows-versions-(-11/"><u>Configure Canon Drivers in Windows Versions < 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-scsi-driverseasily-and-quickly/"><u>Download SCSI Drivers|Easily & Quickly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-13-mini-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 13 mini</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-screen-rendering-update-hp-driver/"><u>Enhance Screen Rendering - Update HP Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensuring-smooth-operation-of-astro-with-driver-fixes/"><u>Ensuring Smooth Operation of Astro with Driver Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonizing-usbasp-drivers-across-all-windows-editions/"><u>Harmonizing USBasp Drivers Across All Windows Editions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-your-smartphone-data-speeds-a-detailed-guide-to-swift-internet-access-on-the-go/"><u>Improve Your Smartphone Data Speeds: A Detailed Guide to Swift Internet Access on the Go</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ranking-the-best-budget-friendly-live-streaming-options-today/"><u>In 2024, Ranking the Best Budget-Friendly Live Streaming Options Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/transform-your-gaming-consoles-vocals-today-for-2024/"><u>Transform Your Gaming Consoles' Vocals Today for 2024</u></a></li>
+</ul></div>
 

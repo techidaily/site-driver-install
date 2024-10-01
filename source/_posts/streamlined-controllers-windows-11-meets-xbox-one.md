@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Controllers: Windows 11 Meets Xbox One"
-date: 2024-08-08T06:30:44.748Z
-updated: 2024-08-09T06:30:44.748Z
+date: 2024-09-30T16:44:47.114Z
+updated: 2024-10-01T19:41:28.359Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/a0af520127c446b45e79a1a60bb9e112f600a9371
  **Way 1:[Update the Driver via Device Manager](#way1)**
  **Way 2:[Update the Driver Using Driver Easy](#way2)**
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 1: Update the Driver via Device Manager
 
  If Windows doesn’t install the driver automatically, you can update the driver manually via Device Manager. Follow these steps:
@@ -40,28 +37,21 @@ thumbnail: https://thmb.techidaily.com/a0af520127c446b45e79a1a60bb9e112f600a9371
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
 6) Check to see if you can use the Xbox One Controller properly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 2: Update the Driver Using Driver Easy
 
  If you don’t have the time, patience or computer skills to update the driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -74,20 +64,27 @@ No advertising on the website.
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
 
@@ -102,8 +99,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +106,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-alternatives-to-xboxs-game-bar-for-gamers/"><u>[Updated] 2024 Approved Alternatives to Xbox’s Game Bar for Gamers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-dealing-with-youtubes-challenging-earnings-model/"><u>[Updated] 2024 Approved Dealing with YouTube's Challenging Earnings Model</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-engage-viewers-with-an-effortless-youtube-animated-subscribe-button-using-filmora/"><u>[Updated] 2024 Approved Engage Viewers with an Effortless YouTube Animated Subscribe Button Using Filmora</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-platform-for-seminar-titles/"><u>[Updated] Premier Platform for Seminar Titles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-secrets-to-adding-an-engaging-vimeo-end-screen-for-2024/"><u>[Updated] Secrets to Adding an Engaging Vimeo End Screen for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-checkpoint-a-2021-review-of-vegas-pros-latest-features/"><u>[Updated] The Ultimate Checkpoint A 2021 Review of Vegas Pro's Latest Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-top-contenders-for-the-best-mac-mouse-tech-experts-weigh-in/"><u>2024'S Top Contenders for the Best Mac Mouse - Tech Experts Weigh In</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ace-your-pcs-performance-by-mastering-astro-updates-and-replacements/"><u>Ace Your PC's Performance by Mastering Astro Updates & Replacements</u></a></li>
+<li><a href="https://driver-install.techidaily.com/align-driver-with-windows-streamline-hp-laserjet-pro-400-functions/"><u>Align Driver with Windows: Streamline HP LaserJet Pro 400 Functions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-installation-guide-updated-driver-for-hp-4630-printer/"><u>Easy Installation Guide: Updated Driver for HP 4630 Printer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-and-streamline-your-display-on-windows-11-reviving-drivers/"><u>Enhance and Streamline Your Display on Windows 11: Reviving Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-audio-driver-update-in-ws11/"><u>Essential Tips for Audio Driver Update in WS11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-tracking-device-drivers-in-win7/"><u>Fast-Tracking Device Drivers in Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/geforce-gtx-750-ti-latest-driver-download-easily/"><u>Geforce GTX 750 Ti Latest Driver Download Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-poco-x6-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Poco X6 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-driver-guide-get-canon-scanner-access/"><u>Hassle-Free Driver Guide: Get Canon Scanner Access</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062596970-overcoming-xps-network-miniport-obstructions-now-fixed/"><u>Overcoming XP's Network Miniport Obstructions - Now Fixed!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-pova-5-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Pova 5</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-are-my-youtube-comments-desktopiosandroid-strategies-for-2024/"><u>Where Are My YouTube Comments? Desktop/iOS/Android Strategies for 2024</u></a></li>
+</ul></div>
 

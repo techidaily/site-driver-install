@@ -1,7 +1,7 @@
 ---
 title: Universal Controller Setup Tool for W11/Xbone Systems
-date: 2024-08-08T06:32:13.801Z
-updated: 2024-08-09T06:32:13.801Z
+date: 2024-09-29T17:49:53.083Z
+updated: 2024-10-01T19:17:49.746Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
  **Way 1:[Update the Driver via Device Manager](#way1)**
  **Way 2:[Update the Driver Using Driver Easy](#way2)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Way 1: Update the Driver via Device Manager
 
  If Windows doesn’t install the driver automatically, you can update the driver manually via Device Manager. Follow these steps:
@@ -34,33 +31,27 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 
  2) Type**devmgmt.msc** and press**Enter** on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
 
  3) Expand the branch **Microsoft Xbox One Controller** .
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
 6) Check to see if you can use the Xbox One Controller properly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 2: Update the Driver Using Driver Easy
 
  If you don’t have the time, patience or computer skills to update the driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -75,14 +66,25 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
 
@@ -97,8 +99,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +106,17 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-an-odyssey-through-time-unexplored-worlds-in-classic-books-for-2024/"><u>[New] An Odyssey Through Time Unexplored Worlds in Classic Books for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-charting-a-course-through-public-domain-landmarks/"><u>[Updated] 2024 Approved Charting a Course Through Public Domain Landmarks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-13-mini-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 13 mini</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-visuals-and-smoothness-with-new-gpu-driver/"><u>Boost Visuals & Smoothness with New GPU Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/dell-laptop-drivers-update-for-windows/"><u>Dell Laptop Drivers Update for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-fixes-activating-sleeping-wsreset-process/"><u>Effective Fixes: Activating Sleeping WSReset Process</u></a></li>
+<li><a href="https://driver-install.techidaily.com/heal-usb-serial-port-conflict/"><u>Heal USB-Serial Port Conflict</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insights-into-empire-building-and-conquest-in-stellaris/"><u>Insights Into Empire Building and Conquest in Stellaris</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securely-sign-up-a-guide-to-using-email-or-social-media-instead-of-your-phone-for-app-registrations/"><u>Securely Sign Up: A Guide to Using Email or Social Media Instead of Your Phone for App Registrations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-driver-issues-in-windows-10-7-and-81-solved/"><u>USBasp Driver Issues in Windows 10, 7 and 8.1 [SOLVED]</u></a></li>
+</ul></div>
 

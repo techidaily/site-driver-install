@@ -1,7 +1,7 @@
 ---
 title: Silent Windows Desktop? Check and Reinstall Drivers
-date: 2024-09-04T16:59:08.652Z
-updated: 2024-09-05T16:59:08.652Z
+date: 2024-09-27T18:52:43.438Z
+updated: 2024-10-01T20:07:22.308Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Reinstall audio driver manually
 
  You can follow the steps below to reinstall your audio driver manually. First you’ll need to uninstall the audio driver.
@@ -42,18 +49,34 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 3. Expand the category**Sound,video and game controllers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffff4272b1.jpg)
 4. **Right-click on the sound device** and click**Uninstall device** (in some cases, this could be just Uninstall). In the below example, the sound device is Realtek High Definition Audio.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0027dd7b67.jpg)
 5. On the Uninstall confirm dialog box, select the**Delete the driver software for this device** option, then click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be003fba7ed5.png)  
  The option**Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information you can visit [Driver Store](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) in Microsoft. If you don’t see this option on the**Uninstall confirm dialog** box, the driver package may have been removed. In this case, just click**Uninstall** to uninstall the driver.
-6. **Restart** your computer. Usually, Windows will install an audio driver automatically when your computer is connected to the internet. (It may not give you the latest drivers — so if you found the issue persists, you can take the following methods to automatically check for driver issues or updates.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. **Restart** your computer. Usually, Windows will install an audio driver automatically when your computer is connected to the internet. (It may not give you the latest drivers — so if you found the issue persists, you can take the following methods to automatically check for driver issues or updates.)
+
 ## 2\. Reinstall audio driver automatically (Recommended)
 
  The above steps may help resolve your no sound issues, but if they don’t, you can install a new audio driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -66,20 +89,15 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer for any outdated or faulty drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the **three dots icon** next to an audio driver and select**Uninstall driver** (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) ). Since replacing the old driver with a newer one may solve the audio issues, you can also choose to update all your drivers with one click to keep your PC drivers up-to-date.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/audio-driver-uninstall-driver-easy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -95,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +120,24 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-demystifying-best-hdr-cameras-for-professionals/"><u>[New] 2024 Approved Demystifying Best HDR Cameras for Professionals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-alchemy-of-aesthetics-top-1-written-by-an-experienced-graphic-designer/"><u>[New] In 2024, The Alchemy of Aesthetics Top 1 Written by an Experienced Graphic Designer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beginners-tutorial-windows-movie-maker-6-installation-for-2024/"><u>Beginner's Tutorial Windows Movie Maker 6 Installation for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conquer-usb-connectivity-issues-in-windows/"><u>Conquer USB Connectivity Issues in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-upgrade-guide-for-windows-audio/"><u>Driver Upgrade Guide for Windows Audio</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-usbasp-functionality-on-multiple-windows-editions-7-11/"><u>Enhancing USBasp Functionality on Multiple Windows Editions (7-11)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-drivers-download-netgear-ac1200-usb-wireless/"><u>Free Drivers Download: Netgear AC1200 USB Wireless</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlimited-outro-options-at-no-expense-online/"><u>In 2024, Unlimited Outro Options at No Expense Online</u></a></li>
+<li><a href="https://driver-install.techidaily.com/increase-screen-output-performance-windows/"><u>Increase Screen Output Performance (Windows)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/origin-crash-woes-solve-them-instantly-and-effortlessly-with-our-expert-tips/"><u>Origin Crash Woes? Solve Them Instantly & Effortlessly with Our Expert Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-intel-driver-refresh-for-windows/"><u>Step-by-Step Intel Driver Refresh for Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-bsod-error-0x0000007e-on-microsofts-windows-7/"><u>Step-by-Step Solution for BSOD Error 0X0000007E on Microsoft's Windows 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-running-android-apps-seamlessly-on-windows-10/"><u>Step-by-Step Tutorial: Running Android Apps Seamlessly on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-system-performance-fixing-ssd-errors-on-windows-pcs/"><u>Streamlined System Performance: Fixing SSD Errors on Windows PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-for-persistent-fallout-groovy-the-dreadful-crash-issues/"><u>Ultimate Troubleshooting Guide for Persistent Fallout Groovy: The Dreadful Crash Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-guide-amds-rx-5500xt-graphics/"><u>Upgrade Guide: AMD's RX 5500XT Graphics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/visual-unity-ai-driven-instavideo-compilation/"><u>Visual Unity AI-Driven InstaVideo Compilation</u></a></li>
+</ul></div>
 

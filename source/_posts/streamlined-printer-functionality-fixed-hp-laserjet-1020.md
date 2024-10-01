@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Printer Functionality: Fixed HP LaserJet 1020"
-date: 2024-08-08T06:30:49.920Z
-updated: 2024-08-09T06:30:49.920Z
+date: 2024-09-26T17:20:22.257Z
+updated: 2024-10-01T17:15:30.948Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 2. [Update the printer driver in Device Manager](#Fix2)
 3. [Update the printer driver automatically](#Fix3)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Update the printer driver manually
 
 Time needed:  3 minutes.
@@ -36,11 +33,16 @@ Time needed:  3 minutes.
  This method shows you how to download and install HP LaserJet 1020 printer driver from HP support.
 
 1. **Go to the HP support website.**  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
@@ -48,9 +50,6 @@ Time needed:  3 minutes.
 4. **Install the driver for your printer.**  
  Run the downloaded file, and follow the wizard to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update the printer driver in Device Manager
 
  You can also update your printer driver using the Windows built-in solution – Device Manager.
@@ -66,14 +65,30 @@ Time needed:  3 minutes.
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
 
@@ -81,9 +96,6 @@ After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Update the printer driver automatically (Recommended)
 
  Manually installing the HP Laserjet 1020 printer driver requires time and computer skills. If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -96,11 +108,16 @@ After updating, restart your computer.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. After updating, restart your computer to take effect.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -120,8 +137,6 @@ This is a rather easy method, isn’t it?!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +144,21 @@ This is a rather easy method, isn’t it?!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-quick-tricks-randomizing-youtube-videos-on-all-devices-for-2024/"><u>[Updated] Quick Tricks Randomizing YouTube Videos on All Devices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-your-virtual-participation-with-increased-zooming/"><u>Boost Your Virtual Participation with Increased Zooming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/canon-mf4770n-driver-update-in-windows-1187/"><u>Canon MF4770n Driver Update in Windows 11/8/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-windows-print-support-epson-et-2650-drivers-bundle/"><u>Direct Windows Print Support: Epson ET-2650 Drivers Bundle</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-visual-clarity-new-hp-graphics-for-windows/"><u>Drive Visual Clarity - New HP Graphics for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-wi-fi-extender-installation-for-w7/"><u>Easy Wi-Fi Extender Installation for W7</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-editor-download-for-free-for-2024/"><u>Filmora Editor Download for Free for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guardian-logitech-webcam-toolkit/"><u>Guardian Logitech Webcam Toolkit</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-functionality-on-your-windows-10-display/"><u>How to Restore Brightness Functionality on Your Windows 10 Display</u></a></li>
+<li><a href="https://facebook.techidaily.com/rebranding-in-the-social-realm-update-your-profile-pic/"><u>Rebranding in the Social Realm: Update Your Profile Pic</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-eliminating-tdr-failure-bluescreens-on-your-computer/"><u>Step-by-Step Guide: Eliminating TDR Failure Bluescreens on Your Computer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-the-power-of-pause-time-mastering-art-of-slow-motion-videos-using-photos-apps-and-websites/"><u>Unlocking the Power of Pause Time Mastering Art of Slow Motion Videos Using Photos Apps and Websites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/visual-voyage-documenting-desktop-views-on-winos/"><u>Visual Voyage Documenting Desktop Views on WinOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-pcs-restart-at-odd-hours/"><u>Win11 PCs Restart at Odd Hours</u></a></li>
+</ul></div>
 

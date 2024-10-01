@@ -1,7 +1,7 @@
 ---
 title: Tackle FTDI Adapter Glitches
-date: 2024-09-20T17:05:47.755Z
-updated: 2024-09-26T16:48:08.550Z
+date: 2024-09-27T16:17:00.135Z
+updated: 2024-10-01T17:57:24.729Z
 tags:
   - win11
   - win10
@@ -45,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
@@ -72,16 +66,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -91,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -119,17 +107,16 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-simplified-path-getting-snapchat-on-macos/"><u>[New] In 2024, Simplified Path Getting Snapchat on macOS</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-superheroes-clash-black-vs-silver/"><u>[New] Superheroes Clash BLACK vs SILVER</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-market-breakthrough-strategy-box-by-box/"><u>2024 Approved Market Breakthrough Strategy Box by Box</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/customized-advertising-solutions-enhanced-with-the-power-of-cookiebot-technology/"><u>Customized Advertising Solutions: Enhanced with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-touch-screen-driver-installation-for-windows-11/"><u>Efficient Touch Screen Driver Installation for Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-galaxy-m14-4g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Galaxy M14 4G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrating-c270-webcam-with-modern-windows-11-system/"><u>Integrating C270 Webcam with Modern Windows 11 System</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leveraging-chromes-picture-in-picture-for-multi-screen-browsing-for-2024/"><u>Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-stop-alan-wake-2-from-crashing-in-your-2024-gameplay/"><u>Step-by-Step: Stop Alan Wake 2 From Crashing in Your 2024 Gameplay</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlocking-simple-techniques-for-amd-driver-downloads/"><u>Unlocking Simple Techniques for AMD Driver Downloads</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063378462-update-lenovo-g580-drivers-easily/"><u>Update Lenovo G580 Drivers. Easily!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-complete-tech-manual-for-game-screen-recording-win10-for-2024/"><u>[New] The Complete Tech Manual for Game Screen Recording Win10 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-art-of-captioning-images-with-text-for-2024/"><u>[Updated] The Art of Captioning Images with Text for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition-for-2024/"><u>[Updated] Unlock High-End Visuals A Practical Guide for SDR to HDR Transition for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/25plus-best-practices-for-crafting-witty-metaverse-visual-jokes/"><u>25+ Best Practices for Crafting Witty Metaverse Visual Jokes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062477779-bamboo-drivers-just-a-click-away/"><u>Bamboo Drivers, Just a Click Away</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-full-potential-for-hp-graphics/"><u>Enable Full Potential for HP Graphics</u></a></li>
+<li><a href="https://win11.techidaily.com/enablingdisabling-microsofts-smartguard-in-win-10/"><u>Enabling/Disabling Microsoft's SmartGuard in Win 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-your-username-in-windows-11/"><u>How to Change Your Username in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-driver-upgrade-techniques-for-msi-bravo-15/"><u>Rapid Driver Upgrade Techniques for MSI Bravo 15</u></a></li>
+<li><a href="https://driver-install.techidaily.com/synchronize-uart-and-ftdi-devices/"><u>Synchronize UART and FTDI Devices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 6 | Dr.fone</u></a></li>
 </ul></div>
 

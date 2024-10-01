@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Win 11 Drivers in Minutes
-date: 2024-08-08T06:31:11.047Z
-updated: 2024-08-09T06:31:11.047Z
+date: 2024-09-29T19:34:35.855Z
+updated: 2024-10-01T17:14:51.944Z
 tags:
   - win11
   - win10
@@ -26,15 +26,19 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
 
 **Pro Tip:** If you’re not tech-savvy, or you’re short on time and patience, you can try updating all your drivers on Windows 11 with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  in one click.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to update drivers on Windows 11
 
  Whether you want to do it manually or automatically, below you will find two different step-by-step installation guides.
 
 * **[Manually](#1)**
 * **[Automatically](#2)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1\. Update drivers via Device Manager
 
@@ -44,38 +48,41 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
 
  If you can’t find the driver online, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (a trusted source for millions of verified drivers) to download the correct driver for you.
 2. Right-click the Start menu ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-1.png) and click**Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the**Device Manager** window, expand the category and the device that you wish to update the driver for. If you need to update Realtek PCIe GBE Family Controller, you’ll find this device under the**Network adapters** category. You can right-click on the device name and select**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/update-driver.jpg)
 4. Click**Browse my computer for drivers** , and select the downloaded file.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
 5. Browse to the folder where your driver file is saved.  
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-path.jpg)
 6. It will install the drivers automatically for you.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/download-location.jpg)
 7. Once complete, you now have the latest driver installed. You can restart your PC for it to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2\. Update all drivers automatically
 
  You can download any outdated driver with Driver Easy, and it’s completely free. However, if you don’t want to go through the manual update, you can update it with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  automatically.
@@ -90,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
@@ -110,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +121,26 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-instant-impression-audiovisual-capture-for-2024/"><u>[New] Instant Impression Audiovisual Capture for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-revolutionize-your-videos-essential-obs-edits-at-hand/"><u>[New] Revolutionize Your Videos Essential OBS Edits at Hand</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlocking-the-secrets-of-duplicating-your-tiktok-aura/"><u>[New] Unlocking the Secrets of Duplicating Your TikTok Aura</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-best-6-mc-survival-home-blueprints/"><u>2024 Approved Best 6 MC Survival Home Blueprints</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-effective-hp-screen-capture/"><u>2024 Approved Unveiling the Secrets of Effective HP Screen Capture</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-intel-520-graphics-driver/"><u>Easy Intel 520 Graphics Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-way-to-update-mouse-drivers-in-windows/"><u>Effortless Way to Update Mouse Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-marvell-avstar-ax19-wireless-lan-support-on-pc/"><u>Enable Marvell AVSTAR AX19 Wireless LAN Support on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-steps-to-reset-and-refresh-your-windows-11-computer/"><u>Essential Steps to Reset and Refresh Your Windows 11 Computer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fwu-e1659-drivers-enhance-os-win-functions/"><u>FWU-E1659 Drivers Enhance OS WIN Functions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-modernize-your-msi-bravos-drivers/"><u>Guide to Modernize Your MSI Bravo's Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-refresh-the-drivers-for-a-usb-serial-communication-interface/"><u>How To Refresh The Drivers For A USB Serial Communication Interface</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-restart-and-reset-bluetooth-driver-on-windows-1111/"><u>How to Restart and Reset Bluetooth Driver on Windows 11/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-realtek-pcie-gbe-chipset-support-in-win11-release-notes/"><u>Improve Realtek PCIe GBE Chipset Support in Win11 Release Notes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-ax19-wifi-in-windows-8-devices/"><u>Install AX19 WiFi in Windows 8 Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-hp-officejet-printer-tools/"><u>Install HP Officejet Printer Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/intellectual-property-dispute-hp-enterprise-sues-inspur-for-unauthorized-use-amidst-alleged-us-market-stay/"><u>Intellectual Property Dispute: HP Enterprise Sues Inspur for Unauthorized Use Amidst Alleged U.S. Market Stay</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-complete-guide-how-to-edit-movies-or-video-download-online/"><u>New In 2024, Complete Guide How to Edit Movies or Video Download Online</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726027936672-obs5/"><u>OBSを超える5つの最高の録画アプリケーション - ユーザー推奨</u></a></li>
+</ul></div>
 
