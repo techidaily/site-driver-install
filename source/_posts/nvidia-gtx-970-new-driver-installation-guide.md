@@ -1,7 +1,7 @@
 ---
 title: Nvidia GTX 970 - New Driver Installation Guide
-date: 2024-07-29T05:02:18.265Z
-updated: 2024-07-30T05:02:18.265Z
+date: 2024-10-05T17:28:17.084Z
+updated: 2024-10-07T00:17:12.934Z
 tags:
   - win11
   - win10
@@ -34,9 +34,6 @@ Follow these steps:
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
@@ -49,9 +46,6 @@ Follow these steps:
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg)
 
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.
@@ -64,23 +58,14 @@ Follow these steps.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)
 
  **Way 3: Update the Driver Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -93,9 +78,6 @@ Follow these steps.
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -108,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +97,37 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-unveiling-the-mystery-scriptwriting-for-documentaries/"><u>[New] In 2024, Unveiling the Mystery Scriptwriting for Documentaries</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capturing-perfection-a-deep-dive-into-apeaksofts-technology/"><u>[Updated] 2024 Approved Capturing Perfection A Deep Dive Into Apeaksoft's Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-device-not-found-problems-in-windows/"><u>Addressing 'Device Not Found' Problems in Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/comparing-features-of-the-free-vs-premium-versions-of-3gp-video-converter-factory/"><u>Comparing Features of the Free Vs. Premium Versions of 3GP Video Converter Factory</u></a></li>
+<li><a href="https://driver-install.techidaily.com/deciphering-and-resolving-flaws-in-flat-cars-hawkui-edition/"><u>Deciphering & Resolving Flaws in Flat Cars: Hawkui Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-enhancement-for-gtx-750-ti-drivers/"><u>Direct Enhancement for GTX 750 Ti Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-driver-update-in-windows-10-acers-secret-weapon/"><u>Effortless Driver Update in Windows 10 - Acer's Secret Weapon</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-setup-download-canon-xp-drivers/"><u>Effortless Setup: Download Canon XP Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-system-integration-with-asus-drivers/"><u>Effortless System Integration with ASUS Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-tracked-patch-for-iris-x912/"><u>Fast-Tracked Patch for Iris X912</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-f5-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-smart-8-plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Smart 8 Plus to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-u23-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC U23 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-display-settings-install-hp-graphics-in-win11/"><u>Streamline Display Settings: Install HP Graphics in Win11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-ratio-reference-for-youtube-videos-and-ads/"><u>The Ultimate Ratio Reference for YouTube Videos & Ads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/turing-test-explained-and-future-competitors/"><u>Turing Test Explained & Future Competitors?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-wacom-software-for-enhanced-performance-in-win-10117/"><u>Updating Wacom Software for Enhanced Performance in Win 10/11/7</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

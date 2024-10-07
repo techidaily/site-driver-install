@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your ThinksPad: Upgrade to Latest Win11 Drivers"
-date: 2024-07-29T05:03:28.615Z
-updated: 2024-07-30T05:03:28.615Z
+date: 2024-10-02T00:01:30.194Z
+updated: 2024-10-06T19:21:01.788Z
 tags:
   - win11
   - win10
@@ -30,30 +30,18 @@ You can go to Lenovo’s official website to check for and download the latest W
   
 2\. Click **Laptops** .
   
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578d9d1d472a1.png)
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e353b836c7f.jpg)
 
  4.**Select Sub-Series** . (Let’s take 11e (Type 20D9, 20DA) Laptop (Thinkpad) for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3551d14e36.jpg)
 
  5\. Click**view all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e355a7dd5d4.jpg)
 
  6\. Scroll down and pick a component that you wish to update driver for. And select the Operating System to Windows 10 64-bit or Windows 32-bit. If you are not sure what specific version of Windows 10 that your PC is running, see [Quickly Get Operating System Version (Windows)](https://tools.techidaily.com/drivereasy/download/) .
@@ -76,9 +64,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355190d0976.png)
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
@@ -97,9 +82,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99bde5485.jpg)
 
  With Driver Easy, you can update Lenovo Thinkpad Windows 10 drivers in several minutes.
@@ -110,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +99,28 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-enrich-your-browsing-routine-picture-in-picture-techniques-for-edge/"><u>[New] 2024 Approved Enrich Your Browsing Routine Picture-in-Picture Techniques for Edge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2023diy2/"><u>2023年最新指紋識別裝置DIY尺寸大修改：從2英吋照片到最佳身分證攝影技巧</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-amplify-your-channels-evading-synthetic-watchers/"><u>2024 Approved Amplify Your Channels Evading Synthetic Watchers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/audio-recipe-converting-insta-vids-to-mp3/"><u>Audio Recipe Converting Insta Vids to Mp3</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conexant-hd-audio-solution-for-newest-win11-users/"><u>Conexant HD Audio Solution for Newest Win11 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/correct-windows-10-sounds-with-audio-driver-installation/"><u>Correct Windows 10 Sounds with Audio Driver Installation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-13t-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with 13T</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gb-mb-drivers-direct-downloader-windows-installation/"><u>GB MB Drivers: Direct Downloader, Windows Installation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a24-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A24 to Another | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hts-into-youtubes-economic-model-for-content-makers-for-2024/"><u>Insights Into YouTube's Economic Model for Content Makers for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-pc-performance-update-your-dell-laptop-drivers/"><u>Optimize PC Performance: Update Your Dell Laptop Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-radeon-5450-driver-updates-for-win11/"><u>Rapid Radeon 5450 Driver Updates for Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-data-handling-fixing-windows-and-samsung-drive-issues/"><u>Seamless Data Handling: Fixing Windows & Samsung Drive Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-poco-f5-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Poco F5 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

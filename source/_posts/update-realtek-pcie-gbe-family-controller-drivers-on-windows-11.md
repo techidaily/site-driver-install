@@ -1,7 +1,7 @@
 ---
 title: Update Realtek PCIe GBE Family Controller Drivers on Windows 11
-date: 2024-09-20T17:32:04.788Z
-updated: 2024-09-26T16:19:19.522Z
+date: 2024-10-04T21:27:45.182Z
+updated: 2024-10-07T02:51:23.090Z
 tags:
   - win11
   - win10
@@ -63,10 +63,10 @@ _Realtek PCIe GBE Familly Controller_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0236547c83.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -86,36 +86,42 @@ _Realtek PCIe GBE Familly Controller_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0234c3a594.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In Device Manager, expand category **Network adapters** . Under this category, right-click on the**Realtek PCIe GbE Family Controller** . Then click**Update Driver Software…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023a099bb2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Browse my Computer for driver software.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023ca8557c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023f947709.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click on   **Next** button to install the driver.
@@ -141,20 +147,19 @@ _Realtek PCIe GBE Familly Controller_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-be-selective-stop-instagram-suggested-updates/"><u>[Updated] 2024 Approved Be Selective Stop Instagram Suggested Updates</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-erase-unwanted-boards-from-old-youtube-videos-for-clearer-viewing/"><u>[Updated] 2024 Approved Erase Unwanted Boards From Old YouTube Videos for Clearer Viewing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-redefining-mobile-gaming-mastery-an-examination-of-kinemaster/"><u>[Updated] 2024 Approved Redefining Mobile Gaming Mastery An Examination of KineMaster</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>[Updated] Tender Tracks Ideal Music to Accompany a Lifelayer Change</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-reigning-in-your-digital-domain-with-a-precision-plan-for-smm-excellence/"><u>2024 Approved Reigning in Your Digital Domain with a Precision Plan for SMM Excellence</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blur-proof-iphones-achieving-flawless-budget-friendly-edits-for-2024/"><u>Blur-Proof iPhones Achieving Flawless, Budget-Friendly Edits for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-proofficejet-8620-driver-upgrade-guide-for-pcs/"><u>HP ProOfficeJet 8620 Driver Upgrade Guide for PCs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-optimizing-virtual-meetings-through-gmail-and-zoom/"><u>In 2024, Tips for Optimizing Virtual Meetings Through Gmail & Zoom</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-amd-rx-570-for-windows-versions-downloading-now/"><u>Optimize AMD RX 570 for Windows Versions Downloading Now</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapidly-enhance-win10-touch-interface/"><u>Rapidly Enhance Win10 Touch Interface</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reviving-nvidia-support-in-windows-environment/"><u>Reviving NVIDIA Support in Windows Environment</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-hd-graphics-sdk-release/"><u>Speedy HD Graphics SDK Release</u></a></li>
-<li><a href="https://driver-install.techidaily.com/system-overlap-issues/"><u>System Overlap Issues</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-constructor-suite/"><u>Video Constructor Suite</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/vob-dateien-spielen-unter-windows-10-und-macos-eine-schritt-fur-schritt-anleitung/"><u>VOB-Dateien Spielen Unter Windows 10 Und macOS: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-future-film-tech-top-cinematic-tips-for-the-year-2024/"><u>[New] The Future Film Tech Top Cinematic Tips for the Year 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-live-stream-to-file-top-performing-obs-recording-tools/"><u>[Updated] 2024 Approved Live Stream to File Top Performing OBS Recording Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-video-cutting-edge-m1s-efficiency-takes-the-lead/"><u>[Updated] Video Cutting-Edge M1's Efficiency Takes the Lead</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y78-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y78 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-max-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 15 Pro Max Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-alternatives-to-sns-hdr-in-a-crowded-space/"><u>In 2024, Unveiling Alternatives to SNS HDR in a Crowded Space</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-sony-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Sony</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionize-your-graphic-tablet-huion-h420-and-windows/"><u>Revolutionize Your Graphic Tablet: Huion H420 & Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-windows-10-logitech-cam-update/"><u>Secure Windows 10 Logitech Cam Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-controllers-windows-11-meets-xbox-one/"><u>Streamlined Controllers: Windows 11 Meets Xbox One</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshoot-and-fix-dreamlight-valley-pc-crashes-using-our-top-6-tips/"><u>Troubleshoot and Fix Dreamlight Valley PC Crashes Using Our Top 6 Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-amd-radeon-drivers-for-enhanced-performance/"><u>Update AMD Radeon Drivers for Enhanced Performance</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-top-tiktok-watermark-erasers-remove-logos-easily-for-2024/"><u>Updated Top TikTok Watermark Erasers Remove Logos Easily for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-usb-hub-troubleshooting-guide-fixed/"><u>Windows USB Hub Troubleshooting Guide - Fixed</u></a></li>
 </ul></div>
 

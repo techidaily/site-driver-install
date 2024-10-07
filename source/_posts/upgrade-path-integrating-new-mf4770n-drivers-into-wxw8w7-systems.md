@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Path: Integrating New MF4770n Drivers Into WX/W8/W7 Systems"
-date: 2024-09-29T18:20:55.822Z
-updated: 2024-10-01T16:25:06.567Z
+date: 2024-09-29T21:50:34.758Z
+updated: 2024-10-07T00:59:50.535Z
 tags:
   - win11
   - win10
@@ -35,22 +35,30 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3dfb7f029.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c7e148fdf8.jpg) You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2: Update your Canon MF4770n driver manually**
@@ -63,26 +71,19 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Under **imageCLASS MF4770n** , click**Drivers & Downloads** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db4a0d862.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Scroll down the new page to the bottom and a list of printer drivers compatible with your operating system will be listed (**Windows 10** ,**x64** in my case). Click**the first result** to make sure you download the latest driver release. Then click**DOWNLOAD** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db3044199.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the on-screen instructions to finish the installation.
 
@@ -111,24 +112,24 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-visual-stories-mastering-photo-distortions-in-ps/"><u>[New] Innovating Visual Stories Mastering Photo Distortions in PS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-mac-screenshots-transforming-extensions/"><u>[New] Mac Screenshots Transforming Extensions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-perfecting-video-quality-on-zoom-through-filters-use/"><u>[New] Perfecting Video Quality on Zoom Through Filters Use</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-mathematics-behind-making-money-from-snippets/"><u>[New] The Mathematics Behind Making Money From Snippets</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-direct-engagement-tweeting-successfully-to-fb-for-2024/"><u>[Updated] Direct Engagement Tweeting Successfully to FB for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-unveiling-the-new-wave-of-video-editing-with-powerdirector-24/"><u>[Updated] In 2024, Unveiling the New Wave of Video Editing with PowerDirector '24</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-iphone-users-guide-to-picture-softening-four-ways/"><u>[Updated] IPhone Users' Guide to Picture Softening (Four Ways)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-rtx-3080-drivers-on-windows-1087-no-cost-downloads-available/"><u>Get the Newest NVIDIA RTX 3080 Drivers on Windows 10/8/7 – No Cost Downloads Available</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/immersive-visual-spectacle-gears-challenge-to-lgcam/"><u>Immersive Visual Spectacle Gear's Challenge to LGCam</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcoming-game-crashes-a-players-guide-to-fixing-dev-error-6634-in-call-of-duty-warzone/"><u>Overcoming Game Crashes: A Player's Guide to Fixing Dev Error 6634 in Call of Duty: Warzone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-setup-of-pro-6-drivers/"><u>Rapid Setup of Pro 6 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reintroducing-printer-software-in-win10117-systems/"><u>Reintroducing Printer Software in WIN10/11/7 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-graphics-driver-renewal-rx-5500xt/"><u>Speedy Graphics Driver Renewal: RX 5500XT</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-to-successfully-install-new-printer-drivers-on-win-systems/"><u>Steps to Successfully Install New Printer Drivers on WIN Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sync-up-systems-integrate-hp-print-driver-with-windows-pc/"><u>Sync Up Systems: Integrate HP Print Driver with Windows PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/systematic-uninstall-install-cycle-for-wacom-devices-on-windows/"><u>Systematic Uninstall-Install Cycle for Wacom Devices on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackle-win11-sound-issues-update-hardware-software/"><u>Tackle Win11 Sound Issues - Update Hardware Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-latest-tech-compatible-bluetooth-drivers-for-w11plus/"><u>Unlock Latest Tech: Compatible Bluetooth Drivers for W11+</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-personalize-videos-adding-captions-in-the-photos-app/"><u>[New] How to Personalize Videos Adding Captions in the Photos App</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-channel-growth-on-a-dime-attracting-sponsors-with-simplicity/"><u>[New] In 2024, Channel Growth on a Dime Attracting Sponsors with Simplicity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-discover-the-best-of-photo-stickering-ios-and-android-leaders-for-2024/"><u>[Updated] Discover the Best of Photo Stickering IOS & Android Leaders for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-freeze-your-favorite-moves-explore-these-top-9-windows-gif-recipes-for-2024/"><u>[Updated] Freeze Your Favorite Moves! Explore These Top 9 Windows GIF Recipes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplifying-the-world-of-ifunnys-meme-application/"><u>[Updated] Simplifying the World of iFunny's Meme Application</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-8k-showcase-cameras-at-the-forefront/"><u>[Updated] Ultimate 8K Showcase Cameras at the Forefront</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-canon-printer-mx870-os-versions/"><u>Configure Canon Printer MX870, OS Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/execute-amd-gpu-r9-firmware-on-pcs/"><u>Execute AMD GPU R9 Firmware on PCs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/gameplay-narratives-6-compelling-ways-to-document-your-virtual-worlds-for-2024/"><u>Gameplay Narratives 6 Compelling Ways to Document Your Virtual Worlds for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-connected-instantly-download-tp-link-usb-wi-fi-drivers-windows/"><u>Get Connected Instantly: Download TP Link USB Wi-Fi Drivers Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-red-dead-redemption-2-up-and-running-a-comprehensive-guide/"><u>Getting Red Dead Redemption 2 Up and Running: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-gaming-sessions-across-oses-xboxpluswindows/"><u>Harmonize Gaming Sessions Across OSes – XBox+Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-scansnap-s1500-drivers/"><u>How To Update ScanSnap S1500 Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-11x-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme 11X 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-driver-errors-enhance-printer-functionality-in-windows/"><u>Rectify Driver Errors: Enhance Printer Functionality in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-audio-journey-mastering-the-art-of-quick-fixes-for-spotify-setbacks-in-android-auto-unveiling-1e-strategies/"><u>Seamless Audio Journey: Mastering the Art of Quick Fixes for Spotify Setbacks in Android Auto (Unveiling 1E Strategies)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-wi-fi-extender-just-like-that-for-w7/"><u>Setup Wi-Fi Extender, Just Like That for W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-workflows-on-hp-omen-15-through-driver-patches/"><u>Transform Your Workflows on HP Omen 15 Through Driver Patches</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-to-new-drivers-on-your-msi-bravo-15/"><u>Upgrading to New Drivers on Your MSI Bravo 15</u></a></li>
 </ul></div>
 

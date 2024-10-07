@@ -1,7 +1,7 @@
 ---
 title: How to Fix Kotion Each G2000 Mic Not Working
-date: 2024-09-24T17:26:11.142Z
-updated: 2024-10-01T19:14:00.487Z
+date: 2024-10-05T19:07:09.516Z
+updated: 2024-10-06T18:45:23.208Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -49,6 +42,19 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 * If**no** (no sound on ALL apps), then move on to**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disconnect external speakers
 
@@ -62,24 +68,30 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  1) On the dock, click the**System Preferences** icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026d618d4e9.png) , then click on the **Sound** icon.
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038f642ae65.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If instead of**Internal Speakers** , you see **Digital Output** or**No output devices found** , then insert your headphone into the headphone port and pull it out. Keep plugging and unplugging until **Internal Speakers** appears. Then repeat step 2).
@@ -98,6 +110,19 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
@@ -111,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
  A simple restart can fix many minor issues our computer is having, including audio problems. After the restart, you can check again and see if you get the sound back.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reset **NVRAM**
 
@@ -149,33 +167,20 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038a64edd48.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: no password for this account is needed since it’s only a testing account.
 
@@ -189,6 +194,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
  9) Click **System Preferences** \> **Users & Groups** \> the**Lock** icon > the**Minus** icon to delete your testing account.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix **8: Update your Mac OS**
 
@@ -230,18 +242,22 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-access-your-secret-snaps-archive/"><u>[New] 2024 Approved How to Access Your Secret Snaps Archive</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mediascreen-reviewer-pro-for-2024/"><u>[New] MediaScreen Reviewer Pro for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-quick-guide-saving-screen-share-dialogue/"><u>[Updated] In 2024, Quick Guide Saving Screen Share Dialogue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-your-broken-pcdevice-a-step-by-nstep-repair-guide/"><u>Easy Fixes for Your Broken PC/Device: A Step-by-nStep Repair Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-prevent-nba-2k21-from-freezing-on-your-computer-system/"><u>Expert Tips to Prevent NBA 2K21 From Freezing on Your Computer System</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-xr-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone XR Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-chuckle-collective-top-15-hilarious-youtubers-for-boredom-beaters/"><u>In 2024, Chuckle Collective Top 15 Hilarious YouTubers for Boredom Beaters</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-navigating-skypes-ecosystem-essential-free-and-paid-recording-methods-windowsmac/"><u>In 2024, Navigating Skype's Ecosystem Essential Free and Paid Recording Methods (Windows/Mac)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackle-interrupt-handling-errors/"><u>Tackle Interrupt Handling Errors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tips-for-changing-your-microsoft-mouse-drivers/"><u>Tips for Changing Your Microsoft Mouse Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-realtek-audio-software-on-dell-systems/"><u>Updating Realtek Audio Software on Dell Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-compatible-hp-p1102w-drivers/"><u>Windows Compatible HP P1102w Drivers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-magix-composition-wizard-an-audio-editing-experience-for-2024/"><u>[New] Magix Composition Wizard An Audio Editing Experience for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-wallet-friendly-skyvaults-affordable-ample-data-storing/"><u>[Updated] In 2024, Wallet-Friendly SkyVaults Affordable, Ample Data Storing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-path-to-efficient-workflow-learning-voice-to-text-conversion-in-ms-word/"><u>[Updated] The Path to Efficient Workflow Learning Voice-to-Text Conversion in MS Word</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-premier-church-live-streaming-services-revealed/"><u>2024 Approved Premier Church Live Streaming Services Revealed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>2024 Approved Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-shared-surface-video-chronicling/"><u>2024 Approved Shared Surface Video Chronicling</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-understanding-legality-in-screenshots-from-youtube/"><u>2024 Approved Understanding Legality in Screenshots From YouTube</u></a></li>
+<li><a href="https://driver-install.techidaily.com/adjusting-print-driver-settings-for-hp-deskjet/"><u>Adjusting Print Driver Settings for HP Deskjet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-driver-suite-for-optimal-pc-performance/"><u>ASUS Driver Suite for Optimal PC Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-peasy-guide-to-tackling-hawki-car-problems/"><u>Easy-Peasy Guide to Tackling Hawki Car Problems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-huion-h420-functionality-on-windows-os/"><u>Effortless Huion H420 Functionality on Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-chipset-os-interaction-in-win-11-7-and-81-with-intel/"><u>Enhance Chipset-OS Interaction in Win 11, 7 & 8.1 with Intel</u></a></li>
+<li><a href="https://driver-install.techidaily.com/eradicating-windows-printer-issues-for-hp-1020/"><u>Eradicating Window's Printer Issues for HP 1020</u></a></li>
+<li><a href="https://driver-error.techidaily.com/external-graphics-prevention-in-win10-environment/"><u>External Graphics Prevention in Win10 Environment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-scsi-software-downloads/"><u>Hassle-Free SCSI Software Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-print-quality-by-refining-driver-settings-on-win10/"><u>Improve Print Quality by Refining Driver Settings on WIN10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-real-time-broadcasting-a-beginners-guide/"><u>In 2024, Mastering Real-Time Broadcasting A Beginner's Guide</u></a></li>
 </ul></div>
 

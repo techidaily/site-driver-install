@@ -1,7 +1,7 @@
 ---
 title: "Nvidia Driver Release: Boost W11 with GTX 970"
-date: 2024-07-29T05:03:03.364Z
-updated: 2024-07-30T05:03:03.364Z
+date: 2024-10-02T03:27:47.354Z
+updated: 2024-10-06T22:30:47.887Z
 tags:
   - win11
   - win10
@@ -46,9 +46,6 @@ Follow these steps:
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg)
 
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.
@@ -57,36 +54,18 @@ Follow these steps:
 
 Follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  1\. Press **Win+R** (Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fef72359c9c.png) key and R key) at the same time. A Run dialog box will appear.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)
 
  **Way 3: Update the Driver Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -99,9 +78,6 @@ The ultimate burning program for all your needs!</a>
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -114,8 +90,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +97,31 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-broadcasting-basics-to-facebook-live-with-wirecast-for-2024/"><u>[New] From Broadcasting Basics to Facebook Live with Wirecast for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-going-viral-in-60-seconds-the-instagram-video-guidebook/"><u>[New] In 2024, Going Viral in 60 Seconds The Instagram Video Guidebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-jest-engineer-online-for-2024/"><u>[New] Jest Engineer Online for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ringtone-riches-google-pixel-edition/"><u>[Updated] Ringtone Riches Google Pixel Edition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-create-captivate-independent-animation-innovations/"><u>2024 Approved Create, Captivate Independent Animation Innovations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-the-potential-of-instagrams-live-video-features/"><u>2024 Approved Unlocking the Potential of Instagram’s Live Video Features</u></a></li>
+<li><a href="https://driver-install.techidaily.com/advance-igpu-drivers-for-quadro-gpus/"><u>Advance iGPU Drivers for Quadro GPUs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-graphics-performance-new-windows-rx-570-drivers-available/"><u>Boost Graphics Performance: New Windows RX 570 Drivers Available</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boosted-blockchain-experience-installer-guide-to-amd-drivers-windows/"><u>Boosted Blockchain Experience: Installer Guide to AMD Drivers, Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-deskjet-fixer-for-windows-11-glitches/"><u>HP Deskjet Fixer for Windows 11 Glitches</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720061797133-lenovo-z50-70-updated-drivers-quickly-now/"><u>Lenovo Z50-70: Updated Drivers, Quickly Now!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-windows-10-sounds-via-audio-driver-reinstalls/"><u>Resolve Windows 10 Sounds via Audio Driver Reinstalls</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reveal-the-invisible-storage-on-your-apple-machine/"><u>Reveal the Invisible Storage on Your Apple Machine</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-speed-up-uefi-system/"><u>Secure & Speed-Up UEFI System</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranked-video-platforms-for-movie-and-music-video-enthusiasts/"><u>Top-Ranked Video Platforms for Movie and Music Video Enthusiasts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063605606-unlock-your-devices-potential-universal-adb-on-demand/"><u>Unlock Your Device's Potential - Universal ADB on Demand!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

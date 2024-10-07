@@ -1,7 +1,7 @@
 ---
 title: Upgrading Xerox C6515 System
-date: 2024-09-24T16:47:02.559Z
-updated: 2024-09-26T17:37:53.200Z
+date: 2024-10-04T20:03:18.065Z
+updated: 2024-10-06T17:38:24.029Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
  Therefore, having an up-to-date driver is needed for keeping your Xerox printer in good condition.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to update your Xerox WorkCentre 6515 driver
 
  Here are the two methods you can try to download or update the printer driver. You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -50,16 +57,16 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to a flagged Xerox WorkCentre 6515 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-DE.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The [**Pro version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com.**](mailto:support@drivereasy.com)
 
@@ -74,31 +81,24 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 3. Download the driver installer. If you’re using a Windows system, download the**Xerox Global Print Driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-Windows-OS.jpg)  
  If you’re using a macOS, download the**macOS Print and Scan Driver Installer** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-macOS.jpg)
 4. Open the downloaded file. And then follow the on-screen instructions to install the software and drivers on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -122,16 +122,17 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-analysis-of-zooms-best-audio-to-text-software-options-freesubscription/"><u>[Updated] 2024 Approved Expert Analysis of Zoom's Best Audio to Text Software Options (Free/Subscription)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlock-social-potential-sharing-panoramic-content-with-facebook/"><u>[Updated] In 2024, Unlock Social Potential Sharing Panoramic Content with Facebook</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo Find X6 Pro</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-method-update-your-windows-11-system-with-new-nvidia-audio-driver/"><u>Streamlined Method: Update Your Windows 11 System with New NVIDIA Audio Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-dells-auditory-experience-with-updated-drivers/"><u>Streamlining Dell's Auditory Experience with Updated Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-driver-refresh-for-logitech-sound-equipment/"><u>Swift Driver Refresh for Logitech Sound Equipment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-tips-for-finding-the-best-online-cricket-matches-today/"><u>Top Tips for Finding the Best Online Cricket Matches Today</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-compatible-m2-ssd-guide/"><u>Win Compatible M.2 SSD Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win10-quick-screen-drivers-update/"><u>Win10: Quick Screen Drivers Update</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversione-gratuita-di-file-mkv-in-avi-su-un-mac-una-guida-semplice/"><u>Conversione Gratuita Di File MKV in AVI Su Un Mac: Una Guida Semplice</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-motorola-edge-40-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Motorola Edge 40 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-complete-guide-to-voice-overs-in-multimedia-projects/"><u>In 2024, The Complete Guide to Voice-Overs in Multimedia Projects</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/instant-impact-facebook-vids/"><u>Instant Impact Facebook Vids</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-tutorial-converting-dvf-tracks-into-mp3s-in-3-easy-methods/"><u>Quick Tutorial: Converting DVF Tracks Into MP3s in 3 Easy Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstall-graphics-driver-on-windows-11711/"><u>Reinstall Graphics Driver on Windows 11/7/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/securely-upload-canon-10-driver-package/"><u>Securely Upload Canon 10-Driver Package</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/sneak-peeks-stealthy-video-capture-techniques-for-2024/"><u>Sneak Peeks Stealthy Video Capture Techniques for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-fixing-windows-11-8-and-7-drivers-resolved/"><u>StarTech: Fixing Windows 11, 8, & 7 Drivers (Resolved)</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gaming-experience-with-xbox-cloud/"><u>Streamlining Gaming Experience with Xbox Cloud</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-itel-a60-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Itel A60 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/third-party-data-verified-no-legit-signs/"><u>Third-Party Data Verified: No Legit Signs</u></a></li>
 </ul></div>
 

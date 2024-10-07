@@ -1,7 +1,7 @@
 ---
 title: New Graphics Set for Wndows OS
-date: 2024-07-29T05:04:21.484Z
-updated: 2024-07-30T05:04:21.484Z
+date: 2024-10-02T00:09:17.148Z
+updated: 2024-10-06T16:46:55.502Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -38,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
 
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
@@ -52,8 +46,12 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step 2: Install a new graphics driver
 
  There are three methods for you to reinstall the driver. One method is to download and install a new driver from the PC manufacturer or the graphics card manufacturer.
@@ -70,8 +68,12 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
  If you don’t have the time, patience or computer skills to reinstall the driver manually, or if Windows doesn’t provide the latest driver, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -84,10 +86,14 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
 
  2) Run**Driver Easy** and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -95,10 +101,14 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
 
  In the screenshot shown below, take NVIDIA GeForce GT 640 for example. If you’re using Intel graphics driver, or AMD graphics driver, you’ll see the specific Intel or AMD graphics card model in the list.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -114,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +131,21 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-video-potential-the-art-of-youtube-live-360-streaming/"><u>[New] 2024 Approved Unlocking Video Potential The Art of YouTube Live 360 Streaming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-no-smudges-on-screens-keeping-your-gopro-crisp/"><u>[New] No Smudges on Screens Keeping Your GoPro Crisp</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ideal-remote-recording-gear/"><u>[Updated] Ideal Remote Recording Gear</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-woven-wisdom-expertise-in-loom-recordings/"><u>[Updated] Woven Wisdom Expertise in Loom Recordings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/20-mindfulness-tracks-legal-and-copyright-free-downloads-for-2024/"><u>20 Mindfulness Tracks Legal and Copyright-Free Downloads for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/customizing-your-msi-motherboard-with-updated-drivers-in-windows/"><u>Customizing Your MSI Motherboard with Updated Drivers in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-seamless-transition-transferring-exclusive-youtube-content-to-gmail/"><u>In 2024, Seamless Transition Transferring Exclusive YouTube Content to Gmail</u></a></li>
+<li><a href="https://driver-install.techidaily.com/interfacing-xbox-with-windows-os/"><u>Interfacing XBox with Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-webcam-safe-installation/"><u>Logitech Webcam - Safe Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-multi-display-setup/"><u>Navigating Windows 11 Multi-Display Setup</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-realme-11-proplus-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Realme 11 Pro+ Phone? Unlock It Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/real-time-opengl-debugging-tools/"><u>Real-Time OpenGL Debugging Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stay-ahead-in-gaming-with-updated-operating-system-components-for-hp-omen-15/"><u>Stay Ahead in Gaming with Updated Operating System Components for HP Omen 15</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-revamping-dell-realtek-aux/"><u>Step-by-Step: Revamping Dell Realtek AUX</u></a></li>
+</ul></div>
 

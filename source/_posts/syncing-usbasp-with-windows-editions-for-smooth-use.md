@@ -1,7 +1,7 @@
 ---
 title: Syncing USBasp with Windows Editions for Smooth Use
-date: 2024-09-26T17:31:05.781Z
-updated: 2024-10-01T18:42:23.332Z
+date: 2024-10-01T17:58:59.291Z
+updated: 2024-10-06T18:17:52.585Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Download and update USBasp driver manually
 
  USBasp is a USB programmer for Atmel AVR controllers, and you can download the USBasp driver from the manufacturer website.
@@ -44,10 +51,10 @@ To do so:
 4. Run the downloaded file and follow the on-screen instructions to finish it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should have the latest USBasp driver installed in your Windows computer.
@@ -67,27 +74,20 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddda67fba.jpg)
 3. Click the**Update** button next to the device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd828e09e9b7.jpg)
 4. Restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](mailto:support@drivereasy.com) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 Tada, now you should have updated the USBasp driver easily.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Download and update USBasp driver via Device Manager
 
@@ -100,21 +100,15 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dcf3157ac.jpg)
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
 4. Choose**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
@@ -137,20 +131,19 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-capturing-and-archiving-itunes-content-effortlessly/"><u>[New] In 2024, Capturing and Archiving iTunes Content Effortlessly</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-nostalgic-film-techniques-for-contemporary-projects-using-vhs/"><u>[New] In 2024, Nostalgic Film Techniques for Contemporary Projects Using VHS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/7-innovative-apps-gpt-assisted-file-analysis/"><u>7 Innovative Apps: GPT-Assisted File Analysis</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-win11-with-new-acer-graphic-cards/"><u>Boost Win11 with New Acer Graphic Cards</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tips-for-hyperx-soundcard-driver-tweaks/"><u>Essential Tips for HyperX Soundcard Driver Tweaks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expert-guide-to-curing-wins-usb-issues/"><u>Expert Guide to Curing WIN's USB Issues</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-14-pro-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 14 Pro Max</u></a></li>
-<li><a href="https://fox-access.techidaily.com/nexus-of-networked-realities-unveiling-metaverse-vs-omniverse-for-2024/"><u>Nexus of Networked Realities Unveiling Metaverse Vs. Omniverse for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-realtek-drivers-with-windows-10-updates/"><u>Optimize Realtek Drivers with Windows 10 Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/startech-driver-issues-in-windows-1187-solved/"><u>StarTech Driver Issues in Windows 11/8/7 [Solved]</u></a></li>
-<li><a href="https://driver-install.techidaily.com/taking-windows-11-display-to-the-next-level-with-an-hdmi-driver-update/"><u>Taking Windows 11 Display to the Next Level with an HDMI Driver Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tecnicas-de-optimizacion-seo-para-la-exportacion-y-comparticion-de-videos-desde-after-effects/"><u>Técnicas De Optimización SEO Para La Exportación Y Compartición De Videos Desde After Effects</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-itel-a60s-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Itel A60s without backup.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unmissable-prime-day-bargains-for-your-favorite-samsung-tech/"><u>Unmissable Prime Day Bargains for Your Favorite Samsung Tech!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-107-fwu-drivers-aoc-release-v1659e/"><u>Windows 10/7 FWU Drivers - AOC Release V1659E</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-income-with-mobile-video-monetization-techniques-for-youtubers/"><u>[New] In 2024, Elevating Income with Mobile Video Monetization Techniques for YouTubers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-schematic-designing-stopwatches-for-streaming-software/"><u>[Updated] Expert Schematic Designing Stopwatches for Streaming Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-navigating-the-world-of-fbx-for-gamers/"><u>[Updated] In 2024, Navigating the World of FBX for Gamers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-guide-to-verifying-your-youtube-profile/"><u>[Updated] In 2024, The Essential Guide to Verifying Your YouTube Profile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-ppt-presentations-successfully-in-google-meet-for-2024/"><u>[Updated] Navigating PPT Presentations Successfully in Google Meet for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-g29-driver-seamlessly-on-your-pc-compatible-with-windows-11107/"><u>Download and Install Logitech G29 Driver Seamlessly on Your PC: Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-aural-experience-on-windows-11-with-updated-sound-drivers/"><u>Elevate Aural Experience on Windows 11 with Updated Sound Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-hp-deskjets-performance-on-win11-os/"><u>Enhance HP Deskjet's Performance on Win11 OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-to-effortlessly-update-amd-graphics-drivers/"><u>Essential Tips to Effortlessly Update AMD Graphics Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-graphics-driver-updates-on-win7-simple-steps/"><u>HP Graphics Driver Updates on Win7: Simple Steps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-your-thumbnails-with-these-20-top-fonts/"><u>In 2024, Master Your Thumbnails with These 20 Top Fonts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-airlink-for-w7-computers/"><u>Instant Airlink for W7 Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-netgear-ac1200-wireless-range-expander-ex6200-features-performance-and-value/"><u>The Ultimate Guide to the Netgear Ac1200 Wireless Range Expander (EX6200): Features, Performance & Value</u></a></li>
 </ul></div>
 

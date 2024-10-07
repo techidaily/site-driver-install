@@ -1,7 +1,7 @@
 ---
 title: Making XBox Joy-Con Work on Windows 10
-date: 2024-07-29T05:05:34.448Z
-updated: 2024-07-30T05:05:34.448Z
+date: 2024-10-05T21:43:30.327Z
+updated: 2024-10-06T20:34:47.016Z
 tags:
   - win11
   - win10
@@ -31,32 +31,27 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 
  2) Type**devmgmt.msc** and press**Enter** on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
 
  3) Expand the branch **Microsoft Xbox One Controller** .
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
 6) Check to see if you can use the Xbox One Controller properly.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 2: Update the Driver Using Driver Easy
 
  If you don’t have the time, patience or computer skills to update the driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -69,19 +64,27 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
 
@@ -96,8 +99,6 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +106,26 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-swinging-sparrow-suites-for-2024/"><u>[New] Swinging Sparrow Suites for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-fishermans-field-guide-to-prime-camers/"><u>[Updated] In 2024, The Fisherman's Field Guide to Prime Camers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-differences-between-ig-reels-vs-stories-for-2024/"><u>[Updated] Unveiling the Differences Between IG Reels Vs Stories for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-different-versions-available-for-windows-movie-maker/"><u>2024 Approved Assessing Different Versions Available for Windows Movie Maker</u></a></li>
+<li><a href="https://driver-install.techidaily.com/auditory-upgrade-immerse-into-high-definition-windows-7/"><u>Auditory Upgrade: Immerse Into High-Definition Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-yoga-900s-speed-effortlessly/"><u>Boost Your Yoga 900'S Speed Effortlessly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fuse-hp-envy-5530-drivers-with-your-win10-system/"><u>Fuse HP Envy 5530 Drivers with Your Win10 System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/future-proof-console-buying-guide-best-picks/"><u>Future-Proof Console Buying Guide - Best Picks</u></a></li>
+<li><a href="https://discover-able.techidaily.com/guide-complet-pour-le-suivi-de-deplacement-grace-a-lia/"><u>Guide Complet Pour Le Suivi De Déplacement Grâce À L'IA</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-12-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 12 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-personalizing-call-screens-the-prepost-meeting-edge/"><u>In 2024, Personalizing Call Screens The Pre/Post-Meeting Edge</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-simple-driver-updates-available/"><u>Lenovo Z50-70: Simple Driver Updates Available</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/podcast-perfection-elite-webcam-selection-guide/"><u>Podcast Perfection Elite Webcam Selection Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precision-and-reliability-install-hp-projector-8710-printer-software-windows/"><u>Precision & Reliability - Install HP Projector 8710 Printer Software (Windows)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/pushing-the-boundaries-upgrade-for-larger-ps3-hdd/"><u>Pushing the Boundaries - Upgrade for Larger PS3 HDD</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steinberg-audio-drivers-for-multiple-platforms/"><u>Steinberg Audio Drivers for Multiple Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-pcs-aesthetics-in-3-steps/"><u>Transform Your PC's Aesthetics in 3 Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/uninterrupted-experience-update-to-model-1659aoc/"><u>Uninterrupted Experience - Update to Model 1659AOC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-full-potential-tips-for-msi-bios-driver-updates-on-windows-7810/"><u>Unlocking Full Potential: Tips for MSI BIOS Driver Updates on Windows 7/8/10</u></a></li>
+</ul></div>
 

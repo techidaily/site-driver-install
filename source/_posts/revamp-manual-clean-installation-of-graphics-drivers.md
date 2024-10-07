@@ -1,7 +1,7 @@
 ---
 title: "Revamp Manual: Clean Installation of Graphics Drivers"
-date: 2024-08-08T06:28:22.272Z
-updated: 2024-08-09T06:28:22.272Z
+date: 2024-10-06T02:27:18.979Z
+updated: 2024-10-07T02:24:48.200Z
 tags:
   - win11
   - win10
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 
 ## Revamp Manual: Clean Installation of Graphics Drivers
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-39.png)
 
  If you’re looking for a step-by-step guide on how to clean install your graphics drivers, then you’ve come to the right place. “Clean install” can be quite new to those who don’t tinker with their computers very often, but it is worth your attention as a potential cure for game crashing and other driver installation problems.
@@ -34,6 +31,13 @@ Now use the following procedure to clean install your graphics drivers:
 OR
 
 **[Option 2 – Manually](#option2)** – You’ll need some computer skills and patience to download your driver this way, because you need to find exactly the right driver online and then download it yourself.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1 – Automatically download the driver
 
@@ -51,9 +55,6 @@ OK, enough intro. Let’s see what you should do:
 
  Rest assured that Driver Easy uses only genuine drivers, straight from your hardware manufacturers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Option 2 – Download the driver manually
 
  This is the most common way you download a driver, but it costs you more time and effort than using a driver updater tool. Besides, you may also download a wrong driver (e.g. not compatible with your system) so all the previous effort goes down the tubes and you have to start all over again. Anyway, just make sure you find the correct driver online.
@@ -67,8 +68,12 @@ OK, enough intro. Let’s see what you should do:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step 2: Create a system restore point
 
  This step is actually not imperative, but I strongly suggest you create a restore point as a precaution before proceeding to the next step. The restore point allows you to revert your system to a previous state when it’s still functioning well (especially before any problems come up). But don’t panic – you’ll rarely have serious issues during the clean installation.
@@ -80,8 +85,12 @@ OK, enough intro. Let’s see what you should do:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step 3: Uninstall your current graphics drivers
 
  Whether you’ve known it or not, there are two common ways for people to uninstall their drivers: a) clicking “Uninstall device” in Windows Device Manager and b) uninstalling the drivers from “Programs and Features” on Control panel. However, I’ll introduce neither because they CANNOT completely remove a driver (including its files, folders, and registry keys) from your computer. Also, it’s rather time-consuming and error-prone to delete every single file of a driver manually – you need to find out what files the driver contains, where they locate, and then delete them one by one (that can be quite a lot of work). So, in order to save your time and effort, I suggest you use the**Display Driver Uninstaller** **(DDU)** to do the job for you.
@@ -112,10 +121,14 @@ OK, enough intro. Let’s see what you should do:
 
 **Clean and shutdown** – If you want to replace the current video card with a new one, then you should click this option.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-22.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select the option based on your actual situation and then wait for the uninstallation process to complete. No matter which one you choose, you’ll need to**reboot** your computer in order to move on.
 
@@ -135,9 +148,6 @@ Finally, the last step is to install your driver.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-29-18.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the graphics driver, simply click the **Update**  button next to it.
@@ -164,8 +174,6 @@ Finally, the last step is to install your driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +181,26 @@ Finally, the last step is to install your driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-choosing-vocal-change-software/"><u>[New] The Ultimate Guide to Choosing Vocal Change Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-tutorials-on-precision-digital-video-capture/"><u>[Updated] Expert Tutorials on Precision Digital Video Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-essential-zoom-techniques-for-iphone-users/"><u>[Updated] Master Essential Zoom Techniques for iPhone Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bluetooth-usb-adapter-support-guide-asus-bt400/"><u>Bluetooth USB Adapter Support Guide - Asus BT400</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-design-free-secure-wacom-driver-for-windows/"><u>Enhance Your Design: Free, Secure Wacom Driver for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-printer-driver-issues-on-windows-10/"><u>Fix Printer Driver Issues on Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fixing-windows-10-photo-viewer-hangs-quickly/"><u>Fixing Windows 10 Photo Viewer Hangs Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-new-gtx-1650-windows-drivers/"><u>Get the New GTX 1650 Windows Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-760-new-drivers-less-trouble/"><u>GTX 760: New Drivers, Less Trouble</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-note-50-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme Note 50 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-poco-x5-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Poco X5 Pro?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-smooth-cinematography-best-stabilizers-listed/"><u>In 2024, Smooth Cinematography Best Stabilizers Listed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-epson-driver-performance-in-win11/"><u>Optimize Epson Driver Performance in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-atheros-drivers-rollout-to-windows-11/"><u>Seamless Atheros Drivers Rollout to Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-connectivity-with-one-click-adb-driver/"><u>Streamline Your Connectivity with One-Click ADB Driver</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-powerhouse-apple-iphone-12-mini-a-review/"><u>Unboxing the Powerhouse Apple iPhone 12 Mini - A Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-potential-lenovos-simple-upgrade-path/"><u>Unleash Potential: Lenovo's Simple Upgrade Path</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-c51-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme C51 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

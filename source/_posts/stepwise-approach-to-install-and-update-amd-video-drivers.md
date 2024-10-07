@@ -1,7 +1,7 @@
 ---
 title: Stepwise Approach to Install and Update AMD Video Drivers
-date: 2024-09-25T17:08:35.649Z
-updated: 2024-09-26T16:43:20.703Z
+date: 2024-10-05T22:21:57.828Z
+updated: 2024-10-06T23:50:23.393Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 2. [Update your AMD video driver automatically](#Fix2)
 3. [Update your AMD video driver in Device Manager](#Fix3)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Download your AMD video driver manually
 
  As one of the biggest manufacturers of graphics cards, you can download the latest version of your AMD graphics driver from the AMD website:
@@ -47,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f81d33633c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or you can identify your AMD graphics hardware by selecting your video card model and Windows system to download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f82b2be76c.jpg)
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 5) Restart your computer.
 
  Manually downloading drivers requires time and computer skills. If this method doesn’t work for you, you can try other solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update your AMD video driver automatically
 
@@ -72,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b11094416ece.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged graphics card device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
@@ -98,32 +98,26 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Double click**Display adapters** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f857166088.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right click on your**AMD video card device** , and select**Update driver** .
@@ -139,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85bdaac43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Follow the on-screen instructions to finish.
@@ -173,21 +167,21 @@ Feel free to add a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-8-premier-mp3-downloaders-for-android-devices/"><u>[New] 8 Premier MP3 Downloaders for Android Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/egality-check-taking-screencasts-of-youtube-videos-for-2024/"><u>[New] Legality Check Taking Screencasts of YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-blueprints-for-impressive-fb-ad-campaigns/"><u>[Updated] Blueprints for Impressive FB Ad Campaigns</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flaskful-formula-freaks/"><u>2024 Approved FLASKFUL FORMULA FREAKS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-guide-new-nvidia-drivers-in-windows/"><u>Essential Guide: New NVIDIA Drivers in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-broken-link-between-win-and-xbox-controllers/"><u>Fixing Broken Link Between Win and Xbox Controllers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-proplus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 Pro+ to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-key-methods-to-capture-and-document-live-youtube-broadcasts/"><u>In 2024, Key Methods to Capture and Document Live Youtube Broadcasts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-cream-of-the-crop-top-iphone-apps-reviewed-for-2024/"><u>New The Cream of the Crop Top iPhone Apps , Reviewed for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/optimize-your-social-media-presence-with-mobile-based-live-videos/"><u>Optimize Your Social Media Presence with Mobile-Based Live Videos</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimized-guide-reinstalling-bluetooth-drivers-in-windows-1011/"><u>Optimized Guide: Reinstalling Bluetooth Drivers in Windows 10/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/professionally-accurate-free-intuos-4-drivers-for-safe-windows/"><u>Professionally Accurate: Free Intuos 4 Drivers for Safe Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-acer-graphics-via-windows-11-drivers-renewal/"><u>Revamp Acer Graphics via Windows 11 Drivers Renewal</u></a></li>
-<li><a href="https://driver-install.techidaily.com/silence-distorted-windows-10-audio-by-driver-reinstalling/"><u>Silence Distorted Windows 10 Audio by Driver Reinstalling</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-and-simple-downloading-compatible-canon-inkjet-software-win11/"><u>Smooth & Simple: Downloading Compatible Canon Inkjet Software, WIN11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-ready-installing-surface-pro-4-professional-drivers/"><u>Windows-Ready: Installing Surface Pro 4 Professional Drivers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island/"><u>[New] 2024 Approved Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-halting-real-time-recordings-on-qt-player/"><u>[New] Halting Real-Time Recordings on QT Player</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-syncing-speed-and-quality-in-lunapic-edits/"><u>[New] Syncing Speed and Quality in LunaPic Edits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-p2715q-4k-display-unveiled-a-comprehensive-analysis/"><u>[Updated] P2715Q 4K Display Unveiled A Comprehensive Analysis</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-v29e-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo V29e to Another | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-use-facebook-two-factor-authentication-and-mobile-code-generator/"><u>How to Use Facebook Two-Factor Authentication and Mobile Code Generator</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/in-depth-analysis-of-apowersoft-recordmydesktop-expert-reviews-and-insights/"><u>In-Depth Analysis of Apowersoft RecordMyDesktop - Expert Reviews & Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-steps-to-refresh-your-lenovo-dock/"><u>Simple Steps to Refresh Your Lenovo Dock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplifying-driver-install-on-windows-machines/"><u>Simplifying Driver Install on Windows Machines</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operating-navigating-the-driver-update-in-win11/"><u>Smooth Operating: Navigating the Driver Update in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smoothly-enhance-gaming-experience-with-updated-drivers/"><u>Smoothly Enhance Gaming Experience with Updated Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tweak-windows-711-graphics-drivers-quickly/"><u>Tweak Windows 7/11 Graphics Drivers Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wi-fi-proxy-setup-made-easy-for-w7/"><u>Wi-Fi Proxy Setup Made Easy for W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-11-10plus-ie-management-engine-installation-guide/"><u>Win 11-10+ IE Management Engine Installation Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1011my-cinema-app/"><u>Windows 10/11版でMy Cinema Appをスムーズに動画録画するチュートリアル</u></a></li>
 </ul></div>
 

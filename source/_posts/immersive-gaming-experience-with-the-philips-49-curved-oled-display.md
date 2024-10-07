@@ -1,7 +1,7 @@
 ---
 title: Immersive Gaming Experience with the Philips 49 Curved OLED Display
-date: 2024-09-25T19:43:24.684Z
-updated: 2024-10-01T19:47:34.316Z
+date: 2024-10-03T02:02:23.649Z
+updated: 2024-10-06T20:58:53.494Z
 categories:
   - BestProducts
 description: This Article Describes Immersive Gaming Experience with the Philips 49 Curved OLED Display
@@ -42,10 +42,10 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
@@ -110,6 +110,13 @@ Lifewire / Jonno Hill
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Gaming** :**Great for the most demanding titles**
 
  Gaming performance is great on the HP OMEN Obelisk thanks to the Nvidia GTX GeForce 2080 Super and Intel i9-9900K combo. I tested a number of games on my 3440x1440 monitor to get a sense of performance. To put this in perspective, this resolution is roughly 60 percent of the pixels of a 4K monitor.
@@ -125,26 +132,26 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Just enough options**
 
@@ -157,10 +164,10 @@ Lifewire / Jonno Hill
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Highly competitive**
@@ -170,13 +177,6 @@ Lifewire / Jonno Hill
  As far as I’m concerned, $200 is a perfectly reasonable premium to pay for a system that is already assembled and shipped to your door.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -226,24 +226,21 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-craft-a-closer-vision-5-easy-ways-to-enhance-minecraft-screens/"><u>[New] 2024 Approved Craft a Closer Vision 5 Easy Ways to Enhance Minecraft Screens</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-chuckle-inducing-cover-versions/"><u>[New] In 2024, Chuckle-Inducing Cover Versions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-undercover-guide-to-enhancing-your-window-11-experience/"><u>[New] The Undercover Guide to Enhancing Your WINDOW 11 Experience</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-instant-impact-or-rapid-rhythm-youtube-shorts-vs-tiktok-for-quick-content/"><u>[Updated] 2024 Approved Instant Impact or Rapid Rhythm YouTube Shorts Vs. TikTok for Quick Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-soundtracking-your-snapchats/"><u>[Updated] 2024 Approved SoundTracking Your Snapchats</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-discovering-top-video-cameras/"><u>[Updated] In 2024, Discovering Top Video Cameras</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/happy-paws-abroad-petcubes-second-adventure/"><u>Happy Paws Abroad: Petcube's Second Adventure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-impact-vectors-discover-the-best-10-websites-for-2024/"><u>High-Impact Vectors Discover the Best 10 Websites for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-hasten-recovering-deleted-snaps/"><u>In 2024, Hasten Recovering Deleted Snaps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/remedy-hp-deskjet-driver-windows-11-faults/"><u>Remedy HP Deskjet Driver Windows 11 Faults</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-print-operations-upgrade-f4770n-driver-on-winos-systems/"><u>Revamp Print Operations: Upgrade F4770n Driver on WINOS Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-asus-compatibility-enhancers-windows/"><u>Seamless ASUS Compatibility Enhancers (Windows)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-dell-sound-with-updated-realtek-driver-implementation/"><u>Secure Dell Sound with Updated Realtek Driver Implementation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/uncomplicated-guide-upgrading-and-downloading-amd-drivers/"><u>Uncomplicated Guide: Upgrading & Downloading AMD Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlocking-the-secrets-of-easy-fixes-in-hawkui-vehicles/"><u>Unlocking the Secrets of Easy Fixes in Hawkui Vehicles</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-win10s-realtek-gbe-family-for-sound-perfection/"><u>Update Win10's Realtek GBE Family for Sound Perfection</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-w10-install-latest-lenovo-drivers/"><u>Upgrading W10: Install Latest Lenovo Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-windows-graphics-the-winning-combo/"><u>Upgrading Window’s Graphics: The Winning Combo</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-navigating-youtube-video-production-tools/"><u>[Updated] 2024 Approved Navigating YouTube Video Production Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-best-value-in-the-sky-top-budget-cloud-services/"><u>2024 Approved Best Value in the Sky? Top Budget Cloud Services</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-the-potential-of-your-ppt-with-professional-recording/"><u>2024 Approved Unlocking the Potential of Your PPT with Professional Recording</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-90-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-setup-guide-update-tp-link-usb-wi-fi-on-windows-pcs/"><u>Efficient Setup Guide: Update TP Link USB Wi-Fi on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-fixes-for-immediate-access-to-fortnite-after-failed-logins/"><u>Effortless Fixes for Immediate Access to Fortnite After Failed Logins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-io-2023-reveals-an-array-of-amazing-upgrades-to-bard-ai-learn-about-the-top-7-new-features/"><u>Google I/O 2023 Reveals an Array of Amazing Upgrades to BARD AI - Learn About the Top 7 New Features!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-definition-hits-top-8k-cameras-for-professionals-for-2024/"><u>High-Definition Hits Top 8K Cameras for Professionals for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-breathe-new-life-into-your-microsoft-mouse-in-os-x/"><u>How to Breathe New Life Into Your Microsoft Mouse in OS X</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-14-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi 14 Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-yoga-900s-windows-10-drivers-download/"><u>Lenovo Yoga 900S Windows 10 Drivers Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-updating-printer-drivers-on-legacy-oses/"><u>Quick Guide: Updating Printer Drivers on Legacy OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-improvement-for-intel-uhd520/"><u>Quick Improvement for Intel UHD520</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-boot-features-intels-medd/"><u>Secure Boot Features - Intel's MEDD</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-method-windows-1011-bluetooth-drivers-installed-quickly/"><u>Streamlined Method: Windows 10/11 Bluetooth Drivers, Installed Quickly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Quiet Zone? Here's How to Get Game Sounds Back!
-date: 2024-09-21T16:50:57.984Z
-updated: 2024-09-26T17:04:00.430Z
+date: 2024-10-05T22:24:49.228Z
+updated: 2024-10-06T20:18:26.923Z
 tags:
   - win11
   - win10
@@ -45,16 +45,16 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
@@ -103,10 +103,10 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
@@ -117,27 +117,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -148,6 +141,13 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -177,24 +177,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-digital-rehearsal-mastery-in-recording-streaming-audio-for-2024/"><u>[New] Digital Rehearsal Mastery in Recording Streaming Audio for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-from-playback-to-perfection-expert-steam-video-guidance/"><u>[New] In 2024, From Playback to Perfection Expert Steam Video Guidance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-creators-uniting-for-marvels-digital-future/"><u>[Updated] 2024 Approved Creators Uniting for Marvel's Digital Future</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-dominating-the-digital-realm-youtube-marketing-secrets/"><u>[Updated] In 2024, Dominating the Digital Realm YouTube Marketing Secrets</u></a></li>
-<li><a href="https://driver-install.techidaily.com/addressing-software-failure-during-windows-driver-rollout/"><u>Addressing Software Failure During Windows Driver Rollout</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blueprints-to-locate-top-tier-videographers/"><u>Blueprints to Locate Top-Tier Videographers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-your-online-presence-update-logitech-c270-drivers-in-windows-11/"><u>Boost Your Online Presence: Update Logitech C270 Drivers in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-to-update-drivers-in-windows-7/"><u>Easy to Update Drivers in Windows 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-to-personal-management-of-devices-in-vista-os/"><u>Guide to Personal Management of Devices in Vista OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-x9a-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor X9a Phone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-windows-10-network-new-approach-to-atheros-driver-installation/"><u>Revamping Windows 10 Network: New Approach to Atheros Driver Installation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rh5770rtkgraphicsupdatewin/"><u>RH5770RTKGraphicsUpdateWin</u></a></li>
-<li><a href="https://driver-install.techidaily.com/snap-up-issues-with-easy-m-track-fixes/"><u>Snap Up Issues with Easy M-Track Fixes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-ultimate-youtube-video-blueprint-mastering-visual-content-sharing-for-2024/"><u>The Ultimate Youtube Video Blueprint Mastering Visual Content Sharing for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlocking-secrets-solving-win7-miniport-conflicts/"><u>Unlocking Secrets: Solving Win7 Miniport Conflicts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/wacom-intuos-4-driver-free-download-for-windows-100-safe/"><u>Wacom Intuos 4 Driver Free Download for Windows [100% Safe]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-simplified-cross-platform-listening-top-5-playlist-conversion-resources/"><u>[New] In 2024, Simplified Cross-Platform Listening Top 5 Playlist Conversion Resources</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-digital-content-incorporation-for-todays-educator/"><u>[Updated] 2024 Approved Digital Content Incorporation For Today's Educator</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-sync-up-success-sharing-youtube-on-ig-stories/"><u>[Updated] In 2024, Sync Up Success Sharing YouTube on IG Stories</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quick-tips-extracting-and-keeping-gif-tweets-for-2024/"><u>[Updated] Quick Tips Extracting and Keeping GIF Tweets for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-12-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi 12</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-well-does-chatgpt-master-the-art-of-cocktail-making/"><u>How Well Does ChatGPT Master the Art of Cocktail Making?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtube-success-with-the-right-networking-choice/"><u>In 2024, Unlocking YouTube Success with the Right Networking Choice</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-new-drivers-on-windows-vista-manually/"><u>Installing New Drivers on Windows Vista Manually</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intel-82579lm-boosting-speed-with-fresh-drivers-in-windows/"><u>Intel 82579LM: Boosting Speed with Fresh Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-technicality-of-hardware-drivers-addition/"><u>Mastering the Technicality of Hardware Drivers Addition</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-how-to-edit-videos-in-windows-live-movie-maker-lately-windows-movie-maker/"><u>New In 2024, How to Edit Videos in Windows Live Movie Maker Lately Windows Movie Maker</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-quadro-rtx-6000-firmware-download/"><u>NVIDIA Quadro RTX 6000 - Firmware Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-acer-display-with-advanced-driver-software-win11/"><u>Optimize Acer Display with Advanced Driver Software, Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-deployment-pro-6-drivers-updates/"><u>Quick Deployment: Pro 6 Drivers Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fixes-huion-h420-and-windows-driver-pairing/"><u>Quick Fixes: Huion H420 & Windows Driver Pairing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-scsi-drive-setup-guide/"><u>Quick SCSI Drive Setup Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-update-guide-logitech-earbuds-software/"><u>Quick-Update Guide: Logitech Earbuds Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-steps-recording-videos-with-your-chromebook-made-simple/"><u>Simple Steps: Recording Videos with Your Chromebook Made Simple</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-overcoming-compatibility-issues-between-samsung-printers-and-windows-drivers/"><u>Step-by-Step Guide: Overcoming Compatibility Issues Between Samsung Printers & Windows Drivers</u></a></li>
 </ul></div>
 

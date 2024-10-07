@@ -1,7 +1,7 @@
 ---
 title: Xerox WorkCentre 6515 OS Instructions
-date: 2024-08-08T06:29:00.596Z
-updated: 2024-08-09T06:29:00.596Z
+date: 2024-10-04T16:31:37.609Z
+updated: 2024-10-06T18:38:05.505Z
 tags:
   - win11
   - win10
@@ -18,23 +18,8 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 
  If your Xerox WorkCentre 6515 printer isn’t working properly or is responding too slowly and you’re wondering if downloading or updating printer drivers will help you solve the problem, you’ve come to the right place. In this post, we will show you how to update your Xerox printer driver easily to keep your Xerox printer running smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/截屏2022-07-28-下午10.36.04.png)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why you need the Xerox WorkCentre 6515 driver
 
  Drivers are important in computer operation. Because they serve as an interpreter between a computer’s system and its hardware. As for a printer, it could go wrong if:
@@ -46,9 +31,12 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
  Therefore, having an up-to-date driver is needed for keeping your Xerox printer in good condition.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to update your Xerox WorkCentre 6515 driver
 
  Here are the two methods you can try to download or update the printer driver. You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -66,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 
 1. Download and install **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 2. Run Driver Easy and click the**Scan Now** button. Then it will scan and detect any problem drivers in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to a flagged Xerox WorkCentre 6515 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of_All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-DE.jpg)
 4. Restart your computer for the changes to take effect.
 
@@ -90,13 +72,39 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
  If not, you need to select your computer’s OS from the drop-down list of**Platform** . After that, click**APPLY FILTER** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-download-website.jpg)
 3. Download the driver installer. If you’re using a Windows system, download the**Xerox Global Print Driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-Windows-OS.jpg)  
  If you’re using a macOS, download the**macOS Print and Scan Driver Installer** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-macOS.jpg)
 4. Open the downloaded file. And then follow the on-screen instructions to install the software and drivers on your computer.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -111,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +126,18 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/aking-a-splash-with-youtube-ad-banners-and-thumbnails-for-2024/"><u>[New] Making a Splash with YouTube Ad Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-screen-moments-a-compreenasive-recorder-roundup-for-2024/"><u>[New] Screen Moments A Compreenasive Recorder Roundup for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-index-of-varied-photographic-and-videography-instruments/"><u>[Updated] 2024 Approved Index of Varied Photographic and Videography Instruments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/advanced-drivers-e1659aoc-for-win-users/"><u>Advanced Drivers: E1659AOC for Win Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enchanted-realms-on-reels/"><u>Enchanted Realms on Reels</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-driver-revamp-mf4770n-windows-compatibility/"><u>Essential Driver Revamp: MF4770n Windows Compatibility</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-samsung-galaxy-f14-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-lenovo-yogas-performance-one-click/"><u>Simplify Lenovo Yoga's Performance, One Click</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-final-chapter-la-noire-now-fully-functional-for-personal-computers/"><u>The Final Chapter - LA Noire Now Fully Functional for Personal Computers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063126456-windows-graphics-upgrade-in-a-minute/"><u>Windows Graphics Upgrade in a Minute</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-pathway-to-a-functional-windows-sandbox/"><u>Your Pathway to a Functional Windows Sandbox</u></a></li>
+</ul></div>
 

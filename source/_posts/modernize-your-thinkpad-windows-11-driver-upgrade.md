@@ -1,7 +1,7 @@
 ---
 title: "Modernize Your Thinkpad: Windows 11 Driver Upgrade"
-date: 2024-07-29T05:02:48.455Z
-updated: 2024-07-30T05:02:48.455Z
+date: 2024-10-01T18:02:07.365Z
+updated: 2024-10-06T23:55:33.179Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ You can go to Lenovo’s official website to check for and download the latest W
   
 2\. Click **Laptops** .
   
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578d9d1d472a1.png)
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
@@ -45,17 +42,10 @@ You can go to Lenovo’s official website to check for and download the latest W
 
  5\. Click**view all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e355a7dd5d4.jpg)
 
  6\. Scroll down and pick a component that you wish to update driver for. And select the Operating System to Windows 10 64-bit or Windows 32-bit. If you are not sure what specific version of Windows 10 that your PC is running, see [Quickly Get Operating System Version (Windows)](https://tools.techidaily.com/drivereasy/download/) .
   
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3560c14318.jpg)
 
  Then the drivers will be listed. You may see several options. Identify the right driver to download. It is recommended to download the latest version.  
@@ -78,9 +68,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551c56595c.png)
   
  **Way 3 (Recommended): Update the Drivers Automatically**
@@ -91,16 +78,10 @@ Follow these steps to install new audio drivers via Device Manager.
   
  1\. Click**Scan Now** button. After a few seconds, you will be given a list of new drivers to update.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99aab8ab8.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99bde5485.jpg)
 
  With Driver Easy, you can update Lenovo Thinkpad Windows 10 drivers in several minutes.
@@ -111,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +99,34 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-smooth-segmentation-4-easy-fades-explained/"><u>[Updated] 2024 Approved Smooth Segmentation 4 Easy Fades Explained</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nticating-your-youtube-username-and-email/"><u>Authenticating Your YouTube Username & Email</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-pbm-to-jpg-converter-by-movavi-do-it-online-today/"><u>Free PBM to JPG Converter by Movavi - Do It Online Today!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hawkui-car-glitches-step-by-step-fix-guide/"><u>Hawkui Car Glitches - Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/master-online-engagement-with-proficient-use-of-snap-in-teams/"><u>Master Online Engagement with Proficient Use of Snap in Teams</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-more-headaches-with-hp-laserjet-1020-drivers/"><u>No More Headaches with HP LaserJet 1020 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-windows-10-audio-quality-issues-through-drivers-fix/"><u>Resolve Windows 10 Audio Quality Issues Through Drivers' Fix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-audio-hardware-firmware-access/"><u>Simplified Audio Hardware Firmware Access</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-display-update-windows-latest-hdmi-drivers-guide/"><u>Streamlined Display Update: Windows' Latest HDMI Drivers Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-s17t-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo S17t to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleashing-sonic-speeds-with-a-simple-can-of-pressurized-air-the-surprising-shock-diamond-discovery/"><u>Unleashing Sonic Speeds with a Simple Can of Pressurized Air - The Surprising Shock Diamond Discovery</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-10-premiere-pro-transition-effects-to-elevate-your-edits/"><u>Updated 2024 Approved Top 10 Premiere Pro Transition Effects to Elevate Your Edits</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winrtx-3090-ti-performance-enhancer/"><u>WinRTX 3090 Ti Performance Enhancer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725290503984-wondershare/"><u>Wondershareのロゴ取り撤去ガイドと、スピーディかつクリアなビデオエディット</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

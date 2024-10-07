@@ -1,7 +1,7 @@
 ---
 title: Tackle FTDI Adapter Glitches
-date: 2024-09-27T16:17:00.135Z
-updated: 2024-10-01T17:57:24.729Z
+date: 2024-09-29T20:09:06.794Z
+updated: 2024-10-06T21:49:42.414Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -107,16 +107,21 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-complete-tech-manual-for-game-screen-recording-win10-for-2024/"><u>[New] The Complete Tech Manual for Game Screen Recording Win10 for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-art-of-captioning-images-with-text-for-2024/"><u>[Updated] The Art of Captioning Images with Text for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition-for-2024/"><u>[Updated] Unlock High-End Visuals A Practical Guide for SDR to HDR Transition for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/25plus-best-practices-for-crafting-witty-metaverse-visual-jokes/"><u>25+ Best Practices for Crafting Witty Metaverse Visual Jokes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062477779-bamboo-drivers-just-a-click-away/"><u>Bamboo Drivers, Just a Click Away</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enable-full-potential-for-hp-graphics/"><u>Enable Full Potential for HP Graphics</u></a></li>
-<li><a href="https://win11.techidaily.com/enablingdisabling-microsofts-smartguard-in-win-10/"><u>Enabling/Disabling Microsoft's SmartGuard in Win 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-change-your-username-in-windows-11/"><u>How to Change Your Username in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-driver-upgrade-techniques-for-msi-bravo-15/"><u>Rapid Driver Upgrade Techniques for MSI Bravo 15</u></a></li>
-<li><a href="https://driver-install.techidaily.com/synchronize-uart-and-ftdi-devices/"><u>Synchronize UART and FTDI Devices</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-mp4-player-insights/"><u>[Updated] 2024 Approved Essential MP4 Player Insights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-journey-from-photographic-moments-to-sequential-videos/"><u>2024 Approved Journey From Photographic Moments to Sequential Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-bingchattercrypto-tokens-insights-into-identifying-potential-digital-deception-in-blockchain-ventures/"><u>Demystifying BingChatterCrypto Tokens: Insights Into Identifying Potential Digital Deception in Blockchain Ventures</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-tips-overcoming-dxgkrnl-catastrophic-errors-on-windows-machines/"><u>DIY Repair Tips: Overcoming Dxgkrnl Catastrophic Errors on Windows Machines</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-lava-blaze-2-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Lava Blaze 2?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneous-lenovo-g580-driver-tweaks/"><u>Instantaneous Lenovo G580 Driver Tweaks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-driver-updates-on-hyperx-audio-devices/"><u>Navigating Driver Updates on HyperX Audio Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-through-msi-motherboard-drivers-in-windows/"><u>Navigating Through MSI Motherboard Drivers in Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-color-consistency-in-final-cut-pro-the-ultimate-guide/"><u>New In 2024, Color Consistency in Final Cut Pro The Ultimate Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-easy-steps-for-bluetooth-drivers-in-windows-1011/"><u>Quick Guide: Easy Steps for Bluetooth Drivers in Windows 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-logitech-earphone-firmware-upgrade/"><u>Quick Logitech Earphone Firmware Upgrade!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-setup-and-support-free-canon-printer-software-windows/"><u>Quick Setup & Support: Free Canon Printer Software (Windows)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-download-nvidia-gtx-750-ti-update/"><u>Rapid Download: NVIDIA GTX 750 Ti Update</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/saving-books-as-local-pdfs-with-flipbuilder-a-step-by-step-guide/"><u>Saving Books as Local PDFs with FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-split-videos-in-premier-pro/"><u>Updated In 2024, How To Split Videos in Premier Pro</u></a></li>
 </ul></div>
 

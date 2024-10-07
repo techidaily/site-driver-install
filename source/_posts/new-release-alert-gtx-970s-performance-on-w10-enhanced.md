@@ -1,7 +1,7 @@
 ---
 title: "New Release Alert: GTX 970'S Performance on W10 Enhanced"
-date: 2024-07-29T05:02:06.017Z
-updated: 2024-07-30T05:02:06.017Z
+date: 2024-10-01T02:46:53.275Z
+updated: 2024-10-06T17:41:26.860Z
 tags:
   - win11
   - win10
@@ -30,16 +30,10 @@ Follow these steps:
 
  2\. Type “nvidia 970 drivers” in the search box and press**Enter** . Verify the correct result from the top of the result list. Usually, the first result will be the right one. Click on it then you will go to the product page.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a280114d84c.jpg)
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
@@ -64,16 +58,10 @@ Follow these steps.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
@@ -86,16 +74,10 @@ Follow these steps.
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -108,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +97,31 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-ultimate-playbook-for-splitting-views-in-facebook-livestreams/"><u>[New] In 2024, The Ultimate Playbook for Splitting Views in Facebook Livestreams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-shooting-spectacular-igtv-videos-with-your-phone-or-dslr/"><u>[Updated] 2024 Approved Shooting Spectacular IGTV Videos with Your Phone or DSLR</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-rate-conversion-20mb-video-specs/"><u>2024 Approved Frame Rate Conversion 20MB Video Specs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressed-remote-network-driver-flaw-in-windows-vista/"><u>Addressed: Remote Network Driver Flaw in Windows Vista</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amplify-acer-vision-in-windows-11-graphics-upgrade/"><u>Amplify Acer Vision in Windows 11 Graphics Upgrade</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-hl-l2340dw-compatible-software-downloads-for-windows-operating-system/"><u>Brother HL-L2340DW Compatible Software Downloads for Windows Operating System</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/dominate-your-niche-the-ultimate-list-of-tiktok-typography-in-23-for-2024/"><u>Dominate Your Niche The Ultimate List of TikTok Typography in '23 for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-display-capabilities-in-windows-10/"><u>Enhance Display Capabilities in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-inkjet-functionality-on-windows-11/"><u>Enhance Inkjet Functionality on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-download-and-update-amd-video-drivers-easily/"><u>How to Download and Update AMD Video Drivers Easily</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>In 2024, Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-k70e-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi K70E Phone? Unlock It Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062958635-logitec-mouse-hw-quick-fix-for-windows-7-users/"><u>Logitec Mouse HW Quick Fix for Windows 7 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-through-the-process-of-updating-mice-drivers-in-windows/"><u>Navigating Through the Process of Updating Mice Drivers in Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-ps4-screenshot-sharing-for-beginners-a-simple-and-easy-guide/"><u>New PS4 Screenshot Sharing for Beginners A Simple and Easy Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-atheros-wi-fi-enhancement-for-your-windows-environment/"><u>Step-by-Step Atheros Wi-Fi Enhancement for Your Windows Environment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/wisdom-weavers-2024-the-finest-trivia-channel-curations/"><u>Wisdom Weavers 2024 The Finest Trivia Channel Curations</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

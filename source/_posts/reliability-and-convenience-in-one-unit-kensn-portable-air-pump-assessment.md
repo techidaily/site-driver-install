@@ -1,7 +1,7 @@
 ---
 title: "Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
-date: 2024-09-29T18:36:26.599Z
-updated: 2024-10-01T18:05:43.289Z
+date: 2024-10-06T00:41:15.279Z
+updated: 2024-10-06T18:29:28.806Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
@@ -36,22 +36,15 @@ Lifewire / Kelsey Simon
 
 2.7
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -93,10 +86,16 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -132,10 +131,10 @@ Lifewire / Kelsey Simon
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
@@ -149,6 +148,13 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,22 +179,17 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebook-ads-transformed-predicting-the-trends-for-next-year-for-2024/"><u>[New] Facebook Ads Transformed Predicting the Trends for Next Year for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-record-and-share-every-victory-in-obs/"><u>[Updated] 2024 Approved Record & Share Every Victory in OBS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-audio-to-video-conversion-convert-your-wav-recordings-into-avi-gratis/"><u>Effortless Audio-to-Video Conversion: Convert Your WAV Recordings Into AVI - Gratis!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-complet-pour-le-registre-des-sons-sur-ordinateur/"><u>Guide Complet Pour Le Registre Des Sons Sur Ordinateur</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1722990964139-improve-your-naraka-bladepoint-experience-fix-stuttering-and-increase-fps-effectively/"><u>Improve Your Naraka: Bladepoint Experience - Fix Stuttering and Increase FPS Effectively</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-11-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 11 Pro+ to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211749623-sd-card-unseen-solutions-await/"><u>SD Card Unseen? Solutions Await</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-r9-series-with-updated-software/"><u>Secure R9 Series with Updated Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/silent-livestream-issues-heres-why-and-how-to-fix-them-on-twitch/"><u>Silent Livestream Issues? Here's Why and How to Fix Them on Twitch</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-printing-fixed-hp-laserjet-on-windows/"><u>Smooth Printing: Fixed HP LaserJet on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-display-process-in-win-os/"><u>Streamline Display Process in Win OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-drives-update-for-winos/"><u>Streamlined Drives Update for WINOS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-ultimate-driver-update-strategy-for-windows-8-enthusiasts/"><u>The Ultimate Driver Update Strategy for Windows 8 Enthusiasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-on-device-artificeal-intelligence-functionality-and-process/"><u>Understanding On-Device Artificeal Intelligence: Functionality & Process</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-win10-interactive-drives-fastly/"><u>Update Your Win10 Interactive Drives Fastly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-7-driver-support-for-y470-laptop/"><u>Windows 7 Driver Support for Y470 Laptop</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unmissable-upgrades-top-8-tech-and-tools-reshaping-modern-enterprises/"><u>[Updated] 2024 Approved Unmissable Upgrades Top 8 Tech & Tools Reshaping Modern Enterprises</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-effortless-steps-to-obtain-free-audio-for-videos-for-2024/"><u>[Updated] Effortless Steps to Obtain Free Audio for Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-marker-use-in-digital-filmmaking/"><u>[Updated] Innovative Marker Use in Digital Filmmaking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-restoring-past-reddit-articles/"><u>2024 Approved Mastering the Art of Restoring Past Reddit Articles</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-m34-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy M34 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-easy-updates-for-z50-70-hardware/"><u>Fast and Easy Updates for Z50-70 Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-movie-marathon-top-picks-from-crackle-your-go-to-streaming-destination-for-cinema-and-series/"><u>Free Movie Marathon: Top Picks From 'Crackle', Your Go-To Streaming Destination for Cinema & Series</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062465670-seamless-audio-hardware-software-installation/"><u>Seamless Audio Hardware Software Installation!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-driver-enhancement-for-atis-hd-4800/"><u>Speedy Driver Enhancement for ATI's HD 4800</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshooting-tips-for-optimizing-msi-bios-with-older-windows/"><u>Troubleshooting Tips for Optimizing MSI BIOS with Older Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-os-supports-advanced-hd-audio-features/"><u>Upgraded OS Supports Advanced HD Audio Features</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Secure Boot & MEDD on Windows
-date: 2024-09-21T16:10:52.805Z
-updated: 2024-09-26T17:00:39.916Z
+date: 2024-10-02T21:34:22.153Z
+updated: 2024-10-07T03:09:42.755Z
 tags:
   - win11
   - win10
@@ -45,6 +45,14 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ca2e76e79.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) If you want to install the drivers and the**ME Security Status application and control panel** , choose to run the setup file in**ME\_SW\_MSI** folder.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cba0066eb.png)
@@ -56,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
  4) Folder**WINDOWSDriverPackages** contains the .inf files for IT professionals. Check it if you are interested.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cd9324cad.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **PRO TIP:**
 
@@ -78,18 +79,18 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7b1b0f32cf.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7b1d1786b4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **NOTE:**
   
@@ -99,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
   
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) If the Intel Management Engine driver is not successfully installed, you may see an error notification in**Device Manager > PCI Simple Communications Controller** .
@@ -111,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) If you are seeing a yellow exclamation mark next to**Intel Management Engine** in**Device Manager** , here is a post that you might find helpful:
@@ -139,24 +140,15 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-burst-into-action-the-art-of-engaging-instagram-boomers/"><u>[New] 2024 Approved Burst Into Action The Art of Engaging Instagram Boomers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-becoming-an-expert-at-scheduling-virtual-team-sessions-google/"><u>[New] In 2024, Becoming an Expert at Scheduling Virtual Team Sessions (Google)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-visual-brand-integration-embedding-watermarks-and-logos-into-youtube-media/"><u>[New] In 2024, Visual Brand Integration Embedding Watermarks and Logos Into Youtube Media</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-apeaksoft-2023-screens-recording-insights-for-2024/"><u>[Updated] Apeaksoft 2023 Screens Recording Insights for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amd-radeon-r9-200-series-drivers-download-and-install-for-windows/"><u>AMD Radeon R9 200 Series Drivers Download & Install For Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/apple-iphone-7-plus-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 7 Plus Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/canon-printer-drivers-download-for-windows-10/"><u>Canon Printer Drivers Download for Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/directx-vs-opengl-comparison/"><u>DirectX Vs. OpenGL Comparison</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-yoga-900s-functionality-with-new-win10-drivers-download/"><u>Enhance Yoga 900S Functionality with New Win10 Drivers Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-image-output-windows-nt/"><u>Improve Image Output Windows NT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-htc-u23-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your HTC U23 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tints-shades-and-tones-practical-application-in-art/"><u>In 2024, Tints, Shades & Tones Practical Application in Art</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovating-podcast-branding-a-comprehensive-logo-guidebook/"><u>Innovating Podcast Branding A Comprehensive Logo Guidebook</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-canon-scan-setup-guide-for-windows-pcs/"><u>Instant Canon Scan Setup Guide for Windows PCs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-still-to-motion-mastering-time-lapse-video-creation-with-software/"><u>New 2024 Approved From Still to Motion Mastering Time Lapse Video Creation with Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-enhance-wireless-performance-with-updated-adapter-drivers/"><u>Secure and Enhance Wireless Performance with Updated Adapter Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-instructions-hp-printer-model-4630/"><u>Update Instructions: HP Printer Model 4630</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-installation-for-asus-usb-bt400/"><u>Windows Installation for Asus USB-BT400</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-complete-drone-equipment-collection-guide/"><u>[New] 2024 Approved The Complete Drone Equipment Collection Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-practices-for-video-thumbnail-creation-in-the-digital-age/"><u>[Updated] 2024 Approved Best Practices for Video Thumbnail Creation in the Digital Age</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1722999258283-diablo-reawakened-how-to-stop-the-game-from-crashing-solved/"><u>Diablo Ⅱ Reawakened: How to Stop the Game From Crashing - Solved!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-llama-2-how-to-utilize-this-innovative-tool-effectively/"><u>Inside Llama 2: How to Utilize This Innovative Tool Effectively</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-expertise-for-growth-the-impact-of-it-professionals-in-emerging-technology-free-enterprises-as-explained-by-zdnet/"><u>Leveraging Expertise for Growth: The Impact of IT Professionals in Emerging Technology-Free Enterprises, as Explained by ZDNET</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mirthful-memes-and-more-the-20-funniest-tiktok-jokes/"><u>Mirthful Memes & More The 20 Funniest TikTok Jokes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/safety-assured-inf-lacks-digital-signs/"><u>Safety Assured: Inf Lacks Digital Signs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-intel-drivers-integration-in-ws-11-and-earlier-versions/"><u>Streamline Intel Drivers Integration in WS 11 & Earlier Versions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-tune-tracker-and-manager-android-companion/"><u>Top Tune Tracker & Manager, Android Companion</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-mastery-overcoming-samsung-ssd-hiccups-and-errors/"><u>Windows Mastery: Overcoming Samsung SSD Hiccups and Errors</u></a></li>
 </ul></div>
 

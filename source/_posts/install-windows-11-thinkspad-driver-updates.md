@@ -1,7 +1,7 @@
 ---
 title: Install Windows 11 ThinksPad Driver Updates
-date: 2024-07-29T05:05:31.497Z
-updated: 2024-07-30T05:05:31.497Z
+date: 2024-09-29T19:39:38.579Z
+updated: 2024-10-06T21:09:43.466Z
 tags:
   - win11
   - win10
@@ -34,23 +34,14 @@ You can go to Lenovo’s official website to check for and download the latest W
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
   
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e353b836c7f.jpg)
 
  4.**Select Sub-Series** . (Let’s take 11e (Type 20D9, 20DA) Laptop (Thinkpad) for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3551d14e36.jpg)
 
  5\. Click**view all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e355a7dd5d4.jpg)
 
  6\. Scroll down and pick a component that you wish to update driver for. And select the Operating System to Windows 10 64-bit or Windows 32-bit. If you are not sure what specific version of Windows 10 that your PC is running, see [Quickly Get Operating System Version (Windows)](https://tools.techidaily.com/drivereasy/download/) .
@@ -73,16 +64,10 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355190d0976.png)
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551c56595c.png)
   
  **Way 3 (Recommended): Update the Drivers Automatically**
@@ -93,9 +78,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  1\. Click**Scan Now** button. After a few seconds, you will be given a list of new drivers to update.  
   
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99aab8ab8.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
@@ -110,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +99,30 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[New] How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elite-e-commerce-outposts-your-ultimate-gift-enclosure-hub/"><u>[New] In 2024, Elite E-Commerce Outposts Your Ultimate Gift Enclosure Hub</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-step-by-step-customizing-your-youtube-channel-url/"><u>2024 Approved Step-by-Step Customizing Your YouTube Channel URL</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-it-guide-to-wan-driver-glitches-in-xp-pro/"><u>Fix-It Guide to WAN Driver Glitches in XP Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-11-audio-issues-a-comprehensive-guide/"><u>Fixing Windows 11 Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-intel-hd-graphics-520-driver/"><u>Free Intel HD Graphics 520 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-updated-graphics-performance-on-amd-rx-570/"><u>Get Updated Graphics Performance on AMD RX 570</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gpu-reboot-simplified-2024s-ddu-methods/"><u>GPU Reboot Simplified - 2024'S DDU Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-all-inclusive-screen-logger-detailed-app-analyses/"><u>In 2024, All-Inclusive Screen Logger - Detailed App Analyses</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-effective-ways-of-extracting-snapchat-videos/"><u>In 2024, Effective Ways of Extracting Snapchat Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mental-agility-triumphs-in-premier-escape-venues/"><u>Mental Agility Triumphs in Premier Escape Venues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-fuss-quick-setup-tp-link-wireless-adapter-drivers-windows/"><u>No Fuss, Quick Setup: TP Link Wireless Adapter Drivers Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722980317244-overcome-fortnite-login-errors-with-these-simple-steps-start-gaming-now/"><u>Overcome Fortnite Login Errors with These Simple Steps – Start Gaming Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-realtek-pcie-chipset-support-in-windows-11-updates/"><u>Refresh Realtek PCIe Chipset Support in Windows 11 Updates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-essentials-to-initiate-in-google-meet-for-2024/"><u>The Essentials to Initiate in Google Meet for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-for-improved-gaming-on-gtx-1050-ti/"><u>Update for Improved Gaming on GTX 1050 Ti</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

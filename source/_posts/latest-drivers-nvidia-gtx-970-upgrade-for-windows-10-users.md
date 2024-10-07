@@ -1,7 +1,7 @@
 ---
 title: "Latest Drivers: Nvidia GTX 970 Upgrade for Windows 10 Users"
-date: 2024-07-29T05:04:24.105Z
-updated: 2024-07-30T05:04:24.105Z
+date: 2024-10-03T20:43:41.250Z
+updated: 2024-10-07T03:14:59.166Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ Follow these steps:
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
@@ -64,27 +58,14 @@ Follow these steps.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)
 
  **Way 3: Update the Driver Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -97,9 +78,6 @@ No advertising on the website.
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -112,8 +90,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +97,33 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-online-broadcast-battle-facebook-vs-youtube-and-twitspaces/"><u>[Updated] Online Broadcast Battle FACEbook Vs. YOUTube & TWITSpaces</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-step-in-film-making-best-8-cameras-35mm-to-pands/"><u>2024 Approved First Step in Film Making Best 8 Cameras (35Mm to P&S)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/die-fuhrenden-kostenfreien-tools-fur-videobearbeitung-ranking-der-besten-programme/"><u>Die Führenden Kostenfreien Tools Für Videobearbeitung - Ranking Der Besten Programme</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-furious-solving-m-audio-problems/"><u>Fast & Furious: Solving M-Audio Problems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-concept-to-measurement-configuring-and-assessing-facebooks-in-stream-ads-for-2024/"><u>From Concept to Measurement Configuring and Assessing Facebook's In-Stream Ads for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-100-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor 100 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrating-m2-nvme-on-pcs/"><u>Integrating M.2 NVMe on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-driver-release-notes/"><u>Quadro RTX 6000 Driver Release Notes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-to-upgraded-audio-drivers-for-win1111/"><u>Quick Guide to Upgraded Audio Drivers for Win11/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-lexmark-driver-installation-steps/"><u>Seamless Lexmark Driver Installation Steps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sound-upgrade-essentials-focusrites-updated-drivers-walkthrough/"><u>Sound Upgrade Essentials: Focusrite's Updated Drivers Walkthrough</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-username-modification-guide-for-meet-sessions-for-2024/"><u>Step-by-Step Username Modification Guide for Meet Sessions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-ps5-gameplay-assist-controller-guide/"><u>Streamline Your PS5 Gameplay - Assist Controller Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-pro-6-driver-installation/"><u>Streamlined Pro 6 Driver Installation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tech-list-nine-crucial-devices-every-student-should-own/"><u>The Ultimate Tech List: Nine Crucial Devices Every Student Should Own</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-printer-potential-with-canon-win-driver/"><u>Unlock Printer Potential with Canon Win Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-operations-smoothed-across-different-windows-generations/"><u>USBasp Operations Smoothed Across Different Windows Generations</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

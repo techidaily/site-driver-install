@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Refresh Your Lenovo Dock
-date: 2024-09-28T18:18:34.886Z
-updated: 2024-10-01T18:47:53.217Z
+date: 2024-10-02T20:49:42.208Z
+updated: 2024-10-06T21:18:42.532Z
 tags:
   - win11
   - win10
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update**Lenovo USB-C Dock driver** s manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -57,14 +44,14 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
 
- Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
 
@@ -79,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
@@ -91,20 +78,22 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
 
@@ -135,21 +124,19 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-recovery-methods-for-erased-reddit-topics/"><u>[Updated] Quick Recovery Methods for Erased Reddit Topics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/address-serial-interface-defects/"><u>Address Serial Interface Defects</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-your-channels-moniker-youtube-naming-tools-and-tips/"><u>Craft Your Channel's Moniker YouTube Naming Tools and Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/crafting-musical-content-on-instagram/"><u>Crafting Musical Content on Instagram</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-setup-intel-me-drivers/"><u>Download & Setup Intel ME Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fix-compatibility-with-hardware-package/"><u>Fix Compatibility with Hardware Package</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-how-to-edit-the-length-of-a-video-on-youtube/"><u>In 2024, How to Edit the Length of a Video on YouTube</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-audio-settings-of-halo-infinite-for-optimal-performance/"><u>Mastering the Audio Settings of Halo Infinite for Optimal Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-your-computers-sounds-with-the-latest-nvidia-hd-audio-on-win11/"><u>Optimize Your Computer's Sounds with the Latest NVIDIA HD Audio on Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/safely-download-your-pcs-tp-link-wi-fi-driver-here/"><u>Safely Download Your PC's TP Link Wi-Fi Driver Here</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tech-savvy-tips-updating-win-11-driver-effortlessly/"><u>Tech Savvy Tips: Updating Win 11 Driver Effortlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-using-google-maps-for-electric-vehicle-charging-spot-detection/"><u>The Ultimate How-To: Using Google Maps for Electric Vehicle Charging Spot Detection</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-oneplus-open-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from OnePlus Open to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-the-secrets-to-instagram-post-replicas-for-2024/"><u>Unlocking the Secrets to Instagram Post Replicas for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/up-to-date-rx-5500xt-graphics-drivers/"><u>Up-to-Date RX 5500XT Graphics Drivers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zoom-revival-swift-solutions-to-camera-malfunctions/"><u>Zoom Revival: Swift Solutions to Camera Malfunctions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-identifying-excellent-video-production-experts/"><u>[Updated] 2024 Approved Identifying Excellent Video Production Experts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-parodic-play-writing-and-producing-humor-videos/"><u>[Updated] In 2024, Parodic Play Writing and Producing Humor Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-ordinary-moments-into-extraordinary-art-creating-slow-motion-video-from-still-images-online/"><u>[Updated] Transform Ordinary Moments Into Extraordinary Art Creating Slow Motion Video From Still Images Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-gopro-livestreams-to-popular-channels-facebook-and-periscope/"><u>2024 Approved Navigating GoPro Livestreams to Popular Channels (Facebook & Periscope)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-zooms-path-to-visual-impact-adding-video-filters-tutorial/"><u>2024 Approved Zoom's Path to Visual Impact Adding Video Filters Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-lut-effects-to-life-with-smartphones/"><u>Bring LUT Effects to Life with Smartphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deep-dive-into-rising-risks-how-generative-ais-security-problems-are-set-to-intensify/"><u>Deep Dive Into Rising Risks: How Generative AI's Security Problems Are Set to Intensify</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-graphics-with-windows-rtx-3090-drivers/"><u>Enhance Graphics with Windows RTX 3090 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-visuals-amds-radeon-vega-3-update-2024/"><u>Enhance Visuals - AMD's Radeon Vega 3 Update 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/faster-than-before-win10-acer-drivers-revamped/"><u>Faster Than Before: Win10 Acer Drivers Revamped</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-intel-hd-graphics-update/"><u>Free Intel HD Graphics Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gigabyte-memory-controller-free-and-fast-windows-setup/"><u>Gigabyte Memory Controller - Free & Fast Windows Setup</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/techs-elite-selection-the-top-10-video-recorders-online/"><u>Tech's Elite Selection The Top 10 Video Recorders Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-investment-needs-on-youtube/"><u>Understanding Investment Needs on YouTube</u></a></li>
 </ul></div>
 

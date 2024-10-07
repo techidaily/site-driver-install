@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide to Resolve Constant Crashes in Tower of Fantasy Game on PC
-date: 2024-09-30T19:55:38.467Z
-updated: 2024-10-01T19:05:11.729Z
+date: 2024-10-02T21:03:05.415Z
+updated: 2024-10-07T03:27:25.583Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -50,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
@@ -57,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 If this method doesn’t help, check out your graphics driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -79,13 +85,6 @@ If this method doesn’t help, check out your graphics driver.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -102,16 +101,16 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -121,9 +120,31 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -136,26 +157,12 @@ If this method doesn’t help, check out your graphics driver.
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **On GeForce Experience**
 
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
 
@@ -181,22 +188,17 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-breaking-down-the-animation-process-a-movie-maker-approach/"><u>[New] Breaking Down the Animation Process A Movie Maker Approach</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-million-view-achievement-and-its-monetary-benefit/"><u>[New] In 2024, Million View Achievement and Its Monetary Benefit</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-liberty-of-youtube-download-customizable-video-themes/"><u>[New] Liberty of YouTube Download Customizable Video Themes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-techbite-provision-recorder-assessment/"><u>[Updated] 2024 Approved TechBite ProVision Recorder Assessment</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-soft-soundscapes-low-profile-alterations-in-garageband/"><u>2024 Approved Soft Soundscapes Low-Profile Alterations in Garageband</u></a></li>
-<li><a href="https://windows11.techidaily.com/asus-zenbook-14-the-windows-mac-battle-continues/"><u>ASUS Zenbook 14: The Windows-Mac Battle Continues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/comprehensive-guide-on-win810-plus-7-and-xp-startech-fix/"><u>Comprehensive Guide on Win8/10 + 7 & XP: StarTech Fix</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-windows-graphics-anew-with-ease/"><u>Drive Windows Graphics Anew with Ease</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebooks-favorites-top-10-viral-music-videos-guide/"><u>Facebook's Favorites TOP 10 Viral Music Videos Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hardware-software-tug-of-war/"><u>Hardware-Software Tug-of-War</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-printer-1020-bid-adieu-to-windows-driver-troubles/"><u>HP Printer 1020: Bid Adieu to Windows Driver Troubles</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-x100-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo X100 PC | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastery-in-multichannel-instagram-to-tiktok-connector-for-2024/"><u>Mastery in Multichannel Instagram to TikTok Connector for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-hassle-maximum-benefit-instant-usb-access-now/"><u>No Hassle, Maximum Benefit – Instant USB Access Now!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-usbasp-operation-on-xp-7-and-modern-windows/"><u>Streamlining USBasp Operation on XP, 7, & Modern Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/via-hd-audio-driver-issue-fixed-in-windows/"><u>VIA HD Audio Driver Issue Fixed in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-11-speedy-acer-driver-patches/"><u>Windows 11: Speedy Acer Driver Patches</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-10-free-youtube-thumbnail-downloaderssavers-online-download-youtube-thumbnail-for-2024/"><u>[Updated] 10 Free YouTube Thumbnail Downloaders/Savers Online-Download YouTube Thumbnail for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-creative-commons-chill-vibes/"><u>[Updated] In 2024, Creative Commons Chill Vibes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-perfecting-eq-adjustments-in-ableton/"><u>[Updated] Perfecting EQ Adjustments in Ableton</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-track-hp-graphics-driver-fix-in-windows-7/"><u>Fast Track HP Graphics Driver Fix in Windows 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/herunterladen-von-4k-demovideos-auf-youtube-ohne-kompression-vollformat-beibehalten/"><u>Herunterladen Von 4K Demovideos Auf YouTube Ohne Kompression - Vollformat Beibehalten</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-camon-20-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Tecno Camon 20 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalizing-your-system-a-stepwise-guide-to-msi-bios-updates/"><u>Revitalizing Your System: A Stepwise Guide to MSI BIOS Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-safe-download-tp-links-usb-wi-fi-driver/"><u>Secure & Safe: Download TP Link's USB Wi-Fi Driver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341707040-solution-the-first-step-is-conducting-a-detailed-survey-to-understand-the-propertys-physical-features-and-constraints/"><u>Solution: The First Step Is Conducting a Detailed Survey to Understand the Property's Physical Features and Constraints.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-pc-enhancements-download-windows-11s-touch/"><u>Streamline PC Enhancements - Download Windows 11'S Touch</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-social-media-gurus-handbook-accelerating-your-path-to-viral-success-on-instagram/"><u>The Social Media Guru's Handbook Accelerating Your Path to Viral Success on Instagram</u></a></li>
 </ul></div>
 

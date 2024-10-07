@@ -1,7 +1,7 @@
 ---
 title: "Nvidia Drivers Update: Boost Performance - GTX 970 Windows 10 Edition"
-date: 2024-07-29T05:02:04.345Z
-updated: 2024-07-30T05:02:04.345Z
+date: 2024-10-02T20:18:32.021Z
+updated: 2024-10-06T19:29:25.135Z
 tags:
   - win11
   - win10
@@ -30,17 +30,10 @@ Follow these steps:
 
  2\. Type “nvidia 970 drivers” in the search box and press**Enter** . Verify the correct result from the top of the result list. Usually, the first result will be the right one. Click on it then you will go to the product page.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a280114d84c.jpg)
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
@@ -49,9 +42,6 @@ The ultimate burning program for all your needs!</a>
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
@@ -64,9 +54,6 @@ The ultimate burning program for all your needs!</a>
 
 Follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  1\. Press **Win+R** (Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fef72359c9c.png) key and R key) at the same time. A Run dialog box will appear.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
@@ -87,16 +74,10 @@ Follow these steps.
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -109,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +97,28 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-to-play-your-iphone-videos-backward/"><u>[New] 2024 Approved How to Play Your iPhone Videos Backward</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-cut-out-facebook-stories-step-by-step-for-pc-and-phones/"><u>[New] Cut Out Facebook Stories Step-By-Step for PC & Phones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-video-editing-power-plus-professional-equivalents/"><u>[New] YouTube's Video Editing Power + Professional Equivalents</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-discovering-the-varieties-in-non-contact-technology/"><u>[Updated] In 2024, Discovering the Varieties in Non-Contact Technology</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerated-updates-acer-drivers-in-win11/"><u>Accelerated Updates: Acer Drivers in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/advance-graphics-capabilities-for-windows-10/"><u>Advance Graphics Capabilities for Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conexant-hd-audio-support-achieved-in-windows-10/"><u>Conexant HD Audio Support: Achieved in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experiencing-a-blank-league-of-legends-screen-solutions-for-gamers/"><u>Experiencing a Blank League of Legends Screen? Solutions for Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/explore-windows-10s-best-new-applications-and-games-for-2024/"><u>Explore Windows 10'S Best New Applications & Games for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-setup-windows-supported-ssd-drivers/"><u>Instantly Setup Windows-Supported SSD Drivers</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/step-by-step-tutorial-for-incorporating-soundtracks-in-adobe-after-effects/"><u>Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects</u></a></li>
+<li><a href="https://driver-install.techidaily.com/superior-digital-precision-free-wacom-intuos-4-software/"><u>Superior Digital Precision: Free Wacom Intuos 4 Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-reviving-the-net-framework-on-pcs-max-156/"><u>The Art of Reviving the .NET Framework on PCs (Max 156)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-convert-images-to-cartoons-with-ease/"><u>Updated 2024 Approved Convert Images to Cartoons with Ease</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

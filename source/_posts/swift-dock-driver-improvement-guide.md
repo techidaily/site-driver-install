@@ -1,7 +1,7 @@
 ---
 title: Swift Dock Driver Improvement Guide
-date: 2024-09-24T16:13:23.188Z
-updated: 2024-09-26T16:34:28.412Z
+date: 2024-10-01T00:34:28.494Z
+updated: 2024-10-06T17:20:50.605Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update**Lenovo USB-C Dock driver** s manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,31 +48,17 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
 
@@ -81,19 +74,28 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Double-click on the execution file and follow the on-screen instructions to install.
 8. Don’t forget to restart your computer for the changes to take effect.
 
@@ -121,15 +123,22 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-packaging-as-a-sales-catalyst/"><u>[New] Packaging as a Sales Catalyst</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/captivating-stories-in-motion-best-video-theme-choices/"><u>Captivating Stories in Motion Best Video Theme Choices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-installation-of-old-and-new-windows-printers/"><u>Effortless Installation of Old and New Windows Printers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-webcam-features-download-latest-drivers-for-windows-11/"><u>Enhance Webcam Features: Download Latest Drivers for Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-public-instagram-profiles-without-an-account-a-step-by-step-guide/"><u>Explore Public Instagram Profiles Without an Account - A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-windows-compatibility-model-specific-aoc-driver/"><u>Latest Windows Compatibility: Model-Specific AOC Driver</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/profit-from-youtube-monetize-youtube-shorts-and-boost-your-income/"><u>Profit From YouTube Monetize YouTube Shorts and Boost Your Income</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-dell-machines-introducing-updated-windows-drivers/"><u>Revamping Dell Machines: Introducing Updated Windows Drivers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-tips-for-picking-a-lightweight-compact-tablet-a-comprehensive-overview/"><u>Top Tips for Picking a Lightweight, Compact Tablet – A Comprehensive Overview</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-13-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 13 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-bypassing-barriers-privately-share-youtube-video-via-google/"><u>[New] 2024 Approved Bypassing Barriers Privately Share YouTube Video via Google</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-melodymentor-detailed-sound-review/"><u>[Updated] In 2024, MelodyMentor Detailed Sound Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-no-pay-unlock-fcp-paths-to-a-free-edit-suite/"><u>[Updated] No Pay? Unlock FCP Paths to a Free Edit Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-iphone-reflections-in-landscapes/"><u>2024 Approved The Essential Guide to iPhone Reflections in Landscapes</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-oculus-install-error-on-wincx-a-helpful-guide/"><u>Conquering Oculus Install Error on WinCX: A Helpful Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-poco-c51-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Poco C51?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-realme-12-5g-easily-by-drfone-android/"><u>How To Unlock a Realme 12 5G Easily?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-complete-angle-manipulation-handbook-for-youtube-videos/"><u>In 2024, The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinitiate-your-wireless-nic-with-new-drivers/"><u>Reinitiate Your Wireless NIC with New Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/remedy-usb-serial-communication-breakdown/"><u>Remedy USB-Serial Communication Breakdown</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solving-network-miniport-problems-on-pc-winxp-edition/"><u>Solving Network Miniport Problems on PC - WinXP Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-audio-driver-upgrade-in-windows-11/"><u>Step-by-Step: Audio Driver Upgrade in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-device-full-capability-with-a-simple-adb-click/"><u>Unleash Device Full Capability - With a Simple ADB Click</u></a></li>
+<li><a href="https://win-help.techidaily.com/unlocking-peak-productivity-in-software-engineering-how-microsoft-leads-according-to-zdnet/"><u>Unlocking Peak Productivity in Software Engineering: How Microsoft Leads According to ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-connectivity-seamless-integration-of-atheros-drivers-on-windows-11/"><u>Upgraded Connectivity: Seamless Integration of Atheros Drivers on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-controllers-transitioning-to-windows/"><u>USB Controllers: Transitioning to Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11-soundscape-install-convex-hd-audio-support-drivers/"><u>Win11 Soundscape: Install Convex-HD Audio Support Drivers</u></a></li>
 </ul></div>
 

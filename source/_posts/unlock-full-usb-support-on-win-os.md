@@ -1,7 +1,7 @@
 ---
 title: Unlock Full USB Support on WIN OS
-date: 2024-09-29T20:19:08.391Z
-updated: 2024-10-01T17:26:25.805Z
+date: 2024-10-02T17:49:23.650Z
+updated: 2024-10-06T20:24:54.836Z
 tags:
   - win11
   - win10
@@ -38,43 +38,38 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
-4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
+4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
- If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
 
 ###  Method 2: Update Generic USB Hub driver automatically
 
@@ -94,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance
@@ -120,16 +115,22 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-aural-adventures-next-gen-devices-for-2024/"><u>[Updated] Aural Adventures Next-Gen Devices for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-video-conferencing-at-no-cost-our-picks-from-the-best-10-tools/"><u>2024 Approved Mastering Video Conferencing at No Cost Our Picks From the Best 10 Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ize-engagement-with-integrated-youtube-playlist-features/"><u>Maximize Engagement with Integrated YouTube Playlist Features</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-the-rise-of-cloud-technologies-amidst-dominant-on-premise-infrastructures-insights-from-zdnet/"><u>Navigating the Rise of Cloud Technologies Amidst Dominant On-Premise Infrastructures - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/razer-mouse-compatibility-and-setup-guide-for-win-users/"><u>Razer Mouse Compatibility & Setup Guide for Win Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/remedy-screen-disruptions-during-live-streams/"><u>Remedy Screen Disruptions During Live Streams</u></a></li>
-<li><a href="https://driver-install.techidaily.com/setup-canon-printer-support-for-win-11-and-older-editions/"><u>Setup Canon Printer Support for WIN 11 & Older Editions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-hardware-hitches-making-windows-recognize-your-last-connected-usb-device/"><u>Troubleshoot Hardware Hitches: Making Windows Recognize Your Last Connected USB Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-wacoms-power-free-secure-driver-for-windows-pc/"><u>Unlock Wacom's Power - Free, Secure Driver for Windows PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win11-driver-boost-radeon-hd-5450-upgrade/"><u>Win11 Driver Boost: Radeon HD 5450 Upgrade</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-alphabetical-arrangement-of-cine-capture-models-for-2024/"><u>[New] Alphabetical Arrangement of Cine-Capture Models for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-websites-to-download-a-youtube-ringtone/"><u>[New] In 2024, Best Websites To Download A YouTube Ringtone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-visual-sizzle-how-to-make-your-youtube-logo-pop/"><u>[Updated] 2024 Approved Visual Sizzle How to Make Your YouTube Logo Pop</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-virtual-sound-devices/"><u>[Updated] In 2024, Ultimate Virtual Sound Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/a-comprehensive-tutorial-for-win-11s-hdmi-driver-revamp/"><u>A Comprehensive Tutorial for Win 11'S HDMI Driver Revamp</u></a></li>
+<li><a href="https://driver-install.techidaily.com/auto-update-feature-surface-pro-6/"><u>Auto-Update Feature: Surface Pro 6</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensively-addressing-usbasp-issues-in-windows-variants/"><u>Comprehensively Addressing USBasp Issues in Windows Variants</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-and-efficient-scsi-driver-procurement/"><u>Direct & Efficient SCSI Driver Procurement</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-audio-experience-pcie-controller-update-on-windows-10/"><u>Elevate Audio Experience - PCIe Controller Update on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-systems-soundscape-by-updating-nvidia-hd-audio-on-win11/"><u>Elevate Your System's Soundscape by Updating NVIDIA HD Audio on Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-system-with-medd-support/"><u>Enhance System with MEDD Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-audio-support-for-windows-users-completed/"><u>HD Audio Support for Windows Users Completed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-6-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 6? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/obtain-and-implement-the-newest-dell-wd19-printer-or-scanner-drivers/"><u>Obtain and Implement the Newest Dell WD19 Printer or Scanner Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-your-creativity-workflow-with-mind-maps-and-conversational-ai-platforms/"><u>Revolutionizing Your Creativity Workflow with Mind Maps & Conversational AI Platforms</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-quicktime-mov-editor-roundup-top-10-free-options/"><u>Updated 2024 Approved QuickTime MOV Editor Roundup Top 10 Free Options</u></a></li>
 </ul></div>
 

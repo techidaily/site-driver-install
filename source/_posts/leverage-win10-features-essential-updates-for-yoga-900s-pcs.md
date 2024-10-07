@@ -1,7 +1,7 @@
 ---
 title: "Leverage Win10 Features: Essential Updates for Yoga 900S PCs"
-date: 2024-07-29T05:03:02.560Z
-updated: 2024-07-30T05:03:02.560Z
+date: 2024-10-05T22:52:42.203Z
+updated: 2024-10-06T16:44:21.788Z
 tags:
   - win11
   - win10
@@ -26,23 +26,14 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
   
  2\. Type**devmgmt.msc** in the run box and click**OK** button.  
   
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e432e121d.png)
 
  3\. Expand the categories and right-click on the device that you wish to update driver for. Select**Update Driver Software…** on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e4b0e8695.jpg)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install the new driver automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e4d480e00.jpg)
   
  Note It is possible that Windows doesn’t provide the new driver.  
@@ -53,16 +44,10 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
   
  1\. Click**Scan Now** button. Driver Easy will scan your computer in several seconds and provide new drivers instantly.  
   
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96c8989cb.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. With this feature, you can leave updating process alone while doing other tasks.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96d23c54f.jpg)
 
 * [Lenovo](https://tools.techidaily.com/drivereasy/download/)
@@ -74,8 +59,6 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +66,31 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-10-best-free-video-conferencing-services-with-screen-sharing/"><u>[New] 10 Best Free Video Conferencing Services with Screen Sharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-download-facebook-links-for-free-online/"><u>[New] Download Facebook Links for FREE Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-sculpting-the-digital-experience-through-zooming/"><u>[Updated] Sculpting the Digital Experience Through Zooming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/address-software-hardware-discrepancy/"><u>Address Software Hardware Discrepancy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boosting-performance-with-updated-hyperx-headset-drivers/"><u>Boosting Performance with Updated HyperX Headset Drivers</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-huawei-p60-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Huawei P60 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-windows-drivers-refresher/"><u>Fast Windows Drivers Refresher</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-a2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi A2 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-nvidia-driver-update-for-enhanced-gtx-970-gaming/"><u>New Nvidia Driver Update for Enhanced GTX 970 Gaming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/relaunching-amd-support-from-classic-to-contemporary-windows/"><u>Relaunching AMD Support - From Classic to Contemporary Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionize-your-gpu-point-by-updating-nvidia-drivers-quickly/"><u>Revolutionize Your GPU' Point by Updating Nvidia Drivers Quickly!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rh5770windowsrtkdrivers/"><u>RH5770WindowsRTKDrivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/securely-downloading-printer-drivers-from-canon-for-win11/"><u>Securely Downloading Printer Drivers From Canon for Win11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/submergedsound-test-unwaeled-deep-water-performance/"><u>SubmergedSound Test: Unwaeled Deep Water Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-motorola-moto-g13-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Moto G13 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-how-you-interact-9-critical-benefits-of-opting-for-chatgpt-plus-today/"><u>Transform How You Interact: 9 Critical Benefits of Opting for ChatGPT Plus Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolving-high-ping-and-lag-in-chivalry-ii-top-strategies/"><u>Ultimate Guide to Resolving High Ping & Lag in Chivalry II: Top Strategies</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

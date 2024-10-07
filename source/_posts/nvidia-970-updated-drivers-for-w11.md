@@ -1,7 +1,7 @@
 ---
 title: Nvidia 970 - Updated Drivers for W11
-date: 2024-07-29T05:01:47.770Z
-updated: 2024-07-30T05:01:47.770Z
+date: 2024-10-03T20:07:34.919Z
+updated: 2024-10-07T02:32:42.687Z
 tags:
   - win11
   - win10
@@ -30,38 +30,22 @@ Follow these steps:
 
  2\. Type “nvidia 970 drivers” in the search box and press**Enter** . Verify the correct result from the top of the result list. Usually, the first result will be the right one. Click on it then you will go to the product page.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a280114d84c.jpg)
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg)
 
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.
@@ -78,9 +62,6 @@ Follow these steps.
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
@@ -109,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +97,29 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-navigate-away-from-bot-influenced-metrics/"><u>[New] In 2024, Navigate Away From Bot-Influenced Metrics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-urban-to-agrarian-journey-stardew-titles-traced-for-2024/"><u>[New] Urban to Agrarian Journey Stardew Titles Traced for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unlocking-screen-recorder-potential-beyond-cyberlink/"><u>[Updated] Unlocking Screen Recorder Potential Beyond Cyberlink</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-iconic-imagery-transforming-audio-into-visual-podcast-identity/"><u>2024 Approved Iconic Imagery Transforming Audio Into Visual Podcast Identity</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-paper-feed-efficiency-on-win10-printers/"><u>Enhance Paper Feed Efficiency on WIN10 Printers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-your-sounds-easy-guide-to-focusrite-driver-update/"><u>Harmonize Your Sounds: Easy Guide to Focusrite Driver Update</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-130-music-by-drfone-android/"><u>How to Bypass FRP on Nokia 130 Music?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 6s Plus?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/methodical-update-for-modern-windows-and-intell-drivers/"><u>Methodical Update for Modern Windows & Intell Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-driver-updates-rapid-and-simple-approaches/"><u>Nvidia Driver Updates: Rapid & Simple Approaches</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-graphics-radeon-vega-3-gpu-upgrade-download/"><u>Optimize Graphics - Radeon Vega 3 GPU Upgrade Download</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/professional-gaming-unleashed-a-comprehensive-review-of-logitechs-lightspeed-powerhouse-the-g-pro-x-2/"><u>Professional Gaming Unleashed: A Comprehensive Review of Logitech's Lightspeed Powerhouse, The G Pro X 2</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-realtek-audio-support-with-driver-updates/"><u>Revamp Realtek Audio Support with Driver Updates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-global-linguists-guide-to-top-28-applications-for-seamless-translation/"><u>The Global Linguist's Guide to Top 28 Applications for Seamless Translation</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

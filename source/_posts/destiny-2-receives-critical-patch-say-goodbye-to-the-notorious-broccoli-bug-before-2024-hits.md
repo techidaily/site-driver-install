@@ -1,7 +1,7 @@
 ---
 title: "Destiny 2 Receives Critical Patch: Say Goodbye to the Notorious 'Broccoli Bug' Before 2024 Hits"
-date: 2024-09-30T18:10:20.605Z
-updated: 2024-10-01T17:18:49.010Z
+date: 2024-10-04T02:17:19.984Z
+updated: 2024-10-07T02:50:36.168Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -51,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
  The good new is, the Origin client and the Steam client will automatically download available updates and install them for you, so you don’t actually have to worry. However, if you’ve turned off the automatic updating option at some point before, make sure you turn it on or manually install the updates for your Apex Legends.
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
 
@@ -67,17 +67,18 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
@@ -86,14 +87,14 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
- If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 ## Fix 4: Update your network driver
 
@@ -110,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
@@ -121,6 +122,19 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -131,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
@@ -165,14 +172,16 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-creative-composition-concepts-fostering-joyful-spaces/"><u>[Updated] 2024 Approved Creative Composition Concepts Fostering Joyful Spaces</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-drivers-update-on-xp-through-methodical-steps/"><u>Efficient Drivers Update on XP Through Methodical Steps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/exclusive-driver-access-canons-windows-10-edition/"><u>Exclusive Driver Access: Canon's Windows 10 Edition</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-beginners-guide-to-canon-time-lapse-shooting/"><u>In 2024, The Beginner's Guide to Canon Time-Lapse Shooting</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-drivers-refreshed-gtx-970-for-w10-users/"><u>Nvidia Drivers Refreshed: GTX 970 For W10 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/time-travel-files-top-utilities-in-win8-for-date-alteration/"><u>Time Travel Files: Top Utilities in Win8 for Date Alteration</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-14-plus-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 14 Plus</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/varied-ideas-for-daily-vlogging-talks-for-2024/"><u>Varied Ideas for Daily Vlogging Talks for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-compatibility-and-speed-aoc-drivers-v1659aoc/"><u>Win Compatibility & Speed: AOC Drivers V1659AOC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-innovative-approaches-for-logging-online-discussions/"><u>[New] In 2024, Innovative Approaches for Logging Online Discussions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-swift-streaming-on-instagram-mobile-and-online-secrets/"><u>[Updated] Swift Streaming on Instagram Mobile & Online Secrets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inversion-workshop/"><u>2024 Approved Inversion Workshop</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-flickerframe-repository-review/"><u>In 2024, FlickerFrame Repository Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-professional-minecraft-videography-methods/"><u>In 2024, Professional Minecraft Videography Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-chapter-how-to-add-chapters-to-vimeo-video/"><u>In 2024, Vimeo Chapter How to Add Chapters to Vimeo Video?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/massive-popularity-in-stock-imagery-tales-of-success/"><u>Massive Popularity in Stock Imagery Tales of Success</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-non-responsive-dell-laptop-trackpad-problem-on-windows-10/"><u>Resolve Non-Responsive Dell Laptop Trackpad Problem on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-steps-to-download-and-install-nvidia-gtx-980-gpu-drivers/"><u>Simple Steps to Download & Install Nvidia GTX 980 GPU Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshoot-windows-11-network-adapter-errors-with-simple-solutions/"><u>Troubleshoot Windows 11 Network Adapter Errors with Simple Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshooting-and-solutions-for-unresponsive-dell-touchpad-in-windows-10/"><u>Troubleshooting and Solutions for Unresponsive Dell Touchpad in Windows 10</u></a></li>
 </ul></div>
 

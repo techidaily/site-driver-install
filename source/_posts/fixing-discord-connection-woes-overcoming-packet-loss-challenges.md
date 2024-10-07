@@ -1,7 +1,7 @@
 ---
 title: "Fixing Discord Connection Woes: Overcoming Packet Loss Challenges"
-date: 2024-09-24T16:12:27.764Z
-updated: 2024-10-01T17:40:04.980Z
+date: 2024-09-30T16:23:20.294Z
+updated: 2024-10-06T17:22:10.365Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 3) Launch Discord again. It should be open normally.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Set your date/time automatically
 
  It may sound weird to you but it does help many users fix the problem. If you’ve already set your time automatically, you can move to the next fix. Or you can follow the steps below.
@@ -53,13 +60,6 @@ When you double-click Discord but the program won’t open, it could be very fru
  2) Then click**Time & Language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the right pane, turn on the button under**Set time automatically** .
 
@@ -76,15 +76,21 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
@@ -99,14 +105,14 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Restart Discord. It should open.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your proxies
 
@@ -116,13 +122,6 @@ If it doesn’t work, move to the next fix.
  1) Press the**Windows logo key + Pause** and click**Control Panel Home** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
@@ -136,24 +135,18 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
 6) Relaunch the Discord and it should open.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Flushing your DNS
 
@@ -167,10 +160,10 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
@@ -178,6 +171,13 @@ If it doesn’t work, move to the next fix.
 **ipconfig /flushdns**
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Launch the Discord again. It should open.
 
@@ -196,13 +196,26 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus: Update your driver
 
@@ -238,13 +251,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
@@ -270,19 +276,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-p2715q-4k-display-unveiled-a-comprehensive-analysis/"><u>[Updated] 2024 Approved P2715Q 4K Display Unveiled A Comprehensive Analysis</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-sound-capture-reviewed-mac-compatible-recorders-for-2024/"><u>[Updated] Perfecting Sound Capture Reviewed Mac-Compatible Recorders for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-n30-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord N30 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-guide-silencing-the-squeak-of-your-logitech-g-pro-x-in-battle-ultimate-troubleshooting-steps/"><u>2024 Guide: Silencing the Squeak of Your Logitech G Pro X in Battle - Ultimate Troubleshooting Steps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/blossom-with-our-cherry-blossom-viewing-campaign-free-winx-hd-converter-deluxe-licenses-for-all/"><u>Blossom with Our Cherry Blossom Viewing Campaign - Free WinX HD Converter Deluxe Licenses for All!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-solved-windows-10-conexant-sound-issues/"><u>Efficiently Solved Windows 10: Conexant Sound Issues</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-play-8t-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor Play 8T Pattern Lock Screen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-recurring-launcher-crashes-in-valorant/"><u>How to Resolve Recurring Launcher Crashes in Valorant</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme Narzo 60 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-smart-8-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Smart 8 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quicker-realsense-camera-update/"><u>Quicker RealSense Camera Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamped-acer-compatibility-in-windows-11-release/"><u>Revamped Acer Compatibility in Windows 11 Release</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-manual-driver-changes-in-xp-operating-system/"><u>Step-by-Step: Manual Driver Changes in XP Operating System</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-and-installation-guide-for-netgear-a6200-dongle/"><u>Update & Installation Guide for Netgear A6200 Dongle</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>[Updated] The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-advanced-ai-forefronts-potential-versus-chatgpts-limits/"><u>Exploring Advanced AI: Forefront's Potential Versus ChatGPT's Limits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-functions-of-telecommunication-companies/"><u>Exploring the Functions of Telecommunication Companies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-s620-a-compreenased-guide-to-enhanced-performance/"><u>Installing S620: A Compreenased Guide to Enhanced Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-through-the-driver-update-journey-in-windows-8-platforms/"><u>Navigating Through the Driver Update Journey in Windows 8 Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-machine-with-windows-11-tactile-upgrade/"><u>Optimize Your Machine with Windows 11 Tactile Upgrade</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/put-a-stay-to-unsolicited-youtube-trails/"><u>Put a Stay to Unsolicited YouTube Trails</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-drivers-update-tips-rx-5500xt/"><u>Quick Drivers Update Tips: RX 5500XT</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-neon-typography-made-easy-10-online-generators-to-try-now/"><u>Updated In 2024, Neon Typography Made Easy 10 Online Generators to Try Now</u></a></li>
 </ul></div>
 
