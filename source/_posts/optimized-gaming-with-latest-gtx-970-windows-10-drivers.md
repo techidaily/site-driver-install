@@ -1,7 +1,7 @@
 ---
 title: Optimized Gaming with Latest GTX 970 Windows 10 Drivers
-date: 2024-07-29T05:00:14.630Z
-updated: 2024-07-30T05:00:14.630Z
+date: 2024-10-05T18:03:14.489Z
+updated: 2024-10-12T17:44:41.783Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ Follow these steps:
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
@@ -60,9 +54,6 @@ Follow these steps:
 
 Follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  1\. Press **Win+R** (Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fef72359c9c.png) key and R key) at the same time. A Run dialog box will appear.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
@@ -71,9 +62,6 @@ Follow these steps.
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
@@ -86,16 +74,10 @@ Follow these steps.
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -108,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +97,28 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-securing-your-games-with-diverse-screen-capture-options/"><u>[Updated] Securing Your Games with Diverse Screen Capture Options</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-roadmap-to-fandom-10-secrets-for-rampant-fb-engagement/"><u>[Updated] The Roadmap to Fandom 10 Secrets for Rampant FB Engagement</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028590911-mp4mp3/"><u>次世代デバイス用MP4、MP3コンバーターサイト: あなたの追加リクエストに対するおすすめ</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compatible-printer-software-canon-drivers-windows-x/"><u>Compatible Printer Software: Canon Drivers, Windows X</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-canon-mx870-driver-across-windows-systems/"><u>Configure Canon MX870 Driver Across Windows Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-skills-for-proficient-use-of-gdoc-transcription-service/"><u>Essential Skills for Proficient Use of GDoc Transcription Service</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-win7-driver-set-for-ideapad-y470-laptop/"><u>Essential Win7 Driver Set for IdeaPad-Y470 Laptop</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-amd-radeon-vega-3-2024-driver-download/"><u>Free AMD Radeon Vega 3 2024 Driver Download</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-lava-blaze-2-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Lava Blaze 2 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-your-connectivity-install-bluetooth-driver-win11/"><u>Master Your Connectivity: Install Bluetooth Driver Win11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reel-in-your-audience-with-professional-ipadiphone-podcasting-hacks/"><u>Reel in Your Audience with Professional IPad/iPhone Podcasting Hacks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-driver-setup-across-windows-versions/"><u>Streamlining Driver Setup Across Windows Versions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-portable-bluetooth-stereo-yamaha-mcr-b020bl/"><u>The Portable Bluetooth Stereo: Yamaha MCR-B020BL</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

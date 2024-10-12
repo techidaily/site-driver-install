@@ -1,7 +1,7 @@
 ---
 title: Unlocking USBasp on Vista to 10 & 11 Platforms Successfully
-date: 2024-10-03T01:19:31.374Z
-updated: 2024-10-07T00:03:49.712Z
+date: 2024-10-11T17:55:03.240Z
+updated: 2024-10-12T17:38:00.801Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/b74744220589b6a906ebb663c728844a6da00413e
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Download and update USBasp driver manually
@@ -49,10 +49,10 @@ To do so:
 3. Click the driver package in the**Drivers** section, and download the driver with the instructions.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc9287d92.png)
@@ -79,9 +79,23 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd828e09e9b7.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](mailto:support@drivereasy.com) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 Tada, now you should have updated the USBasp driver easily.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Download and update USBasp driver via Device Manager
 
@@ -94,25 +108,11 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dcf3157ac.jpg)
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
 4. Choose**Search automatically for updated driver software** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -132,24 +132,20 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-echoes-of-the-northmen-essential-sites-to-grab-got-audio-calls-for-2024/"><u>[New] Echoes of the Northmen Essential Sites to Grab GoT Audio Calls for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-tomtom-bandit-camera-update-the-ultimate-guide/"><u>[New] In 2024, TomTom Bandit Camera Update – The Ultimate Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-gaining-traction-using-hashtags-in-igtv/"><u>[New] The Art of Gaining Traction Using Hashtags in IGTV</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-enhance-editing-unlimited-free-audio-samples/"><u>[Updated] 2024 Approved Enhance Editing Unlimited Free Audio Samples</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/choose-from-power-ranger-colors-for-the-sibolan-szbox-s69-ryzen-mini-pc-vintage-specs-meet-modest-pricing/"><u>Choose From 'Power-Ranger' Colors for the Sibolan SZBox S69 Ryzen Mini PC – Vintage Specs Meet Modest Pricing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-se-2020-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-update-lenovo-g580-drivers/"><u>Instantly Update Lenovo G580 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-amd-rx-5700x-firmware-updates/"><u>Latest AMD RX 5700X Firmware Updates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-ai-how-chatgpt-enhances-your-job-hunting-strategy-for-success/"><u>Leveraging AI: How ChatGPT Enhances Your Job Hunting Strategy for Success</u></a></li>
-<li><a href="https://driver-install.techidaily.com/logitech-c270-enhancement-kit-for-windows-11-users/"><u>Logitech C270 Enhancement Kit for Windows 11 Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-1650-installer-download/"><u>Nvidia GTX 1650: Installer Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-software-upgrade-gtx-1060-edition/"><u>Nvidia Software Upgrade: GTX 1060 Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/pinning-down-usb-support-in-yesteryears-windows/"><u>Pinning Down USB Support in Yesteryear's Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/pure-logitech-webcam-update-kit/"><u>Pure Logitech Webcam Update Kit</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-and-simple-win10-touch-driver-upgrade/"><u>Quick & Simple Win10 Touch Driver Upgrade</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fix-driver-updates-on-lenovo-ideapad/"><u>Quick Fix Driver Updates on Lenovo Ideapad</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steps-to-reduce-cpu-load-while-playing-god-of-war/"><u>Steps to Reduce CPU Load While Playing God of War</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-15-free-budget-friendly-web-photo-editors-2023-review-for-2024/"><u>Top 15 Free, Budget-Friendly Web Photo Editors - 2023 Review for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-the-magic-transforming-scenes-with-gopro-timelapse/"><u>Unveiling the Magic Transforming Scenes with GoPro Timelapse</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-5-microphones-compatible-with-macos/"><u>[New] In 2024, Top 5 Microphones Compatible with MacOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ultimate-choice-10-best-webcams-for-win-11/"><u>[New] In 2024, Ultimate Choice 10 Best Webcams for Win 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-search-of-success-pivotal-youtube-gatherings-after-vidcon/"><u>[Updated] In Search of Success Pivotal YouTube Gatherings (After VidCon)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-smm-landscape-key-steps-to-success/"><u>2024 Approved Navigating the SMM Landscape Key Steps to Success</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-installation-guide-updated-driver-for-hp-4630-printer/"><u>Easy Installation Guide: Updated Driver for HP 4630 Printer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-and-streamline-your-display-on-windows-11-reviving-drivers/"><u>Enhance and Streamline Your Display on Windows 11: Reviving Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-audio-driver-update-in-ws11/"><u>Essential Tips for Audio Driver Update in WS11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/geforce-gtx-750-ti-latest-driver-download-easily/"><u>Geforce GTX 750 Ti Latest Driver Download Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-passo-passo-allaggiornamento-del-software-di-controllo-della-scheda-video-in-windows/"><u>Guida Passo-Passo All'aggiornamento Del Software Di Controllo Della Scheda Video in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-driver-guide-get-canon-scanner-access/"><u>Hassle-Free Driver Guide: Get Canon Scanner Access</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-15-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 15 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-driver-for-logitech-mouse-windows-11/"><u>Install Latest Driver for Logitech Mouse (Windows 11)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a2-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A2 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062596970-overcoming-xps-network-miniport-obstructions-now-fixed/"><u>Overcoming XP's Network Miniport Obstructions - Now Fixed!</u></a></li>
+<li><a href="https://article-files.techidaily.com/ultimate-choice-the-greatest-11-multi-angle-cams/"><u>Ultimate Choice The Greatest 11 Multi-Angle Cams</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: HDGraphicsDriver5770RadeonWin
-date: 2024-08-08T06:22:00.053Z
-updated: 2024-08-09T06:22:00.053Z
+date: 2024-10-05T16:04:39.122Z
+updated: 2024-10-12T17:09:30.871Z
 tags:
   - win11
   - win10
@@ -26,24 +26,14 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
   
  2\. Type **devmgmt.msc** in the run box and click on**OK** button. This is to open Device Manager dialog box.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a51448230.png)
   
  3\. In Device Manager, expand category “Display adapters” and right-click on AMD graphics device. Select**Update Driver Software…** on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a5367b22f.jpg)
   
  4\. Select**Search automatically for updated driver software** . Then Windows will search and install the latest driver automatically. Note Windows may fail to provide the latest driver.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a57107fc1.jpg)
   
 **Way 2: Download and Install the Latest Driver from AMD**
@@ -54,16 +44,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
  2\. Scroll down and locate the right series in right page. ATI Radeon HD 5770 belongs to HD 5000 series, so locate the series as below, then click on Windows 10 32-bit or 64-bit (see [How to Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) )  
   
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a73e47916.jpg)
   
  3\. Click**DOWNLOAD** button to download the driver.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a866968be.jpg)
   
  **Way 3: Update Drivers Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -72,9 +56,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 1\. Click **Scan Now**  button. Then Driver Easy will scan your computer within several seconds and provide new drivers instantly.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd8f490cd6c.png)
   
 2\. Click **Update**  **All** button. Then all new drivers including the ATI Radeon HD 5770 driver will be downloaded and installed automatically.
@@ -93,8 +74,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,6 +81,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-clear-and-bright-optimizing-visuals-in-zoom-calls/"><u>[New] 2024 Approved Clear and Bright Optimizing Visuals in Zoom Calls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-efficient-screenshotting-with-zd-softwares-advanced-features/"><u>[Updated] 2024 Approved Expert Tips for Efficient Screenshotting with ZD Software's Advanced Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-6-best-slideshow-making-apps-on-iphone-11xrxsx876/"><u>[Updated] 6 Best Slideshow-Making Apps on iPhone 11/XR/Xs/X/8/7/6</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-instagram-image-enhancement-tips/"><u>2024 Approved Instagram Image Enhancement Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-windows-drivers-by-aoc-fwu-v1659/"><u>Enhanced Windows Drivers by AOC FWU V1659</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-find-n3-flip-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rev-up-your-mobile-vids-with-top-speed-apps-for-2024/"><u>Rev Up Your Mobile Vids with Top Speed Apps for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-windows-system-by-firmware-improvement/"><u>Secure Windows System by Firmware Improvement</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-firmware-changes-in-lenovo-z50-70/"><u>Simplified Firmware Changes in Lenovo Z50-70</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steinberg-mxp-driver-windows-compatible/"><u>Steinberg MXP Driver - Windows Compatible</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-procedure-setting-up-ie-driver-on-win-systems/"><u>Streamlined Procedure: Setting Up IE Driver on Win Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-inshot-cuts-for-professional-edge-for-2024/"><u>Streamlining Inshot Cuts for Professional Edge for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secret-behind-clearing-up-your-facetimes-dark-screen-trouble/"><u>Unlock The Secret Behind Clearing Up Your FaceTime's Dark Screen Trouble</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-graphics-overhaul-simple-upgrades-guide/"><u>Win Graphics Overhaul: Simple Upgrades Guide</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

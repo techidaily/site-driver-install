@@ -1,7 +1,7 @@
 ---
 title: "Detailed Instructions: Fresh Start with Graphics Drivers"
-date: 2024-08-08T06:21:13.006Z
-updated: 2024-08-09T06:21:13.006Z
+date: 2024-10-10T20:34:31.815Z
+updated: 2024-10-12T18:31:00.434Z
 tags:
   - win11
   - win10
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 
 ## Detailed Instructions: Fresh Start with Graphics Drivers
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-39.png)
 
  If you’re looking for a step-by-step guide on how to clean install your graphics drivers, then you’ve come to the right place. “Clean install” can be quite new to those who don’t tinker with their computers very often, but it is worth your attention as a potential cure for game crashing and other driver installation problems.
@@ -34,6 +31,13 @@ Now use the following procedure to clean install your graphics drivers:
 OR
 
 **[Option 2 – Manually](#option2)** – You’ll need some computer skills and patience to download your driver this way, because you need to find exactly the right driver online and then download it yourself.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1 – Automatically download the driver
 
@@ -63,6 +67,19 @@ OK, enough intro. Let’s see what you should do:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Create a system restore point
 
  This step is actually not imperative, but I strongly suggest you create a restore point as a precaution before proceeding to the next step. The restore point allows you to revert your system to a previous state when it’s still functioning well (especially before any problems come up). But don’t panic – you’ll rarely have serious issues during the clean installation.
@@ -72,6 +89,13 @@ OK, enough intro. Let’s see what you should do:
  After creating a restore point, you should move on to the next step, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 3: Uninstall your current graphics drivers
 
@@ -89,16 +113,10 @@ OK, enough intro. Let’s see what you should do:
 
 4) Click**Select device type** and choose**GPU** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-20.png)
 
  Then, click**Select device** and choose your graphics card type, such as NVIDIA.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-21.png)
 
 5) There are three options in the upper left:
@@ -109,10 +127,14 @@ OK, enough intro. Let’s see what you should do:
 
 **Clean and shutdown** – If you want to replace the current video card with a new one, then you should click this option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-22.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select the option based on your actual situation and then wait for the uninstallation process to complete. No matter which one you choose, you’ll need to**reboot** your computer in order to move on.
 
@@ -132,16 +154,10 @@ Finally, the last step is to install your driver.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-29-18.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the graphics driver, simply click the **Update**  button next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-10-47.jpg)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -164,8 +180,6 @@ Finally, the last step is to install your driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,6 +187,16 @@ Finally, the last step is to install your driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-add-music-to-instagram-story-withwithout-sticker/"><u>[New] 2024 Approved How to Add Music to Instagram Story [With/Without Sticker]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-access-to-latest-device-drivers/"><u>Easy Access to Latest Device Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/flipping-car-flat-tires-a-hawku-guide-to-fixes/"><u>Flipping Car Flat Tires: A Hawku Guide to Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-hands-on-with-crypto-performance-amd-drivers-for-windows-pcs/"><u>Get Hands-On with Crypto Performance: AMD Drivers for Windows PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-11-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 11 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-adobes-jestful-journey-to-meme-making/"><u>In 2024, Adobe's Jestful Journey to Meme-Making</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-resonance-of-rhythm-music-that-echoes-films/"><u>In 2024, The Resonance of Rhythm Music That Echoes Films</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-graphics-update-nvidias-gtx-750-ti/"><u>Instant Graphics Update: NVIDIA's GTX 750 Ti</u></a></li>
+<li><a href="https://media-tips.techidaily.com/price-increase-announced-apple-bundle-offering-now-at-higher-cost-with-one-arcade-and-tvplus/"><u>Price Increase Announced: Apple Bundle Offering Now at Higher Cost with One, Arcade & TV+</u></a></li>
+</ul></div>
 

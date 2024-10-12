@@ -1,7 +1,7 @@
 ---
 title: Boost File Transfers - Download WINXP11/10 MTK Drivers
-date: 2024-08-08T06:22:26.492Z
-updated: 2024-08-09T06:22:26.492Z
+date: 2024-10-07T17:41:38.358Z
+updated: 2024-10-12T16:19:41.833Z
 tags:
   - win11
   - win10
@@ -30,8 +30,18 @@ There are two methods for you to download and install MediaTek drivers.
 * Option 2 –**[Automatically](#m2)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1 Manually
 
 To download and install MediaTek drivers manually, you need to:
@@ -60,16 +70,18 @@ To download and install MediaTek drivers manually, you need to:
 
  1) Click**Settings** and select**Update & Security** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-control-panel-1.jpg)
 
  2) On the left panel, select the**Recovery** tab. Under**Advanced startup** , click**Restart now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
@@ -83,12 +95,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the Restart now button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery-restart.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
@@ -108,32 +131,32 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  3) Click**Action** and select**Add legacy hardware** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
 
  4) In the Add Hardware Wizard, click**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
 
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard2.jpg)
 
  6) Click**Show All Devices** and then**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Select**Have Disk** and select the .inf file you extracted before.
 
@@ -159,9 +182,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-6.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** . )
@@ -190,8 +210,6 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,6 +217,20 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-frozen-frontiers-highlights-from-beijings-winter-games/"><u>[New] Frozen Frontiers Highlights From Beijing's Winter Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-the-reasons-behind-instagram-disconnections/"><u>[New] In 2024, Exploring the Reasons Behind Instagram Disconnections</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-seamless-guest-entry-into-your-peers-tiktok-lives/"><u>[Updated] 2024 Approved Seamless Guest Entry Into Your Peers' TikTok Lives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-installing-the-hp-deskjet-2755e-printer-software-on-windows-systems/"><u>Free Download: Installing the HP Deskjet 2755E Printer Software on Windows Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-new-m2-storage-with-windows/"><u>Integrate New M.2 Storage with Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcome-drivers-woes-with-ease-m-audio/"><u>Overcome Drivers' Woes with Ease (M-Audio)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-driver-release-notes/"><u>Quadro RTX 6000 Driver Release Notes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revise-intel-windodrivers-guide/"><u>Revise Intel WindoDrivers Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-imagery-with-ar-and-accessible-luts/"><u>Transform Your Imagery with AR & Accessible LUTs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-printer-potential-with-canon-win-driver/"><u>Unlock Printer Potential with Canon Win Driver</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7-guide-streamline-hp-graphics-drives/"><u>Win7 Guide: Streamline HP Graphics Drives</u></a></li>
+</ul></div>
 

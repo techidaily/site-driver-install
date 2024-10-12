@@ -1,7 +1,7 @@
 ---
 title: Immersive Gaming Experience with the Philips 49 Curved OLED Display
-date: 2024-10-03T02:02:23.649Z
-updated: 2024-10-06T20:58:53.494Z
+date: 2024-10-05T17:03:28.676Z
+updated: 2024-10-12T18:13:27.170Z
 categories:
   - BestProducts
 description: This Article Describes Immersive Gaming Experience with the Philips 49 Curved OLED Display
@@ -42,10 +42,10 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
@@ -78,6 +78,19 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
  The HP OMEN Obelisk looks good in pictures but starts to fall apart a little when examined up close. Overall, HP did a pretty decent job here, but there are plenty of areas for improvement.
@@ -102,6 +115,13 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance** :**Great components for gaming and productivity**
 
  The HP OMEN Obelisk that I tested featured a 9th Gen Intel Core i9 9900K, 32GB of RAM, a 1TB SSD, and the Nvidia GTX GeForce 2080 Super graphics card. This is a potent combination of components in a gaming PC, and I was appropriately impressed by the results.
@@ -109,13 +129,6 @@ Lifewire / Jonno Hill
  The desktop scored an impressive 6,967 in the productivity-focused benchmarking application PCMark 10\. On the gaming front, the Omen managed a score of 10,740 in 3DMark’s Time Spy. In real-world use, this means more than 60fps at 4K in many popular titles like GTA V, but less than 60fps in others like Deus Ex: Mankind Divided. In other words, the Omen is mostly capable of 4K gameplay and is nearly always capable of 60+ fps in most common resolutions shy of 4K.
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -131,20 +144,19 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
@@ -163,13 +175,6 @@ Lifewire / Jonno Hill
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Highly competitive**
 
  The HP OMEN Obelisk with the same specs as this one can be found for around $2,000, at least when it’s in stock. Despite a lot of flaws that I can point to a nit-pick about, the price is one of the main reasons I still consider the OMEN to be a solid deal. I went through the trouble of parting out a similar build on PCPartPicker, going as far as to cut corners where I usually wouldn’t, and still arrived at just under $1800 before tax.
@@ -179,6 +184,13 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -226,21 +238,22 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-navigating-youtube-video-production-tools/"><u>[Updated] 2024 Approved Navigating YouTube Video Production Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-best-value-in-the-sky-top-budget-cloud-services/"><u>2024 Approved Best Value in the Sky? Top Budget Cloud Services</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-the-potential-of-your-ppt-with-professional-recording/"><u>2024 Approved Unlocking the Potential of Your PPT with Professional Recording</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-90-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-setup-guide-update-tp-link-usb-wi-fi-on-windows-pcs/"><u>Efficient Setup Guide: Update TP Link USB Wi-Fi on Windows PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-fixes-for-immediate-access-to-fortnite-after-failed-logins/"><u>Effortless Fixes for Immediate Access to Fortnite After Failed Logins</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-io-2023-reveals-an-array-of-amazing-upgrades-to-bard-ai-learn-about-the-top-7-new-features/"><u>Google I/O 2023 Reveals an Array of Amazing Upgrades to BARD AI - Learn About the Top 7 New Features!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-definition-hits-top-8k-cameras-for-professionals-for-2024/"><u>High-Definition Hits Top 8K Cameras for Professionals for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-breathe-new-life-into-your-microsoft-mouse-in-os-x/"><u>How to Breathe New Life Into Your Microsoft Mouse in OS X</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-14-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi 14 Pro</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-yoga-900s-windows-10-drivers-download/"><u>Lenovo Yoga 900S Windows 10 Drivers Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-guide-updating-printer-drivers-on-legacy-oses/"><u>Quick Guide: Updating Printer Drivers on Legacy OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-improvement-for-intel-uhd520/"><u>Quick Improvement for Intel UHD520</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-boot-features-intels-medd/"><u>Secure Boot Features - Intel's MEDD</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-method-windows-1011-bluetooth-drivers-installed-quickly/"><u>Streamlined Method: Windows 10/11 Bluetooth Drivers, Installed Quickly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-picks-highest-rated-mp4s/"><u>[New] Premier Picks Highest Rated MP4s</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software/"><u>[Updated] 2024 Approved How to Record TV Shows on Windows PC with Free Video Recording Software?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premiere-guide-to-affordable-open-access-images/"><u>[Updated] Premiere Guide to Affordable, Open-Access Images</u></a></li>
+<li><a href="https://app-tips.techidaily.com/data-analysis/"><u>Data Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/flexible-driver-changes-on-lenovos-u310/"><u>Flexible Driver Changes on Lenovo's U310</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-foresight-outsmarting-a-machine-oracle/"><u>Future Foresight: Outsmarting a Machine Oracle</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-wacom-bamboo-firmware-updates/"><u>Hassle-Free Wacom Bamboo Firmware Updates</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-infinix-gt-10-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Infinix GT 10 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pairing-w11-with-xbox-one-gaming-controllers/"><u>Pairing W11 with Xbox One Gaming Controllers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rh5770windowsrtkgraphics/"><u>RH5770WindowsRTKGraphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-setup-direct-installation-of-asus-bt400-drivers/"><u>Seamless Setup: Direct Installation of Asus BT400 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-printers-install-canon-mx870-win-versions/"><u>Update Printers: Install Canon MX870 Win Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-video-driver-settings-windows-pcs/"><u>Update Video Driver Settings Windows PCs</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future-for-2024/"><u>Updated Live Commerce Success Stories Lessons Learned & Predictions for the Future for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-intels-chipset-support-for-ws-11781-systems-efficiency/"><u>Upgrade Intel's Chipset Support for WS 11/7/8.1 Systems Efficiency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watching-x-men-series-correctly-a-comprehensive-guide-to-their-release-timeline/"><u>Watching X-Men Series Correctly: A Comprehensive Guide to Their Release Timeline</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/bes-retro-playlist-trick-how-to-go-in-arrears/"><u>Youtube's Retro Playlist Trick How to Go in Arrears</u></a></li>
 </ul></div>
 

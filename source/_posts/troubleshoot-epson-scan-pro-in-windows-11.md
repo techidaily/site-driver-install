@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Epson Scan Pro in Windows 11
-date: 2024-09-30T03:13:54.111Z
-updated: 2024-10-06T22:53:23.607Z
+date: 2024-10-06T18:54:14.866Z
+updated: 2024-10-12T19:51:27.817Z
 tags:
   - win11
   - win10
@@ -57,10 +57,10 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Way 2: Use Windows Update for new drivers**
@@ -75,6 +75,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
  Click**Check for updates** , and then wait while Windows looks for the latest updates for your computer.
@@ -82,10 +89,10 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
@@ -93,10 +100,10 @@ For some printers, you need to update the drivers manually step by step.
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
@@ -119,13 +126,6 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 <ins class="adsbygoogle"
@@ -143,21 +143,18 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-navigating-to-submillion-territory-on-youtube/"><u>[New] 2024 Approved Navigating to Submillion Territory on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-essential-gif-creation-best-tools-reviewed-and-compared/"><u>[New] In 2024, Essential GIF Creation Best Tools Reviewed & Compared</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-illuminating-your-content-youtube-video-lighting-secrets/"><u>[Updated] Illuminating Your Content YouTube Video Lighting Secrets</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-soundtrack-synthesis-selecting-audio-for-instagram-visions/"><u>[Updated] In 2024, Soundtrack Synthesis Selecting Audio for Instagram Visions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-printer-efficiency-update-canon-mf4770n-software-on-windows/"><u>Accelerate Printer Efficiency: Update Canon MF4770n Software on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/activate-and-setup-canon-printers-for-win-78/"><u>Activate and Setup Canon Printers for WIN 7/8</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-printer-efficiency-with-newest-hp-officejet-pro-8620-drivers-for-windows/"><u>Boost Printer Efficiency with Newest HP OfficeJet Pro 8620 Drivers for Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-premium-4k-visuals-top-picks/"><u>Budget-Friendly Premium 4K Visuals: Top Picks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-instructions-to-set-up-nvidia/"><u>Direct Instructions to Set Up NVIDIA</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-printer-functionality-hp-win11-driver-update/"><u>Elevate Printer Functionality - HP Win11 Driver Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhancing-hp-omen-15-through-driver-updates/"><u>Enhancing HP Omen 15 Through Driver Updates</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/evaluating-your-antivirus-ensuring-effective-cybersecurity-protection/"><u>Evaluating Your Antivirus: Ensuring Effective Cybersecurity Protection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratuito-movicao-e-conversao-de-arquivos-de-video-rmvb-via-movavi/"><u>Gratuito: Movição E Conversão De Arquivos De Vídeo RMVB via Movavi</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nubia-red-magic-8s-proplus-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nubia Red Magic 8S Pro+ Phone Network-Ready</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-fix-guide-getting-rid-of-black-frames-in-video-content/"><u>Quick Fix Guide: Getting Rid of Black Frames in Video Content</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062334495-update-your-netgear-wi-fi-usb-adapter-now/"><u>Update Your Netgear Wi-Fi USB Adapter Now!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-resource-navigating-through-mobizens-screen-recording-landscape/"><u>[New] 2024 Approved The Ultimate Resource Navigating Through Mobizen's Screen Recording Landscape</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-quick-tutorial-on-how-to-convert-image-to-youtube-thumbnail-for-2024/"><u>[New] A Quick Tutorial On How To Convert Image To YouTube Thumbnail for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-spotting-sham-followers-on-business-pages-for-2024/"><u>[New] Spotting Sham Followers on Business Pages for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-discover-10-swift-growing-youtube-sources-for-inspiration/"><u>[Updated] Discover 10 Swift-Growing YouTube Sources for Inspiration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-waveforms-and-windows-mac-sound-recording/"><u>[Updated] Waveforms and Windows Mac Sound Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-landscape-of-3d-color-grading-tools/"><u>2024 Approved Navigating the Landscape of 3D Color Grading Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-drivers-updated-conexant-hd-for-windows-11/"><u>Audio Drivers Updated: Conexant HD for Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-fixes-how-to-correctly-resolve-winwordexe-application-failures/"><u>Effortless Fixes: How to Correctly Resolve WINWORD.EXE Application Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-guide-running-android-applications-on-your-windows-10-pc/"><u>Effortless Guide: Running Android Applications on Your Windows 10 PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevating-your-system-a-guide-to-msi-motherboard-updates/"><u>Elevating Your System: A Guide to MSI Motherboard Updates</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-quick-guide-to-faster-tiktok-creation/"><u>In 2024, Quick Guide to Faster TikTok Creation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-logitech-mouse-on-windows-10/"><u>Install Latest Logitech Mouse on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062355032-v450-usb-reader-drivers-download-now/"><u>V4.50 USB Reader Drivers - Download Now</u></a></li>
 </ul></div>
 

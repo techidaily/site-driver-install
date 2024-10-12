@@ -1,7 +1,7 @@
 ---
 title: Silent Windows Desktop? Check and Reinstall Drivers
-date: 2024-10-03T17:06:20.545Z
-updated: 2024-10-06T18:01:49.164Z
+date: 2024-10-11T20:16:36.154Z
+updated: 2024-10-12T18:02:46.211Z
 tags:
   - win11
   - win10
@@ -43,34 +43,27 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffff4272b1.jpg)
 4. **Right-click on the sound device** and click**Uninstall device** (in some cases, this could be just Uninstall). In the below example, the sound device is Realtek High Definition Audio.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0027dd7b67.jpg)
 5. On the Uninstall confirm dialog box, select the**Delete the driver software for this device** option, then click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be003fba7ed5.png)  
  The option**Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information you can visit [Driver Store](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) in Microsoft. If you don’t see this option on the**Uninstall confirm dialog** box, the driver package may have been removed. In this case, just click**Uninstall** to uninstall the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. **Restart** your computer. Usually, Windows will install an audio driver automatically when your computer is connected to the internet. (It may not give you the latest drivers — so if you found the issue persists, you can take the following methods to automatically check for driver issues or updates.)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Reinstall audio driver automatically (Recommended)
 
@@ -84,13 +77,21 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer for any outdated or faulty drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the **three dots icon** next to an audio driver and select**Uninstall driver** (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) ). Since replacing the old driver with a newer one may solve the audio issues, you can also choose to update all your drivers with one click to keep your PC drivers up-to-date.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/audio-driver-uninstall-driver-easy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -117,20 +118,18 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-hilarity-host-the-10-funniest-twitter-challenges/"><u>[New] 2024 Approved Hilarity Host The 10 Funniest Twitter Challenges</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unlocking-trending-potential-in-your-videos/"><u>[New] In 2024, Unlocking Trending Potential in Your Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-nokia-g310-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Nokia G310 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-pc-performance-get-scsi-drivers-now/"><u>Accelerate PC Performance: Get SCSI Drivers Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-discord-crashing/"><u>How To Fix Discord Crashing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-infamous-unrecoverable-error-in-directx-solutions-explained/"><u>How To Fix The Infamous Unrecoverable Error In DirectX - Solutions Explained</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi online without jailbreak</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/newbie-vlogger-tips-simple-video-concepts/"><u>Newbie Vlogger Tips Simple Video Concepts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rectify-usb-serial-signaling-glitches/"><u>Rectify USB-Serial Signaling Glitches</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rejuvenate-printing-tasks-update-mf4770n-drivers-in-win-8710/"><u>Rejuvenate Printing Tasks: Update MF4770n Drivers in Win 8/7/10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-for-resolving-driver-setup-issues-in-windows/"><u>Steps for Resolving Driver Setup Issues in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stepwise-integration-of-new-windows-and-intel-devices/"><u>Stepwise Integration of New Windows & Intel Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/synchronize-package-with-hardware/"><u>Synchronize Package with Hardware</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforming-visuals-10-must-try-text-upgrades-in-videos-for-2024/"><u>Transforming Visuals 10 Must-Try Text Upgrades in Videos for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-graphics-driver-on-windows-3-easy-ways/"><u>Update Graphics Driver on Windows (3 Easy Ways)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-all-in-one-screen-capture-az-insights-and-alternatives/"><u>[Updated] All-in-One Screen Capture - AZ Insights & Alternatives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-economic-aspects-of-making-a-music-video/"><u>2024 Approved The Economic Aspects of Making a Music Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unleashing-creativity-building-a-memorable-podcast-name/"><u>2024 Approved Unleashing Creativity Building a Memorable Podcast Name</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-13-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone 13 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-amd-graphics-software-updates-compatible-with-windows-1nvestigating-the-best-seo-titles-its-crucial-to-consider-both-relevancy-and-keyword-optimizati1/"><u>Latest AMD Graphics Software Updates Compatible with Windows 1Nvestigating the Best SEO Titles, It's Crucial to Consider Both Relevancy and Keyword Optimization. Here Are Two New Titles Crafted Based on Those Principles:</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-thinkpad-edge-drivers-download-for-windows-11/"><u>Lenovo Thinkpad Edge Drivers Download for Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-y900-drivers-download-and-update-on-windows-10/"><u>Lenovo Y900 Drivers Download & Update on Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mpeg-4-online-konverter-verzamelen-van-mpeg-4-in-mp3-wav-en-andere-formaten-online/"><u>MPEG-4 Online Konverter - Verzamelen Van MPEG-4 in MP3, WAV en Andere Formaten Online</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-amd-driver-support-for-windows-10-systems/"><u>Optimized AMD Driver Support for Windows 10 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-safe-microsoft-lifecam-setup-step-by-step-download-tutorial-for-users/"><u>Quick & Safe Microsoft Lifecam Setup: Step-by-Step Download Tutorial for Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fixes-for-windows-11-network-drivers-get-your-internet-back-on-track/"><u>Quick Fixes for Windows 11 Network Drivers: Get Your Internet Back On Track!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-audio-preservation-in-the-digital-age-for-2024/"><u>Step-by-Step Audio Preservation in the Digital Age for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722683417521-top-ranking-evaluation-of-microsoft-surface-laptop-4-exceptional-quality/"><u>Top Ranking Evaluation of Microsoft Surface Laptop 4 - Exceptional Quality</u></a></li>
 </ul></div>
 

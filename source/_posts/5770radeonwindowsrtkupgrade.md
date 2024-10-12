@@ -1,7 +1,7 @@
 ---
 title: 5770RadeonWindowsRTKUpgrade
-date: 2024-08-08T06:23:40.879Z
-updated: 2024-08-09T06:23:40.879Z
+date: 2024-10-06T20:03:40.472Z
+updated: 2024-10-12T19:44:36.160Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
   
  2\. Type **devmgmt.msc** in the run box and click on**OK** button. This is to open Device Manager dialog box.  
   
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a51448230.png)
   
  3\. In Device Manager, expand category “Display adapters” and right-click on AMD graphics device. Select**Update Driver Software…** on the context menu.  
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
   
  4\. Select**Search automatically for updated driver software** . Then Windows will search and install the latest driver automatically. Note Windows may fail to provide the latest driver.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a57107fc1.jpg)
   
 **Way 2: Download and Install the Latest Driver from AMD**
@@ -50,16 +44,10 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
   
  2\. Scroll down and locate the right series in right page. ATI Radeon HD 5770 belongs to HD 5000 series, so locate the series as below, then click on Windows 10 32-bit or 64-bit (see [How to Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) )  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a73e47916.jpg)
   
  3\. Click**DOWNLOAD** button to download the driver.  
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a866968be.jpg)
   
  **Way 3: Update Drivers Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -68,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
   
 1\. Click **Scan Now**  button. Then Driver Easy will scan your computer within several seconds and provide new drivers instantly.
   
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd8f490cd6c.png)
   
 2\. Click **Update**  **All** button. Then all new drivers including the ATI Radeon HD 5770 driver will be downloaded and installed automatically.
   
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd900b2662f.jpg)
 
  With [Driver Easy Professional version](https://tools.techidaily.com/drivereasy/download/) , you can expect all drivers will be updated in several minutes. We offer 30-day trial period. If you are not completely satisfied with our product, you can get a full refund for any reason.
@@ -92,8 +74,6 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,6 +81,27 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-install.techidaily.com/bridge-the-gap-usbasp-compatibility-across-versions/"><u>Bridge the Gap: USBasp Compatibility Across Versions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-display-settings-install-hp-graphics-driver-on-win11/"><u>Enhance Display Settings: Install HP Graphics Driver on Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/escolha-especies-nativas/"><u>Escolha Espécies Nativas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-claritycapturex7-zoom-in-size-up-smartly/"><u>In 2024, ClarityCaptureX7 Zoom In, Size Up Smartly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-integration-of-hd-audio-post-update/"><u>Seamless Integration of HD Audio Post-Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-updated-pro-6-system-drivers/"><u>Seamlessly Updated Pro 6 System Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turbo-xpress-optimized-nvidia-3090-driver/"><u>Turbo Xpress - Optimized NVIDIA 3090 Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-solution-for-windows-10-bluetooth-pairing-malfunctions-fixed/"><u>Ultimate Solution for Windows 10 Bluetooth Pairing Malfunctions [FIXED]</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-ace-up-swift-driver-update-guide/"><u>Windows 10 Ace Up: Swift Driver Update Guide</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "GTX 970 Performance Improvement: Windows 10 Version"
-date: 2024-08-08T06:20:53.477Z
-updated: 2024-08-09T06:20:53.477Z
+date: 2024-10-11T19:59:49.795Z
+updated: 2024-10-12T20:35:15.991Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ Follow these steps:
 
  2\. Type “nvidia 970 drivers” in the search box and press**Enter** . Verify the correct result from the top of the result list. Usually, the first result will be the right one. Click on it then you will go to the product page.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a280114d84c.jpg)
 
  3\. Go to**Drivers** section.
@@ -45,16 +42,10 @@ Follow these steps:
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg)
 
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.
@@ -63,9 +54,6 @@ Follow these steps:
 
 Follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  1\. Press **Win+R** (Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fef72359c9c.png) key and R key) at the same time. A Run dialog box will appear.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
@@ -78,9 +66,6 @@ Follow these steps.
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)
 
  **Way 3: Update the Driver Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -89,9 +74,6 @@ Follow these steps.
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
@@ -108,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,6 +97,33 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-efficiently-shifting-videos-youtube-to-dailymotion-strategy/"><u>[New] In 2024, Efficiently Shifting Videos YouTube to Dailymotion Strategy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-proficiently-follow-facebook-live-updates/"><u>2024 Approved How to Proficiently Follow Facebook Live Updates</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unlocking-magic-in-marketing-top-20-keyphrases/"><u>2024 Approved Unlocking Magic in Marketing - Top 20 Keyphrases</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-worlds-greatest-payloads-heavy-lift-drones-guide/"><u>2024 Approved World's Greatest Payloads Heavy Lift Drones Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-technology-as-a-tool-for-hackers-understanding-the-threatscape/"><u>AI Technology as a Tool for Hackers: Understanding the Threatscape</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-deploy-asus-usb-bt400-drivers/"><u>Download & Deploy Asus USB-BT400 Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-clearing-up-preparing-to-configure-hurdle-in-windows-setup/"><u>Expert Advice: Clearing Up 'Preparing to Configure' Hurdle in Windows Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-tips-harnessing-full-capabilities-of-aiseesoft-screen-tech-for-2024/"><u>Expert Tips Harnessing Full Capabilities of Aiseesoft Screen Tech for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g-stylus-2023-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Motorola Moto G Stylus (2023) Phone Without Password?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-the-aukey-usb-30-hub-experience-uncomplicated-yet-impressive-specs/"><u>Inside the Aukey USB 3.0 Hub Experience: Uncomplicated Yet Impressive Specs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-headset-drivers-download-and-update-easily/"><u>Logitech Headset Drivers Download & Update Easily!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/perfecting-productions-installation-of-updated-scarlett-drivers/"><u>Perfecting Productions: Installation of Updated Scarlett Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/power-up-your-pc-installing-updated-w11-drivers-from-lenovo/"><u>Power Up Your PC: Installing Updated W11 Drivers From Lenovo</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-printer-performance-install-windows-11-drivers/"><u>Revitalize Printer Performance - Install Windows 11 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-printer-drivers-update-for-smooth-win-operations/"><u>Step-by-Step Printer Drivers Update for Smooth Win Operations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-wireless-connectivity-with-atheros-drivers-on-win11/"><u>Streamlining Wireless Connectivity with Atheros Drivers on Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-prime-collection-of-pc-screen-capture-tools-win11-for-2024/"><u>The Prime Collection of PC Screen Capture Tools (Win11) for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-latest-amd-radeon-drivers-for-max-efficiency/"><u>Upgrade to Latest AMD Radeon Drivers for Max Efficiency</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windowsrtkupdate-rh5770drivers/"><u>WindowsRTKUpdate: RH5770Drivers</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance ThinkPad with New Windows 10 Drivers
-date: 2024-08-08T06:21:25.984Z
-updated: 2024-08-09T06:21:25.984Z
+date: 2024-10-08T20:29:08.999Z
+updated: 2024-10-12T19:48:35.244Z
 tags:
   - win11
   - win10
@@ -30,23 +30,14 @@ You can go to Lenovo’s official website to check for and download the latest W
   
 2\. Click **Laptops** .
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578d9d1d472a1.png)
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
   
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e353b836c7f.jpg)
 
  4.**Select Sub-Series** . (Let’s take 11e (Type 20D9, 20DA) Laptop (Thinkpad) for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3551d14e36.jpg)
 
  5\. Click**view all** .  
@@ -69,23 +60,14 @@ Follow these steps to install new audio drivers via Device Manager.
   
 1\. Press **Win+R** (**Windows logo** key and **R**  key) at the same time. A Run dialog box will appear. Then Device Manager will open.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355190d0976.png)
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551c56595c.png)
   
  **Way 3 (Recommended): Update the Drivers Automatically**
@@ -110,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,6 +99,33 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-leading-gamescript-replacements-for-fbx-files/"><u>[New] 2024 Approved Leading Gamescript Replacements for FBX Files</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-echoes-of-the-northmen-essential-sites-to-grab-got-audio-calls/"><u>[New] In 2024, Echoes of the Northmen Essential Sites to Grab GoT Audio Calls</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rotate-iphone-pics-sideways-and-upside-down-made-easy/"><u>[New] Rotate iPhone Pics Sideways & Upside Down Made Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-your-footprint-in-the-world-of-youtube-comments/"><u>[Updated] In 2024, Finding Your Footprint in the World of YouTube Comments</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-mouse-upgraded-drivers-for-improved-usability/"><u>Logitech Mouse: Upgraded Drivers for Improved Usability</u></a></li>
+<li><a href="https://extra-information.techidaily.com/podcast-perfection-for-the-modern-iphone-user/"><u>Podcast Perfection for the Modern iPhone User</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reap-benefits-of-new-gpu-driver-for-gtx-1050-ti/"><u>Reap Benefits of New GPU Driver for GTX 1050 Ti</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-cpu-efficiency-update-drivers/"><u>Refresh CPU Efficiency, Update Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-c-ymf-pro-driver-release/"><u>USB-C YMF Pro Driver Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11-driver-improvement-radeon-5450-version/"><u>Win11 Driver Improvement: Radeon 5450 Version</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-1011-geforce-gtx-1650-drivers/"><u>Windows 10/11 GeForce GTX 1650 Drivers</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

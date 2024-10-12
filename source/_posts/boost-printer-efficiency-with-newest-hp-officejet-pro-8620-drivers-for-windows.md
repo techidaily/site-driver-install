@@ -1,7 +1,7 @@
 ---
 title: Boost Printer Efficiency with Newest HP OfficeJet Pro 8620 Drivers for Windows
-date: 2024-08-08T06:24:18.922Z
-updated: 2024-08-09T06:24:18.922Z
+date: 2024-10-09T19:16:53.734Z
+updated: 2024-10-12T18:38:36.701Z
 tags:
   - win11
   - win10
@@ -16,23 +16,24 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
 ## Boost Printer Efficiency with Newest HP OfficeJet Pro 8620 Drivers for Windows
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f24d1dbae.jpg)
 
  This post will show you how to download or update**drivers for HP OfficeJet Pro 8620** e-All-in-One printer series.
 
  If you have issues with your printer, for instance, your printer is offline, your printer is not working properly, you should really consider updating your HP printer drivers to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to download or update HP OfficeJet Pro 8620 driver
 
 1. [Download HP OfficeJet Pro 8620 driver manually](#Fix1)
 2. [Update HP OfficeJet Pro 8620 driver in Device Manager](#Fix2)
 3. [Update HP OfficeJet Pro 8620 driver automatically](#Fix3) (Recommended)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Download HP OfficeJet Pro 8620 driver manually
 
@@ -46,14 +47,18 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f337c3865.png)
 
  3) Make sure the detected **operating system** is correct, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f2f35ac0c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Run the downloaded file, and follow the wizard to finish.
 
@@ -69,30 +74,33 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  1) Make sure you’ve connected your HP printer to your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  2) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
  3) Type**devmgmt.msc** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 
  4) In Device Manager, double click**Printers** or**Print queues** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Right click on your printer (it may display as**Unknown device**), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Choose**Search automatically for updated driver software** .
 
@@ -105,8 +113,12 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 Still no luck? OK. There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
  If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -125,9 +137,6 @@ Still no luck? OK. There’s one more thing to try.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
 
 4) After updating, restart your computer to take effect.
@@ -149,8 +158,6 @@ If you have any questions, feel free to add a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,6 +165,22 @@ If you have any questions, feel free to add a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlock-your-creative-potential-the-leading-12-sites-for-accessible-stock-photos/"><u>[New] In 2024, Unlock Your Creative Potential - The Leading 12 Sites for Accessible Stock Photos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-video-chatting-techniques-a-complete-resource-for-2024/"><u>[New] Instagram’s Video Chatting Techniques A Complete Resource for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-exploring-8-premium-open-source-videoconferencing-platforms/"><u>[Updated] 2024 Approved Exploring 8 Premium Open-Source Videoconferencing Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screen-recording-on-macos-ahead-with-bandicam-or-camtasia/"><u>[Updated] 2024 Approved Screen Recording on MacOS Ahead with Bandicam or Camtasia?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4-webm-2024top4/"><u>「MP4 ファイルを自由に WebMに変換する - 2024年度レコメンドソフトウェアTOP4」</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/debating-on-the-significance-of-truthfulness-in-selfies/"><u>Debating on the Significance of Truthfulness in Selfies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-drivers-update-on-xp-through-methodical-steps/"><u>Efficient Drivers Update on XP Through Methodical Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/exclusive-driver-access-canons-windows-10-edition/"><u>Exclusive Driver Access: Canon's Windows 10 Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/graphics-gain-in-windows-7-with-updated-hp-drivers/"><u>Graphics Gain in Windows 7 with Updated HP Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hardware-drivers-manual-update-techniques-for-vista-users/"><u>Hardware Drivers: Manual Update Techniques for Vista Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-charting-your-path-to-higher-youtube-spotlight/"><u>In 2024, Charting Your Path to Higher YouTube Spotlight</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ingredient-list-essentials-for-clean-gpu-driver-installation/"><u>Ingredient List: Essentials for Clean GPU Driver Installation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-issues-with-unopened-microsoft-word-documents-a-step-by-step-guide/"><u>Solving Issues with Unopened Microsoft Word Documents: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stream-ncaa-march-madness-games-for-free-no-need-for-cable-services-or-paid-tickets/"><u>Stream NCAA 'March Madness' Games for Free - No Need for Cable Services or Paid Tickets!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-compatibility-and-speed-aoc-drivers-v1659aoc/"><u>Win Compatibility & Speed: AOC Drivers V1659AOC</u></a></li>
+</ul></div>
 

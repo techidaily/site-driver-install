@@ -1,7 +1,7 @@
 ---
 title: Simplified Canon Scanner Driver Access for Windows Users
-date: 2024-10-04T19:17:19.573Z
-updated: 2024-10-06T21:00:30.359Z
+date: 2024-10-05T20:49:13.639Z
+updated: 2024-10-12T16:49:52.761Z
 tags:
   - win11
   - win10
@@ -40,15 +40,16 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 2. Search for your scanner model from the search bar. (In my case I search for **CanoScan** LiDE 120.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search.jpg)
 3. On your scanner result page, click**Software & Drivers**  .  
-![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-1.jpg)
-4. Select the OS and version that match with your computer. Then click**DOWNLOAD** there is a driver available for you to download.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-1.jpg)
+4. Select the OS and version that match with your computer. Then click**DOWNLOAD** there is a driver available for you to download.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-2.jpg)
 5. Install the driver on your computer.
@@ -56,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
  This requires time or computer skills. If you don’t have time or patience, you can try the solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update Canon scanner driver automatically
@@ -72,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -91,25 +99,18 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 4. In Device Manager, double-click**Printers** or**Print queues** to expand it.  Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 5. Choose**Search automatically for updated driver software** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 6. Follow the on-screen instructions to finish updating the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Restart your computer afterward.
 
@@ -134,20 +135,20 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-maximizing-visual-potential-with-hdr-technology/"><u>[Updated] 2024 Approved Maximizing Visual Potential with HDR Technology</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-razr-40-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Razr 40.</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-techniques-for-safeguarding-your-favorite-live-discord-chats/"><u>In 2024, Top Techniques for Safeguarding Your Favorite Live Discord Chats</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-uncovering-ustream-plus-other-live-streamers/"><u>In 2024, Uncovering Ustream + Other Live Streamers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revive-win-7s-performance-update-the-new-game-mouse-driver/"><u>Revive Win 7'S Performance - Update the New Game Mouse Driver</u></a></li>
-<li><a href="https://video-capture.techidaily.com/secure-whole-page-scene-for-2024/"><u>Secure Whole-Page Scene for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-operating-system-startechs-driver-upgrades-to-windows-71011/"><u>Smooth Operating System: StarTech's Driver Upgrades to Windows 7/10/11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/stylish-and-efficient-ride-comprehensive-swagtron-swagger-electric-scooter-assessment/"><u>Stylish and Efficient Ride: Comprehensive Swagtron Swagger Electric Scooter Assessment</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy A24? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steam-errors-keeping-psychonauts-2-running-smoothly-on-windows-and-macos/"><u>Troubleshooting Steam Errors – Keeping 'Psychonauts 2' Running Smoothly on Windows and MacOS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshooting-techniques-for-your-hawki-car-concerns/"><u>Troubleshooting Techniques for Your Hawki Car Concerns</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-wacom-bamboo-quickly/"><u>Update Your Wacom Bamboo Quickly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-lenovo-g580-to-effortless/"><u>Upgrade Lenovo G580 to Effortless</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-and-nvidia-driver-update-boost-your-graphics/"><u>Windows 10 & Nvidia Driver Update: Boost Your Graphics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-digital-deviants-titles-mirroring-gta-v-experience/"><u>[New] In 2024, Digital Deviants Titles Mirroring GTA V Experience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cost-effective-video-enhancement-vimeo-edition/"><u>[Updated] Cost-Effective Video Enhancement Vimeo Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-ace-10-budget-friendly-video-subtitle-grabs/"><u>2024 Approved Ace 10 Budget-Friendly Video Subtitle Grabs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dji-aerial-palette-changes-get-20-free-with-pay-options-available/"><u>DJI Aerial Palette Changes - Get 20 FREE with Pay Options Available</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-lava-blaze-curve-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Lava Blaze Curve 5G Phone</u></a></li>
+<li><a href="https://win-net.techidaily.com/resurrecting-deleted-data-four-expert-tips-for-restoring-removed-items-on-windows-11/"><u>Resurrecting Deleted Data: Four Expert Tips for Restoring Removed Items on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-to-shooting-exceptional-micro-videos/"><u>Secrets to Shooting Exceptional Micro Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/signature-void-in-threat-free-third-party-data/"><u>Signature Void in Threat-Free Third-Party Data</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smoothly-switch-between-wifi-and-local-networks/"><u>Smoothly Switch Between WiFi and Local Networks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-to-updated-windows-11-device-drivers/"><u>Step-by-Step to Updated Windows 11 Device Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-scarlett-6i6-driver-enhancement-guide/"><u>Step-by-Step: Scarlett 6I6 Driver Enhancement Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-complete-guide-to-overcome-civilization-vi-errors-in-the-latest-2024-game-patch/"><u>The Complete Guide to Overcome 'Civilization VI' Errors in the Latest 2024 Game Patch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-enhancement-intel-driver-timing-and-methods/"><u>Windows Enhancement: Intel Driver Timing and Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xbox-interface-smoothly-integrating-into-windows/"><u>Xbox Interface: Smoothly Integrating Into Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xbox-one-gaming-interface-for-pc/"><u>XBox One Gaming Interface for PC</u></a></li>
 </ul></div>
 

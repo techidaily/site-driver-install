@@ -1,7 +1,7 @@
 ---
 title: Compatibility Driver Set for Lenovo IdeaPad-Y470 Win7
-date: 2024-08-08T06:20:39.948Z
-updated: 2024-08-09T06:20:39.948Z
+date: 2024-10-08T18:41:33.105Z
+updated: 2024-10-12T16:09:37.889Z
 tags:
   - win11
   - win10
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 This passage mainly shows you how to download and update device drivers for your**Lenovo IdeaPad-Y470 laptop**. The instructions are easy to follow and clear enough for almost everyone to handle the problem totally by yourself.
   
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/lenovo-ideapad-y470-laptop.jpg)
   
  This post will basically show you how to update device drivers in three different ways by the example of**audio driver** . These methods apply to all the other device drivers that you want to update.
@@ -48,9 +45,6 @@ This passage mainly shows you how to download and update device drivers for your
   
  4) Go under**Driver** tab and choose**Update Driver…** .  
   
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver.png)
 
  5) Then choose**Search automatically for updated driver software** .
@@ -67,9 +61,6 @@ This passage mainly shows you how to download and update device drivers for your
   
  2) Select the**Drivers & Software** button on the top part of the page.
   
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e1091dd41a0-1024x433.jpg)
 
 3) Enter your product name here in the search box.  
@@ -82,9 +73,6 @@ This passage mainly shows you how to download and update device drivers for your
   
  5) We will show you how to download the Audio driver on this webpage. Choose**Audio** from the Component category, then click the down arrow under**Download File** . Wait for your browser to download the file for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/download-file-form-lenovo-1024x256.jpg)
 
 6) Go to **[Device Manager](https://tools.techidaily.com/drivereasy/download/)** .
@@ -95,10 +83,6 @@ We use Audio driver as an example, so we will expand **Sound, video and game con
   
  If there is something wrong with your device driver, you might need to look for it under the category **Other devices**  and see if devices with yellow exclamation marks can be seen.  
   
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/double-click-high-definition-audio-device.png)
   
 8) Then choose**Update Drivers…**under**Driver**tab.  
@@ -107,9 +91,6 @@ We use Audio driver as an example, so we will expand **Sound, video and game con
 
 9) Then choose**Browse my computer for driver software**.
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software.png)
 
 10) Copy and paste the path to the audio driver that you have downloaded to the search box here. Then click**Next**to continue.
@@ -130,18 +111,6 @@ In addition, it is a very easy software to use. There are only two steps involve
   
 Step one, press the**Scan Now**button.
   
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f084541e01e.png)
 
 Step two, press the**Update**button next to the driver that you would like to update.
@@ -158,8 +127,6 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +134,29 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/levating-the-end-scene-in-youtube-productions-for-2024/"><u>[New] Elevating the End Scene in YouTube Productions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-sync-video-elements-to-captivate-instagram-audiences/"><u>[New] Sync Video Elements to Captivate Instagram Audiences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-key-20-free-pubg-thumbnail-collections/"><u>[Updated] 2024 Approved Key 20 Free PUBG Thumbnail Collections</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/44cm44og44os44ot55wq57we6yyy55s75qmf6io944gn6kaw6ig044oq44k544oi44ks6kgo56s644gn44gn44gq44ge55cg55sx44cn/"><u>「テレビ番組録画機能で視聴リストを表示できない理由」</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-elites-choice-top-6-superior-4k-dslr-powerhouses/"><u>2024 Approved Elite's Choice Top 6 Superior 4K DSLR Powerhouses</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-examination-editrite-pro-suite-the-final-word-2023-for-2024/"><u>Comprehensive Examination EditRite Pro Suite – The Final Word, 2023 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-samsung-galaxy-m34-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Samsung Galaxy M34</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/novices-path-to-professional-gopro-video-editing-for-2024/"><u>Novice's Path to Professional GoPro Video Editing for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-printing-errors-win-os-and-hp-printer-connection/"><u>Rectify Printing Errors: Win OS & HP Printer Connection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-operating-system-windows-8-drivers-for-dell/"><u>Refresh Operating System: Windows 8 Drivers for Dell</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-windows-issues-hp-printer-1020-driver-update/"><u>Resolved Windows Issues: HP Printer 1020 Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-optimize-with-radeon-vega-3-release-2024/"><u>Secure & Optimize with Radeon Vega 3 Release 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-iphones-potential-for-dynamic-shots/"><u>Unleashing iPhone’s Potential for Dynamic Shots</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-system-performance-efficiently-asus-drivers-win/"><u>Upgrade Your System Performance Efficiently - ASUS Drivers (Win)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-intuos-4-ultimate-windows-tablet-companion-free/"><u>Wacom Intuos 4: Ultimate Windows Tablet Companion (Free)</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

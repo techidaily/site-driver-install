@@ -1,7 +1,7 @@
 ---
 title: Optimize Windows 11/10 Performance via MTK Drivers
-date: 2024-07-29T05:00:20.484Z
-updated: 2024-07-30T05:00:20.484Z
+date: 2024-10-10T19:58:51.171Z
+updated: 2024-10-12T16:28:29.513Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ There are two methods for you to download and install MediaTek drivers.
 
 * Option 1 –**[Manually](#m1)** – You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it, and install it step by step.
 * Option 2 –**[Automatically](#m2)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1 Manually
 
@@ -59,11 +66,21 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, select the**Recovery** tab. Under**Advanced startup** , click**Restart now** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
 
  3) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
@@ -76,9 +93,6 @@ To download and install MediaTek drivers manually, you need to:
 
 2) Click the**System** category, scroll down the right pane, and then click**Recovery** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery.jpg)
 
 3) Click the Restart now button.
@@ -95,30 +109,25 @@ To download and install MediaTek drivers manually, you need to:
 
  1) Type**device manager** in the search box and select**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/win11-type-device.jpg)
 
  2) In Device Manager,**click on your PC name** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Action** and select**Add legacy hardware** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
 
  4) In the Add Hardware Wizard, click**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
 
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
@@ -127,17 +136,18 @@ To download and install MediaTek drivers manually, you need to:
 
  6) Click**Show All Devices** and then**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard3.jpg)
 
  7) Select**Have Disk** and select the .inf file you extracted before.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Select **MTK\_Driver\_ext > SP\_Drivers\_v2.0 > Android > android\_winusb** inf.
 
@@ -160,6 +170,13 @@ To download and install MediaTek drivers manually, you need to:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** . )
 
@@ -187,8 +204,6 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +211,24 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>[New] 2024 Approved Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fix-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>[Updated] 2024 Approved Fix “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-frames-5-effective-charge-free-youtube-techniques/"><u>[Updated] In 2024, Unveiling Frames 5 Effective, Charge-Free YouTube Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-failure-in-win11-try-new-driver-installation/"><u>Audio Failure in Win11? Try New Driver Installation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blogging-success-how-advertise-with-buysellads/"><u>Blogging Success: How Advertise with BuySellAds</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensive-guide-to-ymf-audio-drivers/"><u>Comprehensive Guide to YMF Audio Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drivers-refresh-made-simple-for-radeon-rx-5500xt/"><u>Drivers Refresh Made Simple for Radeon RX 5500XT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-techniques-implementing-updated-nvidia-sound-in-win11/"><u>Efficient Techniques: Implementing Updated NVIDIA Sound in Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-cutzone-pro-review-unveiled/"><u>In 2024, In-Depth Analysis CutZone Pro Review Unveiled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/snapshot-safeguarding-an-easy-tutorial-for-your-phone/"><u>Snapshot Safeguarding An Easy Tutorial for Your Phone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/stepwise-instructions-preserve-your-memories-by-uploading-to-snapchat-for-2024/"><u>Stepwise Instructions Preserve Your Memories by Uploading to Snapchat for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063568960-streamline-lenovo-g580-driver-updates/"><u>Streamline Lenovo G580 Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-your-screen-with-updated-hdmi-driver/"><u>Streamlining Your Screen with Updated HDMI Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-max-performance-upgrade-to-latest-a6200-usb-adapter/"><u>Unlock Max Performance: Upgrade to Latest A6200 USB-Adapter</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-realtek-pcie-gbe-family-controller-drivers-on-windows-10/"><u>Update Realtek PCIe GBE Family Controller Drivers on Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo A1 5G? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to Stop Dark Souls 3 From Crashing Frequently
-date: 2024-09-29T18:26:31.903Z
-updated: 2024-10-07T00:17:11.825Z
+date: 2024-10-11T17:54:20.010Z
+updated: 2024-10-12T18:34:32.183Z
 tags:
   - win11
   - win10
@@ -57,10 +57,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify your game cache
@@ -74,16 +74,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change your save files location
@@ -91,19 +85,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable Steam Overlay
 
@@ -113,6 +94,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your driver
 
@@ -137,15 +125,15 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -168,24 +156,24 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-assessment-of-vlc-screen-recording/"><u>[New] In 2024, Assessment of VLC Screen Recording</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-top-6-reader-and-editor-tools-for-pdfs-find-your-perfect-match/"><u>1. Top 6 Reader & Editor Tools for PDFs: Find Your Perfect Match!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-stepwise-integration-technique-for-youtube-playlists-on-web/"><u>2024 Approved Stepwise Integration Technique for YouTube Playlists on Web</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/breaking-down-the-features-of-apples-premier-laptop-a-review-of-the-2021-macbook-pro-m1-16-inch/"><u>Breaking Down the Features of Apple’s Premier Laptop: A Review of the 2021 MacBook Pro (M1, 16-Inch)</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-infinix-note-30-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Note 30 Pro Safely | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-12-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 12 Pro?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-network-linking-win7-style/"><u>Instant Network Linking, Win7 Style</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instructions-to-refresh-scansnap-drivers/"><u>Instructions to Refresh ScanSnap Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/join-forces-winning-strategies-for-minecraft-2p-on-switch/"><u>Join Forces! Winning Strategies for Minecraft 2P on Switch</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-gpu-update-gtx-970-driver-version-release/"><u>Latest GPU Update: GTX 970 Driver Version Release</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-outputs-download-vega-3-gpu-24-upgrade/"><u>Maximize Outputs - Download Vega 3 GPU '24 Upgrade</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-driver-release-xerox-model-6515/"><u>New Driver Release, Xerox Model 6515</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-flip-rotate-and-enhance-top-10-video-editing-software-for-2024/"><u>New Flip, Rotate, and Enhance Top 10 Video Editing Software for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidias-760-enjoy-easy-driver-updates/"><u>Nvidia's 760: Enjoy Easy Driver Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/opengl-api-reference-guide/"><u>OpenGL API Reference Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-windows-speed-install-direct-gb-hardware-update/"><u>Optimize Windows Speed – Install Direct GB Hardware Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimizing-performance-by-customizing-drivers-on-windows-881/"><u>Optimizing Performance by Customizing Drivers on Windows 8/8.1</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-detailed-process-of-saving-movies-on-various-os/"><u>[New] 2024 Approved Detailed Process of Saving Movies on Various OS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instant-interaction-the-art-of-crafting-instagram-stories-questions/"><u>[New] 2024 Approved Instant Interaction The Art of Crafting Instagram Stories Questions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-discover-the-lesser-known-page-picks-for-memelings-for-2024/"><u>[New] Discover the Lesser-Known Page Picks for Memelings for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-harnessing-snapchat-spotlight/"><u>[New] In 2024, The Ultimate Guide to Harnessing Snapchat Spotlight</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-time-constraints-for-video-content-explored/"><u>[New] Instagram's Time Constraints for Video Content Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-20-budget-conscious-video-editing-applications-for-2024/"><u>[New] Top 20 Budget-Conscious Video Editing Applications for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-quickshot-maker-for-videoplusimage-sync/"><u>[Updated] QuickShot Maker for Video+Image Sync</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-analysis-triangulating-life-with-samsung-vr/"><u>2024 Approved Complete Analysis Triangulating Life with Samsung VR</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-y100-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo Y100 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-newest-logitech-mouse-with-windows-11/"><u>Integrate Newest Logitech Mouse with Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrating-wacom-support-across-multiple-windows-environments/"><u>Integrating Wacom Support Across Multiple Windows Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-g580-simplified-driver-upgrade/"><u>Lenovo G580: Simplified Driver Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/obtaining-official-canon-drivers-for-11-windows-system/"><u>Obtaining Official Canon Drivers for 11 Windows System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-windows-1110-performance-via-mtk-drivers/"><u>Optimize Windows 11/10 Performance via MTK Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-printing-hp-officejet-software-update/"><u>Optimize Your Printing: HP Officejet Software Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-printer-malfunctions-on-win11-hp/"><u>Overcoming Printer Malfunctions on Win11 (HP)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/powerful-performance-update-win-drivers/"><u>Powerful Performance: Update WIN Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-6000-graphics-update-and-download/"><u>Quadro 6000 Graphics Update & Download</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-n3-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Find N3 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

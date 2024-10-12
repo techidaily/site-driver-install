@@ -1,7 +1,7 @@
 ---
 title: IdeaPad-Y470 Lenovo Laptop Device Drivers on Windows 7
-date: 2024-08-08T06:22:39.518Z
-updated: 2024-08-09T06:22:39.518Z
+date: 2024-10-06T19:07:45.142Z
+updated: 2024-10-12T19:40:05.101Z
 tags:
   - win11
   - win10
@@ -37,16 +37,10 @@ This passage mainly shows you how to download and update device drivers for your
   
  If there is something wrong with your device driver, you might need to look for it under the category**Other devices**  and see if devices with yellow exclamation marks can be seen.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/sound-video-and-game-controllers.png)
 
  3) Then double click the option**High Definition Audio Device** . You should double click the device you want to update.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/high-definition-audio-device.png)
   
  4) Go under**Driver** tab and choose**Update Driver…** .  
@@ -55,9 +49,6 @@ This passage mainly shows you how to download and update device drivers for your
 
  5) Then choose**Search automatically for updated driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/search-automatically-for-updated-driver-software.png)
 
  You may need to wait for a while for Microsoft to help you locate the correct driver.
@@ -70,9 +61,6 @@ This passage mainly shows you how to download and update device drivers for your
   
  2) Select the**Drivers & Software** button on the top part of the page.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e1091dd41a0-1024x433.jpg)
 
 3) Enter your product name here in the search box.  
@@ -81,16 +69,10 @@ This passage mainly shows you how to download and update device drivers for your
 
 4) Make sure the operating system information is correct according to your own OS,**Windows 7 (64-bit or 32-bit)**. Then choose from the list of choice of**Component**the device driver that you need on your laptop.
   
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/look-for-drivers-or-software-for-your-machine.jpg)
   
  5) We will show you how to download the Audio driver on this webpage. Choose**Audio** from the Component category, then click the down arrow under**Download File** . Wait for your browser to download the file for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/download-file-form-lenovo-1024x256.jpg)
 
 6) Go to **[Device Manager](https://tools.techidaily.com/drivereasy/download/)** .
@@ -133,9 +115,6 @@ Step one, press the**Scan Now**button.
 
 Step two, press the**Update**button next to the driver that you would like to update.
   
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f0855948ed3.jpg)
   
 That’s it. How convenient is that! Just download [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/)  right now and enjoy the best driver update experience.
@@ -148,8 +127,6 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,6 +134,33 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-boosting-your-igtv-influence-techniques-to-amplify-audience-size/"><u>[New] 2024 Approved Boosting Your IGTV Influence Techniques to Amplify Audience Size</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[New] How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-humor-hacks-create-memes-free-and-easy/"><u>[New] Humor Hacks Create Memes Free and Easy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-pixelpartition-review/"><u>[New] PixelPartition Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-complete-angle-manipulation-handbook-for-youtube-videos-for-2024/"><u>[New] The Complete Angle Manipulation Handbook for YouTube Videos for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-hardware-drivers-setup/"><u>Efficient Hardware Drivers Setup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965776733-get-the-newest-nvidia-geforce-rtx-letease-3070-drivers-for-your-windows-pc-upgrade-and-update-now/"><u>Get the Newest NVIDIA GeForce RTX Letease 3070 Drivers for Your Windows PC - Upgrade & Update Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-x-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone X | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Phone without Any Data Loss</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-proofficejet-8620-driver-upgrade-guide-for-pcs/"><u>HP ProOfficeJet 8620 Driver Upgrade Guide for PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/interface-harmony-challenges/"><u>Interface Harmony Challenges</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-multitasking-a-comprehensive-guide-to-picture-in-picture-on-android/"><u>Maximize Multitasking: A Comprehensive Guide to Picture-in-Picture on Android</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-amd-rx-570-for-windows-versions-downloading-now/"><u>Optimize AMD RX 570 for Windows Versions Downloading Now</u></a></li>
+<li><a href="https://fox-info.techidaily.com/outshine-samsung-gear-360-with-these-top-camera-alternatives/"><u>Outshine Samsung Gear 360 with These Top Camera Alternatives</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapidly-enhance-win10-touch-interface/"><u>Rapidly Enhance Win10 Touch Interface</u></a></li>
+<li><a href="https://driver-install.techidaily.com/release-notes-updated-drivers-for-amds-rx-gpu/"><u>Release Notes: Updated Drivers for AMD's RX GPU</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reviving-nvidia-support-in-windows-environment/"><u>Reviving NVIDIA Support in Windows Environment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-hd-graphics-sdk-release/"><u>Speedy HD Graphics SDK Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-overlap-issues/"><u>System Overlap Issues</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

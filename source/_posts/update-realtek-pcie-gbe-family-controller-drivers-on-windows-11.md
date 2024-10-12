@@ -1,7 +1,7 @@
 ---
 title: Update Realtek PCIe GBE Family Controller Drivers on Windows 11
-date: 2024-10-04T21:27:45.182Z
-updated: 2024-10-07T02:51:23.090Z
+date: 2024-10-08T17:08:50.606Z
+updated: 2024-10-12T17:08:12.918Z
 tags:
   - win11
   - win10
@@ -62,20 +62,27 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0236547c83.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3\. Update the Driver Manually
 
  You can go to your PC manufacturer’s website to download the Windows 10 driver for this device. Alternatively, you can visit [Realtek](http://www.realtek.com/downloads/) website to download the Windows 10 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-521.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Usually, the driver can be self-installing. After you download the driver, double-click on the file to begin the installation. If the driver cannot be installed in this way, you might have to install it manually, then follow steps below to install the driver.
 
@@ -85,23 +92,9 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0234c3a594.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Device Manager, expand category **Network adapters** . Under this category, right-click on the**Realtek PCIe GbE Family Controller** . Then click**Update Driver Software…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023a099bb2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click **Browse my Computer for driver software.**
 
@@ -112,21 +105,22 @@ _Realtek PCIe GBE Familly Controller_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023f947709.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click on   **Next** button to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0244b633c8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Check to see if the driver is installed successfully.
 
@@ -147,19 +141,20 @@ _Realtek PCIe GBE Familly Controller_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-future-film-tech-top-cinematic-tips-for-the-year-2024/"><u>[New] The Future Film Tech Top Cinematic Tips for the Year 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-live-stream-to-file-top-performing-obs-recording-tools/"><u>[Updated] 2024 Approved Live Stream to File Top Performing OBS Recording Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-video-cutting-edge-m1s-efficiency-takes-the-lead/"><u>[Updated] Video Cutting-Edge M1's Efficiency Takes the Lead</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y78-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y78 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-max-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 15 Pro Max Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-alternatives-to-sns-hdr-in-a-crowded-space/"><u>In 2024, Unveiling Alternatives to SNS HDR in a Crowded Space</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-sony-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Sony</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionize-your-graphic-tablet-huion-h420-and-windows/"><u>Revolutionize Your Graphic Tablet: Huion H420 & Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-windows-10-logitech-cam-update/"><u>Secure Windows 10 Logitech Cam Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-controllers-windows-11-meets-xbox-one/"><u>Streamlined Controllers: Windows 11 Meets Xbox One</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshoot-and-fix-dreamlight-valley-pc-crashes-using-our-top-6-tips/"><u>Troubleshoot and Fix Dreamlight Valley PC Crashes Using Our Top 6 Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-amd-radeon-drivers-for-enhanced-performance/"><u>Update AMD Radeon Drivers for Enhanced Performance</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-tiktok-watermark-erasers-remove-logos-easily-for-2024/"><u>Updated Top TikTok Watermark Erasers Remove Logos Easily for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-usb-hub-troubleshooting-guide-fixed/"><u>Windows USB Hub Troubleshooting Guide - Fixed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-prime-construction-tips-for-mc-community-abodes/"><u>[New] In 2024, Prime Construction Tips for MC Community Abodes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>[New] Leading Android & iOS Timer Tools Reviewed Your Big Day Planner's Must-Haves</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel-for-2024/"><u>[Updated] How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-initiating-into-the-world-of-facebook-video-content-creation/"><u>[Updated] In 2024, Initiating Into the World of Facebook Video Content Creation</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x8b-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X8b in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-dciman32dll-not-found-or-missing-errors/"><u>How to Fix Dciman32.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-updated-hp-graphics-on-windows-11-pc/"><u>Install Updated HP Graphics on Windows 11 PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-latest-software-in-msi-bravo-15/"><u>Installing Latest Software in MSI Bravo 15</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-6-sites-transforming-how-companies-connect-socially/"><u>Leading 6 Sites Transforming How Companies Connect Socially</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-new-horizons-startechs-fixes-to-7-811-os/"><u>Navigating New Horizons: StarTech's Fixes to 7, 8/11 OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/netgear-1200mbps-wi-fi-pcie-usb/"><u>NETGEAR 1200Mbps Wi-Fi PCIe USB</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-nvidia-audio-drivers-in-windows-7-release/"><u>New NVIDIA Audio Drivers in Windows 7 Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-hassle-seamless-setup-newest-tp-link-adapter-driver-for-pcs/"><u>No Hassle, Seamless Setup: Newest TP Link Adapter Driver for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-browser-blockades-a-guide-to-web-site-restoration-on-windows/"><u>Overcoming Browser Blockades: A Guide to Web Site Restoration on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-edge-40-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Edge 40 Pro for Parents | Dr.fone</u></a></li>
 </ul></div>
 

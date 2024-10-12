@@ -1,7 +1,7 @@
 ---
 title: "Smooth Printing: Fixed HP LaserJet on Windows"
-date: 2024-09-30T18:05:05.690Z
-updated: 2024-10-06T23:19:25.845Z
+date: 2024-10-07T16:36:49.538Z
+updated: 2024-10-12T17:37:09.147Z
 tags:
   - win11
   - win10
@@ -41,6 +41,14 @@ Time needed:  3 minutes.
 
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run the downloaded file, and follow the wizard to finish.
 
 ### Method 2: Update the printer driver in Device Manager
@@ -57,11 +65,6 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
-5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
-6. Choose**Search automatically for updated driver software** .  
-
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
   <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
@@ -69,14 +72,19 @@ Time needed:  3 minutes.
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
+5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
+6. Choose**Search automatically for updated driver software** .  
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After updating, restart your computer.
@@ -84,10 +92,10 @@ After updating, restart your computer.
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
@@ -102,13 +110,6 @@ After updating, restart your computer.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -141,24 +142,18 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-elevate-your-content-writability-with-these-best-fonts/"><u>[New] Elevate Your Content' Writability with These Best Fonts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-capturing-your-ps4-experience-for-2024/"><u>[New] The Ultimate Guide Capturing Your PS4 Experience for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-effortless-facial-obscurity-in-photos-for-2024/"><u>[Updated] Effortless Facial Obscurity in Photos for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-premier-selection-of-11-costless-yt-moniker-makers-for-2024/"><u>[Updated] The Premier Selection of 11 Costless YT Moniker Makers for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028119358-nhk/"><u>「NHK 歌謡スクランブル」テープ録音方法チャート - 完全解説</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-vr-headset-match-the-top-10-360-degree-videos-on-pc/"><u>2024 Approved VR Headset Match The Top 10 360-Degree Videos on PC</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-90-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-performance-with-updated-rx-5500xt-drivers/"><u>Boost Performance with Updated RX 5500XT Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-nvidia-gtx-970-drivers-update-for-windows-10/"><u>Download | Nvidia GTX 970 Drivers Update for Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hear-the-difference-in-high-definition-audio-on-win7-via-nvidia/"><u>Hear the Difference in High Definition Audio on Win7 via NVIDIA</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-reinstall-printer-drivers-on-windows-10-11-7/"><u>How to Reinstall Printer Drivers on Windows 10, 11, 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-launching-a-vlog-essential-equipmentapps/"><u>In 2024, Launching a Vlog Essential Equipment/Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/inf-security-no-digital-signature-on-third-party-inf/"><u>Inf Security: No Digital Signature on Third-Party Inf</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-game-experience-upgrade-win-7-mouse-driver/"><u>Maximize Game Experience - Upgrade Win 7 Mouse Driver</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-new-laptop-features-with-m1-max-clips/"><u>Navigating New Laptop Features with M1 Max Clips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-your-video-calling-with-the-hd-logitech-c270-software/"><u>Optimize Your Video Calling with the HD Logitech C270 Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-logitech-mouse-with-latest-drivers-in-windows-11/"><u>Revamp Logitech Mouse with Latest Drivers in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-hp-laserjet-printer-drivers-for-windows-10/"><u>Update HP Laserjet Printer Drivers for Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-captivating-startups-discovering-the-best-15-video-intros-for-2024/"><u>[Updated] Captivating Startups Discovering the Best 15 Video Intros for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-video-aesthetics-on-tiktok-dual-approach/"><u>2024 Approved Transforming Video Aesthetics on TikTok (Dual Approach)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029178515-aacitunes/"><u>AAC形式への変換に失敗した場合のiTunesでのトラブルシューティング手順</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-12-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme 12 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-problems-for-a-perfect-sound-sennheiser-game-one-mic-troubleshooting/"><u>Fixing Common Problems for a Perfect Sound: Sennheiser Game One Mic Troubleshooting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-conversion-transform-avi-files-into-mkv-format-with-ease-movavi/"><u>Free Online Conversion: Transform AVI Files Into MKV Format with Ease - Movavi</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-omnicharge-omni-20-portable-power-bank-your-go-to-multi-functional-charging-solution-with-qi-technology/"><u>Review: Omnicharge Omni 20 Portable Power Bank – Your Go-To Multi-Functional Charging Solution with Qi Technology</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-synergy-updating-windows-and-intels/"><u>Seamless Synergy: Updating Windows and Intels</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-updating-atheros-drivers-to-optimize-windows-10-wifi/"><u>Seamlessly Updating Atheros Drivers to Optimize Windows 10 Wifi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/supercharge-laptops-new-drivers-from-dell-and-windows/"><u>Supercharge Laptops: New Drivers From Dell and Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/trim-guide-how-to-effortlessly-replace-bluetooth-drivers/"><u>Trim Guide: How To Effortlessly Replace Bluetooth Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-compatible-installing-razer-mice-drivers/"><u>Windows Compatible: Installing Razer Mice Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-installation-microsoft-surface-pro-4-drivers/"><u>Windows Installation: Microsoft Surface Pro 4 Drivers</u></a></li>
 </ul></div>
 

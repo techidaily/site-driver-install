@@ -1,7 +1,7 @@
 ---
 title: Revamp Canon Printer Settings in Windows 11
-date: 2024-10-02T01:47:53.523Z
-updated: 2024-10-06T23:20:32.165Z
+date: 2024-10-07T20:54:27.317Z
+updated: 2024-10-12T17:17:32.246Z
 tags:
   - win11
   - win10
@@ -57,10 +57,10 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Way 2: Use Windows Update for new drivers**
@@ -71,28 +71,15 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In Settings window, click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
@@ -100,13 +87,6 @@ For some printers, you need to update the drivers manually step by step.
  Click**Check for updates** , and then wait while Windows looks for the latest updates for your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
@@ -126,11 +106,31 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -149,19 +149,24 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/harting-the-course-for-youtube-music-uploads-for-2024/"><u>[New] Charting the Course for YouTube Music Uploads for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-crafting-your-instagram-business-blueprint-for-2024/"><u>[New] Crafting Your Instagram Business Blueprint for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-elevating-your-desktop-mastering-screenshot-and-recording/"><u>[Updated] Elevating Your Desktop Mastering Screenshot and Recording</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-visionary-entry-critique-and-dissection/"><u>[Updated] Visionary Entry Critique and Dissection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-free-baby-image-generator-apps-in-pressing-a-comprehensive-guide-to-2024s-top-choices/"><u>Best Free Baby Image Generator Apps in Pressing - A Comprehensive Guide to 2024'S Top Choices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-kensun-portable-air-compressor-review-durable-and-compact/"><u>Comprehensive Kensun Portable Air Compressor Review - Durable & Compact</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-zte-nubia-flip-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On ZTE Nubia Flip 5G?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-transform-your-screen-with-webcam-creativity/"><u>In 2024, Transform Your Screen with Webcam Creativity</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rejuvenating-hdmi-interface-windows-guide/"><u>Rejuvenating HDMI Interface: Windows Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-printer-setup-with-epson-et-2650-guide/"><u>Simplify Printer Setup with Epson ET-2650 Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speed-up-iris-x4-driver-installation/"><u>Speed Up Iris X4 Driver Installation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-mouse-driver-updates-on-windows-10/"><u>Streamline Mouse Driver Updates on Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-spark-20-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Spark 20</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-speed-instantaneous-acer-driver-enhancements-in-windows-10/"><u>Upgrade Speed: Instantaneous Acer Driver Enhancements in Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unbeatable-free-webcam-matchups/"><u>[New] 2024 Approved Unbeatable Free Webcam Matchups</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/boost-your-sites-analytics-using-our-advanced-cookiebot-technology/"><u>Boost Your Site's Analytics Using Our Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-advantages-an-expert-review-of-apples-giant-iphone-12-pro-max/"><u>Exploring the Advantages: An Expert Review of Apple's Giant, iPhone 12 Pro Max</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-error-code-0x8024002e-easily/"><u>How to Fix Windows Update Error Code 0X8024002E Easily!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-tips-record-powerpoint-live-with-webcam/"><u>In 2024, Essential Tips Record PowerPoint Live with Webcam</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-taming-soundtracks-audio-capture-in-windows-10/"><u>In 2024, Taming Soundtracks Audio Capture in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instructions-microsoft-pro-4-drivers-in-windows/"><u>Instructions: Microsoft Pro 4 Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/jumpstart-your-device-installing-3dconnexion-technology/"><u>Jumpstart Your Device: Installing 3Dconnexion Technology</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-replacements-for-ms-office-suite-2-groovy-picks/"><u>Leading Replacements for MS Office Suite - 2 Groovy Picks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-hawku-cars-simple-solutions/"><u>Navigating Hawku Cars: Simple Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-new-driver-installation-guide/"><u>Nvidia GTX 970 - New Driver Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimal-printing-update-for-latest-hp-officejet-4630-driver/"><u>Optimal Printing: Update for Latest HP Officejet 4630 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-hp-deskjet-printing-windows-11/"><u>Optimize HP Deskjet Printing Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-windows-11-hdmi-via-driver-rejuvenation/"><u>Optimizing Windows 11 HDMI via Driver Rejuvenation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pioneering-windows-11-updates-for-enhanced-acer-drivers/"><u>Pioneering Windows 11 Updates for Enhanced Acer Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-vs-economic-pc-the-ultimate-test/"><u>PlayStation 5 V/S Economic PC: The Ultimate Test</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-intel-hd520-graphics-update/"><u>Quick Intel HD520 Graphics Update</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/section-3b-facts-to-remember/"><u>Section 3B: Facts to Remember</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tiny-tranquil-houses-japanese-style-for-2024/"><u>Tiny Tranquil Houses Japanese Style for 2024</u></a></li>
 </ul></div>
 

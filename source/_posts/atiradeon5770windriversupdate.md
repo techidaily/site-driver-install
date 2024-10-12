@@ -1,7 +1,7 @@
 ---
 title: ATIRadeon5770WinDriversUpdate
-date: 2024-08-08T06:21:45.719Z
-updated: 2024-08-09T06:21:45.719Z
+date: 2024-10-06T20:42:54.186Z
+updated: 2024-10-12T16:56:26.169Z
 tags:
   - win11
   - win10
@@ -26,24 +26,14 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
   
  2\. Type **devmgmt.msc** in the run box and click on**OK** button. This is to open Device Manager dialog box.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a51448230.png)
   
  3\. In Device Manager, expand category “Display adapters” and right-click on AMD graphics device. Select**Update Driver Software…** on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a5367b22f.jpg)
   
  4\. Select**Search automatically for updated driver software** . Then Windows will search and install the latest driver automatically. Note Windows may fail to provide the latest driver.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a57107fc1.jpg)
   
 **Way 2: Download and Install the Latest Driver from AMD**
@@ -54,9 +44,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
   
  2\. Scroll down and locate the right series in right page. ATI Radeon HD 5770 belongs to HD 5000 series, so locate the series as below, then click on Windows 10 32-bit or 64-bit (see [How to Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) )  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a73e47916.jpg)
   
  3\. Click**DOWNLOAD** button to download the driver.  
@@ -69,16 +56,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
   
 1\. Click **Scan Now**  button. Then Driver Easy will scan your computer within several seconds and provide new drivers instantly.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd8f490cd6c.png)
   
 2\. Click **Update**  **All** button. Then all new drivers including the ATI Radeon HD 5770 driver will be downloaded and installed automatically.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd900b2662f.jpg)
 
  With [Driver Easy Professional version](https://tools.techidaily.com/drivereasy/download/) , you can expect all drivers will be updated in several minutes. We offer 30-day trial period. If you are not completely satisfied with our product, you can get a full refund for any reason.
@@ -93,8 +74,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,6 +81,31 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/archive-itunes-content-with-ease-using-these-tips-for-2024/"><u>Archive iTunes Content with Ease Using These Tips for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-the-new-era-of-video-editing-with-vivacut/"><u>Decoding the New Era of Video Editing with VivaCut</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-routes-to-modernize-your-nvidia-drivers/"><u>Efficient Routes to Modernize Your Nvidia Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-windows-7-usb-wireless-pairing/"><u>Effortless Windows 7 USB-Wireless Pairing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-possibilities-with-nvidias-generative-ai-services-for-businesses/"><u>Exploring the Possibilities with NVIDIA's Generative AI Services for Businesses</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-fixes-for-windows-10-tap-interface/"><u>Fast Fixes for Windows 10 Tap Interface</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y27-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y27 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-through-with-stunning-hdr-portrait-shots/"><u>In 2024, Breaking Through with Stunning HDR Portrait Shots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-efficient-use-of-vlc-for-media-creation/"><u>In 2024, Efficient Use of VLC for Media Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-minds-of-machines-palm-2-and-gpt-4-analysis/"><u>Inside the Minds of Machines: PaLM 2 and GPT-4 Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-upgrade-lenovo-yoga-900-software/"><u>Instantly Upgrade Lenovo Yoga 900 Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-system-with-amd-for-wincrypto-performance/"><u>Streamline Your System with AMD for WinCrypto Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/systematic-approach-to-updating-win-intel-drivers/"><u>Systematic Approach to Updating Win-Intel Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-selection-must-see-4k-masterpieces-streaming-on-netflix-now/"><u>Ultimate Selection: Must-See 4K Masterpieces Streaming on Netflix Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-drivers-guide-epson-printing-solution-model-2650/"><u>Universal Drivers Guide: Epson Printing Solution Model 2650</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-web-designs-using-ai-chatgpt-guide/"><u>Unlocking Potential Web Designs Using AI: ChatGPT Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063039833-windows-10-canon-driver-get-it-now/"><u>Windows 10 Canon Driver, Get It Now!</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

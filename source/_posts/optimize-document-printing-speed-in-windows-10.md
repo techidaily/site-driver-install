@@ -1,7 +1,7 @@
 ---
 title: Optimize Document Printing Speed in Windows 10
-date: 2024-07-29T05:00:37.811Z
-updated: 2024-07-30T05:00:37.811Z
+date: 2024-10-11T18:35:04.531Z
+updated: 2024-10-12T20:01:38.822Z
 tags:
   - win11
   - win10
@@ -54,34 +54,32 @@ For some printers, you need to update the drivers manually step by step.
 
  5) In the pop-up window, you will see two options. It is recommended to select the first option**Search automatically for updated driver software** . Then follow the instructions to install the drivers. If you have driver files available on your computer, you can select the second option**Browse my computer for driver software.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
 
  1) Click**Start** menu and click**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In Settings window, click **Update & security.**
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
 
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
@@ -90,13 +88,17 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Way 3: Update your printer driver automatically**
 
  If you don’t have time, patience and computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -115,10 +117,14 @@ No advertising on the website.
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -128,8 +134,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +141,19 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-auditory-interpretation-made-easy-priceless-access/"><u>[New] 2024 Approved Auditory Interpretation Made Easy, Priceless Access</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-frequencies-fused-mac-studios-soundscapes/"><u>[New] 2024 Approved Frequencies Fused Mac Studios Soundscapes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-best-hd-hunting-recorders-reviewed/"><u>5 Best HD Hunting Recorders Reviewed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-repair-methods-for-tracer-errors-m-audio/"><u>Efficient Repair Methods for Tracer Errors (M-Audio)</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-cleanse-microsoft-pop-up-warning-of-pornographic-content/"><u>How to Cleanse Microsoft Pop-Up Warning of Pornographic Content</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-aoc-driver-release-windows-update/"><u>Latest AOC Driver Release - Windows Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/propel-your-yogas-performance-easy-access-to-new-win10-drivers/"><u>Propel Your Yoga's Performance: Easy Access to New Win10 Drivers</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/recuperacao-do-sistema-inoperavel-depois-da-atualizacao-de-celebracao-do-windows-11/"><u>Recuperação Do Sistema Inoperável Depois Da Atualização De Celebração Do Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063300324-seamless-stress-relief-track-drivers-fixed/"><u>Seamless Stress Relief: Track Drivers Fixed!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-install-new-logitech-mouse-software-for-w11-os/"><u>Swiftly Install New Logitech Mouse Software for W11 OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-samsung-gear-s/"><u>The Ultimate Guide to Samsung Gear S</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-portal-for-playstation-uncover-the-arrival-date-price-tag-hardware-details-and-buy-sites/"><u>Upcoming 'Portal' For PlayStation - Uncover the Arrival Date, Price Tag, Hardware Details & Buy Sites!</u></a></li>
+</ul></div>
 

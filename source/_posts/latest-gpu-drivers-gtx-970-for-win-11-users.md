@@ -1,7 +1,7 @@
 ---
 title: Latest GPU Drivers - GTX 970 for Win 11 Users
-date: 2024-07-29T05:01:40.053Z
-updated: 2024-07-30T05:01:40.053Z
+date: 2024-10-07T17:57:14.141Z
+updated: 2024-10-12T19:50:38.153Z
 tags:
   - win11
   - win10
@@ -34,9 +34,6 @@ Follow these steps:
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
@@ -45,17 +42,10 @@ Follow these steps:
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg)
 
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.
@@ -64,9 +54,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 Follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  1\. Press **Win+R** (Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fef72359c9c.png) key and R key) at the same time. A Run dialog box will appear.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
@@ -75,9 +62,6 @@ Follow these steps.
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
@@ -90,9 +74,6 @@ Follow these steps.
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
@@ -109,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +97,33 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-dissective-review-of-sharex-criticism-and-substitutes/"><u>[New] 2024 Approved Dissective Review of ShareX Criticism & Substitutes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-precise-speech-to-text-the-google-standard/"><u>[New] 2024 Approved Precise Speech to Text The Google Standard</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-video-calls-phone-and-pcs-finest-tools-for-2024/"><u>[New] Essential Video Calls Phone & PC's Finest Tools for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-from-scraps-to-stunning-a-photomontage-journey/"><u>[New] In 2024, From Scraps to Stunning A Photomontage Journey</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-swift-action-on-slow-footage-with-best-apps/"><u>[Updated] In 2024, Swift Action on Slow Footage with Best Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-asus-bt400-usb-drivers-and-windows-guide/"><u>Download ASUS BT400 USB Drivers & Windows Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/getting-started-officejet-pro-driver/"><u>Getting Started: Officejet Pro Driver</u></a></li>
+<li><a href="https://video-capture.techidaily.com/harvesting-hours-top-10-friendly-farm-gaming-experiences/"><u>Harvesting Hours Top 10 Friendly Farm Gaming Experiences</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-6-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 6 Plus without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-chapter-inclusion-in-youtube-videos-professional-edition-for-2024/"><u>Navigating Chapter Inclusion in YouTube Videos Professional Edition for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-realtek-drivers-with-windows-10-updates/"><u>Optimize Realtek Drivers with Windows 10 Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/patch-unsupported-installer/"><u>Patch Unsupported Installer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-driver-update-capabilities-in-win7/"><u>Rapid Driver Update Capabilities in Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/renewal-strategy-repairing-and-upgrading-wacom-drivers-on-win-platforms/"><u>Renewal Strategy: Repairing and Upgrading Wacom Drivers on WIN Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/resolution-revealed-unpacking-the-visual-impact-of-1080p-vs-1440p-vs-deciphering-display-quality-the-true-difference-between-1080p-1440p-and-4k-monitors/"><u>Resolution Revealed: Unpacking the Visual Impact of 1080P Vs. 1440P Vs. Deciphering Display Quality: The True Difference Between 1080P, 1440P & 4K Monitors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplifying-the-printer-driver-reinstall-process/"><u>Simplifying the Printer Driver Reinstall Process</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-procedure-to-modify-windows-8-drivers/"><u>Step-by-Step Procedure to Modify Windows 8 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-update-your-lenovo-g580-drivers/"><u>Swiftly Update Your Lenovo G580 Drivers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-stunning-glitch-effect-in-photoshop-for-2024/"><u>Updated How to Make Stunning Glitch Effect in Photoshop for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

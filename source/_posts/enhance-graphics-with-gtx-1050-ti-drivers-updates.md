@@ -1,7 +1,7 @@
 ---
 title: Enhance Graphics with GTX 1050 Ti Drivers Updates
-date: 2024-08-08T06:23:03.149Z
-updated: 2024-08-09T06:23:03.149Z
+date: 2024-10-05T18:34:16.567Z
+updated: 2024-10-12T19:48:07.368Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ problems, you’re not alone.
 
  And chances are, it’s time to update your driver for your**GTX 1050 Ti**  graphics card in order to smooth these problems away.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 ways to update GTX 1050 Ti driver
 
 [**Option 1 – Automatically (Recommended)**](#M1) – This is the quickest and easiest option. It’s all done with just a few mouse clicks – super easy even if you’re a computer newbie.
@@ -40,9 +37,6 @@ problems, you’re not alone.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Option 1: Update your **GTX 1050 Ti**   **driver**  automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) [.](https://tools.techidaily.com/drivereasy/download/)**
@@ -55,18 +49,27 @@ problems, you’re not alone.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594695d7c27.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update your **GTX 1050 Ti**   **driver**   manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -79,15 +82,24 @@ problems, you’re not alone.
 2. Under**Manual Driver Search** , select**GeForce** ,**GeForce 10 Series** ,**GeForce GTX 1050 Ti** accordingly. In the 4th drop-down menu, select your**variant of Windows operating system** (**Windows 10** ,**64-bit** in my case). Select your**preferred language** in the 5th drop-down menu. Then click**START SEARCH** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b06692321344.jpg)
 3. You’ll see a list of results pop up right under. Click**the first result** to make sure you download the latest driver release.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b067305a1425.jpg)
 4. Click**DOWNLOAD** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0634e809b76.jpg)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the update.
 6. Restart your computer for the changes to take effect even if you’re not asked to.
@@ -105,8 +117,6 @@ problems, you’re not alone.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,6 +124,21 @@ problems, you’re not alone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-record-sims-4-gameplay/"><u>[New] In 2024, How to Record Sims 4 Gameplay</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-playflixapp-user-feedback-synopsis/"><u>[Updated] 2024 Approved PlayFlixApp User Feedback Synopsis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-affordable-video-chat-for-android-users-for-2024/"><u>[Updated] Top 10 Affordable Video Chat for Android Users for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unraveling-friends-pixels-speed-up-searches-for-2024/"><u>[Updated] Unraveling Friends' Pixels Speed Up Searches for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/automate-and-streamline-your-amd-drivers-process/"><u>Automate and Streamline Your AMD Drivers Process</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-motorola-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Motorola FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-amd-audio-driver-for-windows/"><u>Enhanced AMD Audio Driver for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-scsi-drivers-in-a-flash/"><u>Get SCSI Drivers in a Flash</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-latest-nvidia-gtx-960-drivers/"><u>Get the Latest Nvidia GTX 960 Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/harry-potter-movie-marathon-how-to-watch-them-in-their-official-release-order/"><u>Harry Potter Movie Marathon: How to Watch Them in Their Official Release Order</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-maximizing-facebook-favorites-perfecting-square-video-crafting/"><u>In 2024, Maximizing Facebook Favorites Perfecting Square Video Crafting</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-definitive-guide-to-hyperx-soundcard-driver-improvements/"><u>The Definitive Guide to HyperX Soundcard Driver Improvements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-guide-to-the-hal-initialization-stop-error-0x0000005c/"><u>The Ultimate Fix Guide to the HAL Initialization Stop Error (0X0000005C)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-drivers-for-your-hp-officejet-pro-8620-in-windows-os/"><u>Upgraded Drivers for Your HP OfficeJet Pro 8620 in Windows OS</u></a></li>
+</ul></div>
 

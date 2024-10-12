@@ -1,7 +1,7 @@
 ---
 title: "Hassle-Free Driver Guide: Get Canon Scanner Access"
-date: 2024-08-08T06:20:50.454Z
-updated: 2024-08-09T06:20:50.454Z
+date: 2024-10-06T17:15:42.721Z
+updated: 2024-10-12T17:44:56.290Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 
  Note: the screenshots below come from Windows 10, and the methods also work on Windows 11, 8 ,and 7.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Download Canon scanner driver manually
 
  You can manually download the driver for your Canon scanner from the Canon support center.
@@ -41,27 +38,36 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 
 1. Go to **[Canon Support](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers)**  .
 2. Search for your scanner model from the search bar. (In my case I search for **CanoScan** LiDE 120.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search.jpg)
 3. On your scanner result page, click**Software & Drivers**  .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-1.jpg)
 4. Select the OS and version that match with your computer. Then click**DOWNLOAD** there is a driver available for you to download.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-2.jpg)
 5. Install the driver on your computer.
 
  This requires time or computer skills. If you don’t have time or patience, you can try the solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Update Canon scanner driver automatically
 
  If you don’t have time or patience to manually download and install the Canon scanner driver in your computer, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -75,13 +81,17 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/canon-scan.png)
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Update Canon scanner driver via Device Manager
 
@@ -90,12 +100,16 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 1. Make sure you’ve connected your Canon scanner to your Windows computer.
 2. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 3. Type**devmgmt.msc** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 4. In Device Manager, double-click**Printers** or**Print queues** to expand it.  Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 5. Choose**Search automatically for updated driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
@@ -114,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,6 +135,26 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-camera-to-chrome-youtube-shorts-video-upload-guide/"><u>[New] In 2024, From Camera to Chrome YouTube Shorts Video Upload Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-techniques-to-halt-video-ad-interruptions-on-social-media-for-2024/"><u>[Updated] Techniques to Halt Video Ad Interruptions on Social Media for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-lightroom-guide-blending-high-dynamic-range-magic/"><u>2024 Approved Lightroom Guide Blending High Dynamic Range Magic</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-digital-dividend-understanding-the-calculus-of-converting-viewership-into-revenue/"><u>2024 Approved The Digital Dividend Understanding the Calculus of Converting Viewership Into Revenue</u></a></li>
+<li><a href="https://win-able.techidaily.com/crusader-kings-2-not-loading-properly-heres-what-to-do/"><u>Crusader Kings 2 Not Loading Properly? Here's What To Do!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-addressing-the-error-of-a-missing-msstdfmtdll-component/"><u>Essential Tips for Addressing the Error of a Missing Msstdfmt.dll Component</u></a></li>
+<li><a href="https://driver-install.techidaily.com/execute-windows-compatible-driver-release/"><u>Execute Windows Compatible Driver Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fwu-update-1659aoc-for-windows-os/"><u>FWU-Update 1659AOC for Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/geforce-driver-improvement-for-gtx-1060/"><u>GeForce Driver Improvement for GTX 1060</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-redmi-k70-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi Redmi K70</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-your-radeon-x-drivers/"><u>How to Update Your Radeon X Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a2-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo A2?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/initiate-surface-with-new-marvell-avstar-networking/"><u>Initiate Surface with New Marvell AVSTAR Networking</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-networking-with-avstar-lan-adapter-on-surface-go/"><u>Setup Networking with AVSTAR LAN Adapter on Surface Go</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-system-with-instant-drivers/"><u>Streamline Your System with Instant Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-to-3dconnexion-driver-setup/"><u>The Ultimate Guide to 3Dconnexion Driver Setup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-the-mechanisms-of-youtubes-cc-license-for-2024/"><u>Understanding the Mechanisms of YouTube's CC License for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-foldable-iphone-unveiling-the-latest-rumors-on-pricing-release-timeline-and-features/"><u>Upcoming Foldable iPhone - Unveiling the Latest Rumors on Pricing, Release Timeline & Features</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-intel-82579lm-device-on-a-windows-system/"><u>Update Your Intel 82579LM Device on a Windows System</u></a></li>
+</ul></div>
 

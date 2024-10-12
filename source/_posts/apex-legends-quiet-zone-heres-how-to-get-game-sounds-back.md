@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Quiet Zone? Here's How to Get Game Sounds Back!
-date: 2024-10-05T22:24:49.228Z
-updated: 2024-10-06T20:18:26.923Z
+date: 2024-10-07T17:38:15.683Z
+updated: 2024-10-12T18:31:24.377Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
@@ -48,13 +55,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
@@ -102,13 +102,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -122,15 +115,28 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -143,10 +149,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
@@ -177,24 +183,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-simplified-cross-platform-listening-top-5-playlist-conversion-resources/"><u>[New] In 2024, Simplified Cross-Platform Listening Top 5 Playlist Conversion Resources</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-digital-content-incorporation-for-todays-educator/"><u>[Updated] 2024 Approved Digital Content Incorporation For Today's Educator</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-sync-up-success-sharing-youtube-on-ig-stories/"><u>[Updated] In 2024, Sync Up Success Sharing YouTube on IG Stories</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-quick-tips-extracting-and-keeping-gif-tweets-for-2024/"><u>[Updated] Quick Tips Extracting and Keeping GIF Tweets for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-12-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi 12</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-well-does-chatgpt-master-the-art-of-cocktail-making/"><u>How Well Does ChatGPT Master the Art of Cocktail Making?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtube-success-with-the-right-networking-choice/"><u>In 2024, Unlocking YouTube Success with the Right Networking Choice</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-new-drivers-on-windows-vista-manually/"><u>Installing New Drivers on Windows Vista Manually</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intel-82579lm-boosting-speed-with-fresh-drivers-in-windows/"><u>Intel 82579LM: Boosting Speed with Fresh Drivers in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-the-technicality-of-hardware-drivers-addition/"><u>Mastering the Technicality of Hardware Drivers Addition</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-how-to-edit-videos-in-windows-live-movie-maker-lately-windows-movie-maker/"><u>New In 2024, How to Edit Videos in Windows Live Movie Maker Lately Windows Movie Maker</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-quadro-rtx-6000-firmware-download/"><u>NVIDIA Quadro RTX 6000 - Firmware Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-acer-display-with-advanced-driver-software-win11/"><u>Optimize Acer Display with Advanced Driver Software, Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-deployment-pro-6-drivers-updates/"><u>Quick Deployment: Pro 6 Drivers Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fixes-huion-h420-and-windows-driver-pairing/"><u>Quick Fixes: Huion H420 & Windows Driver Pairing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-scsi-drive-setup-guide/"><u>Quick SCSI Drive Setup Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-update-guide-logitech-earbuds-software/"><u>Quick-Update Guide: Logitech Earbuds Software</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/simple-steps-recording-videos-with-your-chromebook-made-simple/"><u>Simple Steps: Recording Videos with Your Chromebook Made Simple</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-overcoming-compatibility-issues-between-samsung-printers-and-windows-drivers/"><u>Step-by-Step Guide: Overcoming Compatibility Issues Between Samsung Printers & Windows Drivers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-monetizing-youtube-shorts-crucial-requirements-and-potential-income/"><u>[New] 2024 Approved Monetizing Youtube Shorts Crucial Requirements and Potential Income</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-dive-into-fun-snapchats-world-of-cartoon-lenses-for-2024/"><u>[New] Dive Into Fun Snapchat's World of Cartoon Lenses for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-youtube-video-reaction-ideas-for-2024/"><u>[Updated] Best YouTube Video Reaction Ideas for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-pinnacle-platforms-alternatives-to-the-oldest-birdcalls/"><u>[Updated] In 2024, Pinnacle Platforms Alternatives to the Oldest Birdcalls</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screencast-savvy-a-comprehensive-examination-of-techniques-and-tools-for-2024/"><u>[Updated] Screencast Savvy A Comprehensive Examination of Techniques & Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-video-magic-best-tools-for-effortless-webm-conversion/"><u>2024 Approved YouTube Video Magic Best Tools for Effortless WebM Conversion</u></a></li>
+<li><a href="https://driver-install.techidaily.com/adjust-installation-to-processor/"><u>Adjust Installation to Processor</u></a></li>
+<li><a href="https://driver-install.techidaily.com/cutting-edge-tech-windows-11-and-acer-updates/"><u>Cutting-Edge Tech: Windows 11 & Acer Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevating-display-performance-on-windows-11-hdmi-update-guide/"><u>Elevating Display Performance on Windows 11, HDMI Update Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/implement-nvidia-driver-enhancements-in-your-win11-audio-setup/"><u>Implement NVIDIA Driver Enhancements in Your Win11 Audio Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063451244-make-universal-adb-download-a-breeze-today/"><u>Make Universal ADB Download a Breeze Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-pitch-in-words-crafting-captivating-podcast-episodes-for-2024/"><u>Perfect Pitch in Words Crafting Captivating Podcast Episodes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/start-screen-special-free-editing-tools-for-2024/"><u>Start Screen Special Free Editing Tools for 2024</u></a></li>
 </ul></div>
 

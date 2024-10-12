@@ -1,7 +1,7 @@
 ---
 title: "Optimize RTL8723D Drivers: Better Wi-Fi on Windows 11 OS"
-date: 2024-07-29T05:00:10.075Z
-updated: 2024-07-30T05:00:10.075Z
+date: 2024-10-06T16:49:33.203Z
+updated: 2024-10-12T19:21:18.779Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 
  Go to [Device Manager](https://tools.techidaily.com/drivereasy/download/) and expand**Network adapters** . You’ll see Realtek PCIe GbE Family Controller under this category (see the below screenshot).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd01d7cc69b6.jpg)
 
 ---
@@ -47,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd022406e025.jpg)
 
  3) Click the **Update** button next to the Realtek PCIe GbE driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -62,9 +56,6 @@ _Realtek PCIe GBE Familly Controller_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2: Use Windows Update
 
  You can use [Windows Update](https://tools.techidaily.com/drivereasy/download/) to check for the updates in Windows 10\. It may help install the driver for your Realtek PCIe GbE Family Controller. If this feature in your Window 10 has been set to install updates automatically, you can skip this way.
@@ -72,6 +63,13 @@ _Realtek PCIe GBE Familly Controller_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0236547c83.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3\. Update the Driver Manually
 
@@ -85,25 +83,29 @@ _Realtek PCIe GBE Familly Controller_
 
  2) Type **devmgmt.msc** in the run box and click **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0234c3a594.png)
 
  3) In Device Manager, expand category **Network adapters** . Under this category, right-click on the**Realtek PCIe GbE Family Controller** . Then click**Update Driver Software…**
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023a099bb2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click **Browse my Computer for driver software.**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023ca8557c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
@@ -112,6 +114,13 @@ _Realtek PCIe GBE Familly Controller_
  6) Click on   **Next** button to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0244b633c8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Check to see if the driver is installed successfully.
 
@@ -123,8 +132,6 @@ _Realtek PCIe GBE Familly Controller_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +139,19 @@ _Realtek PCIe GBE Familly Controller_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-picks-iphone-solutions-for-effective-image-watermarks/"><u>[Updated] In 2024, Top Picks IPhone Solutions for Effective Image Watermarks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day/"><u>[Updated] In 2024, Ultimate Collection 20 Chuckle-Inducing Detention Cell Photos for a Better Day</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-functionality-latest-drivers-for-dell-computers/"><u>Boost Functionality: Latest Drivers for Dell Computers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-install-asus-firmware-on-windows-os/"><u>Efficiently Install ASUS Firmware on Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-lenovo-yoga-embrace-the-power-of-updated-win10-drivers/"><u>Enhance Lenovo Yoga - Embrace the Power of Updated Win10 Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/first-rate-text-animation-setups/"><u>First-Rate Text Animation Setups</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-mix-fold-3-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi Mix Fold 3 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oneplus-ace-3-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide OnePlus Ace 3 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-nvidia-970-drivers-compatible-with-w11/"><u>New Nvidia 970 Drivers Compatible with W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-uart-usb-interface-conflict/"><u>Resolve UART-USB Interface Conflict</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-monetization-carryminati-ajey-nagar-youtube-income-2023-for-2024/"><u>YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income 2023 for 2024</u></a></li>
+</ul></div>
 

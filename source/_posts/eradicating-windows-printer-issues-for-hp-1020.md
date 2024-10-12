@@ -1,7 +1,7 @@
 ---
 title: Eradicating Window's Printer Issues for HP 1020
-date: 2024-08-08T06:24:26.068Z
-updated: 2024-08-09T06:24:26.068Z
+date: 2024-10-11T20:19:15.322Z
+updated: 2024-10-12T16:53:09.107Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 2. [Update the printer driver in Device Manager](#Fix2)
 3. [Update the printer driver automatically](#Fix3)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Update the printer driver manually
 
 Time needed:  3 minutes.
@@ -46,8 +43,12 @@ Time needed:  3 minutes.
  Run the downloaded file, and follow the wizard to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Update the printer driver in Device Manager
 
  You can also update your printer driver using the Windows built-in solution – Device Manager.
@@ -59,31 +60,34 @@ Time needed:  3 minutes.
 1. Make sure you’ve connected your HP printer to your Windows computer.
 2. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
 3. Type**devmgmt.msc** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Method 3: Update the printer driver automatically (Recommended)
 
  Manually installing the HP Laserjet 1020 printer driver requires time and computer skills. If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -94,13 +98,18 @@ After updating, restart your computer.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. After updating, restart your computer to take effect.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -120,8 +129,6 @@ This is a rather easy method, isn’t it?!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,6 +136,26 @@ This is a rather easy method, isn’t it?!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-enhance-videos-naturally-free-9-youtube-thumbnail-crafting-tips-for-2024/"><u>[Updated] Enhance Videos Naturally - Free 9 YouTube Thumbnail Crafting Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beyond-youtube-elite-video-sharing-hubs-revealed/"><u>[Updated] In 2024, Beyond YouTube Elite Video Sharing Hubs Revealed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-y470-drivers-lenovo-win7-edition/"><u>Essential Y470 Drivers - Lenovo Win7 Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/exceptional-amd-audio-drivers-win/"><u>Exceptional AMD Audio Drivers (Win)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expedited-driver-changes-for-winos/"><u>Expedited Driver Changes for WINOS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-enhancement-for-iris-x120-drive/"><u>Fast Enhancement for Iris X120 Drive</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-760-upgrades-now-simpler-than-ever/"><u>GTX 760 Upgrades Now Simpler Than Ever</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-90-pro-phone-by-drfone-android/"><u>How to Reset a Locked Honor 90 Pro Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-no-pay-maximum-fun-20-custom-lut-sets-for-dji-miniair-users/"><u>In 2024, No Pay, Maximum Fun 20 Custom LUT Sets for DJI Mini/Air Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/la-maison-de-la-semaine-francaise/"><u>La Maison De La Semaine Française</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-fb-video-downloads-on-linux-and-macos-for-2024/"><u>Mastering FB Video Downloads on Linux & macOS for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/operational-constraints/"><u>Operational Constraints</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinvigorate-windows-710-introducing-driver-update-e1659/"><u>Reinvigorate Windows 7/10: Introducing Driver Update E1659</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-fluctuating-screens-uncover-these-7-remedies-for-your-flickering-smartphone-display/"><u>Say Goodbye to Fluctuating Screens: Uncover These 7 Remedies for Your Flickering Smartphone Display</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-note-12-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi Note 12 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal-for-2024/"><u>Unleash Creative Potential with a Comprehensive Guide to PS Background Removal for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-sound-on-dell-devices-with-realtek/"><u>Updating Sound on Dell Devices with Realtek</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-mastery-streamlining-drivers-throughout-windows-generations/"><u>USBasp Mastery: Streamlining Drivers Throughout Windows Generations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y27 4G | Dr.fone</u></a></li>
+</ul></div>
 

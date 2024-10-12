@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Gaming Experience - Install GTX 970 Driver
-date: 2024-08-08T06:24:32.076Z
-updated: 2024-08-09T06:24:32.076Z
+date: 2024-10-06T18:37:55.986Z
+updated: 2024-10-12T18:08:05.787Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ Follow these steps:
 
  2\. Type “nvidia 970 drivers” in the search box and press**Enter** . Verify the correct result from the top of the result list. Usually, the first result will be the right one. Click on it then you will go to the product page.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a280114d84c.jpg)
 
  3\. Go to**Drivers** section.
@@ -41,9 +38,6 @@ Follow these steps:
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
@@ -52,9 +46,6 @@ Follow these steps:
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg)
 
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.
@@ -67,16 +58,10 @@ Follow these steps.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
@@ -89,9 +74,6 @@ Follow these steps.
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
@@ -108,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,6 +97,31 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-aesir-rebellion-skies-of-valhalla-for-2024/"><u>[New] Aesir Rebellion Skies of Valhalla for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-expert-techniques-for-deciphering-meaning-in-youtube-snippets-for-2024/"><u>[New] Expert Techniques for Deciphering Meaning in YouTube Snippets for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unveiling-simplicity-in-ipad-screen-saving-tactics/"><u>[New] Unveiling Simplicity in iPad Screen Saving Tactics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-guide-shutting-down-igtv/"><u>[Updated] Guide Shutting Down IGTV</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-seamless-audio-transfer-youtube-videos-)-mp3-macos-2023-for-2024/"><u>[Updated] Seamless Audio Transfer YouTube Videos > MP3, MacOS 2023 for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/address-print-device-configuration-issues-in-win10/"><u>Address Print Device Configuration Issues in WIN10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-system-with-amd-chain-drivers-windows-edition/"><u>Boost Your System with AMD Chain Drivers, Windows Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-steps-in-using-google-photos-effectively/"><u>Essential Steps in Using Google Photos Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-hp-deskjet-driver-conflicts-win-10/"><u>Fixing HP Deskjet Driver Conflicts Win 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-mx870-driver-for-windows-os-versions/"><u>Install MX870 Driver for Windows OS Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-graphics-potential-with-new-amd-rx-570-release/"><u>Maximize Graphics Potential with New AMD RX 570 Release</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-infinix-hot-30i-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Infinix Hot 30i.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062735039-quickly-connect-windows-7-to-wi-fi/"><u>Quickly Connect Windows 7 to Wi-Fi!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-wireless-network-adapter-support-in-windows-11-updates/"><u>Refresh Wireless Network Adapter Support in Windows 11 Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solutions-for-drivers-that-wont-work-on-windows/"><u>Solutions for Drivers That Won't Work on Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sony-a6400-why-is-my-video-playback-failed-for-2024/"><u>Sony A6400 Why Is My Video Playback Failed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/stream-assist-unleashed-a-game-developers-dream/"><u>Stream Assist Unleashed: A Game Developer's Dream?</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

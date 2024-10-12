@@ -1,7 +1,7 @@
 ---
 title: Enhance Graphics with Windows RTX 3090 Drivers
-date: 2024-08-08T06:24:07.696Z
-updated: 2024-08-09T06:24:07.696Z
+date: 2024-10-06T16:52:38.595Z
+updated: 2024-10-12T18:48:45.534Z
 tags:
   - win11
   - win10
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
  2.**[Automatic driver update](#option2)** – The best choice for computer newbies or users who don’t want to spend time searching for verified and correct drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 1 – Download and install the driver manually
 
  The hardware manufacturer website is where you could always find the latest device drivers. To check for the 3090 Ti driver update from NVIDIA, follow the steps:
@@ -33,22 +30,20 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 2. Choose**GeForce RTX 3090 Ti** from the Product list and select your operating system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-1.jpg)
 3. Choose which type of driver you would like to download. Gamers are suggested to choose**Game Ready Drivers** that provides support for the latest games, patches, and DLCs. And**Studio Drivers** fit content creators that prioritize stability and quality for creative workflows.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-2.jpg)
 4. Click**SEARCH** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-3.jpg)
 5. Click**DOWNLOAD** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-4.jpg)
 
  Once you’ve downloaded the correct drivers for your system, double-click the file and follow the on-screen instructions to install the driver. If you don’t feel like doing the manual search and installation, there’s a more hassle-free solution.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the RTX 3090 Ti driver
 
@@ -60,17 +55,25 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 3. Click the**Update** button next to the flagged RTX 3090 Ti driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
- Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-update-rtx-3090-ti-driver-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -91,8 +94,6 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,6 +101,20 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-maximize-youtube-presence-11-must-know-seo-strategies-for-success/"><u>[New] 2024 Approved Maximize YouTube Presence 11 Must-Know SEO Strategies for Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-sharex-examined-evaluations-and-alternatives/"><u>[New] 2024 Approved ShareX Examined Evaluations & Alternatives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-video-integration-into-blog-posts-and-essays-for-2024/"><u>[Updated] Effortless Video Integration Into Blog Posts & Essays for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-windows-11s-default-read-only-settings/"><u>Combatting Windows 11'S Default Read-Only Settings</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-audio-quality-with-updated-scarlett-drivers/"><u>Enhancing Audio Quality with Updated Scarlett Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-pc-sound-with-new-nvidia-drivers-for-windows-11/"><u>Enhancing PC Sound with New NVIDIA Drivers for Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-and-tricks-sending-images-videos-and-more-from-mac-to-tv-via-airplay-connectivity/"><u>Expert Tips and Tricks: Sending Images, Videos & More From Mac to TV via AirPlay Connectivity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-hp-envy-laptop-driver-with-win10-system/"><u>Harmonize HP Envy Laptop Driver with Win10 System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/identifying-and-solving-driver-failure-in-windows-os/"><u>Identifying and Solving Driver Failure in Windows OS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c32-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C32 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-fortnite-loading-errors-easy-methods-for-a-smooth-startup/"><u>No More Fortnite Loading Errors: Easy Methods for a Smooth Startup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-win1011-with-mtk-usb-driver-support/"><u>Upgrade WIN10/11 with MTK USB Driver Support</u></a></li>
+</ul></div>
 

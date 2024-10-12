@@ -1,7 +1,7 @@
 ---
 title: "Triumph Over Troubles: Fixed HP 1020 in Win OS"
-date: 2024-09-30T22:03:10.966Z
-updated: 2024-10-06T23:52:06.914Z
+date: 2024-10-11T18:45:38.375Z
+updated: 2024-10-12T20:44:43.198Z
 tags:
   - win11
   - win10
@@ -36,18 +36,18 @@ Time needed:  3 minutes.
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run the downloaded file, and follow the wizard to finish.
 
@@ -65,27 +65,14 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
@@ -99,10 +86,10 @@ After updating, restart your computer.
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
@@ -117,6 +104,13 @@ After updating, restart your computer.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -149,24 +143,14 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-secure-song-transfers-to-youtube-channel/"><u>[New] Secure Song Transfers to Youtube Channel</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-voicemail-recorder-on-iphone-2024/"><u>[New] Voicemail Recorder on iPhone 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-exploration-of-yis-4k-hero-series/"><u>[Updated] 2024 Approved The Ultimate Exploration of Yi’s 4K HERO Series</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-best-global-music-stream-service-for-2024/"><u>[Updated] Best Global Music Stream Service for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-snug-winter-atmospheres-for-engaging-online-content/"><u>2024 Approved Crafting Snug Winter Atmospheres for Engaging Online Content</u></a></li>
-<li><a href="https://driver-install.techidaily.com/compreehensive-breakdown-clean-installation-for-graphics-drivers/"><u>Compreehensive Breakdown: Clean Installation for Graphics Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-visual-clarity-new-hp-graphics-for-windows/"><u>Drive Visual Clarity - New HP Graphics for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-your-display-to-new-heights-win-edition/"><u>Drive Your Display to New Heights - Win Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-installation-intelligent-hd-520/"><u>Easy Installation: Intelligent HD 520</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiency-upgrade-drivers-v1659aoc/"><u>Efficiency Upgrade: Drivers V1659AOC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-setup-installing-the-hd-logitech-webcam-driver-for-pcs/"><u>Efficient Setup: Installing the HD Logitech Webcam Driver for PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-audio-quality-through-win7-driver-updates/"><u>Enhance Audio Quality Through Win7 Driver Updates</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/enhance-your-content-creating-engaging-loop-videos-for-ig/"><u>Enhance Your Content Creating Engaging Loop Videos for IG</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-idea-to-internet-fame-becoming-a-vtuber-for-2024/"><u>From Idea to Internet Fame Becoming a VTuber for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-5-unleashed-what-were-hoping-to-see-in-its-new-features/"><u>GPT-5 Unleashed: What We’re Hoping to See in Its New Features</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-to-handcrafted-driver-adjustments-for-xp-machines/"><u>Guide to Handcrafted Driver Adjustments for XP Machines</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-p1102w-printer-driver-for-windows-users/"><u>HP P1102w Printer Driver for Windows Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-capturing-clarity-a-guide-to-high-res-videos-on-the-web/"><u>In 2024, Capturing Clarity A Guide to High-Res Videos on the Web</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-masterful-color-grading-explore-these-7-methods/"><u>In 2024, Masterful Color Grading Explore These 7 Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-11-tools-for-enthusiasts-to-rip-and-save-videos/"><u>[New] In 2024, Top 11 Tools for Enthusiasts to Rip and Save Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-from-novice-to-pro-creating-snapchat-boomers/"><u>[Updated] 2024 Approved From Novice to Pro Creating Snapchat Boomers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-extensions-catalog-ae-edition/"><u>2024 Approved Premium Extensions Catalog AE Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/better-graphics-just-install-gtx-1050-ti-drivers/"><u>Better Graphics, Just Install GTX 1050 Ti Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enrich-your-yoga-900-fast-driver-revamp/"><u>Enrich Your Yoga 900: Fast Driver Revamp</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gaomon-s620-free-download-and-easy-setup/"><u>Gaomon S620: Free Download & Easy Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/immediate-remedy-tracer-track-fails-m-audio/"><u>Immediate Remedy: Tracer Track Fails (M-Audio)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-fb-slideshows-for-content-sharing-for-2024/"><u>Mastering FB Slideshows for Content Sharing for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-firefoxs-picture-in-picture-capabilities/"><u>Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
 </ul></div>
 

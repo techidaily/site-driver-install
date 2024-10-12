@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-10-04T16:06:28.551Z
-updated: 2024-10-07T00:09:34.598Z
+date: 2024-10-06T20:40:53.048Z
+updated: 2024-10-12T17:10:06.796Z
 tags:
   - desktop
 categories:
@@ -56,28 +56,27 @@ Today we have one great deal that turns into two when you take up a bundle offer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-ig-boomerangs-crafting-compelling-circular-content/"><u>[New] 2024 Approved IG Boomerangs Crafting Compelling Circular Content</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolved-conexant-hd-audio-compatibility-with-win10/"><u>[Resolved]: Conexant HD Audio Compatibility with Win10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-capture-the-crash-top-surf-cameras-of-2023/"><u>[Updated] Capture the Crash Top Surf Cameras of 2023</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-beat-the-purchase-free-fb-playlists-download/"><u>[Updated] In 2024, Beat the Purchase Free FB Playlists Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/comprehensive-win-os-guide-ie-driver-deployment/"><u>Comprehensive Win OS Guide: IE Driver Deployment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diving-deep-with-toms-hardware-unveiling-cutting-edge-technology-today/"><u>Diving Deep with Tom's Hardware - Unveiling Cutting-Edge Technology Today!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-drivers-in-windows-10-81-7-quickly-and-easily/"><u>How to Update Drivers in Windows 10, 8.1, 7. Quickly & Easily!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-websites-for-digital-gold-and-silver-text-effects/"><u>In 2024, Best Websites for Digital Gold and Silver Text Effects</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cutting-edge-splitcams-rated-or-not/"><u>In 2024, Cutting-Edge SplitCams Rated or Not?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-c33-2023-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme C33 2023 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/keeping-it-current-how-to-efficiently-install-intel-82579lm-drivers/"><u>Keeping It Current: How to Efficiently Install Intel 82579LM Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstall-audio-driver-to-fix-sound-problems-on-windows-11/"><u>Reinstall Audio Driver to Fix Sound Problems on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/remedy-windows-11-hp-deskjet-printing-errors/"><u>Remedy Windows 11 HP Deskjet Printing Errors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-system-updates-wintel-hd520/"><u>Simplify System Updates W/Intel HD520</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uninstalling-the-microsoft-copilot-feature-in-windows-1ebf32091b6a/"><u>Uninstalling the Microsoft Copilot Feature in Windows 1Ebf32091b6a</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-forge-business-identity-no-cost-customizable-logo-templates-available/"><u>[New] 2024 Approved Forge Business Identity No-Cost Customizable Logo Templates Available</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship/"><u>[Updated] 2024 Approved From Content Creator to Brand Ambassador Unlocking Instagram Sponsorship</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-started-on-youtube-broadcasts-using-obs-for-2024/"><u>[Updated] Getting Started on YouTube Broadcasts Using OBS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-peak-performances-in-oly-x-cross-2022/"><u>[Updated] Peak Performances in Oly X-Cross 2022</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-upgrade-gtx-750-ti-latest-driver/"><u>Instant Upgrade: GTX 750 Ti Latest Driver</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kooteks-laptop-cooling-pad-assessment-a-comprehensive-look-at-this-high-performance-option/"><u>Kootek's Laptop Cooling Pad Assessment: A Comprehensive Look at This High-Performance Option</u></a></li>
+<li><a href="https://driver-install.techidaily.com/managing-inconsistencies-during-windows-driver-deployment/"><u>Managing Inconsistencies During Windows Driver Deployment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/paving-the-way-for-accurate-ai-replies-implementing-6-proactive-techniques/"><u>Paving the Way for Accurate AI Replies: Implementing 6 Proactive Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/plunge-into-the-magic-9-premium-full-length-christmas-movies-for-free-for-2024/"><u>Plunge Into the Magic 9 Premium Full-Length Christmas Movies for Free for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-logitech-audio-connection-updates/"><u>Quick-Fix Logitech Audio Connection Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-installing-new-drivers-for-hp-officejet-pro-8620/"><u>Step-by-Step: Installing New Drivers for HP OfficeJet Pro 8620</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackle-drivers-causing-print-queue-build-up-in-win10/"><u>Tackle Drivers Causing Print Queue Build-Up in Win10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackle-pixelmaker-print-errors-on-win11/"><u>Tackle PixelMaker Print Errors on Win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-xiaomi-redmi-note-12r-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Xiaomi Redmi Note 12R FRP Bypass</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-of-both-worlds-lumafusion-for-mac-and-its-alternatives/"><u>Updated In 2024, The Best of Both Worlds Lumafusion for Mac and Its Alternatives</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

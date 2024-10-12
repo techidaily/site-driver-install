@@ -1,7 +1,7 @@
 ---
 title: Reviving USB Connectivity on Vintage OS Versions
-date: 2024-10-05T02:40:37.493Z
-updated: 2024-10-06T16:56:54.485Z
+date: 2024-10-11T20:43:02.865Z
+updated: 2024-10-12T16:53:18.541Z
 tags:
   - win11
   - win10
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1 – Reinstall the drivers using Device Manager
@@ -40,25 +40,25 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
@@ -76,15 +76,15 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -109,15 +109,24 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-detailed-walkthrough-implementing-microsoft-azure-speech-services/"><u>2024 Approved Detailed Walkthrough Implementing Microsoft Azure Speech Services</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comparing-giants-a-detailed-look-at-outlook-and-gmail-services/"><u>Comparing Giants: A Detailed Look at Outlook and Gmail Services</u></a></li>
-<li><a href="https://driver-install.techidaily.com/driver-upgrade-hp-officejet-pro/"><u>Driver Upgrade: HP Officejet Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-play-dvds-on-windows-11/"><u>How to Play DVDs on Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-game-aids-vrs-top-picks/"><u>Innovative Game Aids VR's Top Picks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-fix-eliminating-tracer-errors-m-audio/"><u>Instant Fix: Eliminating Tracer Errors (M-Audio)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-bluetooth-proxy-setup-for-w7/"><u>Smooth Bluetooth Proxy Setup for W7</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-m6-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Poco M6 5G Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-hp-graphics-via-win11-settings/"><u>Upgrade Your HP Graphics via Win11 Settings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlock-high-viewership-selecting-the-best-trackers-for-your-videos-for-2024/"><u>[New] Unlock High Viewership Selecting the Best Trackers for Your Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-advanced-tips-for-crafting-vhs-images-on-computers/"><u>[Updated] 2024 Approved Advanced Tips for Crafting VHS Images on Computers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-revamp-your-workflow-with-top-watermarkers/"><u>[Updated] Revamp Your Workflow with Top Watermarkers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-this-years-most-engaging-storytelling-youtubers/"><u>[Updated] Unveiling This Year's Most Engaging Storytelling YouTubers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-finest-affordable-webm-players-on-market/"><u>2024 Approved Unveiling the Finest Affordable WebM Players on Market</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-12-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 12 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://driver-install.techidaily.com/acquire-lenovo-yoga-900s-drivers-for-windows-10-compatibility/"><u>Acquire Lenovo Yoga 900S Drivers for Windows 10 Compatibility</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-wireless-experience-update-atheros-drivers-for-windows-10/"><u>Enhance Your Wireless Experience: Update Atheros Drivers for Windows 10</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/flash-moment-of-fame-analysis/"><u>Flash Moment of Fame Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-netgear-ac1200-wi-fi-usb-pcie/"><u>Install NETGEAR AC1200 Wi-Fi USB PCIe</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/le-ottime-iniziative-di-ia-per-la-modifica-e-il-potenziamento-dei-video-raccomandazioni-top-6/"><u>Le Ottime Iniziative Di IA per La Modifica E Il Potenziamento Dei Video: Raccomandazioni Top 6</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-metaverse-advertising-techniques-for-2024/"><u>Mastering Metaverse Advertising Techniques for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-printer-driver-restoration-in-win10117/"><u>Mastering Printer Driver Restoration in WIN10/11/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-paper-jam-response-time-on-win10-devices/"><u>Rectify Paper Jam Response Time on WIN10 Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/restore-win11-sound-reinstall-audio-software/"><u>Restore Win11 Sound: Reinstall Audio Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-procedure-mf4770n-in-win-11-8-and-7/"><u>Update Procedure: MF4770n in Win 11, 8 & 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-msi-bios-on-various-windows-editions/"><u>Updating MSI BIOS on Various Windows Editions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-graphics-makeover-quick-and-easy/"><u>Windows Graphics Makeover: Quick and Easy</u></a></li>
 </ul></div>
 
