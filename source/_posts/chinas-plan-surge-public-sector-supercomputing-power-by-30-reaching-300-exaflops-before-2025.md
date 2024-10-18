@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-10-06T20:40:53.048Z
-updated: 2024-10-12T17:10:06.796Z
+date: 2024-10-11T18:36:31.606Z
+updated: 2024-10-18T17:48:06.103Z
 tags:
   - desktop
 categories:
@@ -56,27 +56,24 @@ Today we have one great deal that turns into two when you take up a bundle offer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-forge-business-identity-no-cost-customizable-logo-templates-available/"><u>[New] 2024 Approved Forge Business Identity No-Cost Customizable Logo Templates Available</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship/"><u>[Updated] 2024 Approved From Content Creator to Brand Ambassador Unlocking Instagram Sponsorship</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-getting-started-on-youtube-broadcasts-using-obs-for-2024/"><u>[Updated] Getting Started on YouTube Broadcasts Using OBS for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-peak-performances-in-oly-x-cross-2022/"><u>[Updated] Peak Performances in Oly X-Cross 2022</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-upgrade-gtx-750-ti-latest-driver/"><u>Instant Upgrade: GTX 750 Ti Latest Driver</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/kooteks-laptop-cooling-pad-assessment-a-comprehensive-look-at-this-high-performance-option/"><u>Kootek's Laptop Cooling Pad Assessment: A Comprehensive Look at This High-Performance Option</u></a></li>
-<li><a href="https://driver-install.techidaily.com/managing-inconsistencies-during-windows-driver-deployment/"><u>Managing Inconsistencies During Windows Driver Deployment</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/paving-the-way-for-accurate-ai-replies-implementing-6-proactive-techniques/"><u>Paving the Way for Accurate AI Replies: Implementing 6 Proactive Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/plunge-into-the-magic-9-premium-full-length-christmas-movies-for-free-for-2024/"><u>Plunge Into the Magic 9 Premium Full-Length Christmas Movies for Free for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fix-logitech-audio-connection-updates/"><u>Quick-Fix Logitech Audio Connection Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-installing-new-drivers-for-hp-officejet-pro-8620/"><u>Step-by-Step: Installing New Drivers for HP OfficeJet Pro 8620</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackle-drivers-causing-print-queue-build-up-in-win10/"><u>Tackle Drivers Causing Print Queue Build-Up in Win10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackle-pixelmaker-print-errors-on-win11/"><u>Tackle PixelMaker Print Errors on Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-xiaomi-redmi-note-12r-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Xiaomi Redmi Note 12R FRP Bypass</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-of-both-worlds-lumafusion-for-mac-and-its-alternatives/"><u>Updated In 2024, The Best of Both Worlds Lumafusion for Mac and Its Alternatives</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-motion-effects-in-ai-enhancing-photoshop-images/"><u>[New] Mastering Motion Effects in AI Enhancing Photoshop Images</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cambiar-archivo-tga-a-formato-de-linea-gratuito-con-movavi/"><u>Cambiar Archivo TGA a Formato De Línea Gratuito Con Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-new-os-on-xerox-model-c6515/"><u>Install New OS on Xerox Model C6515</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-conjuncts-with-pearson-academic-fusion/"><u>Mondly Conjuncts With Pearson Academic Fusion</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quickly-upgrade-to-latest-lexmark-printer-driver/"><u>Quickly Upgrade to Latest Lexmark Printer Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-realtek-drivers-for-optimal-performance/"><u>Revamping Realtek Drivers for Optimal Performance</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screen-it-right-best-free-apps-for-mac-and-windows-recording/"><u>Screen It Right! Best Free Apps for Mac and Windows Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-ps4-nat-error-complete-tutorial-and-fix-guide/"><u>Solve Your PS4 NAT Error: Complete Tutorial & Fix Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-beginner-friendly-video-editing-software-top-free-options/"><u>Updated Beginner-Friendly Video Editing Software Top Free Options</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-1087-medd-installer-guide/"><u>Windows 10/8/7 MEDD Installer Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

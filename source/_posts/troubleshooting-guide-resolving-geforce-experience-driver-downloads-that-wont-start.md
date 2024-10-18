@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving GeForce Experience Driver Downloads That Won't Start"
-date: 2024-10-06T19:58:06.118Z
-updated: 2024-10-12T16:21:05.806Z
+date: 2024-10-13T20:06:14.372Z
+updated: 2024-10-18T17:51:26.291Z
 tags:
   - win11
   - win10
@@ -30,19 +30,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  1\. Update the NVIDIA driver manually or automatically
 
  When GeForce Experience fails to download the driver for your display card, and a second try doesn’t help, you can try to update the Nvidia display card driver manually instead.
@@ -58,19 +45,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -82,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Close unnecessary programs
 
  GPU monitoring programs such as EVGA Precision X and MSI Afterburner could affect the driver download and installation process in GeForce Experience and therefore cause problems like_**Driver download failed**_ . So you can try to close such monitoring programs if you have them running in the background. To do so:
@@ -89,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 1. On your keyboard, press the**Windows** key and**X** at the same time to select**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-42.png)
 2. Select the GPU monitoring programs you have running in the background (like the ones for tuning, overclocking, fan control, etc.) and click**End Task** to close them one by one.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 
@@ -114,6 +88,13 @@ To do a clean reinstallation of the display card driver with DDU:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-3.png)
 3. Boot your computer into Safe Mode as instructed here:[**Start Safe Mode using the System Configuration tool**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. When in Safe Mode, go to the folder where you unzip the DDU execution file. Double-click to run**Display Driver Uninstaller** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-2.png)
 5. Select **GPU** and **your GPU manufacturer** on the right side. Then click **Clean and restart** .  
@@ -122,10 +103,10 @@ To do a clean reinstallation of the display card driver with DDU:
 6. Your computer should restart when the old driver files for your graphics card are cleaned.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Double-click the setup file for the Nvidia display card driver you’ve downloaded from step 1 to run the driver installation.
@@ -134,19 +115,6 @@ To do a clean reinstallation of the display card driver with DDU:
 If this still doesn’t help, please move on to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Allow GeForce Experience in Windows firewall
 
@@ -161,6 +129,13 @@ To add GeForce Experience to your Windows firewall exception list:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-44.png)
 3. From the left navigation pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-46.png)
 4. Scroll down and check if **GeForce Experience** is on the list.
 
@@ -168,21 +143,28 @@ To add GeForce Experience to your Windows firewall exception list:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-47.png)
 6. Click **Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click **Browse…** and go to the installation folder for**GeForce Experience** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
     
  If you don’t know what the installation folder is for your GeForce Experience, simply right-click on its shortcut and select **Open file location** .
 8. When it’s located, click **Add** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-106.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Try the driver download in GeForece Experience again to see how it works.
 
@@ -205,22 +187,22 @@ Try the driver download in GeForece Experience again to see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-a-closer-look-at-luminance-and-its-hdr-achievements/"><u>[New] A Closer Look at Luminance and Its HDR Achievements</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigate-effortlessly-how-to-clear-your-browsers-youtube-cache/"><u>[Updated] In 2024, Navigate Effortlessly How to Clear Your Browser's YouTube Cache</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-smooth-transition-altering-snapchat-videos-tempo/"><u>[Updated] In 2024, Smooth Transition Altering Snapchat Videos' Tempo</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-installation-windows-ie-management-drivers/"><u>Efficient Installation: Windows IE Management Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-printer-capabilities-with-updated-hp-officejet-pro-8620-drivers-on-pcs/"><u>Enhance Printer Capabilities with Updated HP OfficeJet Pro 8620 Drivers on PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209598426-fix-this-device-doesnt-support-receiving-miracast-2024-tips/"><u>Fix 'This Device Doesn't Support Receiving Miracast' 2024 Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hd5770driverwin11enhancement/"><u>HD5770DriverWin11Enhancement</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hdgraphics5770radeondriverwin/"><u>HDGraphics5770RadeonDriverWin</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/how-the-netgear-nighthawk-ax8-mesh-range-extender-shapes-up-in-the-era-of-wi-fi-6-an-essential-review/"><u>How the Netgear Nighthawk AX8 Mesh Range Extender Shapes Up in the Era of Wi-Fi 6 – An Essential Review</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oppo-find-x6-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo Find X6 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-delivers-high-definition-sound-to-win7-users/"><u>NVIDIA Delivers High-Definition Sound to Win7 Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-960-drivers-new-release/"><u>Nvidia GTX 960 Drivers: New Release</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-intel-gpu-driver-upgrade/"><u>Quick Intel GPU Driver Upgrade</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-apple-pay-glitches-in-minutes-with-these-10-troubleshooting-steps/"><u>Resolve Apple Pay Glitches in Minutes with These 10 Troubleshooting Steps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-your-usb-experience-with-windows-fixes/"><u>Revamp Your USB Experience with Windows Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-wolcens-launch-issues-what-gamers-need-to-know-now/"><u>Troubleshooting Wolcen's Launch Issues - What Gamers Need to Know Now</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-3d-videos-top-makers-for-every-budget/"><u>Updated Create Stunning 3D Videos Top Makers for Every Budget</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elite-choices-in-total-sweep-cinematography/"><u>[New] Elite Choices in Total Sweep Cinematography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-high-definition-at-its-peak-top-10-4k-screens-for-2024/"><u>[New] High Definition at Its Peak #Top 10 4K Screens for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-synergizing-visual-elements-best-text-plugins-reviewed/"><u>[New] In 2024, Synergizing Visual Elements Best Text Plugins Reviewed</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/custom-pc-with-internal-coffee-machine-features-fully-equipped-roaster-and-grinder-for-tech-and-brew-enthusiasts/"><u>Custom PC with Internal Coffee Machine Features: Fully Equipped Roaster and Grinder for Tech & Brew Enthusiasts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/deciphering-and-resolving-flaws-in-flat-cars-hawkui-edition/"><u>Deciphering & Resolving Flaws in Flat Cars: Hawkui Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-enhancement-for-gtx-750-ti-drivers/"><u>Direct Enhancement for GTX 750 Ti Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-driver-update-in-windows-10-acers-secret-weapon/"><u>Effortless Driver Update in Windows 10 - Acer's Secret Weapon</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-setup-download-canon-xp-drivers/"><u>Effortless Setup: Download Canon XP Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-tracked-patch-for-iris-x912/"><u>Fast-Tracked Patch for Iris X912</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-idt-audio-support-on-w7-pc/"><u>Install Latest IDT Audio Support on W7 PC</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/leveraging-cookiebot-technology-for-superior-site-performance-and-seo-results/"><u>Leveraging Cookiebot Technology for Superior Site Performance and SEO Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-features-of-linksys-ea8300-the-ultimate-gateway-for-connected-devices/"><u>Navigating Through the Features of Linksys EA8300: The Ultimate Gateway for Connected Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pros-choice-the-ultimate-list-of-essential-luts-for-lightroom/"><u>Pro's Choice The Ultimate List of Essential LUTs for LightRoom</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-display-settings-install-hp-graphics-in-win11/"><u>Streamline Display Settings: Install HP Graphics in Win11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-frames-per-second-fps-optimal-framerates-for-enhanced-gaming-and-streaming-experiences/"><u>Understanding Frames Per Second (FPS): Optimal Framerates for Enhanced Gaming & Streaming Experiences</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-wacom-software-for-enhanced-performance-in-win-10117/"><u>Updating Wacom Software for Enhanced Performance in Win 10/11/7</u></a></li>
 </ul></div>
 

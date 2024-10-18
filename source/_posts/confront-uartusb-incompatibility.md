@@ -1,7 +1,7 @@
 ---
 title: Confront UART/USB Incompatibility
-date: 2024-08-15T14:37:03.661Z
-updated: 2024-08-16T14:37:03.661Z
+date: 2024-10-14T17:42:39.249Z
+updated: 2024-10-18T17:56:03.033Z
 tags:
   - win11
   - win10
@@ -45,9 +45,12 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 2: Update the FTDI USB to serial driver manually
 
  If you don’t have the time or patience to manually download and install the FTDI USB to serial driver, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -61,8 +64,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -70,8 +77,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -87,8 +98,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,6 +105,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-proven-ways-to-enhance-fidelity-in-your-virtual-reality-captures/"><u>[New] 2024 Approved Proven Ways to Enhance Fidelity in Your Virtual Reality Captures</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elevate-your-photo-treasury-in-the-cloud-free-and-paid-storage-for-everyone/"><u>[New] Elevate Your Photo Treasury in the Cloud Free & Paid Storage for Everyone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-how-to-for-clearer-youtube-footage/"><u>[New] The Ultimate How-To for Clearer YouTube Footage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-affordable-android-chat-top-free-app-alternatives/"><u>[Updated] Affordable Android Chat Top Free App Alternatives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-7-mac-videos-players-reviewed/"><u>2024 Approved Excellent 7 Mac Videos Players Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-instagram-picture-perfection-expert-tips-unveiled/"><u>2024 Approved Mastering Instagram Picture Perfection Expert Tips Unveiled</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-driver-tweaks-without-complications-in-windows-7/"><u>Direct Driver Tweaks without Complications in Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-gpu-upgrade-guide-for-windows-11-users/"><u>GTX 970 GPU Upgrade Guide for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-screen-issues-graphics-drivers/"><u>Resolve Screen Issues: Graphics Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-new-features-in-hp-omen-15-with-drivers-update/"><u>Unlock New Features in HP Omen 15 with Drivers Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11-tips-seamless-bluetooth-driver-installation/"><u>Win11 Tips: Seamless Bluetooth Driver Installation</u></a></li>
+</ul></div>
 

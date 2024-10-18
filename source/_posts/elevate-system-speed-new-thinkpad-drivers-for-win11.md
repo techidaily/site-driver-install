@@ -1,7 +1,7 @@
 ---
 title: "Elevate System Speed: New Thinkpad Drivers for Win11"
-date: 2024-08-08T06:27:07.343Z
-updated: 2024-08-09T06:27:07.343Z
+date: 2024-10-12T19:19:15.388Z
+updated: 2024-10-18T19:37:13.538Z
 tags:
   - win11
   - win10
@@ -30,16 +30,10 @@ You can go to Lenovo’s official website to check for and download the latest W
   
 2\. Click **Laptops** .
   
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578d9d1d472a1.png)
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
   
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e353b836c7f.jpg)
 
  4.**Select Sub-Series** . (Let’s take 11e (Type 20D9, 20DA) Laptop (Thinkpad) for example.)  
@@ -66,23 +60,14 @@ Follow these steps to install new audio drivers via Device Manager.
   
 1\. Press **Win+R** (**Windows logo** key and **R**  key) at the same time. A Run dialog box will appear. Then Device Manager will open.  
   
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355190d0976.png)
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551c56595c.png)
   
  **Way 3 (Recommended): Update the Drivers Automatically**
@@ -93,9 +78,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  1\. Click**Scan Now** button. After a few seconds, you will be given a list of new drivers to update.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99aab8ab8.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
@@ -110,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,6 +99,29 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlocking-potential-in-instagram-engagement-with-advanced-data-tools/"><u>[New] In 2024, Unlocking Potential in Instagram Engagement with Advanced Data Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/become-a-pro-at-utilizing-zoom-for-windows-11-users-for-2024/"><u>Become a Pro at Utilizing Zoom for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-worthy-content-crafting-episodes-that-viewers-love/"><u>Binge-Worthy Content Crafting Episodes That Viewers Love</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oneplus-nord-n30-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on OnePlus Nord N30 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/effiziente-wiederherstellung-von-windows-10-professionelle-methoden-zur-erstellung-neuer-abbilder/"><u>Effiziente Wiederherstellung Von Windows 10: Professionelle Methoden Zur Erstellung Neuer Abbilder</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y200-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y200 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-and-update-guide-for-new-amd-gpu-driver/"><u>Install & Update Guide for New AMD GPU Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-mx870-support-for-classic-windows-versions/"><u>Install MX870 Support for Classic Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-update-wacom-bamboo-drivers/"><u>Quick Update: Wacom Bamboo Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refreshing-usb-hardware-drivers-across-windows-generations/"><u>Refreshing USB Hardware Drivers Across Windows Generations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/replace-old-idt-audio-with-current-driver-for-w7/"><u>Replace Old IDT Audio with Current Driver for W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-systems-introducing-aoc-1659update/"><u>Revitalize Systems: Introducing AOC 1659Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-your-print-setup-with-fresh-drivers-on-win-systems/"><u>Revitalize Your Print Setup with Fresh Drivers on WIN Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-pc-latency-best-practices-to-smooth-out-your-bless-unleashed-gaming-experience/"><u>Tackling PC Latency: Best Practices to Smooth Out Your Bless Unleashed Gaming Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-selection-our-favourite-6-journal-apps-revealed/"><u>Ultimate Selection: Our Favourite 6 Journal Apps Revealed</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

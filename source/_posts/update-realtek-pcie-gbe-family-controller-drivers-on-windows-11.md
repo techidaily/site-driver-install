@@ -1,7 +1,7 @@
 ---
 title: Update Realtek PCIe GBE Family Controller Drivers on Windows 11
-date: 2024-10-08T17:08:50.606Z
-updated: 2024-10-12T17:08:12.918Z
+date: 2024-10-13T20:16:39.493Z
+updated: 2024-10-18T17:09:20.482Z
 tags:
   - win11
   - win10
@@ -62,14 +62,14 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0236547c83.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ## Method 3\. Update the Driver Manually
 
@@ -78,10 +78,16 @@ _Realtek PCIe GBE Familly Controller_
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-521.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Usually, the driver can be self-installing. After you download the driver, double-click on the file to begin the installation. If the driver cannot be installed in this way, you might have to install it manually, then follow steps below to install the driver.
@@ -92,6 +98,13 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0234c3a594.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In Device Manager, expand category **Network adapters** . Under this category, right-click on the**Realtek PCIe GbE Family Controller** . Then click**Update Driver Software…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023a099bb2.jpg)
@@ -100,27 +113,20 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023ca8557c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023f947709.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click on   **Next** button to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0244b633c8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Check to see if the driver is installed successfully.
 
@@ -141,20 +147,24 @@ _Realtek PCIe GBE Familly Controller_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-prime-construction-tips-for-mc-community-abodes/"><u>[New] In 2024, Prime Construction Tips for MC Community Abodes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>[New] Leading Android & iOS Timer Tools Reviewed Your Big Day Planner's Must-Haves</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel-for-2024/"><u>[Updated] How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-initiating-into-the-world-of-facebook-video-content-creation/"><u>[Updated] In 2024, Initiating Into the World of Facebook Video Content Creation</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-x8b-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X8b in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-dciman32dll-not-found-or-missing-errors/"><u>How to Fix Dciman32.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-updated-hp-graphics-on-windows-11-pc/"><u>Install Updated HP Graphics on Windows 11 PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-latest-software-in-msi-bravo-15/"><u>Installing Latest Software in MSI Bravo 15</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leading-6-sites-transforming-how-companies-connect-socially/"><u>Leading 6 Sites Transforming How Companies Connect Socially</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-new-horizons-startechs-fixes-to-7-811-os/"><u>Navigating New Horizons: StarTech's Fixes to 7, 8/11 OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/netgear-1200mbps-wi-fi-pcie-usb/"><u>NETGEAR 1200Mbps Wi-Fi PCIe USB</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-nvidia-audio-drivers-in-windows-7-release/"><u>New NVIDIA Audio Drivers in Windows 7 Release</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-hassle-seamless-setup-newest-tp-link-adapter-driver-for-pcs/"><u>No Hassle, Seamless Setup: Newest TP Link Adapter Driver for PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-browser-blockades-a-guide-to-web-site-restoration-on-windows/"><u>Overcoming Browser Blockades: A Guide to Web Site Restoration on Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-edge-40-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Edge 40 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-creating-compelling-youtube-live-content-with-wirecast-for-2024/"><u>[New] Creating Compelling Youtube Live Content with WireCast for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-metaverse-marketing-revolutionizing-customer-outreach/"><u>[Updated] Metaverse Marketing Revolutionizing Customer Outreach</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://win-popular.techidaily.com/discover-the-safest-ios-to-pc-data-transfer-tools-our-ultimate-top-5-picks-free/"><u>Discover the Safest iOS to PC Data Transfer Tools: Our Ultimate Top 5 Picks (Free)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-pratique-pour-creer-des-videos-interactives-les-techniques-avancees-avec-movavi/"><u>Guide Pratique Pour Créer Des Vidéos Interactives : Les Techniques Avancées Avec Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-infinix-note-30i-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Infinix Note 30i without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-journey-to-exceptional-educational-content-creating-impactful-vids-on-youtube/"><u>In 2024, The Journey to Exceptional Educational Content Creating Impactful Vids on YouTube</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-newest-logitech-mouse-with-windows-11/"><u>Integrate Newest Logitech Mouse with Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrating-wacom-support-across-multiple-windows-environments/"><u>Integrating Wacom Support Across Multiple Windows Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/laserjet-driver-download-and-install-for-hp-p1102w-on-win-os/"><u>LaserJet Driver: Download & Install for HP P1102w on Win OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-g580-simplified-driver-upgrade/"><u>Lenovo G580: Simplified Driver Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-graphics-card-enhancement-gtx-1060/"><u>Nvidia Graphics Card Enhancement: GTX 1060</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-printing-hp-officejet-software-update/"><u>Optimize Your Printing: HP Officejet Software Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-gaming-with-latest-gtx-970-windows-10-drivers/"><u>Optimized Gaming with Latest GTX 970 Windows 10 Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-lava-agni-2-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Lava Agni 2 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/powerful-performance-update-win-drivers/"><u>Powerful Performance: Update WIN Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-6000-graphics-update-and-download/"><u>Quadro 6000 Graphics Update & Download</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-plate-a-comprehensive-walkthrough-and-review-of-overcooked-2/"><u>The Ultimate Plate: A Comprehensive Walkthrough and Review of Overcooked! 2</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update your drivers in Windows 10 & 7</u></a></li>
 </ul></div>
 

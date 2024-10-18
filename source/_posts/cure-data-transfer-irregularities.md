@@ -1,7 +1,7 @@
 ---
 title: Cure Data Transfer Irregularities
-date: 2024-08-15T14:37:32.257Z
-updated: 2024-08-16T14:37:32.257Z
+date: 2024-10-12T17:47:23.063Z
+updated: 2024-10-18T17:12:07.550Z
 tags:
   - win11
   - win10
@@ -45,8 +45,18 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 2: Update the FTDI USB to serial driver manually
 
  If you don’t have the time or patience to manually download and install the FTDI USB to serial driver, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -60,8 +70,12 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -69,8 +83,12 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -86,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,6 +111,20 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-bypassing-youtubes-copyright-strike-legal-strategies-and-precautions/"><u>[New] 2024 Approved Bypassing YouTube's Copyright Strike Legal Strategies and Precautions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-introduction-to-effective-analysis-facebook-insights/"><u>[New] In 2024, Introduction to Effective Analysis Facebook Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-motorola-g54-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Motorola G54 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/beyond-the-limits-how-starlink-satellites-can-transform-your-life/"><u>Beyond The Limits: How Starlink Satellites Can Transform Your Life</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-x9a-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor X9a Face Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-reno-11-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo Reno 11 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-wireless-drivers-no-hassle-w7/"><u>Install Wireless Drivers: No Hassle W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalizing-your-computers-mouse-with-updated-drivers/"><u>Revitalizing Your Computer's Mouse with Updated Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/securing-windows-integration-with-samsung-ssds-fixed/"><u>Securing Windows Integration with Samsung SSDs [Fixed]</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-avi-video-joiner-software-merge-clips-in-minutes/"><u>Updated Free AVI Video Joiner Software Merge Clips in Minutes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updated-netgear-a6200-usb-driver-for-pcs/"><u>Updated Netgear A6200 USB Driver for PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-drivers-quick-and-easy-refresh-guide/"><u>Windows Drivers: Quick & Easy Refresh Guide</u></a></li>
+</ul></div>
 

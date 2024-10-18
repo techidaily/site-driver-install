@@ -1,7 +1,7 @@
 ---
 title: Upgrade Windows System with AMD GPU Software
-date: 2024-10-10T18:10:06.438Z
-updated: 2024-10-12T19:14:59.456Z
+date: 2024-10-11T18:16:08.539Z
+updated: 2024-10-18T16:20:35.416Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ problems, you’re not alone.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: **UpdateAMD Radeon R9 200 Series drivers automatically (Recommended)**
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,13 +56,6 @@ problems, you’re not alone.
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b68332f24249.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -93,14 +79,28 @@ problems, you’re not alone.
 3. On your keyboard, press**the Windows logo key** and**R** at the same time, then copy & paste **devmgmt.msc** into the box and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 4. Click on**the arrow** left to **Display adapters** (aka.**graphics card** , **video card**) to expand it.  
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92534e0ab.jpg)
 5. Right-click on **AMD Radeon R9 200 Series** and click**Update driver** .  
 
@@ -108,14 +108,27 @@ problems, you’re not alone.
 6. Click**Browse my computer for driver software** , follow the on-screen instructions to complete the process.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9502d9df0.png)
 7. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -138,14 +151,18 @@ problems, you’re not alone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-designing-dynamic-videos-with-adobe-captivate/"><u>[New] Designing Dynamic Videos with Adobe Captivate</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>2024 Approved Expert Tips for iOS Downloading Podcasts on iPhone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/address-bluetooth-connection-problems-in-win10-printers/"><u>Address Bluetooth Connection Problems in Win10 Printers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/conexants-high-definition-audio-driver-for-windows-11-success/"><u>Conexant's High Definition Audio Driver for Windows 11 Success</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-approach-to-bluetooth-drivers-install-on-windows-1011/"><u>Direct Approach to Bluetooth Drivers Install on Windows 10/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gain-edge-in-gaming-download-gtx-1050-ti-drivers/"><u>Gain Edge in Gaming: Download GTX 1050 Ti Drivers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/izing-income-sourav-joshis-youtube-journey/"><u>Maximizing Income Sourav Joshi's YouTube Journey</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-wmv-to-mp4-conversion-without-costs-ideal-for-mac-and-windows-10-users/"><u>Seamless WMV-to-MP4 Conversion Without Costs - Ideal for Mac and Windows 10 Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-premium-opening-scenes-top-16-youtube-intros-for-popularity/"><u>[Updated] 2024 Approved Premium Opening Scenes Top 16 YouTube Intros for Popularity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-camcorders-directly-at-your-eyes/"><u>[Updated] Top 30 Camcorders Directly At Your Eyes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-canon-mx870-driver-on-win-xp-to-8-systems/"><u>Configure Canon MX870 Driver on Win XP to 8 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-steps-for-tracer-glitches-in-m-audio/"><u>Easy Steps for Tracer Glitches in M-Audio</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-graphic-performance-via-update/"><u>Enhance Graphic Performance via Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-quadro-rtx-6000-drivers-now/"><u>Get Quadro RTX 6000 Drivers Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-display-dynamics-update-graphics-in-windows-10/"><u>Improve Display Dynamics - Update Graphics in Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-ace-2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus Ace 2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/in-depth-instructions-to-update-vistas-drivers/"><u>In-Depth Instructions to Update Vista's Drivers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-finest-selection-of-5-sd-cards-for-hero-gopros/"><u>The Finest Selection of 5 SD Cards for Hero GoPros</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutorial-effortless-multi-tasking-with-split-screen-on-macbook-air/"><u>Tutorial: Effortless Multi-Tasking with Split Screen on MacBook Air</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[FULL GUIDE] How to Clean Install Graphics Drivers"
-date: 2024-08-15T14:38:33.825Z
-updated: 2024-08-16T14:38:33.825Z
+date: 2024-10-14T16:59:56.731Z
+updated: 2024-10-18T17:10:20.608Z
 tags:
   - win11
   - win10
@@ -49,8 +49,12 @@ OK, enough intro. Let’s see what you should do:
  Rest assured that Driver Easy uses only genuine drivers, straight from your hardware manufacturers.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2 – Download the driver manually
 
  This is the most common way you download a driver, but it costs you more time and effort than using a driver updater tool. Besides, you may also download a wrong driver (e.g. not compatible with your system) so all the previous effort goes down the tubes and you have to start all over again. Anyway, just make sure you find the correct driver online.
@@ -63,9 +67,6 @@ OK, enough intro. Let’s see what you should do:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 2: Create a system restore point
 
  This step is actually not imperative, but I strongly suggest you create a restore point as a precaution before proceeding to the next step. The restore point allows you to revert your system to a previous state when it’s still functioning well (especially before any problems come up). But don’t panic – you’ll rarely have serious issues during the clean installation.
@@ -77,8 +78,18 @@ OK, enough intro. Let’s see what you should do:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step 3: Uninstall your current graphics drivers
 
  Whether you’ve known it or not, there are two common ways for people to uninstall their drivers: a) clicking “Uninstall device” in Windows Device Manager and b) uninstalling the drivers from “Programs and Features” on Control panel. However, I’ll introduce neither because they CANNOT completely remove a driver (including its files, folders, and registry keys) from your computer. Also, it’s rather time-consuming and error-prone to delete every single file of a driver manually – you need to find out what files the driver contains, where they locate, and then delete them one by one (that can be quite a lot of work). So, in order to save your time and effort, I suggest you use the**Display Driver Uninstaller** **(DDU)** to do the job for you.
@@ -111,13 +122,30 @@ OK, enough intro. Let’s see what you should do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-22.png)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select the option based on your actual situation and then wait for the uninstallation process to complete. No matter which one you choose, you’ll need to**reboot** your computer in order to move on.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step 4: Install the downloaded driver
 
 Finally, the last step is to install your driver.
@@ -133,16 +161,10 @@ Finally, the last step is to install your driver.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-29-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the graphics driver, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-10-47.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -164,8 +186,6 @@ Finally, the last step is to install your driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,6 +193,26 @@ Finally, the last step is to install your driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-color-contrast-reimagined-choosing-hdr-for-better-videos/"><u>[New] Color Contrast Reimagined Choosing HDR for Better Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-hash-trackers-fb-twt-and-ig-networks/"><u>[New] In 2024, The Ultimate Guide to Hash Trackers FB, Twt & IG Networks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimizing-web-video-for-crystal-clear-display/"><u>[New] Optimizing Web Video for Crystal Clear Display</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-guide-testing-mycam-recording-capabilities/"><u>[Updated] In 2024, Ultimate Guide Testing MyCam Recording Capabilities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-leveraging-likeability-strategies-for-going-viral-on-facebook-for-2024/"><u>[Updated] Leveraging Likeability Strategies for Going Viral on Facebook for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-shorten-videos-for-instagram-a-mac-guide-for-2024/"><u>[Updated] Shorten Videos for Instagram A Mac Guide for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-the-gap-usbasp-compatibility-across-versions/"><u>Bridge the Gap: USBasp Compatibility Across Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-implement-gtx-driver-update/"><u>Download & Implement GTX Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-display-settings-install-hp-graphics-driver-on-win11/"><u>Enhance Display Settings: Install HP Graphics Driver on Win11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/explore-the-finest-8-websites-3d-and-luxurious-text/"><u>Explore the Finest 8 Websites 3D & Luxurious Text</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-integration-of-hd-audio-post-update/"><u>Seamless Integration of HD Audio Post-Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-updated-pro-6-system-drivers/"><u>Seamlessly Updated Pro 6 System Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-securing-your-icloud-email-with-a-dual-authentication-process/"><u>Step-by-Step Tutorial: Securing Your iCloud Email with a Dual Authentication Process</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-connections-reinstall-bluetooth-in-win11/"><u>Streamline Your Connections: Reinstall Bluetooth in Win11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamline-your-experience-free-screen-capture-software-on-windowsmac/"><u>Streamline Your Experience - Free Screen Capture Software on Windows/Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-playbook-for-exceptional-obs-studio-content-for-2024/"><u>The Ultimate Playbook for Exceptional OBS Studio Content for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turbo-xpress-optimized-nvidia-3090-driver/"><u>Turbo Xpress - Optimized NVIDIA 3090 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-essentials-free-secure-digital-pen-software-install/"><u>Wacom Essentials: Free, Secure Digital Pen Software Install</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-ace-up-swift-driver-update-guide/"><u>Windows 10 Ace Up: Swift Driver Update Guide</u></a></li>
+</ul></div>
 

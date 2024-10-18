@@ -1,7 +1,7 @@
 ---
 title: Download GTX 970 Drivers - Windows 11 Version
-date: 2024-08-08T06:26:35.115Z
-updated: 2024-08-09T06:26:35.115Z
+date: 2024-10-16T18:23:21.223Z
+updated: 2024-10-18T18:30:30.505Z
 tags:
   - win11
   - win10
@@ -34,24 +34,14 @@ Follow these steps:
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
@@ -72,9 +62,6 @@ Follow these steps.
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
@@ -87,16 +74,10 @@ Follow these steps.
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -109,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,6 +97,30 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-audiences-favorite-top-action-recording-tools/"><u>[New] 2024 Approved Audience's Favorite Top Action Recording Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-dissection-facebook-video-formats-for-2024/"><u>[Updated] Dissection Facebook Video Formats for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-harmonizing-highlights-how-to-add-soundtracks-to-powerpoint/"><u>2024 Approved Harmonizing Highlights How to Add Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-se-2020-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone SE (2020)? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/desired-upgrades-5-ways-excel-can-be-better/"><u>Desired Upgrades: 5 Ways Excel Can Be Better</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-repair-methods-for-tracer-errors-m-audio/"><u>Efficient Repair Methods for Tracer Errors (M-Audio)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-performance-installing-latest-canon-printer-software-on-win11/"><u>Enhanced Performance: Installing Latest Canon Printer Software on WIN11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-vivo-y100i-power-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Y100i Power 5G Lock Screen Password</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-aoc-driver-release-windows-update/"><u>Latest AOC Driver Release - Windows Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/our-10-go-to-workout-log-apps-of-2024/"><u>Our 10 Go-To Workout Log Apps of 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/perfectly-duplicate-your-dvds-on-a-mac-pc-the-best-four-techniques-for-exact-quality-replication/"><u>Perfectly Duplicate Your DVDs on a Mac PC: The Best Four Techniques for Exact Quality Replication</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-asus-rog-phone-7-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Asus ROG Phone 7 and Browser | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/propel-your-yogas-performance-easy-access-to-new-win10-drivers/"><u>Propel Your Yoga's Performance: Easy Access to New Win10 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063300324-seamless-stress-relief-track-drivers-fixed/"><u>Seamless Stress Relief: Track Drivers Fixed!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-install-new-logitech-mouse-software-for-w11-os/"><u>Swiftly Install New Logitech Mouse Software for W11 OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/user-friendly-device-driver-improvements-for-win7/"><u>User-Friendly Device Driver Improvements for Win7</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

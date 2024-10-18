@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Window Compatibility: HP 1020 Driver Fixes"
-date: 2024-08-08T06:24:58.650Z
-updated: 2024-08-09T06:24:58.650Z
+date: 2024-10-17T19:38:20.699Z
+updated: 2024-10-18T19:22:18.495Z
 tags:
   - win11
   - win10
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
 
 ## Enhanced Window Compatibility: HP 1020 Driver Fixes
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-8.png)
 
  If your HP LaserJet 1020 printer series are not working properly, for instance, you see certain error when trying to print, or your printer’s status is off, don’t panic. You can update your**HP LaserJet 1020 printer driver** to the latest version to fix the issues.
@@ -30,8 +27,12 @@ thumbnail: https://thmb.techidaily.com/ab0e7af2ea47dc9a130667c482825dec2796c60b3
 3. [Update the printer driver automatically](#Fix3)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Update the printer driver manually
 
 Time needed:  3 minutes.
@@ -39,17 +40,29 @@ Time needed:  3 minutes.
  This method shows you how to download and install HP LaserJet 1020 printer driver from HP support.
 
 1. **Go to the HP support website.**  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
  Run the downloaded file, and follow the wizard to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update the printer driver in Device Manager
 
@@ -64,16 +77,18 @@ Time needed:  3 minutes.
 3. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
 
@@ -91,14 +106,8 @@ After updating, restart your computer.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 4. After updating, restart your computer to take effect.
@@ -120,8 +129,6 @@ This is a rather easy method, isn’t it?!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,6 +136,22 @@ This is a rather easy method, isn’t it?!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-best-4k-monitors-1-10-rankings/"><u>[New] Finding the Best 4K Monitors #1-10 Rankings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-breaking-barriers-joining-games-via-xbox-zoom/"><u>2024 Approved Breaking Barriers Joining Games via Xbox Zoom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-dimming-the-live-approach/"><u>Audio Dimming The Live Approach</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-update-u-are-u-readfinger-v45-download/"><u>Direct Update: U-Are-U ReadFinger v4.5 Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-msi-upgrade-step-by-step-process/"><u>Drive MSI Upgrade: Step-by-Step Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-windows-host-service-interruption-rundll32/"><u>Effective Solutions for Windows Host Service Interruption (Rundll32)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fasten-driver-updates-for-logitech-audio-cables/"><u>Fasten Driver Updates for Logitech Audio Cables</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>In 2024, Behind the Scenes 10 Underrated Aspects of Reels on Instagram</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/master-the-art-of-cropping-videos-for-instagrams-highest-standards-for-2024/"><u>Master the Art of Cropping Videos for Instagram's Highest Standards for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstalling-windows-drivers-with-minimal-hassle/"><u>Reinstalling Windows Drivers with Minimal Hassle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-integration-for-mobile-enthusiasts-running-android-apps-in-a-windows-11-setup/"><u>Seamless Integration for Mobile Enthusiasts: Running Android Apps in a Windows 11 Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-enhance-w11w8w7-via-mf4770n-driver-update/"><u>Secure and Enhance W11/W8/W7 via MF4770n Driver Update</u></a></li>
+<li><a href="https://win-webster.techidaily.com/secure-your-memories-a-step-by-step-guide-to-enabling-face-id-security-features-for-photo-protection-on-ios-devices/"><u>Secure Your Memories: A Step-by-Step Guide to Enabling Face ID Security Features for Photo Protection on iOS Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-windows-vista-device-drivers-by-hand/"><u>Updating Windows Vista Device Drivers by Hand</u></a></li>
+</ul></div>
 

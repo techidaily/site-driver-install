@@ -1,7 +1,7 @@
 ---
 title: Swift Dock Driver Improvement Guide
-date: 2024-10-09T16:55:34.671Z
-updated: 2024-10-12T18:22:52.448Z
+date: 2024-10-17T17:33:34.583Z
+updated: 2024-10-18T17:19:37.082Z
 tags:
   - win11
   - win10
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update**Lenovo USB-C Dock driver** s manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -55,21 +42,14 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
@@ -84,29 +64,38 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 1. Go to [**Lenovo official website**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2F) , then click**SUPPORT** in the top navigation section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/support.png)
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Double-click on the execution file and follow the on-screen instructions to install.
 8. Don’t forget to restart your computer for the changes to take effect.
@@ -135,18 +124,24 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-examining-youtubes-mobile-app-for-iosandroid-devices/"><u>[New] 2024 Approved Examining YouTube's Mobile App for iOS/Android Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-powerdirector-unboxed-a-complete-review-users/"><u>[New] PowerDirector Unboxed A Complete Review Users</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-best-practices-for-imovie-videos-entering-the-vimeo-realm/"><u>[Updated] In 2024, Best Practices for iMovie Videos Entering the Vimeo Realm</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-importance-of-non-primary-footage-in-editing/"><u>2024 Approved The Importance of Non-Primary Footage in Editing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tions-toll-consequences-of-fake-supporters-in-video-markets-for-2024/"><u>Deception's Toll Consequences of Fake Supporters in Video Markets for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-steelseries-arctis-5-microphone-issue-a-step-by-step-guide/"><u>Fixing the SteelSeries Arctis 5 Microphone Issue - A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-sony-xperia-5-v-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Sony Xperia 5 V</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-driver-update-gtx-1650-nvidia-graphics/"><u>Instant Driver Update – GTX 1650 Nvidia Graphics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-windows-78-drivers-for-gtx-1650/"><u>Latest Windows 7/8 Drivers for GTX 1650</u></a></li>
-<li><a href="https://driver-install.techidaily.com/modernize-your-thinkpad-windows-11-driver-upgrade/"><u>Modernize Your Thinkpad: Windows 11 Driver Upgrade</u></a></li>
-<li><a href="https://driver-install.techidaily.com/push-the-limits-of-audio-on-windows-7-powered-by-nvidia/"><u>Push the Limits of Audio on Windows 7, Powered by NVIDIA</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-easy-lenovo-z50-70-update-guide/"><u>Quick, Easy: Lenovo Z50-70 Update Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-vos-videos-mpeg-en-mov-facilement-et-gratuitement-services-en-ligne-movavi/"><u>Transformez Vos Vidéos MPEG en MOV Facilement Et Gratuitement - Services en Ligne Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>[New] Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-chatbot-pitfalls-for-content-writers-uncovering-the-top-8-drawbacks-and-why-they-matter/"><u>AI Chatbot Pitfalls for Content Writers: Uncovering the Top 8 Drawbacks and Why They Matter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-buffering-in-chrome-for-smooth-video-views/"><u>Combatting Buffering in Chrome for Smooth Video Views</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-activate-surface-pro-4-drivers-in-windows/"><u>Download and Activate Surface Pro 4 Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-driver-updates-for-msi-in-pre-win10-and-win11-systems/"><u>Efficient Driver Updates for MSI in Pre-Win10 & Win11 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-refresh-your-windows-11-device-drivers/"><u>Efficiently Refresh Your Windows 11 Device Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-windows-11-driver-revision-process/"><u>Effortless Windows 11 Driver Revision Process</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-windows-7-driver-modifications/"><u>Effortless Windows 7 Driver Modifications</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-data-transfer-reliability-with-windows-1110-mtk-drivers/"><u>Elevate Data Transfer Reliability with Windows 11/10 MTK Drivers</u></a></li>
+<li><a href="https://win-unique.techidaily.com/enabling-page-printing-features-in-your-flipbook-a-comprehensive-guide-with-flipbuilder/"><u>Enabling Page Printing Features in Your FlipBook: A Comprehensive Guide with FlipBuilder</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-logitech-mouse-functionality-windows-11-guide/"><u>Enhance Logitech Mouse Functionality - Windows 11 Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-windows-display-upgrade-hp-graphics-drivers/"><u>Enhance Windows Display: Upgrade HP Graphics Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/graphics-driver-download-portal/"><u>Graphics Driver Download Portal</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/herstellen-van-een-permanente-verwijderde-kaart-in-windows-11/"><u>Herstellen Van Een Permanente Verwijderde Kaart in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/revolutionize-your-workflow-discover-the-latest-sharp-multifunction-printers-with-integrated-abbyy-ocr-insights-from-the-official-abbyy-blog/"><u>Revolutionize Your Workflow: Discover the Latest Sharp Multifunction Printers with Integrated ABBYY OCR - Insights From the Official ABBYY Blog</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-on-using-winx-dvd-copy-software-for-easy-dvd-to-iso-and-dvd-duplication-processes/"><u>Ultimate Tutorial on Using WinX DVD Copy Software for Easy DVD-to-ISO & DVD Duplication Processes</u></a></li>
 </ul></div>
 

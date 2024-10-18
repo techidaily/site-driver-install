@@ -1,7 +1,7 @@
 ---
 title: V4.50 USB Reader Drivers - Download Now
-date: 2024-08-15T14:37:26.018Z
-updated: 2024-08-16T14:37:26.018Z
+date: 2024-10-16T16:17:38.296Z
+updated: 2024-10-18T16:45:44.031Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](#o1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
 #### Step 1: Download the driver from the official website
@@ -40,13 +37,24 @@ OR
  1) If you’d like to update your U.are.U 4500 driver manually, you can download the correct and latest driver from the official website of [Digital Persona](https://devportal.digitalpersona.com/portal.php) . Log in and download the exact driver according to your Windows version (such as Windows 10 Pro, 64-bit).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-27_15-45-07.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Or you can obtain the driver from your PC vendor. You’ll need to visit the official website of Lenovo, Dell, or any other vendors, and locate its**Support** section. Then select**Drivers & Software** or**Drivers & Download** to enter the download page of drivers. Search for**U.are.U 4500 fingerprint reader driver** and download the exact driver according to your Windows variant.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Install the driver manually
 
@@ -57,8 +65,12 @@ OR
  2) Double click**Biometric devices** , then right-click**U.are.U 4500 Fingerprint Reader,** and select **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Browse my computer for driver software** .
@@ -73,9 +85,6 @@ See if your fingerprint reader works properly again.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update the fingerprint driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,17 +98,18 @@ See if your fingerprint reader works properly again.
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
 
  Or click the**Update All** button to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get full support and 30 day money-back guarantee. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your PC after finishing installing.
@@ -119,8 +129,6 @@ See if your fingerprint reader works properly again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,6 +136,23 @@ See if your fingerprint reader works properly again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-the-world-of-mac-screenshot-with-confidence/"><u>[New] Navigating the World of Mac Screenshot with Confidence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-control-screen-size-with-swift-iphone-adjustments/"><u>2024 Approved Control Screen Size with Swift iPhone Adjustments</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-journey-through-ingenious-text-animation-ideas/"><u>2024 Approved Journey Through Ingenious Text Animation Ideas</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-recording-face-off-bandicam-vs-camtasias-features/"><u>2024 Approved Screen Recording Face-Off Bandicam vs Camtasia's Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-which-apple-m1-machine-suits-your-lifestyle-more/"><u>2024 Approved Which Apple M1 Machine Suits Your Lifestyle More?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/evaluating-the-security-of-microsofts-latest-os-a-comprehensive-guide-to-windows-11-safety/"><u>Evaluating the Security of Microsoft's Latest OS: A Comprehensive Guide to Windows 11 Safety</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-fix-installing-printer-drivers-efficiently/"><u>Instant Fix: Installing Printer Drivers Efficiently</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-visual-performance-reviving-hdmi-drivers-in-win-11/"><u>Mastering Visual Performance: Reviving HDMI Drivers in Win 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-tech-game-plan-with-insights-from-toms-hardware-hub/"><u>Mastering Your Tech Game Plan with Insights From Tom's Hardware Hub</u></a></li>
+<li><a href="https://driver-install.techidaily.com/match-software-with-processor/"><u>Match Software with Processor</u></a></li>
+<li><a href="https://driver-install.techidaily.com/next-gen-acer-integration-with-windows-11-updates/"><u>Next-Gen Acer Integration with Windows 11 Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-graphics-engine-for-clarity/"><u>Refresh Graphics Engine for Clarity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-integration-of-new-drivers-on-msi-motherboards/"><u>Seamless Integration of New Drivers on MSI Motherboards</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-art-of-hardware-management-in-vista-without-auto-updates/"><u>The Art of Hardware Management in Vista Without Auto-Updates</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-compilation-of-15-most-engaging-youtube-themes/"><u>The Ultimate Compilation of 15 Most Engaging YouTube Themes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-in-depth-analysis-of-the-wave-editor-signature-capabilities-evaluations-and-practical-lessons/"><u>Updated 2024 Approved In-Depth Analysis of the Wave Editor Signature Capabilities, Evaluations, and Practical Lessons</u></a></li>
+</ul></div>
 

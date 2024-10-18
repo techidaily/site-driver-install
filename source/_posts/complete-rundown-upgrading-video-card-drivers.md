@@ -1,7 +1,7 @@
 ---
 title: "Complete Rundown: Upgrading Video Card Drivers"
-date: 2024-08-15T14:36:23.870Z
-updated: 2024-08-16T14:36:23.870Z
+date: 2024-10-16T20:01:31.155Z
+updated: 2024-10-18T16:18:44.806Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ OR
 
 **[Option 2 – Manually](#option2)** – You’ll need some computer skills and patience to download your driver this way, because you need to find exactly the right driver online and then download it yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1 – Automatically download the driver
 
  If you don’t have the time, patience or computer skills to download your graphics drivers manually, **you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -51,9 +48,6 @@ OK, enough intro. Let’s see what you should do:
 
  Rest assured that Driver Easy uses only genuine drivers, straight from your hardware manufacturers.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 – Download the driver manually
 
  This is the most common way you download a driver, but it costs you more time and effort than using a driver updater tool. Besides, you may also download a wrong driver (e.g. not compatible with your system) so all the previous effort goes down the tubes and you have to start all over again. Anyway, just make sure you find the correct driver online.
@@ -67,8 +61,12 @@ OK, enough intro. Let’s see what you should do:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step 2: Create a system restore point
 
  This step is actually not imperative, but I strongly suggest you create a restore point as a precaution before proceeding to the next step. The restore point allows you to revert your system to a previous state when it’s still functioning well (especially before any problems come up). But don’t panic – you’ll rarely have serious issues during the clean installation.
@@ -80,8 +78,12 @@ OK, enough intro. Let’s see what you should do:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step 3: Uninstall your current graphics drivers
 
  Whether you’ve known it or not, there are two common ways for people to uninstall their drivers: a) clicking “Uninstall device” in Windows Device Manager and b) uninstalling the drivers from “Programs and Features” on Control panel. However, I’ll introduce neither because they CANNOT completely remove a driver (including its files, folders, and registry keys) from your computer. Also, it’s rather time-consuming and error-prone to delete every single file of a driver manually – you need to find out what files the driver contains, where they locate, and then delete them one by one (that can be quite a lot of work). So, in order to save your time and effort, I suggest you use the**Display Driver Uninstaller** **(DDU)** to do the job for you.
@@ -100,6 +102,13 @@ OK, enough intro. Let’s see what you should do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-20.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, click**Select device** and choose your graphics card type, such as NVIDIA.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-21.png)
@@ -113,17 +122,11 @@ OK, enough intro. Let’s see what you should do:
 **Clean and shutdown** – If you want to replace the current video card with a new one, then you should click this option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-22.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  Select the option based on your actual situation and then wait for the uninstallation process to complete. No matter which one you choose, you’ll need to**reboot** your computer in order to move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 4: Install the downloaded driver
 
 Finally, the last step is to install your driver.
@@ -143,6 +146,13 @@ Finally, the last step is to install your driver.
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the graphics driver, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-10-47.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -164,8 +174,6 @@ Finally, the last step is to install your driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,6 +181,21 @@ Finally, the last step is to install your driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-pics-viewer-high-speed-windows-edition/"><u>[New] Best Pics Viewer High-Speed Windows Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-mac-streamnetflix-with-screen-capture/"><u>[New] Mastering Mac StreamNetflix with Screen Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience-for-2024/"><u>[Updated] Assessing Max 360 & Hero 11 The Ultimate GoPro Video Experience for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-reinstalling-windows-mice-drivers/"><u>Guide to Reinstalling Windows Mice Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-disable-the-built-in-laptop-keyboard-in-windows/"><u>How to Disable the Built-In Laptop Keyboard in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-youtube-to-avi-mastery-top-8-convertors-reviewed/"><u>In 2024, YouTube to AVI Mastery Top 8 Convertors Reviewed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-display-connection-via-windows-drivers/"><u>Optimizing Display Connection via Windows Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-windows-print-issues-hp-jetprinter-driver-flaw-fixes/"><u>Resolve Windows Print Issues: HP JetPrinter Driver Flaw Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-your-lenovo-g580-with-drivers/"><u>Revitalize Your Lenovo G580 with Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-lava-blaze-2-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Lava Blaze 2 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-rdr2-errgfxstate-graphics-issue-fixes/"><u>Step-by-Step Solution for RDR2 ERR_GFX_STATE Graphics Issue Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063353286-update-lenovo-audio-drivers-in-windows-11-easily/"><u>Update Lenovo Audio Drivers in Windows 11. Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-driver-update-revamping-your-mouse-controls/"><u>Windows Driver Update: Revamping Your Mouse Controls</u></a></li>
+</ul></div>
 

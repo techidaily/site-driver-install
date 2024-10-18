@@ -1,7 +1,7 @@
 ---
 title: How to Fix Kotion Each G2000 Mic Not Working
-date: 2024-10-05T17:05:22.281Z
-updated: 2024-10-12T17:13:39.530Z
+date: 2024-10-12T19:12:07.656Z
+updated: 2024-10-18T18:42:12.225Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -49,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 * If**no** (no sound on ALL apps), then move on to**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disconnect external speakers
 
@@ -69,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  1) On the dock, click the**System Preferences** icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026d618d4e9.png) , then click on the **Sound** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
@@ -80,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 3) Check if you get sound back on your Mac.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Turn off Bluetooth
 
@@ -103,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Check if the**no sound problem** has been solved.
@@ -127,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
 
 4) After the start-up, your computer will be refreshed to the default settings. This time, you might need to  reconfigure settings for speaker volume, time zone, and display solution etc.
@@ -134,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 5) Test to see if the sound works properly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix **7: Create a testing account on safe mode**
 
@@ -149,15 +149,22 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
@@ -176,13 +183,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
  9) Click **System Preferences** \> **Users & Groups** \> the**Lock** icon > the**Minus** icon to delete your testing account.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix **8: Update your Mac OS**
 
@@ -224,20 +224,17 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/download-geforce-gtx-1650-driver-for-windows-11107/"><u>[Download] GeForce GTX 1650 Driver for Windows 11/10/7</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-useful-tips-to-make-your-instagram-video-viral/"><u>2024 Approved Useful Tips to Make Your Instagram Video Viral</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expert-advice-reinstating-mice-on-windows-71011/"><u>Expert Advice: Reinstating Mice on WINDOWS 7/10/11</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-apple-could-outshine-competitors-like-openai-and-microsoft-in-the-2024-wwdc-showdown-insights-from-zdnet/"><u>How Apple Could Outshine Competitors Like OpenAI & Microsoft in the 2024 WWDC Showdown – Insights From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-your-tiktok-reach-with-attention-grabbing-unboxings/"><u>In 2024, Boost Your TikTok Reach with Attention-Grabbing Unboxings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-targeted-thought-leadership-with-profound-fb-video-strategies/"><u>In 2024, Targeted Thought Leadership with Profound FB Video Strategies</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtube-writers-royalties-with-ad-driven-earnings-cpm/"><u>In 2024, Unlocking YouTube' Writers' Royalties with Ad-Driven Earnings (CPM)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-access-wifi-via-usb-ethernet-adapter/"><u>Instantly Access WiFi via USB Ethernet Adapter</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-in-2024-top-9-choices-for-video-auto-translate/"><u>New In 2024, Top 9 Choices for Video Auto Translate</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-revamping-of-winos-drivers-tips-and-tricks-for-10plus7/"><u>Rapid Revamping of WINOS Drivers - Tips and Tricks for 10+7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamped-gpu-handling-master-the-art-of-driver-updates-ddu/"><u>Revamped GPU Handling - Master the Art of Driver Updates (DDU)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ming-platforms-face-off-choosing-between-vimeo-youtube-dailymotion-for-2024/"><u>Streaming Platforms Face-Off Choosing Between Vimeo, YouTube, DailyMotion for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-quick-and-simple-way-to-solve-your-hawkui-issue/"><u>The Quick and Simple Way to Solve Your Hawkui Issue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-strategies-for-boosting-windows-11-efficiency-a-step-by-step-guide/"><u>Top Strategies for Boosting Windows 11 Efficiency: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063465115-update-lenovo-yoga-900-drivers-easily/"><u>Update Lenovo Yoga 900 Drivers. Easily!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-seamless-slidecasts-combining-webcam-and-ppt/"><u>[New] Seamless Slidecasts Combining Webcam and PPT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skys-new-choreographer-gopro-karma-takes-center-stage/"><u>[New] Sky's New Choreographer GoPro Karma Takes Center Stage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-combat-vr-motion-sickness-a-guide/"><u>2024 Approved Combat VR Motion Sickness A Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-poco-m6-pro-5g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Poco M6 Pro 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-question-of-authorship-how-is-copyright-assigned-in-the-realm-of-artificial-intelligence/"><u>Demystifying the Question of Authorship: How Is Copyright Assigned in the Realm of Artificial Intelligence?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-kinemaster-edition-creating-polished-transitions-in-filmmaking/"><u>In 2024, Kinemaster Edition Creating Polished Transitions in Filmmaking</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/johannes-honterus-driving-change/"><u>Johannes Honterus: Driving Change</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstall-visual-interface-software/"><u>Reinstall Visual Interface Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-computers-upgrade-chip-drivers/"><u>Streamline Computers: Upgrade Chip-Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ubisoft-connect-not-responding-find-out-how-to-restore-functionality-quickly/"><u>Ubisoft Connect Not Responding? Find Out How to Restore Functionality Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-the-process-of-new-driver-setup/"><u>Unveiling the Process of New Driver Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-based-strategy-for-nvidia-drivers-reboot/"><u>Windows-Based Strategy for NVIDIA Drivers Reboot</u></a></li>
 </ul></div>
 

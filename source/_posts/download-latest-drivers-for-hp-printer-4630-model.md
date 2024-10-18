@@ -1,7 +1,7 @@
 ---
 title: Download Latest Drivers for HP Printer 4630 Model
-date: 2024-08-08T06:27:14.650Z
-updated: 2024-08-09T06:27:14.650Z
+date: 2024-10-17T18:27:32.793Z
+updated: 2024-10-18T16:41:23.919Z
 tags:
   - win11
   - win10
@@ -46,42 +46,52 @@ then it’s probably time to update the driver for it.
 2. [Update my**HP Officejet 4630**  driver automatically(Recommended)](#M2)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: update my**HP Officejet 4630**  driver manually
 
  By  updating our**HP Officejet 4630** driver _manually_ , I mean we go to the HP’s official website, find out  the latest & correct version, download the file and install it all on our own. It needs time, patience, and certain levels of computer skills. If you’re not comfortable playing  with device drivers, or worrying about any risks in the process, jump to [Method 2](#M2) .
 
  1) Go to [HP Customer Support](https://support.hp.com/ph-en/drivers) , click**Pinter** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0bc64ab34b5.jpg)
 
  2) Copy & paste **HP Officejet 4630 e-All-in-One Printer series** into the box, then click**Submit** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0bdf4fa41c5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) The website detects your variant of computer system(in my case, Windows 10, 64-bit). Click**Download** in the first result.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0bd1d4f1d6d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Double-click on the downloaded file to install your printer driver.
 
 5) Restart your computer for the changes to take effect even if you’re not asked to.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: update my**HP Officejet 4630**  driver automatically(Recommended)
 
@@ -95,19 +105,12 @@ then it’s probably time to update the driver for it.
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
  3) Click the **Update**   button next to a flagged **HP Officejet 4630**  driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of **All**   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**   – you’ll be prompted to upgrade when you click _**Update All**_ ).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0bd4b443ace.jpg)
 
 4) Restart your computer for the changes to take effect.
@@ -123,8 +126,6 @@ then it’s probably time to update the driver for it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,6 +133,20 @@ then it’s probably time to update the driver for it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>[Updated] Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlocking-social-media-success-rising-through-the-facebook-leaderboard/"><u>[Updated] In 2024, Unlocking Social Media Success Rising Through the Facebook Leaderboard</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-guide-to-live-stream-your-google-meet-on-youtube/"><u>[Updated] Step-By-Step Guide to Live Stream Your Google Meet on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>2024 Approved Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bluetooth-usb-adapter-support-guide-asus-bt400/"><u>Bluetooth USB Adapter Support Guide - Asus BT400</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-design-free-secure-wacom-driver-for-windows/"><u>Enhance Your Design: Free, Secure Wacom Driver for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-new-gtx-1650-windows-drivers/"><u>Get the New GTX 1650 Windows Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-epson-driver-performance-in-win11/"><u>Optimize Epson Driver Performance in Win11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/star-wars-squadrons-gameplay-assessment-an-enthusiasts-guide-to-luminous-conflicts/"><u>Star Wars: Squadrons Gameplay Assessment - An Enthusiast's Guide to Luminous Conflicts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-connectivity-with-one-click-adb-driver/"><u>Streamline Your Connectivity with One-Click ADB Driver</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/stylish-profiles-easy-downloads-in-2024/"><u>Stylish Profiles, Easy Downloads, In 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-potential-lenovos-simple-upgrade-path/"><u>Unleash Potential: Lenovo's Simple Upgrade Path</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-14-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 14 Plus i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
 

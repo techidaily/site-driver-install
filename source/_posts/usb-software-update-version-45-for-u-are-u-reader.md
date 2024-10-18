@@ -1,7 +1,7 @@
 ---
 title: "USB Software Update: Version 4.5 for U-Are-U Reader"
-date: 2024-10-11T20:49:50.323Z
-updated: 2024-10-12T17:08:09.406Z
+date: 2024-10-12T19:41:23.712Z
+updated: 2024-10-18T17:24:13.920Z
 tags:
   - win11
   - win10
@@ -42,18 +42,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2: Install the driver manually
 
  1) On your keyboard, press the **Windows logo key + R** at the same time, type **devmgmt.msc** , and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device-manager-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Double click**Biometric devices** , then right-click**U.are.U 4500 Fingerprint Reader,** and select **Update driver** .
 
@@ -64,10 +64,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-936.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Select the driver file and click**Next** , then wait for the installation process to finish.
@@ -93,10 +93,10 @@ See if your fingerprint reader works properly again.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
@@ -106,10 +106,10 @@ See if your fingerprint reader works properly again.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your PC after finishing installing.
@@ -138,14 +138,17 @@ See if your fingerprint reader works properly again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/backpack-essentials-for-filming-tours/"><u>Backpack Essentials for Filming Tours</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-driver-update-via-ddu-2024-insights/"><u>Direct Driver Update via DDU - 2024 Insights</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-support-guide-asus-bt400-bluetooth-adapter/"><u>Download & Support Guide: Asus BT400 Bluetooth Adapter</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-smooth-lenovo-g580-driver-update/"><u>Effortless, Smooth Lenovo G580 Driver Update!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/eliminate-printer-errors-on-win11-hp/"><u>Eliminate Printer Errors on Win11 (HP)</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-sony-xperia-10-v-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Sony Xperia 10 V Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-smartphone-simplicity-meets-online-impact-making-videos-easy/"><u>In 2024, Smartphone Simplicity Meets Online Impact Making Videos Easy</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-semaphore-timeout-expiration-error-code-0x80070079/"><u>Troubleshooting Guide: Dealing with Semaphore Timeout Expiration (Error Code 0X80070079)</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-microsofts-error-code-0x8007251d-on-windows/"><u>Troubleshooting Microsoft's Error Code 0X8007251d on Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-16-best-kickstart-videos-on-youtube-for-visibility-boost/"><u>[New] 2024 Approved 16 Best Kickstart Videos on YouTube for Visibility Boost</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-dissecting-mr-beasts-fortune-portfolio/"><u>[New] Dissecting Mr. Beast's Fortune Portfolio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-refined-lineup-of-conversation-starters-for-podcasting/"><u>[New] Refined Lineup of Conversation Starters for Podcasting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-conquer-small-screen-navigate-through-these-best-free-and-online-downloader-tools/"><u>[Updated] In 2024, Conquer Small Screen Navigate Through These Best Free & Online Downloader Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-strategies-for-choosing-valheim-crops/"><u>2024 Approved Expert Strategies for Choosing Valheim Crops</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bluetooth-troubleshooting-windows-11-recovery-procedures/"><u>Bluetooth Troubleshooting: Windows 11 Recovery Procedures</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fasten-radeon-4800-driver-updates/"><u>Fasten Radeon 4800 Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-latest-aoc-e1659dri-for-woses/"><u>Get the Latest AOC E1659DRI for WOSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/graphic-fluency-on-pc-3-methods-unveiled/"><u>Graphic Fluency on PC: 3 Methods Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grasping-ai-an-easy-approach/"><u>Grasping AI: An Easy Approach</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-google-pixel-8-by-drfone-android/"><u>How to Bypass FRP from Google Pixel 8?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-for-podcast-cover-art-mastery-for-2024/"><u>Innovative Approaches for Podcast Cover Art Mastery for 2024</u></a></li>
 </ul></div>
 

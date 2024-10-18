@@ -1,7 +1,7 @@
 ---
 title: Immersive Gaming Experience with the Philips 49 Curved OLED Display
-date: 2024-10-05T17:03:28.676Z
-updated: 2024-10-12T18:13:27.170Z
+date: 2024-10-12T18:26:00.690Z
+updated: 2024-10-18T19:13:14.188Z
 categories:
   - BestProducts
 description: This Article Describes Immersive Gaming Experience with the Philips 49 Curved OLED Display
@@ -37,16 +37,16 @@ Lifewire / Jonno Hill
 
 4
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -78,19 +78,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
  The HP OMEN Obelisk looks good in pictures but starts to fall apart a little when examined up close. Overall, HP did a pretty decent job here, but there are plenty of areas for improvement.
@@ -115,13 +102,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance** :**Great components for gaming and productivity**
 
  The HP OMEN Obelisk that I tested featured a 9th Gen Intel Core i9 9900K, 32GB of RAM, a 1TB SSD, and the Nvidia GTX GeForce 2080 Super graphics card. This is a potent combination of components in a gaming PC, and I was appropriately impressed by the results.
@@ -129,6 +109,13 @@ Lifewire / Jonno Hill
  The desktop scored an impressive 6,967 in the productivity-focused benchmarking application PCMark 10\. On the gaming front, the Omen managed a score of 10,740 in 3DMark’s Time Spy. In real-world use, this means more than 60fps at 4K in many popular titles like GTA V, but less than 60fps in others like Deus Ex: Mankind Divided. In other words, the Omen is mostly capable of 4K gameplay and is nearly always capable of 60+ fps in most common resolutions shy of 4K.
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -144,26 +131,27 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
- Lifewire / Jonno Hill
-
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Jonno Hill
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Just enough options**
 
@@ -185,13 +173,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
  If you want something even smaller, and even more monolithic, the[Corsair One Pro](https://www.lifewire.com/corsair-one-pro-review-5072820) (see on[Corsair](https://www.corsair.com/us/en/Categories/Products/Systems/CORSAIR-ONE/CORSAIR-ONE-PRO-i180-Compact-Workstation-Grade-PC/p/CS-9040001-NA) ) manages to pack a high-end gaming rig in a minuscule 12-liter case, making even the HP OMEN seem large by comparison. It has a very solid construction and manages to fit water cooling for both the CPU and GPU inside its small frame.
@@ -203,6 +184,13 @@ Lifewire / Jonno Hill
  **High performance and fantastic value, but upsetting thermals.**
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -238,22 +226,17 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-premier-picks-highest-rated-mp4s/"><u>[New] Premier Picks Highest Rated MP4s</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software/"><u>[Updated] 2024 Approved How to Record TV Shows on Windows PC with Free Video Recording Software?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premiere-guide-to-affordable-open-access-images/"><u>[Updated] Premiere Guide to Affordable, Open-Access Images</u></a></li>
-<li><a href="https://app-tips.techidaily.com/data-analysis/"><u>Data Analysis</u></a></li>
-<li><a href="https://driver-install.techidaily.com/flexible-driver-changes-on-lenovos-u310/"><u>Flexible Driver Changes on Lenovo's U310</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-foresight-outsmarting-a-machine-oracle/"><u>Future Foresight: Outsmarting a Machine Oracle</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hassle-free-wacom-bamboo-firmware-updates/"><u>Hassle-Free Wacom Bamboo Firmware Updates</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-infinix-gt-10-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Infinix GT 10 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/pairing-w11-with-xbox-one-gaming-controllers/"><u>Pairing W11 with Xbox One Gaming Controllers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rh5770windowsrtkgraphics/"><u>RH5770WindowsRTKGraphics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-setup-direct-installation-of-asus-bt400-drivers/"><u>Seamless Setup: Direct Installation of Asus BT400 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-printers-install-canon-mx870-win-versions/"><u>Update Printers: Install Canon MX870 Win Versions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-video-driver-settings-windows-pcs/"><u>Update Video Driver Settings Windows PCs</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future-for-2024/"><u>Updated Live Commerce Success Stories Lessons Learned & Predictions for the Future for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-intels-chipset-support-for-ws-11781-systems-efficiency/"><u>Upgrade Intel's Chipset Support for WS 11/7/8.1 Systems Efficiency</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/watching-x-men-series-correctly-a-comprehensive-guide-to-their-release-timeline/"><u>Watching X-Men Series Correctly: A Comprehensive Guide to Their Release Timeline</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/bes-retro-playlist-trick-how-to-go-in-arrears/"><u>Youtube's Retro Playlist Trick How to Go in Arrears</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-deciphering-facebooks-forgotten-features-a-cross-platform-manual/"><u>[New] In 2024, Deciphering Facebook's Forgotten Features A Cross-Platform Manual</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-in-depth-analysis-of-the-lightroom-app-for-android-users/"><u>[New] In 2024, In-Depth Analysis of the Lightroom App for Android Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-11-pro-level-screen-recorders-for-mac-users/"><u>2024 Approved Top 11 Pro-Level Screen Recorders for Mac Users</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/come-effettuare-una-conversione-da-hevc-a-mp4-con-nessuna-perdita-di-qualita/"><u>Come Effettuare Una Conversione Da HEVC a MP4 Con Nessuna Perdita Di Qualità</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-out-of-memory-in-red-dead-redemption-2-how-to-upgrade-your-pagefile/"><u>Fix 'Out of Memory' In Red Dead Redemption 2: How to Upgrade Your Pagefile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-use-vlc-for-professional-screen-recording/"><u>How to Use VLC for Professional Screen Recording</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062958635-logitec-mouse-hw-quick-fix-for-windows-7-users/"><u>Logitec Mouse HW Quick Fix for Windows 7 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-dashboard-for-atis-hd-4800-driver-updates/"><u>Quick Dashboard for ATI's HD 4800 Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refreshing-nvidia-hd-audio-in-windows-10/"><u>Refreshing NVIDIA HD Audio in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solution-guide-fixing-windows-10-installation-failure-error-code-80240020/"><u>Solution Guide: Fixing Windows 10 Installation Failure - Error Code 80240020</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-users-install-razer-mice-fast-and-simple/"><u>Win Users: Install Razer Mice Fast & Simple</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackle FTDI Adapter Glitches
-date: 2024-10-11T16:25:50.418Z
-updated: 2024-10-12T18:36:43.422Z
+date: 2024-10-11T19:47:38.254Z
+updated: 2024-10-18T17:54:26.797Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -107,24 +107,21 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/2024-approved-softening-the-end-effective-methods-for-reducing-volume-in-premiere-pro/"><u>2024 Approved Softening the End Effective Methods for Reducing Volume in Premiere Pro</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convert-videos-to-3gp-free-download-of-a-powerful-video-converter-for-mobile-devices/"><u>Convert Videos to 3GP: Free Download of a Powerful Video Converter for Mobile Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-windows-print-support-epson-et-2650-drivers-bundle/"><u>Direct Windows Print Support: Epson ET-2650 Drivers Bundle</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-gtx-970-drivers-windows-11-version/"><u>Download GTX 970 Drivers - Windows 11 Version</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-yamaha-steinberg-audio-driver-pack/"><u>Download Yamaha-Steinberg Audio Driver Pack</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-system-efficiency-update-intel-drivers/"><u>Enhance System Efficiency, Update Intel Drivers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/final-phase-of-the-terrifyingly-funny-wonderfox-halloween-contest-enter-now/"><u>Final Phase of the Terrifyingly Funny WonderFox Halloween Contest – Enter Now!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fingerprint-scanner-v450-driver-release/"><u>Fingerprint Scanner V4.50 Driver Release</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guardian-logitech-webcam-toolkit/"><u>Guardian Logitech Webcam Toolkit</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hassle-free-handling-of-driver-hiccups/"><u>Hassle-Free Handling of Driver Hiccups</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-moto-e13-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Moto E13 to PC? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-swiftly-update-your-windows-71011s-printer-settings-with-new-drivers/"><u>How to Swiftly Update Your Windows 7/10/11'S Printer Settings with New Drivers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/immerse-in-clarity-rokus-sound-and-streaming-enhancement/"><u>Immerse in Clarity: Roku's Sound & Streaming Enhancement</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improved-performance-windows-7-drivers-for-dell-laptops/"><u>Improved Performance: Windows 7 Drivers for Dell Laptops</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XS Max 3 Ways To Unlock</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-the-samsung-galaxy-a20-a-top-pick-review-of-this-budget-smartphone/"><u>Is the Samsung Galaxy A20 a Top Pick? Review of This Budget Smartphone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/subway-surfers-mastery-unlock-the-secrets-with-our-ultimate-top-10-playlist-of-tricks/"><u>Subway Surfers Mastery: Unlock the Secrets with Our Ultimate Top 10 Playlist of Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audio-formatting-guide-from-srt-to-xmlssa-ttml-etc/"><u>[New] Audio Formatting Guide From SRT to XML/SSA, TTML, Etc</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-handbook-for-flawless-snapchat-boomers/"><u>[New] In 2024, The Ultimate Handbook for Flawless Snapchat Boomers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-maze-of-music-rights-on-instagram/"><u>[New] Navigating the Maze of Music Rights on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-firefox-x-pie-mode-decoded-for-everyday-users/"><u>2024 Approved Firefox X-Pie Mode Decoded for Everyday Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-steps-to-smoother-audio-driver-performance/"><u>Easy Steps to Smoother Audio Driver Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-gfx-driver-installation-with-ddu/"><u>Efficient GFX Driver Installation with DDU</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-the-ft232r-universal-uart-dongle-driver/"><u>Effortless Installation of the FT232R Universal UART Dongle Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-display-clarity-new-hp-graphics-drivers-in-windows/"><u>Elevate Display Clarity: New HP Graphics Drivers in WINDOWS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/execute-drivers-patches-in-vista-independently/"><u>Execute Drivers Patches in Vista Independently</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-track-gpu-update-gtx-750-ti/"><u>Fast-Track GPU Update: GTX 750 Ti</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-1650-graphics-driver-for-windows-users/"><u>GTX 1650 Graphics Driver for Windows Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-honor-70-lite-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor 70 Lite 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lightning-fast-the-art-of-windows-file-scanning/"><u>In 2024, Lightning-Fast The Art of Windows File Scanning</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-editing-solutions-for-32-bit-windows-top-picks/"><u>New In 2024, Free Video Editing Solutions for 32-Bit Windows Top Picks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062242675-simplify-usb-drive-management-with-instant-adb-installation/"><u>Simplify USB Drive Management with Instant ADB Installation</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unleash-powerful-english-communication-with-these-tricks/"><u>Unleash Powerful English Communication with These Tricks</u></a></li>
 </ul></div>
 

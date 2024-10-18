@@ -1,7 +1,7 @@
 ---
 title: Harmonizing HP Printer with Win Drivers
-date: 2024-08-08T06:26:37.382Z
-updated: 2024-08-09T06:26:37.382Z
+date: 2024-10-17T19:22:03.581Z
+updated: 2024-10-18T19:35:10.606Z
 tags:
   - win11
   - win10
@@ -16,21 +16,22 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 ## Harmonizing HP Printer with Win Drivers
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-8.png)
 
  If your HP LaserJet 1020 printer series are not working properly, for instance, you see certain error when trying to print, or your printer’s status is off, don’t panic. You can update your**HP LaserJet 1020 printer driver** to the latest version to fix the issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## How to Update HP LaserJet 1020 Driver
 
 1. [Update the printer driver manually](#Fix1)
 2. [Update the printer driver in Device Manager](#Fix2)
 3. [Update the printer driver automatically](#Fix3)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Update the printer driver manually
 
@@ -42,23 +43,16 @@ Time needed:  3 minutes.
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
  Run the downloaded file, and follow the wizard to finish.
@@ -76,11 +70,24 @@ Time needed:  3 minutes.
 3. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
@@ -90,9 +97,6 @@ After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Update the printer driver automatically (Recommended)
 
  Manually installing the HP Laserjet 1020 printer driver requires time and computer skills. If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -103,9 +107,6 @@ After updating, restart your computer.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
@@ -129,8 +130,6 @@ This is a rather easy method, isn’t it?!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,6 +137,24 @@ This is a rather easy method, isn’t it?!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-examining-vidma-as-a-video-recorder-for-screens/"><u>[New] 2024 Approved Examining Vidma as a Video Recorder for Screens</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-create-a-square-video-for-instagram-in-imovie/"><u>[Updated] 2024 Approved How to Create a Square Video for Instagram in iMovie?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[Updated] Best Hashtags for YouTube To Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-breaking-the-norm-eye-catching-talents-amongst-female-youtube-stars/"><u>2024 Approved Breaking the Norm Eye-Catching Talents Amongst Female YouTube Stars</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-software-windows-hp-p1102w/"><u>Download Software: Windows HP P1102w</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-lenovo-g580-drivers-update/"><u>Effortless Lenovo G580 Drivers Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-driver-revamp-mf4770n-windows-compatibility/"><u>Essential Driver Revamp: MF4770n Windows Compatibility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-of-successful-voiceover-integration/"><u>In 2024, Unveiling the Secrets of Successful Voiceover Integration</u></a></li>
+<li><a href="https://driver-install.techidaily.com/power-and-speed-boost-intell-driver-update-guide/"><u>Power & Speed Boost - Intell Driver Update Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-installation-of-m2-storage-on-pcs/"><u>Secure Installation of M.2 Storage on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-lenovo-yogas-performance-one-click/"><u>Simplify Lenovo Yoga's Performance, One Click</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-video-chat-tools-on-windows-6-1-leaders-for-2024/"><u>Top Video Chat Tools on Windows #6-#1 Leaders for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleashing-full-potential-of-your-windows-11-hdmi-display/"><u>Unleashing Full Potential of Your Windows 11 HDMI Display</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-hidden-display-configurations/"><u>Unlock Hidden Display Configurations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063126456-windows-graphics-upgrade-in-a-minute/"><u>Windows Graphics Upgrade in a Minute</u></a></li>
+</ul></div>
 

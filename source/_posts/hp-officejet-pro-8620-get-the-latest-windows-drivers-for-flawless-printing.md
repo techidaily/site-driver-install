@@ -1,7 +1,7 @@
 ---
 title: "HP OfficeJet Pro 8620: Get the Latest Windows Drivers for Flawless Printing"
-date: 2024-08-15T14:37:23.860Z
-updated: 2024-08-16T14:37:23.860Z
+date: 2024-10-15T18:15:08.590Z
+updated: 2024-10-18T17:38:39.519Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
 2. [Update HP OfficeJet Pro 8620 driver in Device Manager](#Fix2)
 3. [Update HP OfficeJet Pro 8620 driver automatically](#Fix3) (Recommended)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Download HP OfficeJet Pro 8620 driver manually
 
  HP support center provides software and drivers for customers to download, so you can manually download the driver you need from the website.
@@ -41,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/a35eb4ebd2d9591cd220cc5c9d326188c8f27a10a
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f337c3865.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  3) Make sure the detected **operating system** is correct, and click**Download** .
 
@@ -56,9 +59,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If this method doesn’t work for you, don’t worry. We have other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Method 2: Update HP OfficeJet Pro 8620 driver in Device Manager
 
  You can also update the driver for HP OfficeJet 8620 printers in Device Manager. Device Manager enables you to view and manage device hardware settings and driver software on your computer. Here’s how to do it:
@@ -68,13 +68,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  1) Make sure you’ve connected your HP printer to your Windows computer.
 
  2) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) In Device Manager, double click**Printers** or**Print queues** to expand it.
 
@@ -87,8 +97,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  6) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7) Follow the on-screen instructions to finish updating the driver.
@@ -96,6 +110,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 8) After updating, restart your computer.
 
 Still no luck? OK. There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
@@ -110,26 +131,24 @@ Still no luck? OK. There’s one more thing to try.
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) After updating, restart your computer to take effect.
@@ -151,8 +170,6 @@ If you have any questions, feel free to add a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,6 +177,18 @@ If you have any questions, feel free to add a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-scale-your-iphones-viewport/"><u>2024 Approved Quick Scale Your iPhone's Viewport</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-the-gap-startech-drivers-in-windows-7-and-10/"><u>Bridge the Gap: StarTech Drivers in Windows 7 & 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-popular-online-communities-facebook-twitter-instagram-and-youtubers/"><u>Comprehensive Guide to Popular Online Communities: Facebook, Twitter, Instagram & YouTubers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-update-your-pcs-hdmi-driver-on-windows/"><u>Efficiently Update Your PC's HDMI Driver on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063424571-enhance-huion-h420-for-windows-easy-steps-ahead/"><u>Enhance Huion H420 for Windows - Easy Steps Ahead</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-newbie-to-pro-in-screenshotting-a-beginners-guide-for-logitech-keyboard-enthusiasts/"><u>From Newbie to Pro in Screenshotting: A Beginner's Guide for Logitech Keyboard Enthusiasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ghostly-replay-instructional-guide-for-2024/"><u>Ghostly Replay Instructional Guide for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-syncing-msi-motherboards-with-windows-versions/"><u>Guide to Syncing MSI Motherboards with Windows VERSIONS</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-practices-reactivating-explore-in-11os/"><u>Powerful Practices: Reactivating Explore in 11OS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-simple-guide-reset-your-facebook-password-instantly/"><u>Quick and Simple Guide: Reset Your Facebook Password Instantly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/release-alert-amds-latest-gpu-updates/"><u>Release Alert: AMD's Latest GPU Updates</u></a></li>
+</ul></div>
 

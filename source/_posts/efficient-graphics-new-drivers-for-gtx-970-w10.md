@@ -1,7 +1,7 @@
 ---
 title: "Efficient Graphics: New Drivers for GTX 970 W10"
-date: 2024-08-08T06:27:17.646Z
-updated: 2024-08-09T06:27:17.646Z
+date: 2024-10-16T16:13:20.860Z
+updated: 2024-10-18T16:30:44.237Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ Follow these steps:
 
  3\. Go to**Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a281dea1340.jpg)
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
@@ -64,24 +58,14 @@ Follow these steps.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5806e27e27212.png)
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)
 
  **Way 3: Update the Driver Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -90,9 +74,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
@@ -109,8 +90,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,6 +97,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/he-top-20-gags-and-laughter-on-youtube-for-downtime-delight-for-2024/"><u>[New] The Top 20 Gags & Laughter on YouTube for Downtime Delight for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ultimate-fruition-for-virtual-quests/"><u>[New] Ultimate Fruition for Virtual Quests</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-your-first-footsteps-in-the-fiscal-world-of-filming/"><u>[Updated] 2024 Approved Your First Footsteps in the Fiscal World of Filming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-dive-into-instagram-filters-2023s-latest-trends-for-2024/"><u>[Updated] Dive Into Instagram Filters 2023'S Latest Trends for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-eliminate-embedded-subtitle-track-from-mp4-video-files-a-step-by-step-guide/"><u>1. Eliminate Embedded Subtitle Track From MP4 Video Files: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amplify-visuals-windows-10-plus-hp-graphics-update/"><u>Amplify Visuals: Windows 10 + HP Graphics Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/connectivity-made-easy-with-one-click-universal-driver-install/"><u>Connectivity Made Easy with One-Click Universal Driver Install!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-refreshing-wireless-drivers-on-pcs/"><u>Efficiently Refreshing Wireless Drivers on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gaomon-s620-installation-quick-and-easy-steps/"><u>Gaomon S620 Installation - Quick and Easy Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-windows-10-atheros-wi-fi-driver-refresh-techniques/"><u>Mastering Windows 10: Atheros Wi-Fi Driver Refresh Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-geforce-gtx-960-driver-version-update/"><u>Nvidia GeForce GTX 960 Driver Version Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-troubleshooting-a-nonfunctional-razer-microphone-a-step-by-step-guide/"><u>Quick Fixes: Troubleshooting a Nonfunctional Razer Microphone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-usbasp-driver-discrepancies-in-windows-environments/"><u>Resolving USBasp Driver Discrepancies in Windows Environments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-gaming-potential-effects-of-ai-created-content-in-the-industry/"><u>Revolutionizing Gaming: Potential Effects of AI-Created Content in the Industry</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7-streamlined-updates-to-improve-hp-graphics/"><u>Win7 Streamlined Updates to Improve HP Graphics</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

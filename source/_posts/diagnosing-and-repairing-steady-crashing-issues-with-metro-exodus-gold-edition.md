@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Steady Crashing Issues with Metro Exodus: Gold Edition"
-date: 2024-10-08T19:04:03.877Z
-updated: 2024-10-12T19:14:19.142Z
+date: 2024-10-12T16:32:30.779Z
+updated: 2024-10-18T16:47:26.201Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 5. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Stop overclocking
 
  Many players would like to try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -39,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
  To reduce the frequency of crashes in Metro Exodus PC Enhanced Edition, you may need to reset the CPU or the graphics card to the manufacturer specifications.
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics drivers
 
@@ -69,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 If the issue persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Verify the integrity of game files
 
  Corrupted game files could also trigger game crashing issues. If it’s the case, you may need to verify if there’s an integrity issue with the game files.
@@ -89,10 +82,10 @@ If the issue persists, try the next fix below.
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
@@ -117,18 +110,25 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -144,24 +144,24 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -197,17 +197,20 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-retro-to-modern-radeon-transition-for-2024/"><u>[New] Retro to Modern Radeon Transition for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boredom-be-gone-find-joy-with-these-top-15-humorists/"><u>[Updated] In 2024, Boredom Be Gone Find Joy with These Top 15 Humorists</u></a></li>
-<li><a href="https://driver-install.techidaily.com/a-guide-to-efficiently-tweak-device-drivers-for-windows-881-users/"><u>A Guide to Efficiently Tweak Device Drivers for Windows 8/8.1 Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-motorola-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Motorola</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-visual-fidelity-of-hp-graphics-on-pc/"><u>Boost Visual Fidelity of HP Graphics on PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-install-updated-hp-officejet-8620-drivers-for-optimal-performance-in-windows/"><u>Download & Install Updated HP OfficeJet 8620 Drivers for Optimal Performance in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fix-conflicts-ensure-seamless-operation-of-hp-laserjet-pro-400-on-win-os/"><u>Fix Conflicts: Ensure Seamless Operation of HP LaserJet Pro 400 on Win OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guidance-to-reestablish-nvidia-software-on-pcs/"><u>Guidance to Reestablish NVIDIA Software on PCs</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/how-microsofts-new-250-surface-laptop-se-and-windows-11-se-are-revolutionizing-education-insights-from-zdnet/"><u>How Microsoft's New $250 Surface Laptop SE and Windows 11 SE Are Revolutionizing Education - Insights From ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-zero-5g-2023-turbo-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Zero 5G 2023 Turbo Face Lock?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/rufususb/"><u>RufusでブータブルUSBがうまくいかない？これで一発！簡単解決法</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ultimate-list-of-superior-car-surveillance-cams/"><u>[New] 2024 Approved Ultimate List of Superior Car Surveillance Cams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-chucklecanvas-draw-hilarious-social-media-art/"><u>[New] ChuckleCanvas Draw Hilarious Social Media Art</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-essentials-of-efficient-video-tagging-methods/"><u>[Updated] In 2024, The Essentials of Efficient Video Tagging Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-x-fold-2-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo X Fold 2 by Name | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-restoration-in-windows-11-with-drivers-upgrade/"><u>Audio Restoration in Windows 11 with Drivers Upgrade</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capturing-instantly-with-iphone-timelapse-techniques/"><u>Capturing Instantly with iPhone Timelapse Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-route-to-flawless-nvidia-drivers-revision/"><u>Direct Route to Flawless Nvidia Drivers Revision</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-hardware-enhancement-install-now/"><u>Effortless Hardware Enhancement, Install Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-display-with-latest-hp-driver-for-win11/"><u>Enhance Display with Latest HP Driver for Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-standard-pixels-to-dynamic-range-extremes-a-transformation-journey/"><u>From Standard Pixels to Dynamic Range Extremes A Transformation Journey</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-5450-windows-drivers-swift-and-simple-win11-fixes/"><u>HD 5450 Windows Drivers - Swift & Simple Win11 Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-envy-5530-driver-compatibility-for-windows-11/"><u>HP Envy 5530 Driver Compatibility for Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063656167-lenovo-g580-seamless-driver-updates/"><u>Lenovo G580: Seamless Driver Updates</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-15-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 15 Pro</u></a></li>
 </ul></div>
 

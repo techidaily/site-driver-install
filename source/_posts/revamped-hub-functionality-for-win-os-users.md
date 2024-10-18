@@ -1,7 +1,7 @@
 ---
 title: Revamped Hub Functionality for WIN OS Users
-date: 2024-10-11T16:12:22.274Z
-updated: 2024-10-12T17:55:34.164Z
+date: 2024-10-14T18:47:36.653Z
+updated: 2024-10-18T17:04:38.097Z
 tags:
   - win11
   - win10
@@ -36,47 +36,40 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and**R** at the same time to invoke the**Run** box.
 2. Type**devmgmt.msc** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Method 2: Update Generic USB Hub driver automatically
 
@@ -90,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5be1edc38.jpg)
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
@@ -115,17 +115,21 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/oes-immediate-subscribing-affect-content-recommendations-in-2024/"><u>[New] Does Immediate Subscribing Affect Content Recommendations, In 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-vibrant-voices-energizing-conversations-with-subscribers/"><u>[Updated] In 2024, Vibrant Voices Energizing Conversations With Subscribers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-dji-mini-and-air-2-mixing-made-easy-with-20-free-luts/"><u>2024 Approved DJI Mini & Air 2 Mixing Made Easy with 20 Free LUTS</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-escort-max-t-360-analysis-advanced-radar-and-gps-detector-unveiled/"><u>Comprehensive Escort Max T 360 Analysis - Advanced Radar & GPS Detector Unveiled</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-steps-for-successful-hard-drive-data-restoration/"><u>Comprehensive Steps for Successful Hard Drive Data Restoration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-f25-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo F25 Pro 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-tempo-a-guide-to-instagram-story-adjustments-for-2024/"><u>Mastering Tempo A Guide to Instagram Story Adjustments for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-new-firmware-updates-optimal-amd-drivers-in-windows-systems/"><u>Navigating New Firmware Updates: Optimal AMD Drivers in Windows Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/network-fixation-restoring-qualcomm-wireless-operator/"><u>Network Fixation: Restoring Qualcomm Wireless Operator</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-1650-windows-os-compatible/"><u>NVIDIA GTX 1650: Windows OS Compatible</u></a></li>
-<li><a href="https://driver-install.techidaily.com/professional-sound-support-amd-version/"><u>Professional Sound Support, AMD Version</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/vsdm-video-capture-overview-thorough-scrutiny/"><u>VSDM Video Capture Overview Thorough Scrutiny</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-key-to-profit-youtube-shorts-insights-for-2024/"><u>[Updated] The Key to Profit YouTube Shorts Insights for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/hphpwindows113/"><u>「古いHPコンピュータに保存しておいたデータを新しいHP環境でWindows11へ転送する3つの方法」</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-bluetooth-usb-adapter-setup-instructions/"><u>Asus Bluetooth USB Adapter Setup Instructions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-hp-envy-drivers-on-windows-10-laptop/"><u>Configure HP Envy Drivers on Windows 10 Laptop</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conquering-usbasp-driver-hurdles-on-widely-spanning-windows-oss/"><u>Conquering USBasp Driver Hurdles on Widely Spanning Windows OSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-managing-amd-video-driver-updates/"><u>Efficiently Managing AMD Video Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062446482-effortless-hardware-enhancement-install-now/"><u>Effortless Hardware Enhancement, Install Now!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevate-your-instagram-videos-size-and-quality-insights-for-2024/"><u>Elevate Your Instagram Videos Size and Quality Insights for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-logitech-cam-software/"><u>Essential Logitech Cam Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-generic-volume-controller-malfunction/"><u>Fixing Windows Generic Volume Controller Malfunction</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-asus-bt400-driver-and-tutorial-for-pcs/"><u>Free Asus BT400 Driver & Tutorial for PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-12-mini-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 12 mini Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-360-live-streaming-cameras-for-youtube-and-facebook-for-2024/"><u>Top 360 Live Streaming Cameras for YouTube and Facebook for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-5-web-based-tools-for-optimizing-and-shrinking-your-gifs/"><u>Top 5 Web-Based Tools for Optimizing and Shrinking Your GIFs</u></a></li>
 </ul></div>
 

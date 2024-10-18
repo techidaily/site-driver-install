@@ -1,7 +1,7 @@
 ---
 title: Improve Realtek PCIe GBE Chipset Support in Win11 Release Notes
-date: 2024-08-15T14:36:31.070Z
-updated: 2024-08-16T14:36:31.070Z
+date: 2024-10-12T16:03:28.345Z
+updated: 2024-10-18T19:03:10.305Z
 tags:
   - win11
   - win10
@@ -57,27 +57,32 @@ _Realtek PCIe GBE Familly Controller_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Use Windows Update
 
  You can use [Windows Update](https://tools.techidaily.com/drivereasy/download/) to check for the updates in Windows 10\. It may help install the driver for your Realtek PCIe GbE Family Controller. If this feature in your Window 10 has been set to install updates automatically, you can skip this way.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0236547c83.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3\. Update the Driver Manually
 
  You can go to your PC manufacturer’s website to download the Windows 10 driver for this device. Alternatively, you can visit [Realtek](http://www.realtek.com/downloads/) website to download the Windows 10 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-521.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Usually, the driver can be self-installing. After you download the driver, double-click on the file to begin the installation. If the driver cannot be installed in this way, you might have to install it manually, then follow steps below to install the driver.
 
@@ -86,27 +91,32 @@ _Realtek PCIe GBE Familly Controller_
  2) Type **devmgmt.msc** in the run box and click **OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0234c3a594.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
  3) In Device Manager, expand category **Network adapters** . Under this category, right-click on the**Realtek PCIe GbE Family Controller** . Then click**Update Driver Software…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023a099bb2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Browse my Computer for driver software.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023ca8557c.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023f947709.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
  6) Click on   **Next** button to install the driver.
 
@@ -122,8 +132,6 @@ _Realtek PCIe GBE Familly Controller_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,6 +139,21 @@ _Realtek PCIe GBE Familly Controller_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-perfect-your-visual-storytelling-inserting-titles-into-photo-videos-on-windows/"><u>[New] 2024 Approved Perfect Your Visual Storytelling Inserting Titles Into Photo Videos on Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-exploring-whether-itop-fits-your-tech-needs/"><u>[New] In 2024, Exploring Whether ITop Fits Your Tech Needs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party-for-2024/"><u>[Updated] Best GoPro Hero5 Black Batteries & Chargers Official and 3Rd Party for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/bring-back-faded-watch-icon-artwork-for-2024/"><u>Bring Back Faded Watch Icon Artwork for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-use-guide-making-trackir-functional/"><u>Download & Use Guide: Making TrackIR Functional</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-pc-gtx-970-driver-update-wins/"><u>Enhance Your PC: GTX 970 Driver Update Wins</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-lenovo-driver-update-yoga-900-pro/"><u>Hassle-Free Lenovo Driver Update: Yoga 900 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/immersive-education-experience-windows-11-tutorials/"><u>Immersive Education Experience: Windows 11 Tutorials</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-pova-6-pro-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Pova 6 Pro 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/medd-for-windows-107-installation/"><u>MEDD for Windows 10/7 Installation</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-audio-dial-achieving-smooth-volume-ramp-ups/"><u>New 2024 Approved Audio Dial Achieving Smooth Volume Ramp-Ups</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-magic5-ultimate-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor Magic5 Ultimate Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unified-gaming-platform-controller-support/"><u>Unified Gaming Platform Controller Support</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-stellar/"><u>Windows 用の失われたファイルを復元する Stellar データリカバリ -無料版でも利用可能</u></a></li>
+</ul></div>
 

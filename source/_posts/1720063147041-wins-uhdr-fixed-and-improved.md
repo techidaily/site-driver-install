@@ -1,7 +1,7 @@
 ---
 title: Win's UHDR - Fixed and Improved
-date: 2024-08-08T06:25:12.908Z
-updated: 2024-08-09T06:25:12.908Z
+date: 2024-10-11T18:53:39.962Z
+updated: 2024-10-18T18:39:23.866Z
 tags:
   - win11
   - win10
@@ -29,39 +29,53 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Method 1: Update Generic USB Hub driver manually
 
  As Microsoft provides drivers for most of the USB devices, you can directly download the Generic USB Hub driver from Windows to update. To do so:
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and**R** at the same time to invoke the**Run** box.
 2. Type**devmgmt.msc** and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Method 2: Update Generic USB Hub driver automatically
 
@@ -73,16 +87,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5be1edc38.jpg)
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
 4. Restart your computer to take effect.
 
@@ -97,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,6 +112,22 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-macpc-screenshot-toolkit-for-desktops/"><u>[Updated] 2024 Approved Best MacPC Screenshot Toolkit for Desktops</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-age-old-artwork-free-from-modern-constraints/"><u>2024 Approved Age-Old Artwork Free From Modern Constraints</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-compreenas-guide-to-the-best-6-helmet-attachments-for-gopros/"><u>A Compreenas Guide to The Best 6 Helmet Attachments for GOPROs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-and-edit-videos-with-movavi-on-your-mac-ideal-for-various-codecs-and-formats/"><u>Convert and Edit Videos with Movavi on Your Mac: Ideal for Various Codecs and Formats</u></a></li>
+<li><a href="https://driver-install.techidaily.com/device-driver-installation-basics/"><u>Device Driver Installation Basics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-driver-installation-tips/"><u>Essential Driver Installation Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063687158-get-your-tp-link-wireless-adapter-software-no-price/"><u>Get Your TP Link Wireless Adapter Software, No Price!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-12-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 12 without Security Questions?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-touch-enhancement-for-windows-10-users/"><u>Instant Touch Enhancement for Windows 10 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quickly-enable-bluetooth-on-windows-7/"><u>Quickly Enable Bluetooth on Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-acer-visual-support-on-windows-11/"><u>Revamp Acer Visual Support on Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solved-cant-spot-wn722n-in-windows-how-we-fixed-it/"><u>Solved: Can't Spot WN722N in Windows – How We Fixed It!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-state-of-control-is-openai-losing-its-hold-over-chatgpt/"><u>The State of Control: Is OpenAI Losing Its Hold Over ChatGPT?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-discover-the-top-10-2d-animation-software-for-windows-and-mac/"><u>Updated In 2024, Discover the Top 10 2D Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-xbox-one-controller-support-software/"><u>Windows 11 Xbox One Controller Support Software</u></a></li>
+</ul></div>
 
