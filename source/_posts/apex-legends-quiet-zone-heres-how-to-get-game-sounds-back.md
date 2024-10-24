@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Quiet Zone? Here's How to Get Game Sounds Back!
-date: 2024-10-15T18:33:10.480Z
-updated: 2024-10-18T18:53:51.645Z
+date: 2024-10-18T22:12:34.997Z
+updated: 2024-10-23T17:38:47.447Z
 tags:
   - win11
   - win10
@@ -30,19 +30,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
@@ -63,10 +50,10 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to troubleshoot your problem.
@@ -112,15 +99,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
 
@@ -130,16 +124,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
 
@@ -183,20 +177,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-effective-strategies-to-capture-and-save-google-voice-dialogues/"><u>[New] In 2024, Effective Strategies to Capture and Save Google Voice Dialogues</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-discover-10-budget-friendly-vectors-and-design-pages-for-2024/"><u>[Updated] Discover 10 Budget-Friendly Vectors and Design Pages for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-conjoin-video-streams-for-queue-curation/"><u>2024 Approved Conjoin Video Streams for Queue Curation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/beat-the-bugs-in-track-drivers-m-audio/"><u>Beat the Bugs in Track Drivers (M-Audio)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/conexants-high-definition-audio-driver-for-windows-11-success/"><u>Conexant's High Definition Audio Driver for Windows 11 Success</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-lava-blaze-2-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Lava Blaze 2 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062526182-fast-and-hassle-free-usb-drivers-in-a-moment/"><u>Fast & Hassle-Free USB Drivers in a Moment!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/graphics-perfection-at-the-touch-of-three-keys/"><u>Graphics Perfection at the Touch of Three Keys</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-for-seamless-integration-of-updated-nvidia-sound-drivers-in-win11/"><u>Guide for Seamless Integration of Updated NVIDIA Sound Drivers in Win11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-x9a-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor X9a Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-your-amd-rx-5700-firmware/"><u>How to Update Your AMD RX 5700 Firmware</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-heroic-quests-ranking-gaming-epics-in-action-adventure/"><u>In 2024, Heroic Quests Ranking Gaming Epics in Action-Adventure</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-instagram-share-of-todays-thought-provoking-talk/"><u>In 2024, Instagram Share of Today's Thought-Provoking Talk</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ready-set-fly-dji-spark-reviewed-for-selfie-enthusiasts-and-photographers-alike/"><u>Ready, Set, Fly DJI Spark Reviewed for Selfie Enthusiasts and Photographers Alike</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-displays-made-easy-solutions-to-settle-problems/"><u>Windows Displays Made Easy: Solutions to Settle Problems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-essentials-of-combining-apple-music-and-videos/"><u>[Updated] 2024 Approved The Essentials of Combining Apple Music & Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-flawless-visual-cuts-mastering-in-and-out-techniques-for-2024/"><u>[Updated] Flawless Visual Cuts Mastering 'In and Out' Techniques for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-correcting-lameencdll-problems-in-audio-editing-software/"><u>Effective Solutions for Correcting lame_enc.dll Problems in Audio Editing Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-overcome-obstacles-in-windows-driver-installation/"><u>How to Overcome Obstacles in Windows Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-connection-airspace-proxy-w7/"><u>Smooth Connection: Airspace Proxy W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smoothen-windows-11-display-update-your-hdmi-drivers-now/"><u>Smoothen Windows 11 Display: Update Your HDMI Drivers Now</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tailoring-video-content-for-igtv-with-horizontal-footage-for-2024/"><u>Tailoring Video Content for IGTV with Horizontal Footage for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-audio-enhancement-installation-of-hd-drivers-by-conexant/"><u>Windows 11 Audio Enhancement - Installation of HD Drivers by Conexant</u></a></li>
 </ul></div>
 

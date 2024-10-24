@@ -1,7 +1,7 @@
 ---
 title: "Smooth Printing: Fixed HP LaserJet on Windows"
-date: 2024-10-07T16:36:49.538Z
-updated: 2024-10-12T17:37:09.147Z
+date: 2024-10-17T01:03:47.636Z
+updated: 2024-10-24T13:12:50.401Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ Time needed:  3 minutes.
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run the downloaded file, and follow the wizard to finish.
 
 ### Method 2: Update the printer driver in Device Manager
@@ -65,38 +58,45 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
 
@@ -110,6 +110,19 @@ After updating, restart your computer.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -142,18 +155,15 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-captivating-startups-discovering-the-best-15-video-intros-for-2024/"><u>[Updated] Captivating Startups Discovering the Best 15 Video Intros for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-video-aesthetics-on-tiktok-dual-approach/"><u>2024 Approved Transforming Video Aesthetics on TikTok (Dual Approach)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726029178515-aacitunes/"><u>AAC形式への変換に失敗した場合のiTunesでのトラブルシューティング手順</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-realme-12-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme 12 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-problems-for-a-perfect-sound-sennheiser-game-one-mic-troubleshooting/"><u>Fixing Common Problems for a Perfect Sound: Sennheiser Game One Mic Troubleshooting</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-conversion-transform-avi-files-into-mkv-format-with-ease-movavi/"><u>Free Online Conversion: Transform AVI Files Into MKV Format with Ease - Movavi</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-omnicharge-omni-20-portable-power-bank-your-go-to-multi-functional-charging-solution-with-qi-technology/"><u>Review: Omnicharge Omni 20 Portable Power Bank – Your Go-To Multi-Functional Charging Solution with Qi Technology</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-synergy-updating-windows-and-intels/"><u>Seamless Synergy: Updating Windows and Intels</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamlessly-updating-atheros-drivers-to-optimize-windows-10-wifi/"><u>Seamlessly Updating Atheros Drivers to Optimize Windows 10 Wifi</u></a></li>
-<li><a href="https://driver-install.techidaily.com/supercharge-laptops-new-drivers-from-dell-and-windows/"><u>Supercharge Laptops: New Drivers From Dell and Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/trim-guide-how-to-effortlessly-replace-bluetooth-drivers/"><u>Trim Guide: How To Effortlessly Replace Bluetooth Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-compatible-installing-razer-mice-drivers/"><u>Windows Compatible: Installing Razer Mice Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-installation-microsoft-surface-pro-4-drivers/"><u>Windows Installation: Microsoft Surface Pro 4 Drivers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-dji-phantom-3-professional-review-for-2024/"><u>[New] DJI Phantom 3 Professional Review for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-metaverse-persona-design-a-beginners-compreraniary-guide-for-2024/"><u>[New] Metaverse Persona Design A Beginner's Compreraniary Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-skype-soundtrack-hub-finding-the-right-tones-online-for-2024/"><u>[Updated] Skype Soundtrack Hub Finding the Right Tones Online for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-showdown-of-projectors-and-tvs-in-a-4k-setting-for-2024/"><u>[Updated] The Ultimate Showdown of Projectors & TVs in a 4K Setting for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-enhance-and-modernize-dell-audio-systems/"><u>How to Enhance and Modernize Dell Audio Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-v29-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo V29 Pro?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intel-driver-boost-for-win-10781/"><u>Intel Driver Boost for WIN 10/7/8.1</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/professional-recording-apps-faceoff-obs-vs-fraps/"><u>Professional Recording Apps Faceoff – OBS vs Fraps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalizing-your-scanner-update-s1500-drivers-effectively/"><u>Revitalizing Your Scanner: Update S1500 Drivers Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speed-up-computing-with-intelligent-520/"><u>Speed Up Computing with Intelligent 520</u></a></li>
 </ul></div>
 

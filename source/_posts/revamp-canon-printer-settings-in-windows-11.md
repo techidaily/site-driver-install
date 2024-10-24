@@ -1,7 +1,7 @@
 ---
 title: Revamp Canon Printer Settings in Windows 11
-date: 2024-10-12T17:11:09.982Z
-updated: 2024-10-18T17:38:12.978Z
+date: 2024-10-16T19:11:24.589Z
+updated: 2024-10-24T11:19:22.747Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -68,6 +75,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
  Click**Check for updates** , and then wait while Windows looks for the latest updates for your computer.
@@ -75,22 +89,15 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
 
@@ -107,10 +114,10 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
@@ -118,13 +125,6 @@ For some printers, you need to update the drivers manually step by step.
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -143,20 +143,18 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-rapid-reference-green-screen-basics/"><u>[New] Rapid Reference Green Screen Basics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/breeze-through-m-audio-track-troubles/"><u>Breeze Through M-Audio Track Troubles</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-upgrade-sound-support-with-updated-audio-drivers-in-win11/"><u>Efficiently Upgrade Sound Support with Updated Audio Drivers in Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-connectivity-download-asus-bt400-drivers/"><u>Enhance Connectivity: Download Asus BT400 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-visual-experience-windows-version/"><u>Enhance Visual Experience Windows Version</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-drivers-download-canon-xp-print-software/"><u>Essential Drivers: Download Canon XP Print Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/geforce-update-improved-gpu-drivers-gtx-1060/"><u>GeForce Update: Improved GPU Drivers GTX 1060</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-best-student-focused-historical-yt-series/"><u>In 2024, Best Student-Focused Historical YT Series</u></a></li>
-<li><a href="https://driver-install.techidaily.com/innovate-and-improve-prints-download-hp-projector-8710-software-windows/"><u>Innovate and Improve Prints - Download HP Projector 8710 Software (Windows)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mixing-masterclass-elevate-drone-audio-with-20-complimentary-luts/"><u>Mixing Masterclass - Elevate Drone Audio with 20 Complimentary LUTs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/shortcuts-to-fluent-urdu/"><u>Shortcuts to Fluent Urdu!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-installing-nvidias-most-recent-rtx-1080-graphics-drivers-on-windows-7-computers/"><u>Ultimate Guide to Installing NVIDIA's Most Recent RTX 1080 Graphics Drivers on Windows 7 Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-photos-shortcuts-for-the-savvy-editor/"><u>Windows Photos Shortcuts for the Savvy Editor</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-avoid-unsolicited-podcast-selections-by-spotify-for-2024/"><u>[New] Avoid Unsolicited Podcast Selections by Spotify for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ethical-approaches-to-extract-and-convert-youtube-videos-for-2024/"><u>[New] Ethical Approaches to Extract and Convert YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-tactics-for-securing-royalty-free-creative-pieces/"><u>[Updated] In 2024, Tactics for Securing Royalty-Free Creative Pieces</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-growth-and-glitter-in-video-ventures-for-2024/"><u>[Updated] The Ultimate Guide to Growth & Glitter in Video Ventures for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-content-gaining-profits-an-insiders-tale-on-instagram-sponsorship-for-2024/"><u>Crafting Content, Gaining Profits An Insider's Tale on Instagram Sponsorship for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/deciphering-and-resolving-flaws-in-flat-cars-hawkui-edition/"><u>Deciphering & Resolving Flaws in Flat Cars: Hawkui Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-enhancement-for-gtx-750-ti-drivers/"><u>Direct Enhancement for GTX 750 Ti Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-driver-update-in-windows-10-acers-secret-weapon/"><u>Effortless Driver Update in Windows 10 - Acer's Secret Weapon</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-setup-download-canon-xp-drivers/"><u>Effortless Setup: Download Canon XP Drivers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-10-sci-fi-vr-adventures-unveiling-distant-realities/"><u>In 2024, 10 Sci-Fi VR Adventures Unveiling Distant Realities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-xr-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone XR Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-display-settings-install-hp-graphics-in-win11/"><u>Streamline Display Settings: Install HP Graphics in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-wacom-software-for-enhanced-performance-in-win-10117/"><u>Updating Wacom Software for Enhanced Performance in Win 10/11/7</u></a></li>
 </ul></div>
 

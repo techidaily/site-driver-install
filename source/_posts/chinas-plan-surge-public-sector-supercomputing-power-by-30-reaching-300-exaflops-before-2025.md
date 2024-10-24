@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-10-11T18:36:31.606Z
-updated: 2024-10-18T17:48:06.103Z
+date: 2024-10-19T08:29:58.357Z
+updated: 2024-10-24T13:35:02.314Z
 tags:
   - desktop
 categories:
@@ -56,24 +56,30 @@ Today we have one great deal that turns into two when you take up a bundle offer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-mastering-motion-effects-in-ai-enhancing-photoshop-images/"><u>[New] Mastering Motion Effects in AI Enhancing Photoshop Images</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cambiar-archivo-tga-a-formato-de-linea-gratuito-con-movavi/"><u>Cambiar Archivo TGA a Formato De Línea Gratuito Con Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-new-os-on-xerox-model-c6515/"><u>Install New OS on Xerox Model C6515</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-conjuncts-with-pearson-academic-fusion/"><u>Mondly Conjuncts With Pearson Academic Fusion</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quickly-upgrade-to-latest-lexmark-printer-driver/"><u>Quickly Upgrade to Latest Lexmark Printer Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-realtek-drivers-for-optimal-performance/"><u>Revamping Realtek Drivers for Optimal Performance</u></a></li>
-<li><a href="https://video-capture.techidaily.com/screen-it-right-best-free-apps-for-mac-and-windows-recording/"><u>Screen It Right! Best Free Apps for Mac and Windows Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-ps4-nat-error-complete-tutorial-and-fix-guide/"><u>Solve Your PS4 NAT Error: Complete Tutorial & Fix Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-beginner-friendly-video-editing-software-top-free-options/"><u>Updated Beginner-Friendly Video Editing Software Top Free Options</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-1087-medd-installer-guide/"><u>Windows 10/8/7 MEDD Installer Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/digital-absence-in-third-party-info-confirmed/"><u>Digital Absence in Third-Party Info Confirmed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-hub/"><u>Discover the Latest in Tech with Tom's Hardware Hub</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-six-online-bargain-hubs-to-slash-your-spending/"><u>Discover the Ultimate Six Online Bargain Hubs to Slash Your Spending</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-realtek-hd-graphics-drivers-troubleshooting-guide-and-solutions/"><u>Fixing Realtek HD Graphics Drivers: Troubleshooting Guide and Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-vr-tech-trends-right-now/"><u>In 2024, VR Tech Trends Right Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-insights-by-toms-engineering-reviews/"><u>In-Depth Computer Insights by Tom's Engineering Reviews</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-software-integration-with-lenovos-u310/"><u>Intuitive Software Integration with Lenovo's U310</u></a></li>
+<li><a href="https://driver-install.techidaily.com/modernizing-old-systems-amd-drivers-and-windows-compatibility/"><u>Modernizing Old Systems: AMD Drivers & Windows Compatibility</u></a></li>
+<li><a href="https://driver-install.techidaily.com/practical-guide-to-updating-device-drivers-on-windows-881/"><u>Practical Guide to Updating Device Drivers on Windows 8/8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precision-wacom-driver-safe-and-compatible-with-windows-tablets/"><u>Precision Wacom Driver - Safe & Compatible with Windows Tablets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/saturation-perfection-tool/"><u>Saturation Perfection Tool</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-phone-dimensions-the-essential-role-of-the-camera-bump-a-non-negotiable-feature/"><u>Understanding Phone Dimensions: The Essential Role of the Camera Bump - A Non-Negotiable Feature</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

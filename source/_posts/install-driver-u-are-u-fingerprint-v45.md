@@ -1,7 +1,7 @@
 ---
 title: "Install Driver: U-Are-U Fingerprint V4.5"
-date: 2024-08-15T14:40:10.483Z
-updated: 2024-08-16T14:40:10.483Z
+date: 2024-10-16T19:36:23.843Z
+updated: 2024-10-23T20:40:11.808Z
 tags:
   - win11
   - win10
@@ -37,48 +37,44 @@ OR
  1) If you’d like to update your U.are.U 4500 driver manually, you can download the correct and latest driver from the official website of [Digital Persona](https://devportal.digitalpersona.com/portal.php) . Log in and download the exact driver according to your Windows version (such as Windows 10 Pro, 64-bit).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-27_15-45-07.png)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Or you can obtain the driver from your PC vendor. You’ll need to visit the official website of Lenovo, Dell, or any other vendors, and locate its**Support** section. Then select**Drivers & Software** or**Drivers & Download** to enter the download page of drivers. Search for**U.are.U 4500 fingerprint reader driver** and download the exact driver according to your Windows variant.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 #### Step 2: Install the driver manually
 
  1) On your keyboard, press the **Windows logo key + R** at the same time, type **devmgmt.msc** , and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device-manager-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double click**Biometric devices** , then right-click**U.are.U 4500 Fingerprint Reader,** and select **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-936.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Select the driver file and click**Next** , then wait for the installation process to finish.
@@ -102,21 +98,25 @@ See if your fingerprint reader works properly again.
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
 
  Or click the**Update All** button to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get full support and 30 day money-back guarantee. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your PC after finishing installing.
 
@@ -135,8 +135,6 @@ See if your fingerprint reader works properly again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,6 +142,17 @@ See if your fingerprint reader works properly again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-gopro-editor-software-for-smartphone-users/"><u>[Updated] 2024 Approved Expert GoPro Editor Software for Smartphone Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-understanding-podcast-profit-margins/"><u>[Updated] 2024 Approved Understanding Podcast Profit Margins</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-customizable-mcb-visuals-for-youtube-banners/"><u>2024 Approved Customizable MCB Visuals for YouTube Banners</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/descubre-el-secreto-para-transformar-videos-pobremente-grabados-en-hd4k-profesionales-con-pcs-y-macbooks-paso-a-paso/"><u>Descubre El Secreto Para Transformar Videos Pobremente Grabados en HD/4K Profesionales Con PCs Y MacBooks - Paso a Paso</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reactivate-bluetooth-instructions-for-windows-11/"><u>Reactivate Bluetooth: Instructions for Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-driver-update-for-hyperx-audio-products/"><u>Step-by-Step Driver Update for HyperX Audio Products</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-driver-upgrade-techniques-for-hyperx-headsets/"><u>Streamlined Driver Upgrade Techniques for HyperX Headsets</u></a></li>
+<li><a href="https://win11.techidaily.com/the-definitive-guide-on-defeating-windows-11s-0x8007045d-error/"><u>The Definitive Guide on Defeating Windows 11'S 0X8007045D Error</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/tuneful-texting-whatsapp-audio-integration-for-2024/"><u>Tuneful Texting WhatsApp Audio Integration for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-atheros-wi-fi-on-windows-10-step-by-step-guide/"><u>Updating Atheros Wi-Fi on Windows 10: Step by Step Guide</u></a></li>
+</ul></div>
 

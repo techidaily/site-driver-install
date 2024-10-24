@@ -1,7 +1,7 @@
 ---
 title: Stepwise Approach to Install and Update AMD Video Drivers
-date: 2024-10-10T17:05:09.986Z
-updated: 2024-10-12T16:14:08.103Z
+date: 2024-10-21T07:03:40.846Z
+updated: 2024-10-24T00:44:42.224Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 2. [Update your AMD video driver automatically](#Fix2)
 3. [Update your AMD video driver in Device Manager](#Fix3)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Download your AMD video driver manually
 
  As one of the biggest manufacturers of graphics cards, you can download the latest version of your AMD graphics driver from the AMD website:
@@ -40,16 +53,22 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f81d33633c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can identify your AMD graphics hardware by selecting your video card model and Windows system to download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f82b2be76c.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Select the latest driver that is matched with your system to download.
 
@@ -58,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 5) Restart your computer.
 
  Manually downloading drivers requires time and computer skills. If this method doesn’t work for you, you can try other solutions.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Update your AMD video driver automatically
 
@@ -80,18 +92,24 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b11094416ece.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged graphics card device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f84eae6ca1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
@@ -104,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 **Note** : the screenshots below come from Windows 10, but the fixes also work on Windows 8 and Windows 7.
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type**devmgmt.msc** and click**OK** .
 
@@ -125,21 +136,22 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) If you have the AMD video driver in a DVD or CD delivered with your graphics card, you can choose**Browse my computer for driver software** , then insert the DVD into your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85aa9e26e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don’t have the AMD video driver stored in the DVD media, you can choose**Search automatically for updated driver software** .
 
@@ -173,15 +185,18 @@ Feel free to add a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-dialing-up-deliverables-a-comprehensive-guide-to-gainful-vlogging/"><u>[New] 2024 Approved Dialing Up Deliverables A Comprehensive Guide to Gainful Vlogging</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-high-resolution-monitors-for-pc-and-laptop-games/"><u>[New] Affordable, High-Resolution Monitors for PC & Laptop Games</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-from-joiner-writhe-step-by-step-strategy-for-achieving-partner-status/"><u>[New] In 2024, From Joiner' Writhe Step-by-Step Strategy for Achieving Partner Status</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bard-by-google-next-chapter-in-ai-evolution-after-gpt/"><u>Bard by Google: Next Chapter in AI Evolution After GPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-a24-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy A24 Easily?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-logitech-webcam-updater-for-windows-10/"><u>Secure Logitech Webcam Updater for Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-audio-support-in-ws1111-version-upgrade/"><u>Streamlining Audio Support in WS11/11 Version Upgrade</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-the-functionality-of-the-android-systems-webview-component/"><u>Understanding the Functionality of the Android System's WebView Component</u></a></li>
-<li><a href="https://driver-install.techidaily.com/uninstalling-and-refresh-wacom-drivers-on-multiple-windows-editions/"><u>Uninstalling & Refresh Wacom Drivers on Multiple Windows Editions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-new-capabilities-in-huion-h420-via-windows-updates/"><u>Unlock New Capabilities in Huion H420 via Windows Updates</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-craft-engaging-narratives-for-facebook-reels/"><u>[New] How to Craft Engaging Narratives for Facebook Reels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-perfectly-crafted-online-meeting-backdrops/"><u>[Updated] 2024 Approved Perfectly Crafted Online Meeting Backdrops</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fb-media-migration-tools-for-windowsmacos-users/"><u>[Updated] In 2024, FB Media Migration Tools for Windows/macOS Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mastery-of-playback-essential-skills-in-ps3-recording/"><u>2024 Approved Mastery of Playback Essential Skills in PS3 Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-unveils-initial-visionos-revamp-enhancing-user-profiles-and-more-discover-the-latest-innovations/"><u>Apple Unveils Initial VisionOS Revamp, Enhancing User Profiles & More - Discover the Latest Innovations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-9-mic-recorder-selections-for-online-use-in-23/"><u>Essential 9 Mic Recorder Selections for Online Use in '23</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-downloading-and-installing-officejet-8620-drivers-on-pcs/"><u>Guide to Downloading and Installing OfficeJet 8620 Drivers on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-your-hp-laserjet-with-latest-windows-11-drivers/"><u>Harmonize Your HP Laserjet with Latest Windows 11 Drivers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-much-does-youtube-pay-for-1-million-views/"><u>How Much Does YouTube Pay for 1 Million Views?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/in-depth-guide-starting-anew-with-graphics-drivers/"><u>In-Depth Guide: Starting Anew with Graphics Drivers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-days-gone-motorcycle-adventure-amidst-a-global-zombie-crisis/"><u>Review of Days Gone: Motorcycle Adventure Amidst a Global Zombie Crisis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solve-udp-ftdi-link-problems/"><u>Solve UDP-FTDI Link Problems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

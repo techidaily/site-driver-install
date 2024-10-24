@@ -1,7 +1,7 @@
 ---
 title: Unlock Full USB Support on WIN OS
-date: 2024-10-17T19:06:46.734Z
-updated: 2024-10-18T16:06:31.084Z
+date: 2024-10-18T09:23:35.206Z
+updated: 2024-10-23T23:23:59.361Z
 tags:
   - win11
   - win10
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Update Generic USB Hub driver manually
 
  As Microsoft provides drivers for most of the USB devices, you can directly download the Generic USB Hub driver from Windows to update. To do so:
@@ -37,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 2. Type**devmgmt.msc** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
@@ -49,20 +68,27 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Method 2: Update Generic USB Hub driver automatically
 
@@ -77,23 +103,9 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5be1edc38.jpg)
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance
 
@@ -115,20 +127,14 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-coloredge-clarity-redefined-examining-eizos-4kcg318-display/"><u>[New] 2024 Approved ColorEdge Clarity Redefined – Examining EIZO’s 4KCG318 Display</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-time-capsule-converting-single-photographs-to-video/"><u>[New] 2024 Approved Time Capsule Converting Single Photographs to Video</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-beginners-backstage-pass-to-photo-tricks/"><u>[Updated] 2024 Approved Beginner's Backstage Pass to Photo Tricks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-10-no-cost-video-conferencing-solutions-unveiled/"><u>[Updated] In 2024, Best 10 No-Cost Video Conferencing Solutions Unveiled</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-silence-disabling-participants-in-gmeet-calls-for-2024/"><u>[Updated] Mastering Silence Disabling Participants in GMeet Calls for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-20-second-symphony-understanding-musics-compact-formats/"><u>A 20-Second Symphony Understanding Music's Compact Formats</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ameliorating-hp-printer-faults-in-os-10/"><u>Ameliorating HP Printer Faults in OS 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-professional-text-the-best-affects-extensions-revealed/"><u>Craft Professional Text The Best Affects Extensions Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-monitoring-your-macbooks-internal-temperature/"><u>Expert Strategies for Monitoring Your MacBook's Internal Temperature</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gpu-refresher-with-ddu-2024-edition/"><u>GPU Refresher with DDU - 2024 Edition</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-idt-audio-setup-for-enhanced-w7-soundscape/"><u>Revamp IDT Audio Setup for Enhanced W7 Soundscape</u></a></li>
-<li><a href="https://driver-install.techidaily.com/supercharge-logitech-mouse-with-windows-11-driver-updates/"><u>Supercharge Logitech Mouse with Windows 11 Driver Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tune-performance-latest-updates-for-intels-chipset-in-ws-11781/"><u>Tune Performance: Latest Updates for Intel's Chipset in WS 11/7/8.1</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-711-graphics-drivers-retry/"><u>Windows 7/11: Graphics Drivers Retry</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-achieving-ideal-mac-resized-instagram-video-content/"><u>[Updated] Achieving Ideal Mac-Resized Instagram Video Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quickcapturepro-the-definitive-guide-to-windows-snaps/"><u>[Updated] QuickCapturePro The Definitive Guide to Windows Snaps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-upgrade-your-pcs-network-capabilities/"><u>Instantly Upgrade Your PC's Network Capabilities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-pc-audio-with-newly-installed-realtek-driver/"><u>Revitalize PC Audio with Newly Installed Realtek Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-unmatched-savings-on-leading-processors-with-amd-and-intel-specials/"><u>Score Unmatched Savings on Leading Processors with AMD and Intel Specials</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-update-of-windows-11-device-drivers-guide/"><u>Smooth Update of Windows 11 Device Drivers Guide</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-amd-radeon-r9-driver-update-guide/"><u>Win AMD Radeon R9 Driver Update Guide</u></a></li>
 </ul></div>
 

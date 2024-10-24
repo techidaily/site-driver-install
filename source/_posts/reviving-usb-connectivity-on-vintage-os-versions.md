@@ -1,7 +1,7 @@
 ---
 title: Reviving USB Connectivity on Vintage OS Versions
-date: 2024-10-14T18:20:57.723Z
-updated: 2024-10-18T17:21:06.071Z
+date: 2024-10-17T02:28:03.393Z
+updated: 2024-10-23T22:22:45.638Z
 tags:
   - win11
   - win10
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1 – Reinstall the drivers using Device Manager
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 4. Click**Uninstall** to confirm.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
@@ -77,20 +70,21 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -115,18 +109,24 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-conquer-your-first-successful-zoom-call/"><u>[New] 2024 Approved Conquer Your First Successful Zoom Call</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-iconic-acting-snapshot-review/"><u>[Updated] 2024 Approved Iconic Acting Snapshot Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-vct-pro-capture-assessment-full-review/"><u>2024 Approved VCT Pro Capture Assessment Full Review</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-powerhouse-unpacking-the-performance-of-tp-links-archer-a6-ac1200-in-our-latest-router-evaluation/"><u>Budget-Friendly Powerhouse: Unpacking The Performance Of TP-Link's Archer A6 AC1200 in Our Latest Router Evaluation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conversion-gratuita-de-vob-a-distintos-tipos-de-video-mp4-avi-y-mas-opciones-para-el-hogar/"><u>Conversión Gratuita De VOB a Distintos Tipos De Vídeo: MP4, AVI Y Más Opciones Para El Hogar</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discovering-the-true-potential-of-dji-inspire-2/"><u>Discovering the True Potential of DJI Inspire 2</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-critical-bugs-in-total-war-warhammer-ii-gameplay/"><u>How to Resolve Critical Bugs in Total War: Warhammer II Gameplay</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-windows-10-audio-experience-with-driver-update/"><u>Improve Windows 10 Audio Experience with Driver Update</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062822403-install-wireless-drivers-no-hassle-w7/"><u>Install Wireless Drivers: No Hassle W7!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/surface-pro-4-windows-driver-setup-guide/"><u>Surface Pro 4 Windows Driver Setup Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-sound-protocols-for-windows-7-using-idt-drivers/"><u>Update Sound Protocols for Windows 7 Using IDT Drivers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-streamline-conversion-selecting-the-top-10-free-tools/"><u>[New] In 2024, Streamline Conversion Selecting the Top 10 Free Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enhance-fb-profile-picture-display/"><u>[Updated] Enhance FB Profile Picture Display</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snooze-sequences-for-kids-critical-look-at-bedtime-storytelling-vids/"><u>[Updated] Snooze Sequences for Kids Critical Look at Bedtime Storytelling Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-iphone-apps-for-daily-podcasts/"><u>[Updated] Top 5 iPhone Apps for Daily Podcasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-hd-graphics-sdk-update/"><u>Accelerate HD Graphics SDK Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amd-rx-5700-drivers-download-and-update/"><u>AMD RX 5700 Drivers Download & Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-graphic-output-on-computers/"><u>Boost Graphic Output on Computers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-managing-audio-drivers-in-ws11/"><u>Efficiently Managing Audio Drivers in WS11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-performance-new-drivers-for-win-11/"><u>GTX 970 Performance - New Drivers for Win 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-microsoft-wireless-display-device-working-again-on-windows-11/"><u>How to Get Your Microsoft Wireless Display Device Working Again on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-color-perfection-interface/"><u>In 2024, Color Perfection Interface</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lightning-fast-updates-to-windows-10s-acer-drivers-guide/"><u>Lightning-Fast Updates to Windows 10'S Acer Drivers Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastery-of-hdmi-updates-a-compreehsive-guide-for-win-11/"><u>Mastery of HDMI Updates: A Compreehsive Guide for Win 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-setup-downloadable-canon-scandrivers-windows/"><u>Quick Setup: Downloadable Canon ScanDrivers (Windows)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinventing-wireless-setup-on-multiple-os-platforms/"><u>Reinventing Wireless Setup on Multiple OS Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-t5-8tb-external-ssd-steals-the-spotlight-with-36-discount-post-prime-day-on-amazon-tech-insights/"><u>Samsung T5 8TB External SSD Steals the Spotlight with 36% Discount Post-Prime Day on Amazon - Tech Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Download & Install Nvidia GTX 980 GPU Drivers
-date: 2024-10-16T18:41:31.596Z
-updated: 2024-10-18T18:08:30.059Z
+date: 2024-10-18T02:09:15.132Z
+updated: 2024-10-24T13:31:43.827Z
 tags:
   - win11
   - win10
@@ -97,33 +97,25 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-from-novice-to-pro-creating-metaverse-laughter/"><u>[New] 2024 Approved From Novice to Pro Creating Metaverse Laughter</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-top-10-tiktok-sensations-spreading-via-tweets/"><u>[New] 2024 Approved Top 10 TikTok Sensations Spreading via Tweets</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-game-changing-trick-enter-mac-apple-watch-style/"><u>[New] Game-Changing Trick Enter Mac, Apple Watch Style</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-vision-for-video-unpacking-the-short-form-movement/"><u>[Updated] Facebook's Vision for Video Unpacking the Short Form Movement</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-bridging-scripts-with-voices-turning-xmlttml-into-srt/"><u>[Updated] In 2024, Bridging Scripts with Voices Turning XML/TTML Into SRT</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>2024 Approved [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tips-to-update-nvidia-audio-in-windows-11-environment/"><u>Essential Tips to Update NVIDIA Audio in Windows 11 Environment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/instagram-account-lockout-heres-what-you-can-do-to-regain-control/"><u>Instagram Account Lockout? Here's What You Can Do to Regain Control!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-hp-envy-5530-driver-on-your-windows-11/"><u>Install HP Envy 5530 Driver on Your Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-windows-7-sound-with-new-audio-drivers/"><u>Optimize Windows 7 Sound with New Audio Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcoming-connectivity-issues-hp-deskjet-in-win11/"><u>Overcoming Connectivity Issues: HP Deskjet in Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tp-link-usb-wi-fi-adapter-windows-get-it-free-today/"><u>TP Link USB Wi-Fi Adapter: Windows, Get It Free Today</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/ultimate-tutorial-transforming-whatsapp-sound-files-into-mp3-quickly/"><u>Ultimate Tutorial Transforming WhatsApp Sound Files Into MP3 Quickly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-rtl8723d-support-secure-wireless-connectivity-in-windows-11/"><u>Update RTL8723D Support: Secure Wireless Connectivity in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-mice-drivers-on-windows-a-step-by-step-guide/"><u>Updating Mice Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-use-9gag-to-create-meme/"><u>[Updated] How to Use 9GAG to Create Meme</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-subtlety-in-volume-reduction-for-audacity-projects/"><u>[Updated] Subtlety in Volume Reduction for Audacity Projects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom-for-2024/"><u>[Updated] Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-common-issues-with-the-logitech-g533-microphone-explained/"><u>Diagnose & Repair: Common Issues with the Logitech G533 Microphone Explained</u></a></li>
+<li><a href="https://facebook.techidaily.com/effective-methods-for-social-media-imagery-explanation/"><u>Effective Methods for Social Media Imagery Explanation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ideal-combo-top-10-recommended-tools-for-vimeo-download-for-2024/"><u>Ideal Combo Top 10 Recommended Tools for Vimeo Download for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-next-level-hd-screen-recording-best-brands-showcased/"><u>In 2024, Next-Level HD Screen Recording Best Brands Showcased</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-and-update-guide-for-new-amd-gpu-driver/"><u>Install & Update Guide for New AMD GPU Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-mx870-support-for-classic-windows-versions/"><u>Install MX870 Support for Classic Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refreshing-usb-hardware-drivers-across-windows-generations/"><u>Refreshing USB Hardware Drivers Across Windows Generations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/replace-old-idt-audio-with-current-driver-for-w7/"><u>Replace Old IDT Audio with Current Driver for W7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transition-mechanisms-between-ipv4-and-ipv6-require-careful-consideration-of-their-increased-attack-surface-and-potential-exposure-risks/"><u>Transition Mechanisms Between IPv4 and IPv6 Require Careful Consideration of Their Increased Attack Surface and Potential Exposure Risks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-from-blurry-to-brilliant-top-video-resolution-enhancers-for-2024/"><u>Updated From Blurry to Brilliant Top Video Resolution Enhancers for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

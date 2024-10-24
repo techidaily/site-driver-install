@@ -1,7 +1,7 @@
 ---
 title: Seamless WIN11/10 Integration Through MTK USB Support
-date: 2024-10-12T17:00:45.964Z
-updated: 2024-10-18T16:26:38.585Z
+date: 2024-10-17T06:12:20.218Z
+updated: 2024-10-24T01:49:39.060Z
 tags:
   - win11
   - win10
@@ -63,13 +63,6 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
  4) When you see**Startup Settings** , press**number 7** or**F7** on your keyboard to disable Driver Signature Enforcement. This will take about 3 minutes to boot.
@@ -106,22 +99,21 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the Add Hardware Wizard, click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
@@ -133,21 +125,41 @@ To download and install MediaTek drivers manually, you need to:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Select**Have Disk** and select the .inf file you extracted before.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Select **MTK\_Driver\_ext > SP\_Drivers\_v2.0 > Android > android\_winusb** inf.
 
  9) Once selected, click**OK** . Then select the model you want and click**Next** to install. You can install all MediaTek drivers on your computer.
 
 10) Restart your PC and connect your MediaTek device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2 Automatically
 
@@ -166,10 +178,10 @@ To download and install MediaTek drivers manually, you need to:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** . )
@@ -207,21 +219,24 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-podcasters-guide-to-seamless-streaming-setup/"><u>[New] 2024 Approved The Podcaster’s Guide to Seamless Streaming Setup</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-qualitysound-check/"><u>[New] In 2024, QualitySound Check</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amdradeonupdatewin11xps/"><u>AMDRADEONUpdateWin11XPS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/blend-hp-envy-5530-software-into-win10-device/"><u>Blend HP Envy 5530 Software Into Win10 Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conquer-minecraft-delays-on-windows-proven-techniques-to-avoid-freezing/"><u>Conquer Minecraft Delays on Windows: Proven Techniques to Avoid Freezing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-download-of-asus-latest-drivers-for-windows-os/"><u>Direct Download of Asus' Latest Drivers for Windows OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-implement-official-canon-windows-10-print-drivers/"><u>Download & Implement: Official Canon Windows 10 Print Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortlessly-restore-windows-1011s-bluetooth-driver/"><u>Effortlessly Restore Windows 10/11'S Bluetooth Driver</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nubia-z50s-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nubia Z50S Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-redmi-note-13-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi Redmi Note 13 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/increase-print-speed-and-accuracy-download-officejet-pro-8710-software/"><u>Increase Print Speed & Accuracy - Download Officejet Pro 8710 Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-canon-printer-driver-win-versions/"><u>Install Canon Printer Driver Win Versions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/master-10-social-media-movies/"><u>Master 10 Social-Media Movies</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/top-5-best-alternatives-to-manycam-premium-live-streaming-and-virtual-camera-solutions/"><u>Top 5 Best Alternatives to ManyCam: Premium Live Streaming and Virtual Camera Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-social-networks-the-pathway-to-a-facebook-profile-for-2024/"><u>[New] Unlocking Social Networks The Pathway to a Facebook Profile for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-revival-device-pack/"><u>2024 Approved Revival Device Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-spark-20-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Spark 20 Pro Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/defeating-dissidence-a-guide-for-content-makers-for-2024/"><u>Defeating Dissidence A Guide for Content Makers for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-gtx-760-drivers-thanks-nvidia/"><u>Effortless GTX 760 Drivers, Thanks Nvidia!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-itel-a05s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Itel A05s to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/introducing-direct-amd-driver-access-to-bitcoin-and-ethereum/"><u>Introducing Direct AMD Driver Access to Bitcoin & Ethereum</u></a></li>
+<li><a href="https://driver-install.techidaily.com/modernize-your-printer-download-and-upgrade-hp-officejet-pro-8620-drivers-for-windows/"><u>Modernize Your Printer: Download & Upgrade HP OfficeJet Pro 8620 Drivers for Windows</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-rated-free-video-editing-tools-for-mp4-files/"><u>New In 2024, Top-Rated Free Video Editing Tools for MP4 Files</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-cost-user-friendly-canon-scanner-for-pcs/"><u>No-Cost, User-Friendly Canon Scanner for PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/set-up-razer-mouse-drivers-in-minutes/"><u>Set Up Razer Mouse Drivers in Minutes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062736144-supercharge-your-device-connections-just-install/"><u>Supercharge Your Device Connections – Just Install!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-update-methodology-amd-rx-5500xt/"><u>Swift Driver Update Methodology: AMD RX 5500XT</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-of-withings-move-where-vintage-elegance-meets-modern-innovation-in-a-smartwatch/"><u>The Ultimate Review of Withings Move – Where Vintage Elegance Meets Modern Innovation in a Smartwatch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-fix-for-usbasp-drivers-across-vista-7-and-10win11/"><u>Universal Fix for USBasp Drivers Across Vista, 7 & 10/Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/victory-over-startech-drivers-on-windows-7-and-11-platforms/"><u>Victory Over StarTech Drivers on Windows 7 & 11 Platforms</u></a></li>
 </ul></div>
 

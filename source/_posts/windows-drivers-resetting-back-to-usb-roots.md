@@ -1,7 +1,7 @@
 ---
 title: "Windows Drivers: Resetting Back to USB Roots"
-date: 2024-10-16T18:15:17.787Z
-updated: 2024-10-18T18:20:13.840Z
+date: 2024-10-22T09:02:40.912Z
+updated: 2024-10-23T21:55:37.139Z
 tags:
   - win11
   - win10
@@ -26,10 +26,16 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1 – Reinstall the drivers using Device Manager
@@ -40,18 +46,25 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
@@ -59,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
@@ -75,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
@@ -109,24 +115,24 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-cutting-edge-virtuosity-30plus-metaverse-expressions-arvr/"><u>[New] Cutting-Edge Virtuosity 30+ Metaverse Expressions [AR/VR]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-apple-music-for-dynamic-video-enhancement/"><u>2024 Approved Apple Music for Dynamic Video Enhancement</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-driver-performance-for-logitech-wired-earphones/"><u>Boost Driver Performance for Logitech Wired Earphones</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-correction-of-m-audio-track-problems/"><u>Effortless Correction of M-Audio Track Problems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortlessly-install-lenovo-z50-70-patches/"><u>Effortlessly Install Lenovo Z50-70 Patches</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-taskbar-functionality-on-windows-11/"><u>Elevate Taskbar Functionality on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-diagnosing-and-repairing-post-problems-during-computer-startup/"><u>Expert Advice on Diagnosing and Repairing POST Problems During Computer Startup</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fastest-way-to-bluetooth-reinstall-in-windows-1011/"><u>Fastest Way to Bluetooth Reinstall in Windows 10/11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-find-n3-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Oppo Find N3</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-speech-reader-feedback-summary/"><u>In 2024, Speech Reader Feedback Summary</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-stabilizing-aerial-vision-a-comprehensive-guide-to-choosing-a-gimbal/"><u>In 2024, Stabilizing Aerial Vision A Comprehensive Guide to Choosing a Gimbal</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-streamline-your-zoom-talks-with-camera-snaps/"><u>In 2024, Streamline Your Zoom Talks with Camera Snaps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-threat-detected-in-third-party-infs-lack-of-signs/"><u>No Threat Detected in Third-Party Inf's Lack of Signs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-pc-upgrade-to-windows-11-tactile-ui/"><u>Simplify PC Upgrade to Windows 11 Tactile UI</u></a></li>
-<li><a href="https://driver-install.techidaily.com/skylake-chipset-patch-installation-quickly/"><u>Skylake Chipset Patch Installation Quickly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-honor-x50-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Honor X50 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-find-x6-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo Find X6</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unzip-and-install-asus-bluetooth-40-driver/"><u>Unzip & Install Asus Bluetooth 4.0 Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-to-gaomon-s620-with-these-instructions/"><u>Upgrade to Gaomon S620 with These Instructions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-uncomplicated-guide-for-crafting-and-editing-multiple-snaps-in-snapchat/"><u>[Updated] 2024 Approved Uncomplicated Guide for Crafting and Editing Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-optimize-and-protect-transferring-your-camera-roll-efficiently-to-snapchat-for-2024/"><u>[Updated] Optimize and Protect Transferring Your Camera Roll Efficiently to Snapchat for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-design-with-the-top-tier-plugins-for-ae/"><u>[Updated] Revolutionize Design with the Top-Tier Plugins for AE</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-topics-with-a-twist-for-your-vlog-talks/"><u>2024 Approved Topics with a Twist for Your Vlog Talks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-t2x-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo T2x 5G PC | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/auditory-upgrade-immerse-into-high-definition-windows-7/"><u>Auditory Upgrade: Immerse Into High-Definition Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-yoga-900s-speed-effortlessly/"><u>Boost Your Yoga 900'S Speed Effortlessly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/breeze-through-update-your-wacom-bamboo-driver/"><u>Breeze Through Update: Your Wacom Bamboo Driver</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/easy-methods-for-transforming-amr-audio-to-mp3-format-across-computers-phones-and-web-services/"><u>Easy Methods for Transforming AMR Audio to MP3 Format Across Computers, Phones & Web Services</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-motorola-edgeplus-a-shortfall-in-high-end-competition/"><u>Evaluating Motorola Edge+ - A Shortfall in High-End Competition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-meizu-21-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Meizu 21 Pro Phone?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-nvidia-driver-installation-routine/"><u>Mastering NVIDIA Driver Installation Routine</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-through-interrupted-streams-on-social-media-for-2024/"><u>Navigating Through Interrupted Streams on Social Media for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-lexmark-software-update-made-simple/"><u>Speedy Lexmark Software Update Made Simple</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-pcs-aesthetics-in-3-steps/"><u>Transform Your PC's Aesthetics in 3 Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/triple-boost-for-better-window-graphics/"><u>Triple Boost for Better Window Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/uninterrupted-experience-update-to-model-1659aoc/"><u>Uninterrupted Experience - Update to Model 1659AOC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-full-potential-tips-for-msi-bios-driver-updates-on-windows-7810/"><u>Unlocking Full Potential: Tips for MSI BIOS Driver Updates on Windows 7/8/10</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wie-importiere-ich-bilder-und-videos-vom-iphone-14-auf-einen-windows-pc/"><u>Wie Importiere Ich Bilder Und Videos Vom iPhone 14 Auf Einen Windows-PC?</u></a></li>
 </ul></div>
 

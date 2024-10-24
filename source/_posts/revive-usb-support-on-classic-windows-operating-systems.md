@@ -1,7 +1,7 @@
 ---
 title: Revive USB Support on Classic Windows Operating Systems
-date: 2024-10-10T19:22:27.379Z
-updated: 2024-10-12T19:10:12.991Z
+date: 2024-10-18T04:17:22.848Z
+updated: 2024-10-24T08:09:44.516Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1 – Reinstall the drivers using Device Manager
 
  Device Manager is a Windows built-in tool that allows you to view and control the hardware attached to your computer and update the device drivers. To reinstall the USB drivers in Device Manager, follow the steps below:
@@ -34,42 +41,36 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
- It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
 
@@ -84,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -115,18 +109,17 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-step-up-your-photo-game-basic-snapseed-skills-guide/"><u>[Updated] In 2024, Step Up Your Photo Game Basic Snapseed Skills Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-total-gaze-field-vr-device-overview-for-2024/"><u>[Updated] Total Gaze Field VR Device Overview for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-takeover-1-10-must-watch-threads/"><u>2024 Approved Twitter Takeover #1-#10 Must-Watch Threads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-red-crossed-symbol-in-windows-explorer/"><u>Deciphering Red Crossed Symbol in Windows Explorer</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/free-online-mkv-converter-upload-and-convert-videos-effortlessly/"><u>Free Online MKV Converter - Upload and Convert Videos Effortlessly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstalling-atheros-wireless-card-drivers-step-by-step/"><u>Reinstalling Atheros Wireless Card Drivers Step-by-Step</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simple-smooth-solutions-to-driver-glitches/"><u>Simple, Smooth Solutions to Driver Glitches</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplified-gtx-750-ti-driver-access/"><u>Simplified GTX 750 Ti Driver Access</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-guide-to-fast-nvidia-drivers-update/"><u>Step-by-Step Guide to Fast Nvidia Drivers Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-audio-support-in-windows-11/"><u>Streamline Audio Support in Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/survival-russian-the-must-know-phrases-for-visitors/"><u>Survival Russian: The Must-Know Phrases for Visitors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-windows-10-for-enhanced-audio-capabilities/"><u>Upgrade Windows 10 for Enhanced Audio Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-tips-on-selecting-free-audio-tracks-for-your-yt-clips/"><u>[Updated] 2024 Approved Top Tips on Selecting Free Audio Tracks for Your YT Clips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-collaborative-video-workflows-for-content-growth-for-2024/"><u>[Updated] Collaborative Video Workflows for Content Growth for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlock-the-full-potential-of-skype-written-in-spanish-but-not-widely-known-among-english-speakers-it-was-used-as-a-basis-for-creating-new-models-lik/"><u>[Updated] Unlock the Full Potential of Skype’ Written in Spanish, but Not Widely Known Among English Speakers. It Was Used as a Basis for Creating New Models Like BERT and GPT-3. How Can I Access This Model? Is It Free to Use?</u></a></li>
+<li><a href="https://facebook.techidaily.com/comprehensive-guide-to-overcoming-top-11-social-media-snags-on-fb/"><u>Comprehensive Guide to Overcoming Top 11 Social Media Snags on FB</u></a></li>
+<li><a href="https://common-error.techidaily.com/decided-no-opengl-backing-by-drivers/"><u>Decided: No OpenGL Backing by Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effective-hardware-control-manual-driver-edits-on-vista/"><u>Effective Hardware Control: Manual Driver Edits on Vista</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-install-new-gaming-mouse-drivers-on-windows-7/"><u>Efficiently Install New Gaming Mouse Drivers on Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-networking-through-os-compatible-mf4770n-drivers/"><u>Elevate Networking Through OS-Compatible MF4770n Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hardware-and-software-symbiosis/"><u>Hardware and Software Symbiosis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instructions-for-efficient-driver-installation-of-a6200-network-card/"><u>Instructions for Efficient Driver Installation of A6200 Network Card</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oneplus-nord-n30-se-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your OnePlus Nord N30 SE Phone Pattern Lock</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-10-simple-yet-effective-neon-text-generators-online-for-2024/"><u>Updated 10 Simple Yet Effective Neon Text Generators Online for 2024</u></a></li>
 </ul></div>
 

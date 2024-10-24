@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot: HP Printer JetPro400 Windows Issues"
-date: 2024-10-09T16:48:17.569Z
-updated: 2024-10-12T20:17:44.653Z
+date: 2024-10-17T19:48:54.203Z
+updated: 2024-10-24T03:15:36.956Z
 tags:
   - win11
   - win10
@@ -32,28 +32,42 @@ You can download and update your HP LaserJet Pro 400 driver manually from the HP
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b11087268976.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) In the search box, enter your**HP LaserJet Pro 400 printer** **model**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1108ed348bf.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Make sure the Detected operating system. Then click**Download**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1108cf6f292.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Run the downloaded file, and follow the wizard to finish. This requires time and computer skills. If this method doesn’t work for you, don’t worry. We have other solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Download or update the printer driver automatically (Recommended)
@@ -66,13 +80,6 @@ If you don’t have time or patience, you can update your HP LaserJet Pro 400 dr
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b110bddc4075.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) After updating, restart your computer to take effect. This is a rather easy method, isn’t it?! If this method doesn’t work for you, don’t worry. We have another solution for you.
 
 ### Fix 3: Download or update the printer driver in Device Manager
@@ -82,13 +89,6 @@ You can also update your HP LaserJet Pro 400 driver via Device Manager. To do so
 **Note** : the screenshots below come from Windows 10, but the fixes also work on Windows 8 and Windows 7.
 
 1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)** and**R**at the same time to invoke the Run box. 2) Type**devmgmt.msc**and click**OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b110c6e575f0.jpg)
 
@@ -112,22 +112,24 @@ You can also update your HP LaserJet Pro 400 driver via Device Manager. To do so
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-video-sharing-triad-vimeo-vs-youtube-and-dailymotion-showdown/"><u>[New] 2024 Approved The Video Sharing Triad Vimeo vs YouTube & Dailymotion Showdown</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-expert-guide-to-pixlr-edits-top-15-tricks-for-perfection/"><u>[New] Expert Guide to Pixlr Edits Top 15 Tricks for Perfection</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quickcapture-miniapp-windows-10-version/"><u>[Updated] QuickCapture MiniApp - Windows 10 Version</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-use-luts-to-spark-ar-and-download-free-lut/"><u>2024 Approved How to Use LUTs to Spark AR & Download Free LUT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-logitech-g4t2-game-mouse-setup-with-latest-driver-downloads/"><u>Get Your Logitech G4t2 Game Mouse Setup with Latest Driver Downloads</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-gt-neo-5-se-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme GT Neo 5 SE to New Phone | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlock-the-full-potential-of-skype-written-in-spanish-but-not-widely-known-among-english-speakers-it-was-used-as-a-basis-for-creating-new-models-lik/"><u>In 2024, Unlock the Full Potential of Skype’ Written in Spanish, but Not Widely Known Among English Speakers. It Was Used as a Basis for Creating New Models Like BERT and GPT-3. How Can I Access This Model? Is It Free to Use?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refresh-your-hp-laserjet-with-updated-windows-10-software/"><u>Refresh Your HP Laserjet with Updated Windows 10 Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/set-up-printer-canon-inkjet-os-versions/"><u>Set up Printer: Canon Inkjet, OS Versions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackling-startech-driver-glitches-on-old-windows-os/"><u>Tackling StarTech Driver Glitches on Old Windows OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tp-link-usb-adapter-for-windows-get-it-instantly-free/"><u>TP Link USB Adapter for Windows - Get It Instantly Free</u></a></li>
-<li><a href="https://facebook.techidaily.com/trump-files-suit-alleging-suppression-by-google-twitter/"><u>Trump Files Suit Alleging Suppression by Google, Twitter</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-nvidias-quadro-6000-firmware/"><u>Update NVIDIA's Quadro 6000 Firmware</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-11-enhanced-with-new-acer-driver-support/"><u>Windows 11 Enhanced with New Acer Driver Support</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-compatible-easy-setup-for-asus-4kn-broadcom-bt400/"><u>Windows Compatible: Easy Setup for Asus 4Kn Broadcom BT400</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-update-surface-pro-4-drivers-installation/"><u>Windows Update: Surface Pro 4 Drivers Installation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-upcoming-appraisal-innovative-opinions/"><u>[New] Upcoming Appraisal Innovative Opinions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mold-mirthful-media/"><u>2024 Approved Mold Mirthful Media</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-usb-bt400-free-support-and-installation-tutorial/"><u>Asus USB-BT400: Free Support and Installation Tutorial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/controlling-win11-display-extensiveness/"><u>Controlling Win11 Display Extensiveness</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-guide-reinstalling-advanced-drivers-on-all-windows/"><u>Direct Guide: Reinstalling Advanced Drivers on All Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ensure-business-continuity-with-aomeis-seamless-exchange-server-backup-solutions/"><u>Ensure Business Continuity with AOMEI's Seamless Exchange Server Backup Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/final-fix-for-obs-screen-record-bug-seamless-broadcasting-restored/"><u>Final Fix for OBS Screen Record Bug – Seamless Broadcasting Restored</u></a></li>
+<li><a href="https://driver-install.techidaily.com/full-guide-the-complete-revamp-of-gpu-drivers/"><u>Full Guide: The Complete Revamp of GPU Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-efficiently-manage-amd-drivers-updates/"><u>How to Efficiently Manage AMD Drivers Updates</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-13-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 13 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-and-avoiding-the-top-5-bots-fraudulent-schemes/"><u>Identifying and Avoiding the Top 5 Bots' Fraudulent Schemes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-unleash-stunning-visuals-and-enhanced-performance-with-the-premium-razer-firefly-v2-pro-rgb-gaming-mousepad/"><u>In-Depth Analysis: Unleash Stunning Visuals and Enhanced Performance with the Premium Razer Firefly V2 Pro RGB Gaming Mousepad</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-windows-1011-bluetooth-with-easy-driver-steps/"><u>Revive Windows 10/11 Bluetooth with Easy Driver Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/set-up-hp-envy-5530-windows-10-drivers/"><u>Set up HP Envy 5530 Windows 10 Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snickerslide-lighten-up-your-online-presence/"><u>SnickerSlide Lighten Up Your Online Presence</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-workflow-with-hp-projeto-8710-driver-for-windows/"><u>Streamline Workflow with HP Projeto 8710 Driver for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/uncomplicated-guide-to-swiftly-solve-your-hawki-car-woes/"><u>Uncomplicated Guide to Swiftly Solve Your Hawki Car Woes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-compatible-asus-bt400-driver-guide/"><u>Windows Compatible Asus BT400 Driver Guide</u></a></li>
 </ul></div>
 

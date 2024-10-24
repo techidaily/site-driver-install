@@ -1,7 +1,7 @@
 ---
 title: "Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
-date: 2024-10-14T19:55:56.811Z
-updated: 2024-10-18T17:19:27.805Z
+date: 2024-10-23T05:29:39.306Z
+updated: 2024-10-24T03:15:51.541Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
@@ -36,16 +36,16 @@ Lifewire / Kelsey Simon
 
 2.7
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -65,11 +65,25 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -86,10 +100,10 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -114,13 +128,6 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -130,13 +137,6 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -173,21 +173,19 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-call-customization-applications-ranked/"><u>[New] 2024 Approved Essential Call Customization Applications Ranked</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/harting-your-path-to-success-in-youtubes-earnings-system/"><u>[New] Charting Your Path to Success in YouTube's Earnings System</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-quick-and-easy-twitter-to-snapchat-video-sharing-tips-for-2024/"><u>[Updated] Quick & Easy Twitter to Snapchat Video Sharing Tips for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-cost-effective-high-performance-asmr-microphones-guide/"><u>2024 Approved Cost-Effective, High-Performance ASMR Microphones Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/anydvd/"><u>AnyDVD バイトパス: 無期限無料利用権獲得に必要なクラッカー技術の分析</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-15-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 15 Plus? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-intel-reliable-array-raid-controller-drivers-for-latest-windows-operating-systems/"><u>Download & Update Intel Reliable Array (RAID) Controller Drivers for Latest Windows Operating Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/eradicating-shaky-wheel-scroll-behavior-on-mouse/"><u>Eradicating Shaky Wheel Scroll Behavior on Mouse</u></a></li>
-<li><a href="https://driver-install.techidaily.com/full-guide-mastering-the-reinstall-of-video-drivers/"><u>Full Guide: Mastering the Reinstall of Video Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-gpu-firmware-gtx-1060/"><u>Latest GPU Firmware: GTX 1060</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-performance-updating-your-hyperx-headsets-hardware-drivers/"><u>Optimize Performance: Updating Your HyperX Headsets' Hardware Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcoming-vistas-network-anomalies-the-solution-is-here/"><u>Overcoming Vista's Network Anomalies - The Solution Is Here!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-integration-install-canon-drivers-for-windows/"><u>Seamless Integration: Install Canon Drivers for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-windows-10-experience-on-lenovo-yoga-900s/"><u>Seamless Windows 10 Experience on Lenovo Yoga 900S</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-full-potential-with-officejet-printer-driver/"><u>Unlock Full Potential with Officejet Printer Driver</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-fast-video-trimming-on-mac-tips-and-tricks/"><u>Updated The Ultimate Guide to Fast Video Trimming on Mac Tips and Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4wav/"><u>高解像音声を生成: MP4からWAVへ自由な変換ツールで無料ダウングラブ</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-enhancement-boost-performance-and-functionality/"><u>Driver Enhancement: Boost Performance and Functionality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-amd-driver-rollback-for-all-windows-versions/"><u>Effortless AMD Driver Rollback for All Windows Versions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-t2x-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo T2x 5G FRP</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-x-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone X Without Passcode Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premiere-smart-goggles-craftsmen/"><u>In 2024, Premiere Smart Goggles Craftsmen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-resolve-crashing-microsoft-teams-windows-1110/"><u>Methods to Resolve Crashing Microsoft Teams Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-premature-edges-a-11-way-guide/"><u>Preventing Premature Edges: A 11-Way Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-optimize-acer-drivers-for-win10-efficiency/"><u>Quick Fix! Optimize Acer Drivers for Win10 Efficiency</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/real-time-recording-battle-obs-studio-against-fraps/"><u>Real-Time Recording Battle OBS Studio Against Fraps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenate-window-display-with-simple-tweaks/"><u>Rejuvenate Window Display with Simple Tweaks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackling-windows-10-audio-issues-reinstalling-drivers/"><u>Tackling Windows 10 Audio Issues: Reinstalling Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-for-repairing-non-displayed-logins/"><u>The Essential Guide for Repairing Non-Displayed Logins</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-video-editor-battle-filmora-versus-democracy-creator/"><u>Top Video Editor Battle Filmora versus Democracy Creator</u></a></li>
 </ul></div>
 

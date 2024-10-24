@@ -1,7 +1,7 @@
 ---
 title: Improve Print Quality by Refining Driver Settings on WIN10
-date: 2024-08-15T14:40:33.028Z
-updated: 2024-08-16T14:40:33.028Z
+date: 2024-10-17T22:23:00.891Z
+updated: 2024-10-24T04:55:43.382Z
 tags:
   - win11
   - win10
@@ -57,8 +57,12 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -66,15 +70,16 @@ For some printers, you need to update the drivers manually step by step.
  1) Click**Start** menu and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In Settings window, click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
@@ -82,17 +87,24 @@ For some printers, you need to update the drivers manually step by step.
  Click**Check for updates** , and then wait while Windows looks for the latest updates for your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
 <!-- affiliate ads begin -->
-
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Way 3: Update your printer driver automatically**
 
  If you don’t have time, patience and computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -106,8 +118,12 @@ For some printers, you need to update the drivers manually step by step.
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
@@ -124,8 +140,6 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,6 +147,19 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-likes-and-video-powerhouse-get-noticed-and-grow-your-instagram-fast-for-2024/"><u>[New] Insta Likes & Video Powerhouse Get Noticed & Grow Your Instagram [Fast!] For 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-powerhouse-within-in-depth-zmi-powerpack-20000-portable-charger-review/"><u>Discover the Powerhouse Within: In-Depth ZMI PowerPack 20000 Portable Charger Review!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-play-8t-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor Play 8T to Roku | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-add-flair-with-gifs-on-snapchat-a-comprehensive-walkthrough/"><u>In 2024, Add Flair with GIFs on Snapchat – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/love-ballad-bingo-must-haves-on-the-list-of-proposals/"><u>Love Ballad Bingo Must-Haves on the List of Proposals</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/motorolas-moto-g-power-shines-in-performance-and-lasting-battery-life-reviews/"><u>Motorola's Moto G Power Shines in Performance and Lasting Battery Life: Reviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-hurdles-in-hogwarts-legacy-pro-tips-for-a-smooth-game-start/"><u>Overcoming Launch Hurdles in Hogwarts Legacy: Pro Tips for a Smooth Game Start</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-r9-series-with-updated-software/"><u>Secure R9 Series with Updated Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-display-process-in-win-os/"><u>Streamline Display Process in Win OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-driver-update-strategy-for-windows-8-enthusiasts/"><u>The Ultimate Driver Update Strategy for Windows 8 Enthusiasts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveil-simplified-techniques-for-updating-nvidia-graphics-support/"><u>Unveil Simplified Techniques for Updating Nvidia Graphics Support</u></a></li>
+</ul></div>
 

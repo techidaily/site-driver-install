@@ -1,7 +1,7 @@
 ---
 title: "USB Software Update: Version 4.5 for U-Are-U Reader"
-date: 2024-10-12T19:41:23.712Z
-updated: 2024-10-18T17:24:13.920Z
+date: 2024-10-20T08:06:18.558Z
+updated: 2024-10-23T16:22:18.587Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ OR
 
 **[Option 2 – Automatically (Recommended)](#o1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
 #### Step 1: Download the driver from the official website
@@ -38,16 +45,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-27_15-45-07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Or you can obtain the driver from your PC vendor. You’ll need to visit the official website of Lenovo, Dell, or any other vendors, and locate its**Support** section. Then select**Drivers & Software** or**Drivers & Download** to enter the download page of drivers. Search for**U.are.U 4500 fingerprint reader driver** and download the exact driver according to your Windows variant.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Install the driver manually
 
@@ -59,15 +66,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-936.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Select the driver file and click**Next** , then wait for the installation process to finish.
@@ -92,25 +106,11 @@ See if your fingerprint reader works properly again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
 
  Or click the**Update All** button to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get full support and 30 day money-back guarantee. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your PC after finishing installing.
 
@@ -138,17 +138,18 @@ See if your fingerprint reader works properly again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-16-best-kickstart-videos-on-youtube-for-visibility-boost/"><u>[New] 2024 Approved 16 Best Kickstart Videos on YouTube for Visibility Boost</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-dissecting-mr-beasts-fortune-portfolio/"><u>[New] Dissecting Mr. Beast's Fortune Portfolio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-refined-lineup-of-conversation-starters-for-podcasting/"><u>[New] Refined Lineup of Conversation Starters for Podcasting</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-conquer-small-screen-navigate-through-these-best-free-and-online-downloader-tools/"><u>[Updated] In 2024, Conquer Small Screen Navigate Through These Best Free & Online Downloader Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-strategies-for-choosing-valheim-crops/"><u>2024 Approved Expert Strategies for Choosing Valheim Crops</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bluetooth-troubleshooting-windows-11-recovery-procedures/"><u>Bluetooth Troubleshooting: Windows 11 Recovery Procedures</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fasten-radeon-4800-driver-updates/"><u>Fasten Radeon 4800 Driver Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-the-latest-aoc-e1659dri-for-woses/"><u>Get the Latest AOC E1659DRI for WOSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/graphic-fluency-on-pc-3-methods-unveiled/"><u>Graphic Fluency on PC: 3 Methods Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/grasping-ai-an-easy-approach/"><u>Grasping AI: An Easy Approach</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-google-pixel-8-by-drfone-android/"><u>How to Bypass FRP from Google Pixel 8?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-approaches-for-podcast-cover-art-mastery-for-2024/"><u>Innovative Approaches for Podcast Cover Art Mastery for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-enhancing-zoom-sessions-with-video-filters-a-guide/"><u>2024 Approved Enhancing Zoom Sessions with Video Filters A Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/automating-and-customizing-device-drivers-a-windows-8-tutorial/"><u>Automating and Customizing Device Drivers: A Windows 8 Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-visual-performance-new-acer-tech-for-w11/"><u>Boost Visual Performance: New Acer Tech for W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-z50-70-driver-update-process/"><u>Effortless Z50-70 Driver Update Process</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-sovol-sv08-reviving-classic-voron-performance/"><u>Expert Insight on Sovol SV08 - Reviving Classic Voron Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-atheros-wifi-drivers-in-windows-11/"><u>How to Update Atheros Wifi Drivers In Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/immediate-visual-effects-with-instagrams-chroma-keying-feature-for-2024/"><u>Immediate Visual Effects with Instagram’s Chroma Keying Feature for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-culmination-in-virtual-ventures/"><u>In 2024, Ideal Culmination in Virtual Ventures</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-date-placement-on-visual-memories/"><u>In 2024, Perfecting Date Placement on Visual Memories</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-sonic-selections-fine-tuning-your-instagram-video-soundtrack/"><u>In 2024, Sonic Selections Fine-Tuning Your Instagram Video Soundtrack</u></a></li>
+<li><a href="https://discover-help.techidaily.com/scopri-i-primi-3-software-libero-per-lettore-dvd-che-funzionano-su-windows-ten-e-sono-perfetti-per-il-riproduzione-universale-dei-tuoi-contenuti-in-dvd/"><u>Scopri I Primi 3 Software Libero per Lettore DVD Che Funzionano Su Windows # Ten E Sono Perfetti per Il Riproduzione Universale Dei Tuoi Contenuti in DVD.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-guide-to-update-netgear-a6200-usb/"><u>Step by Step Guide to Update Netgear A6200 USB</u></a></li>
 </ul></div>
 

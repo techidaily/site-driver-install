@@ -1,7 +1,7 @@
 ---
 title: "Triumph Over Troubles: Fixed HP 1020 in Win OS"
-date: 2024-10-15T18:57:14.160Z
-updated: 2024-10-18T16:01:06.780Z
+date: 2024-10-21T16:38:22.020Z
+updated: 2024-10-24T09:53:26.913Z
 tags:
   - win11
   - win10
@@ -40,23 +40,16 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
 
  Run the downloaded file, and follow the wizard to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update the printer driver in Device Manager
@@ -79,32 +72,26 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
 
@@ -118,6 +105,13 @@ After updating, restart your computer.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -150,22 +144,22 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-downloading-dynamism-techniques-for-preserving-online-lives/"><u>[New] 2024 Approved Downloading Dynamism Techniques for Preserving Online Lives</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-streamline-your-musical-journey-with-youtubes-60-second-clips/"><u>[Updated] In 2024, Streamline Your Musical Journey with YouTube's 60-Second Clips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-boosting-zoom-screen-sharpness-essential-tips/"><u>2024 Approved Boosting Zoom Screen Sharpness Essential Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/dominate-windows-solve-usb-glitches-now/"><u>Dominate Windows: Solve USB Glitches Now</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-installation-newest-wireless-usb-adapter-netgear/"><u>Easy Installation - Newest Wireless USB Adapter NETGEAR</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/free-templates-for-sustainable-storytelling/"><u>Free Templates for Sustainable Storytelling</u></a></li>
-<li><a href="https://driver-install.techidaily.com/heal-usb-serial-port-conflict/"><u>Heal USB-Serial Port Conflict</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-the-system-rescue-console-easily/"><u>Launching the System Rescue Console Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722002846299-misinformation-busted-there-is-no-legitimate-chatgpt-window-software-dont-fall-for-malware-traps/"><u>Misinformation Busted: There Is No Legitimate ChatGPT Window Software; Don’t Fall for Malware Traps</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-fortnite-now-on-your-iphone-explore-the-latest-updates-and-start-gaming-today-digital-trends/"><u>Play Fortnite Now on Your iPhone? Explore the Latest Updates and Start Gaming Today - Digital Trends</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rx-570-graphics-enhancement-optimized-drivers-download-options/"><u>RX 570 Graphics Enhancement: Optimized Drivers Download Options</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-asus-bt400-bluetooth-adapter-compatibility/"><u>Seamless Asus BT400 Bluetooth Adapter Compatibility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-regain-access-to-your-yahoo-account-without-hassle/"><u>Simple Steps: Regain Access to Your Yahoo Account Without Hassle</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplified-steps-updating-hardware-drivers-for-latest-wins/"><u>Simplified Steps: Updating Hardware Drivers for Latest Wins</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-workflows-get-canon-windows-10-drivers/"><u>Streamline Workflows: Get Canon Windows 10 Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-case-for-decoupling-government-systems-from-big-tech-spurred-by-microsoft-outages/"><u>The Case for Decoupling Government Systems From Big Tech, Spurred by Microsoft Outages</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063335352-tp-link-usb-wi-fi-adapter-windows-get-it-free-today/"><u>TP Link USB Wi-Fi Adapter: Windows, Get It Free Today!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-master-audio-fusion-a-stepwise-approach-to-incorporating-srt-into-mp4s-for-2024/"><u>[Updated] Master Audio Fusion A Stepwise Approach to Incorporating SRT Into MP4s for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seizing-youtubes-algorithm-advantage-with-smart-seo-tactics/"><u>[Updated] Seizing YouTube's Algorithm Advantage with Smart SEO Tactics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-checklist-for-youtube-rule-adherence-for-2024/"><u>[Updated] The Ultimate Checklist for YouTube Rule Adherence for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-performance-essential-win10-drivers-for-yoga-900s/"><u>Elevate Performance: Essential Win10 Drivers for Yoga 900S</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-and-reinstall-astro-drivers-on-windows/"><u>How to Update and Reinstall Astro Drivers on Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-assessing-the-value-of-4-second-rapid-subscriptions-on-youtube/"><u>In 2024, Assessing the Value of 4-Second Rapid Subscriptions on Youtube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50-gt-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor X50 GT Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-inventory-a-multitude-of-video-recorders/"><u>In 2024, Inventory A Multitude of Video Recorders</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-usbasp-errors-across-different-windows-editions/"><u>Navigating USBasp Errors Across Different Windows Editions</u></a></li>
+<li><a href="https://discover-data.techidaily.com/procedure-pour-recuperer-une-partition-manquante-dun-disque-dur-externe/"><u>Procédure Pour Récupérer Une Partition Manquante D’un Disque Dur Externe</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-latest-driver-release/"><u>Quadro RTX 6000 Latest Driver Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/recommended-practices-for-nvidia-audio-drivers-in-win11/"><u>Recommended Practices for NVIDIA Audio Drivers in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-hp-envy-5530-driver-with-windows-10-pcs/"><u>Sync HP Envy 5530 Driver with Windows 10 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-wireless-driver-revamp-for-atheros-in-windows-10/"><u>The Ultimate Guide: Wireless Driver Revamp for Atheros in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-video-translation-playbook-with-13-expert-recommended-apps-for-2024/"><u>The Ultimate Video Translation Playbook with 13 Expert-Recommended Apps for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-xerox-copier-6515-drivers/"><u>Update Xerox Copier 6515 Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/when-does-my-iphone-need-ios-17/"><u>When Does My iPhone Need iOS 17?</u></a></li>
 </ul></div>
 

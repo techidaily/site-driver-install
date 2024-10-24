@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Refresh Your Lenovo Dock
-date: 2024-10-16T18:30:24.190Z
-updated: 2024-10-18T19:15:06.491Z
+date: 2024-10-17T02:36:14.081Z
+updated: 2024-10-23T16:46:58.132Z
 tags:
   - win11
   - win10
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update**Lenovo USB-C Dock driver** s manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -54,29 +41,23 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
@@ -94,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
 
@@ -101,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
@@ -137,21 +125,15 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-record-google-voice-calls-for-2024/"><u>[Updated] How To Record Google Voice Calls for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/10-ways-free-and-paid-to-record-skype-calls-on-windows-and-mac-for-2024/"><u>10 Ways [Free & Paid] to Record Skype Calls on Windows & Mac for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-snapshots-to-cinematic-masterpiece-a-video-creation-guide/"><u>2024 Approved From Snapshots to Cinematic Masterpiece A Video Creation Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/alter-package-suitability/"><u>Alter Package Suitability</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-update-latest-version-of-tp-link-wireless-drivers-windows/"><u>Download & Update: Latest Version of TP Link Wireless Drivers Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-enhancing-windows-1011-sound/"><u>Efficiently Enhancing Windows 10/11 Sound</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-system-with-aoc-e1659fwv-drivers/"><u>Enhance System with AOC E1659FWV Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-to-restore-microphone-functionality-in-windows-7-computers/"><u>Expert Advice to Restore Microphone Functionality in Windows 7 Computers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-on-board-new-release-of-hp-projector-8710-software-windows-compatible/"><u>Get on Board - New Release of HP Projector 8710 Software (Windows Compatible)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-15-plus-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 15 Plus for Free</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-visual-performance-hp-graphics-windows/"><u>Improve Visual Performance - HP Graphics Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-seconds-needed-for-playback-20mb-video-example/"><u>In 2024, Seconds Needed for Playback - 20Mb Video Example</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-smart-8-hd-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Smart 8 HD? Fixed | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/memetic-mayhem-the-20-most-shared-gems-for-2024/"><u>Memetic Mayhem The 20 Most Shared Gems for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/perfect-your-sketches-free-wacom-intuos-4-drivers-on-windows/"><u>Perfect Your Sketches: Free Wacom Intuos 4 Drivers on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-gadgets-insights-from-toms-equipment-hub/"><u>Unveiling Top-Notch Gadgets: Insights From Tom's Equipment Hub</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-elevating-your-presence-a-guide-to-discord-broadcasts/"><u>[New] Elevating Your Presence A Guide to Discord Broadcasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-add-music-to-youtubevideo-with-youtube-video-editor/"><u>[New] How to Add Music to YouTubeVideo with YouTube Video Editor</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-capture-to-share-the-art-of-live-360-broadcasting-on-fb/"><u>[Updated] 2024 Approved From Capture to Share The Art of Live 360 Broadcasting on FB</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtube-potential-editing-after-the-upload-process-for-2024/"><u>[Updated] Unlocking YouTube Potential Editing After the Upload Process for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-visuals-install-hp-graphics-on-windows-10/"><u>Elevate Visuals - Install HP Graphics on Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-se-2020-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone SE (2020)? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fixes-for-amd-hardware-efficient-driver-updates-on-wins/"><u>Quick Fixes for AMD Hardware - Efficient Driver Updates on Wins</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-acuity-inkjet-issues-on-windows-11/"><u>Rectify Acuity Inkjet Issues on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-11-audio-driver-refresh-guide/"><u>Win 11: Audio Driver Refresh Guide</u></a></li>
 </ul></div>
 

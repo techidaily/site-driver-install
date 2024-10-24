@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Sound Problems in Halo Infinite: Expert Advice for Smooth Gaming Experience"
-date: 2024-10-12T18:59:16.928Z
-updated: 2024-10-18T16:50:32.868Z
+date: 2024-10-19T07:50:03.609Z
+updated: 2024-10-24T03:37:09.307Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developers of Forza Horizon 5 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -38,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -67,34 +67,13 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -108,16 +87,23 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
- Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
 ## Optimize in-game graphics settings
 
@@ -135,10 +121,10 @@ There are mainly two methods for you to update the graphics driver:
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -185,6 +171,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  For those who love sharing game highlight videos, the background recording and Xbox Game Bar feature in Windows 10 is convenient. However, once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -197,6 +190,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -224,19 +224,18 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>[New] 2024 Approved Prime Pick Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
-<li><a href="https://media-tips.techidaily.com/12-tv-channels-drop-from-directv-due-to-recent-carriage-controversy/"><u>12 TV Channels Drop From DirecTV Due to Recent Carriage Controversy</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ins-and-outs-of-podcasting-with-powerpoint/"><u>2024 Approved The Ins and Outs of Podcasting with PowerPoint</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decoding-immortals-fenyx-risings-launch-setback-insights-and-updates/"><u>Decoding Immortals Fenyx Rising's Launch Setback – Insights & Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-and-streamline-your-display-on-windows-11-reviving-drivers/"><u>Enhance and Streamline Your Display on Windows 11: Reviving Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-video-communication-efficiency-logitech-c270-drivers/"><u>Enhance Video Communication Efficiency - Logitech C270 Drivers</u></a></li>
-<li><a href="https://facebook.techidaily.com/freelancers-ultimate-destination-list/"><u>Freelancer's Ultimate Destination List</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hassle-free-driver-guide-get-canon-scanner-access/"><u>Hassle-Free Driver Guide: Get Canon Scanner Access</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-correctly-install-or-fix-hp-monitor-graphics-drivers-for-windows-10-8-and-7-operating-systems/"><u>How to Correctly Install or Fix HP Monitor Graphics Drivers for Windows 10, 8 & 7 Operating Systems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi 13C 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-90-gt-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor 90 GT</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-latest-driver-for-logitech-mouse-windows-11/"><u>Install Latest Driver for Logitech Mouse (Windows 11)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062596970-overcoming-xps-network-miniport-obstructions-now-fixed/"><u>Overcoming XP's Network Miniport Obstructions - Now Fixed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-windows-update-error-0x800701f/"><u>Step-by-Step Guide: Overcoming Windows Update Error 0X80070#1F</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-complete-evaluation-the-ultimate-test-of-gecata-logging/"><u>[Updated] Complete Evaluation The Ultimate Test of Gecata Logging</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlock-your-potential-one-thousand-new-likesmonth-for-2024/"><u>[Updated] Unlock Your Potential One Thousand New Likes/Month for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-voice-enhancement-programs-for-virtual-stars/"><u>2024 Approved Leading Voice Enhancement Programs for Virtual Stars</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-drivers-installation-for-win-1078/"><u>Efficient Drivers Installation for Win 10/7/8</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-hassle-free-access-to-canon-scanner-drivers-on-windows/"><u>Free, Hassle-Free Access to Canon Scanner Drivers on Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-get-paid-to-review-products-on-youtube/"><u>How to Get Paid to Review Products on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-installation-woes-clipchamp-and-windows-11-guide/"><u>Mastering Installation Woes: ClipChamp and Windows 11 Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-hassle-update-lenovo-z50-70-drivers/"><u>No Hassle: Update Lenovo Z50-70 Drivers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-intel-drivers-for-windows-when-and-how/"><u>Update Intel Drivers for Windows (When And How)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-made-easy-lenovo-z50-70-tablet-guide/"><u>Update Made Easy: Lenovo Z50-70 Tablet Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-upgrade-new-gtx-970-graphics-drivers/"><u>Windows 10 Upgrade - New GTX 970 Graphics Drivers</u></a></li>
 </ul></div>
 

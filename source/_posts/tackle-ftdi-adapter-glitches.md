@@ -1,7 +1,7 @@
 ---
 title: Tackle FTDI Adapter Glitches
-date: 2024-10-11T19:47:38.254Z
-updated: 2024-10-18T17:54:26.797Z
+date: 2024-10-17T01:05:14.502Z
+updated: 2024-10-24T12:15:13.902Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -107,21 +107,21 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-audio-formatting-guide-from-srt-to-xmlssa-ttml-etc/"><u>[New] Audio Formatting Guide From SRT to XML/SSA, TTML, Etc</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-handbook-for-flawless-snapchat-boomers/"><u>[New] In 2024, The Ultimate Handbook for Flawless Snapchat Boomers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-the-maze-of-music-rights-on-instagram/"><u>[New] Navigating the Maze of Music Rights on Instagram</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-firefox-x-pie-mode-decoded-for-everyday-users/"><u>2024 Approved Firefox X-Pie Mode Decoded for Everyday Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-steps-to-smoother-audio-driver-performance/"><u>Easy Steps to Smoother Audio Driver Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-gfx-driver-installation-with-ddu/"><u>Efficient GFX Driver Installation with DDU</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-the-ft232r-universal-uart-dongle-driver/"><u>Effortless Installation of the FT232R Universal UART Dongle Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-display-clarity-new-hp-graphics-drivers-in-windows/"><u>Elevate Display Clarity: New HP Graphics Drivers in WINDOWS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/execute-drivers-patches-in-vista-independently/"><u>Execute Drivers Patches in Vista Independently</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-track-gpu-update-gtx-750-ti/"><u>Fast-Track GPU Update: GTX 750 Ti</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-1650-graphics-driver-for-windows-users/"><u>GTX 1650 Graphics Driver for Windows Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-honor-70-lite-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor 70 Lite 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lightning-fast-the-art-of-windows-file-scanning/"><u>In 2024, Lightning-Fast The Art of Windows File Scanning</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-editing-solutions-for-32-bit-windows-top-picks/"><u>New In 2024, Free Video Editing Solutions for 32-Bit Windows Top Picks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062242675-simplify-usb-drive-management-with-instant-adb-installation/"><u>Simplify USB Drive Management with Instant ADB Installation</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unleash-powerful-english-communication-with-these-tricks/"><u>Unleash Powerful English Communication with These Tricks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-reno-10-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Reno 10 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/best-laughs-in-layout-designer-for-2024/"><u>Best Laughs in Layout Designer for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elite-sound-driver-amd-and-windows/"><u>Elite Sound Driver: AMD & Windows</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-defy-2-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-iphone-x-sim-lock-by-drfone-ios/"><u>How to Remove iPhone X SIM Lock?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-10-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 10 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-hp-omen-15-drivers/"><u>How To Update HP Omen 15 Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-windows-10-compatible-drivers-for-gtx-970/"><u>New Windows 10 Compatible Drivers for GTX 970</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-hardware-with-scsi-drivers/"><u>Optimize Hardware with SCSI Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/perfect-display-settings-with-new-graphics-software/"><u>Perfect Display Settings with New Graphics Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-windows-11-acer-driver-updates/"><u>Quick Windows 11 Acer Driver Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simplifying-webinars-mastering-your-zoom-presentations-with-obs-a-step-by-step-guide/"><u>Simplifying Webinars: Mastering Your Zoom Presentations with Obs - A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/superior-5-social-sites-redefining-connectivity/"><u>Superior 5 Social Sites, Redefining Connectivity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-prints-simplify-with-canon-drivers-for-pc/"><u>Upgrade Your Prints, Simplify with Canon Drivers for PC</u></a></li>
 </ul></div>
 

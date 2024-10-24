@@ -1,7 +1,7 @@
 ---
 title: Direct Download for Enhanced Windows Graphics
-date: 2024-08-15T14:39:12.112Z
-updated: 2024-08-16T14:39:12.112Z
+date: 2024-10-16T17:55:42.196Z
+updated: 2024-10-24T10:46:14.176Z
 tags:
   - win11
   - win10
@@ -39,8 +39,12 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
  Once you’ve downloaded the correct drivers for your system, double-click the file and follow the on-screen instructions to install the driver. If you don’t feel like doing the manual search and installation, there’s a more hassle-free solution.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Option 2 – Automatically update the RTX 3090 Ti driver
 
  If you don’t have the time, patience or computer skills to update the RTX 3090 Ti driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -52,15 +56,23 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged RTX 3090 Ti driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-update-rtx-3090-ti-driver-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -82,8 +94,6 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,6 +101,20 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-effortless-image-editing-picart-background-removal/"><u>[Updated] Effortless Image Editing PicArt Background Removal</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevating-your-youtube-comments-with-emoji-skills/"><u>[Updated] In 2024, Elevating Your YouTube Comments with Emoji Skills</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-catchy-captions-the-ultimate-guide-to-animated-text-on-ig/"><u>2024 Approved Catchy Captions The Ultimate Guide to Animated Text on IG</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/al-video-conquerors-ultimate-toolkit-list/"><u>Digital Video Conquerors' Ultimate Toolkit List</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-xp-330-printer-software-download-installation-guide/"><u>Epson XP-330 Printer Software Download: Installation Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-potential-to-innovate-in-health-services/"><u>Exploring ChatGPT's Potential to Innovate in Health Services</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-xiaomi-mix-fold-3-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://driver-install.techidaily.com/introducing-gigabyte-mb-support-quick-free-download-guide/"><u>Introducing Gigabyte MB Support: Quick, Free Download Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/introducing-high-end-audio-to-windows-7-via-nvidia/"><u>Introducing High-End Audio to Windows 7 via NVIDIA</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-y470-ideapad-w7drivers/"><u>Lenovo Y470 IdeaPad W7Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/live-transcribing-made-easy-the-whisper-way/"><u>Live Transcribing Made Easy - The Whisper Way</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-gaming-experience-with-gpu-driver-update/"><u>Maximize Gaming Experience with GPU Driver Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-search-with-microsofts-ai-enhanced-bing/"><u>Transforming Search with Microsoft's AI-Enhanced Bing</u></a></li>
+</ul></div>
 

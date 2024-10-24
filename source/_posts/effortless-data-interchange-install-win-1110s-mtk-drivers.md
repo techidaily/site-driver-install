@@ -1,7 +1,7 @@
 ---
 title: Effortless Data Interchange - Install Win 11/10'S MTK Drivers
-date: 2024-08-15T14:39:05.799Z
-updated: 2024-08-16T14:39:05.799Z
+date: 2024-10-22T13:23:34.973Z
+updated: 2024-10-23T23:11:10.370Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
  4) When you see**Startup Settings** , press**number 7** or**F7** on your keyboard to disable Driver Signature Enforcement. This will take about 3 minutes to boot.
@@ -74,16 +81,10 @@ To download and install MediaTek drivers manually, you need to:
 2) Click the**System** category, scroll down the right pane, and then click**Recovery** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Click the Restart now button.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery-restart.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
@@ -101,6 +102,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Action** and select**Add legacy hardware** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
@@ -108,20 +116,21 @@ To download and install MediaTek drivers manually, you need to:
  4) In the Add Hardware Wizard, click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click**Show All Devices** and then**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Select**Have Disk** and select the .inf file you extracted before.
 
@@ -133,9 +142,6 @@ To download and install MediaTek drivers manually, you need to:
 
 10) Restart your PC and connect your MediaTek device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 Automatically
 
  To update MTK drivers, it may take a lot of time to search online and install it manually. If you don’t have the time, patience, or computer skills to update the MediaTek driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -151,15 +157,23 @@ To download and install MediaTek drivers manually, you need to:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-6.png)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** . )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/updateall.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Note: You can do it for free if you like, but it’s partly manual.
@@ -184,8 +198,6 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,6 +205,22 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-bringing-rhythm-to-instagrams-visual-narratives/"><u>[New] 2024 Approved Bringing Rhythm to Instagram's Visual Narratives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-harnessing-the-power-of-animated-graphics/"><u>[New] Harnessing the Power of Animated Graphics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-gopro-editing-software-15-best-gopro-video-editors/"><u>[New] In 2024, GoPro Editing Software 15 Best GoPro Video Editors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-life-in-stunning-form-with-iphones-essential-10-composition-guidelines/"><u>[Updated] Capture Life in Stunning Form with iPhone's Essential 10 Composition Guidelines</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-on-downloading-instagrams-viral-content-for-2024/"><u>A Step-by-Step on Downloading Instagram's Viral Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-windows-to-counteract-accelerated-mice/"><u>Adjusting Windows to Counteract Accelerated Mice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-affordable-premium-asmr-audio-equipment/"><u>Discover Affordable Premium ASMR Audio Equipment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-robust-access-controls-via-powertoys/"><u>Implementing Robust Access Controls via PowerToys</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-dont-miss-out-the-creme-de-la-creativite-in-tiktok-top-10/"><u>In 2024, Don't Miss Out The Crème De La Créativité in TikTok (Top 10)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-tutorial-windows-compatible-usb-bt400/"><u>Installation Tutorial: Windows Compatible USB BT400</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lightning-usb-31-driver-enhancement/"><u>Lightning USB 3.1 Driver Enhancement</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-earbuds-update-made-simple/"><u>Logitech Earbuds: Update Made Simple!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-hp-graphics-in-w10-environment/"><u>Optimize HP Graphics in W10 Environment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-reinstall-how-to-setup-bluetooth-drivers-on-win-1011/"><u>Quick Reinstall: How To Setup Bluetooth Drivers on Win 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-to-update-high-performance-pro-6-drivers/"><u>Quick-to-Update, High-Performance Pro 6 Drivers</u></a></li>
+</ul></div>
 

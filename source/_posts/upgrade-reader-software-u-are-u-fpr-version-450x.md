@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Reader Software: U-Are-U FPR Version 4.50X"
-date: 2024-08-15T14:41:21.618Z
-updated: 2024-08-16T14:41:21.618Z
+date: 2024-10-18T13:29:52.204Z
+updated: 2024-10-24T04:14:54.697Z
 tags:
   - win11
   - win10
@@ -37,15 +37,23 @@ OR
  1) If you’d like to update your U.are.U 4500 driver manually, you can download the correct and latest driver from the official website of [Digital Persona](https://devportal.digitalpersona.com/portal.php) . Log in and download the exact driver according to your Windows version (such as Windows 10 Pro, 64-bit).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-27_15-45-07.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Or you can obtain the driver from your PC vendor. You’ll need to visit the official website of Lenovo, Dell, or any other vendors, and locate its**Support** section. Then select**Drivers & Software** or**Drivers & Download** to enter the download page of drivers. Search for**U.are.U 4500 fingerprint reader driver** and download the exact driver according to your Windows variant.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Install the driver manually
@@ -57,27 +65,24 @@ OR
  2) Double click**Biometric devices** , then right-click**U.are.U 4500 Fingerprint Reader,** and select **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-936.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Select the driver file and click**Next** , then wait for the installation process to finish.
 
@@ -87,9 +92,6 @@ See if your fingerprint reader works properly again.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update the fingerprint driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -103,19 +105,12 @@ See if your fingerprint reader works properly again.
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
 
  Or click the**Update All** button to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get full support and 30 day money-back guarantee. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
 4) Restart your PC after finishing installing.
 
@@ -134,8 +129,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,8 +136,21 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-reel-it-in-top-5-action-cameras-for-anglers/"><u>[New] 2024 Approved Reel It In Top 5 Action Cameras for Anglers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fb-video-capture-toolkit/"><u>[Updated] In 2024, FB Video Capture Toolkit</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-techniques-for-perfect-chroma-key-compositing-for-2024/"><u>[Updated] Techniques for Perfect Chroma Key Compositing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-media-showdown-podcasts-vs-youtube-in-the-modern-world/"><u>2024 Approved Media Showdown Podcasts Vs. YouTube in the Modern World</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-hd-screensnap-equipment/"><u>2024 Approved Ultimate HD Screensnap Equipment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/a-feast-of-anarchy-our-expert-take-on-overcooked-2s-recipe-for-disaster/"><u>A Feast of Anarchy: Our Expert Take on Overcooked! 2'S Recipe for Disaster</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-unveils-new-nuc-proplus-with-meteor-lake-processors-512gb-ssd-and-16gb-ram-for-860/"><u>Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860</u></a></li>
+<li><a href="https://driver-install.techidaily.com/choosing-the-perfect-prefabricated-gaming-rig-top-picks-and-considerations/"><u>Choosing the Perfect Prefabricated Gaming Rig: Top Picks and Considerations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1723262425417-elevate-your-gaming-experience-with-nzxt-premium-configurations-core-i7-plus-rtx-4070-ti-for-only-169-monthly/"><u>Elevate Your Gaming Experience with NZXT - Premium Configurations: Core I7 + RTX 4070 Ti for Only $169 Monthly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-reno-11-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo Reno 11 Pro 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-a-practical-approach-to-using-screencastify-for-video-capture/"><u>In 2024, A Practical Approach to Using Screencastify for Video Capture</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-your-pc-build-expert-tips-and-reviews-by-toms-gear-guide/"><u>Mastering Your PC Build: Expert Tips and Reviews by Tom's Gear Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/recording-techniques-for-instagrams-ephemeral-content-for-2024/"><u>Recording Techniques for Instagram's Ephemeral Content for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-technology-secrets-with-tom-in-depth-gadget-analysis/"><u>Unveiling Technology Secrets with Tom - In-Depth Gadget Analysis</u></a></li>
+</ul></div>
 

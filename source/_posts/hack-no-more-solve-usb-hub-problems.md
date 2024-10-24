@@ -1,7 +1,7 @@
 ---
 title: "Hack No More: Solve USB Hub Problems"
-date: 2024-08-15T14:41:24.810Z
-updated: 2024-08-16T14:41:24.810Z
+date: 2024-10-22T09:46:57.232Z
+updated: 2024-10-23T19:34:43.148Z
 tags:
   - win11
   - win10
@@ -29,23 +29,6 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Method 1: Update Generic USB Hub driver manually
 
  As Microsoft provides drivers for most of the USB devices, you can directly download the Generic USB Hub driver from Windows to update. To do so:
@@ -53,25 +36,47 @@ Key features:
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and**R** at the same time to invoke the**Run** box.
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Double click**Universal Serial Bus controllers** to expand the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Method 2: Update Generic USB Hub driver automatically
 
  Manually updating drivers requires time and computer skills. If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -83,17 +88,10 @@ Key features:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5be1edc38.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 4. Restart your computer to take effect.
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance
@@ -107,8 +105,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,8 +112,19 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-tips-for-producing-ai-powered-live-game-streaming-content/"><u>[Updated] 2024 Approved Tips for Producing AI-Powered Live Game Streaming Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-pinnacle-playbook-perfecting-the-art-of-live-thumbnail-design/"><u>[Updated] The Pinnacle Playbook Perfecting the Art of Live Thumbnail Design</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-premier-index-of-digital-imagery-collections/"><u>2024 Approved Premier Index of Digital Imagery Collections</u></a></li>
+<li><a href="https://driver-install.techidaily.com/chinas-plan-surge-public-sector-supercomputing-power-by-30-reaching-300-exaflops-before-2025/"><u>China's Plan: Surge Public Sector Supercomputing Power by 30% Reaching 300 Exaflops Before 2025</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-nokia-c12-plus-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Nokia C12 Plus</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reliability-and-convenience-in-one-unit-kensn-portable-air-pump-assessment/"><u>Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-guide-to-updating-nvidia-hd-audio-on-windows-11-pcs/"><u>Step-by-Step Guide to Updating NVIDIA HD Audio on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-chatgpt-handbook/"><u>The Essential ChatGPT Handbook</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tp-link-usb-adapter-no-hassle-download-for-pcs-free/"><u>TP Link USB Adapter, No Hassle: Download for PCs FREE</u></a></li>
+<li><a href="https://driver-install.techidaily.com/uefi-secure-boot-and-management-engine/"><u>UEFI Secure Boot & Management Engine</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-differences-samsungs-newest-beast-vs-its-predecessor-the-s21-ultra/"><u>Unveiling the Differences: Samsung's Newest Beast Vs. Its Predecessor, The S21 Ultra</u></a></li>
+</ul></div>
 

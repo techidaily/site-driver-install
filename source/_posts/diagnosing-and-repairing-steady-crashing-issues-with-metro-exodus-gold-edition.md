@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Steady Crashing Issues with Metro Exodus: Gold Edition"
-date: 2024-10-12T16:32:30.779Z
-updated: 2024-10-18T16:47:26.201Z
+date: 2024-10-19T05:28:03.203Z
+updated: 2024-10-24T09:49:24.073Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 5. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Stop overclocking
 
  Many players would like to try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -57,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
@@ -82,10 +82,10 @@ If the issue persists, try the next fix below.
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
@@ -111,20 +111,13 @@ If the issue persists, try the next fix below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -147,29 +140,36 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
 
@@ -197,20 +197,20 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ultimate-list-of-superior-car-surveillance-cams/"><u>[New] 2024 Approved Ultimate List of Superior Car Surveillance Cams</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-chucklecanvas-draw-hilarious-social-media-art/"><u>[New] ChuckleCanvas Draw Hilarious Social Media Art</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-essentials-of-efficient-video-tagging-methods/"><u>[Updated] In 2024, The Essentials of Efficient Video Tagging Methods</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-x-fold-2-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo X Fold 2 by Name | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-restoration-in-windows-11-with-drivers-upgrade/"><u>Audio Restoration in Windows 11 with Drivers Upgrade</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/capturing-instantly-with-iphone-timelapse-techniques/"><u>Capturing Instantly with iPhone Timelapse Techniques</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-route-to-flawless-nvidia-drivers-revision/"><u>Direct Route to Flawless Nvidia Drivers Revision</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-hardware-enhancement-install-now/"><u>Effortless Hardware Enhancement, Install Now</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-display-with-latest-hp-driver-for-win11/"><u>Enhance Display with Latest HP Driver for Win11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-standard-pixels-to-dynamic-range-extremes-a-transformation-journey/"><u>From Standard Pixels to Dynamic Range Extremes A Transformation Journey</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hd-5450-windows-drivers-swift-and-simple-win11-fixes/"><u>HD 5450 Windows Drivers - Swift & Simple Win11 Fixes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-envy-5530-driver-compatibility-for-windows-11/"><u>HP Envy 5530 Driver Compatibility for Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063656167-lenovo-g580-seamless-driver-updates/"><u>Lenovo G580: Seamless Driver Updates</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-15-pro-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-comprehensive-walkthrough-setting-up-your-first-wirecast-livestream-to-youtube/"><u>[New] In 2024, A Comprehensive Walkthrough Setting Up Your First WireCast Livestream to Youtube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-power-of-easy-video-editing-in-photos-and-windows-11/"><u>2024 Approved Explore the Power of Easy Video Editing in Photos & Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-favorites-todays-10-music-moments/"><u>2024 Approved Facebook's Favorites Today's #10 Music Moments</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-television-or-projector-unraveling-the-best-for-4k-viewing-pleasure/"><u>2024 Approved Television or Projector? Unraveling the Best for 4K Viewing Pleasure</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/boomerang-on-instagram-create-addictive-loop-videos-on-ig-for-2024/"><u>Boomerang on Instagram Create Addictive Loop Videos on IG for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/convenient-updates-to-system-drivers-in-win7/"><u>Convenient Updates to System Drivers in Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effective-driver-updates-for-msi-bravo-laptops/"><u>Effective Driver Updates for MSI Bravo Laptops</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-razer-portals-web-connectivity-best-wireless-laptop-for-gamers/"><u>Evaluating the Razer Portal's Web Connectivity: Best Wireless Laptop for Gamers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/exclusive-driver-access-canons-windows-10-edition/"><u>Exclusive Driver Access: Canon's Windows 10 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-a-streamlined-download-process-for-youtubes-srt/"><u>In 2024, Tailoring a Streamlined Download Process for YouTube's SRT</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-and-fabulous-top-20-adobe-premiere-title-and-intro-templates/"><u>New Free and Fabulous Top 20 Adobe Premiere Title and Intro Templates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-drivers-refreshed-gtx-970-for-w10-users/"><u>Nvidia Drivers Refreshed: GTX 970 For W10 Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13 Pro Max</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-compatibility-and-speed-aoc-drivers-v1659aoc/"><u>Win Compatibility & Speed: AOC Drivers V1659AOC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-users-boost-pc-speed-with-new-driver/"><u>Windows 10 Users, Boost PC Speed with New Driver!</u></a></li>
 </ul></div>
 

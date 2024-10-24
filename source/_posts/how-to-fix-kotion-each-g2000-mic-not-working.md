@@ -1,7 +1,7 @@
 ---
 title: How to Fix Kotion Each G2000 Mic Not Working
-date: 2024-10-12T19:12:07.656Z
-updated: 2024-10-18T18:42:12.225Z
+date: 2024-10-19T03:40:38.867Z
+updated: 2024-10-24T09:54:40.707Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -49,24 +56,31 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Check the audio settings
 
  If the volume on your computer is set mute or too low, you won’t be able to hear the sound. To make sure you have turned up the volume:
 
  1) On the dock, click the**System Preferences** icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026d618d4e9.png) , then click on the **Sound** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038f642ae65.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If instead of**Internal Speakers** , you see **Digital Output** or**No output devices found** , then insert your headphone into the headphone port and pull it out. Keep plugging and unplugging until **Internal Speakers** appears. Then repeat step 2).
 
@@ -84,15 +98,22 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Check if the**no sound problem** has been solved.
@@ -113,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
 
 4) After the start-up, your computer will be refreshed to the default settings. This time, you might need to  reconfigure settings for speaker volume, time zone, and display solution etc.
@@ -127,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 5) Test to see if the sound works properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix **7: Create a testing account on safe mode**
 
@@ -149,22 +156,15 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
@@ -224,17 +224,21 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-seamless-slidecasts-combining-webcam-and-ppt/"><u>[New] Seamless Slidecasts Combining Webcam and PPT</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-skys-new-choreographer-gopro-karma-takes-center-stage/"><u>[New] Sky's New Choreographer GoPro Karma Takes Center Stage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-combat-vr-motion-sickness-a-guide/"><u>2024 Approved Combat VR Motion Sickness A Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-reset-poco-m6-pro-5g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Poco M6 Pro 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-the-question-of-authorship-how-is-copyright-assigned-in-the-realm-of-artificial-intelligence/"><u>Demystifying the Question of Authorship: How Is Copyright Assigned in the Realm of Artificial Intelligence?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-kinemaster-edition-creating-polished-transitions-in-filmmaking/"><u>In 2024, Kinemaster Edition Creating Polished Transitions in Filmmaking</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/johannes-honterus-driving-change/"><u>Johannes Honterus: Driving Change</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstall-visual-interface-software/"><u>Reinstall Visual Interface Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-computers-upgrade-chip-drivers/"><u>Streamline Computers: Upgrade Chip-Drivers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ubisoft-connect-not-responding-find-out-how-to-restore-functionality-quickly/"><u>Ubisoft Connect Not Responding? Find Out How to Restore Functionality Quickly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveiling-the-process-of-new-driver-setup/"><u>Unveiling the Process of New Driver Setup</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-based-strategy-for-nvidia-drivers-reboot/"><u>Windows-Based Strategy for NVIDIA Drivers Reboot</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ipados-paint-the-creme-de-la-creation-apps/"><u>[New] In 2024, IPadOS Paint The Crème De La Création Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-tackling-the-challenge-of-locating-fbs-most-watched-videos-2e23/"><u>[New] Tackling the Challenge of Locating Fb's Most-Watched Videos (2E23)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2-step-by-step-guide-leveraging-windows-backup-functionality-for-hassle-free-pc-migration/"><u>2. Step-by-Step Guide: Leveraging Windows Backup Functionality for Hassle-Free PC Migration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-streaming-social-feeds-on-your-smart-tv-whats-next/"><u>2024 Approved Streaming Social Feeds on Your Smart TV What's Next?</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-method-for-reinstalling-and-configuring-printer-drivers-in-winoss/"><u>Efficient Method for Reinstalling and Configuring Printer Drivers in WinOSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-scsi-driver-installation/"><u>Effortless SCSI Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-screen-output-tips-for-updating-your-hdmi-driver-in-w10w11/"><u>Enhanced Screen Output - Tips for Updating Your HDMI Driver in W10/W11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-beyond-capture-understanding-mycams-advanced-features/"><u>In 2024, Beyond Capture – Understanding MyCam's Advanced Features</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-smart-8-plus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Smart 8 Plus Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-limitless-video-snipping-program/"><u>In 2024, Limitless Video Snipping Program</u></a></li>
+<li><a href="https://driver-install.techidaily.com/m2-ssd-compatibility-tips/"><u>M.2 SSD Compatibility Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-named-best-language-learning-app-of-2022-by-bestappcom/"><u>Mondly Named Best Language Learning App of 2022 by BestApp.com</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-driver-mastery-for-multiple-windows-environments/"><u>StarTech Driver Mastery for Multiple Windows Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-intel-graphics-stack-fastly/"><u>Update Intel Graphics Stack Fastly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-surface-pro-4-performance-via-drivers/"><u>Upgrade Surface Pro 4 Performance via Drivers</u></a></li>
 </ul></div>
 

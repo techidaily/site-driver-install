@@ -1,7 +1,7 @@
 ---
 title: Simple Steps for Lenovo USB-C Dock Drivers
-date: 2024-10-06T16:34:37.513Z
-updated: 2024-10-12T19:52:49.525Z
+date: 2024-10-22T05:34:28.598Z
+updated: 2024-10-23T17:45:44.539Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update**Lenovo USB-C Dock driver** s manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -48,10 +41,24 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
 
@@ -66,20 +73,26 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
@@ -89,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Double-click on the execution file and follow the on-screen instructions to install.
 8. Don’t forget to restart your computer for the changes to take effect.
@@ -124,24 +130,22 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-obs-studio-mastery-top-5-editing-techniques/"><u>[New] OBS Studio Mastery Top 5 Editing Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unlock-visual-potential-with-smart-photo-text-tools-online-for-2024/"><u>[Updated] Unlock Visual Potential with Smart Photo Text Tools Online for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-celebrating-stop-motion-excellence-top-15-films/"><u>2024 Approved Celebrating Stop-Motion Excellence Top 15 Films</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-a-world-of-videos-made-easy-with-vidas-aid/"><u>2024 Approved Navigating a World of Videos Made Easy with Vida's Aid</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-driver-issue-rectified-in-recent-os-rollout/"><u>Audio Driver Issue Rectified in Recent OS Rollout</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-performance-with-updated-lenovo-w11-drivers/"><u>Boost Performance with Updated Lenovo W11 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/directly-ethernet-connection-via-usb-adapter/"><u>Directly Ethernet Connection via USB Adapter</u></a></li>
-<li><a href="https://driver-install.techidaily.com/directly-updating-windows-vista-drivers/"><u>Directly Updating Windows Vista Drivers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/expert-video-upload-techniques-for-youtube-via-premiere-for-2024/"><u>Expert Video Upload Techniques for YouTube via Premiere for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-your-sightline-in-roblox-playground/"><u>In 2024, Maximizing Your Sightline in Roblox Playground</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-cybercast-seminar-key-concepts-and-deeper-understanding/"><u>New 2024 Approved Cybercast Seminar Key Concepts and Deeper Understanding</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-crafting-masterpieces-on-your-mac-an-in-depth-look-at-the-leading-daws-of-2-written-in-markdown-format-with-each-title-as-a-separate-subheading-heres-ho/"><u>New Crafting Masterpieces on Your Mac An In-Depth Look at the Leading DAWs of 2 Written in Markdown Format, with Each Title as a Separate Subheading. Heres How It Would Look Like</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-updates-for-gtx-graphics-card/"><u>Nvidia Updates for GTX Graphics Card</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcoming-driver-challenges-for-hp-laserjet-1020/"><u>Overcoming Driver Challenges for HP LaserJet 1020</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-bluetooth-setup-in-windows-7/"><u>Quick Bluetooth Setup in Windows 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-s17t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo S17t Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tips-and-tricks-for-smooth-installation-and-update-of-amd-video-drivers/"><u>Tips & Tricks for Smooth Installation and Update of AMD Video Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unleash-a-world-of-knowledge-with-17-premier-sites-for-finding-and-downloading-books-at-no-cost/"><u>Unleash a World of Knowledge with 17 Premier Sites for Finding and Downloading Books at No Cost</u></a></li>
-<li><a href="https://driver-install.techidaily.com/wacom-driver-removal-and-installation-on-windows-editions-win-11-7/"><u>Wacom Driver Removal & Installation on Windows Editions (Win 11-7)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-grasping-the-greener-side-of-valheim-top-seeds-list/"><u>[Updated] In 2024, Grasping the Greener Side of Valheim Top Seeds List</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-cutting-edge-radios-for-police-use/"><u>2024'S Cutting-Edge Radios for Police Use</u></a></li>
+<li><a href="https://driver-install.techidaily.com/a-comprehensive-tutorial-for-win-11s-hdmi-driver-revamp/"><u>A Comprehensive Tutorial for Win 11'S HDMI Driver Revamp</u></a></li>
+<li><a href="https://driver-install.techidaily.com/auto-update-feature-surface-pro-6/"><u>Auto-Update Feature: Surface Pro 6</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensively-addressing-usbasp-issues-in-windows-variants/"><u>Comprehensively Addressing USBasp Issues in Windows Variants</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-audio-experience-pcie-controller-update-on-windows-10/"><u>Elevate Audio Experience - PCIe Controller Update on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-windows-10-display-with-hp/"><u>Elevate Your Windows 10 Display with HP</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-system-with-medd-support/"><u>Enhance System with MEDD Support</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-tracking-your-gpus-capabilities-with-2024-ddu-guide/"><u>Fast-Tracking Your GPU's Capabilities with 2024 DDU Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-audio-support-for-windows-users-completed/"><u>HD Audio Support for Windows Users Completed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lifelike-broadcasts-which-aspect-holds-the-high-ground/"><u>In 2024, Lifelike Broadcasts Which Aspect Holds the High Ground?</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-desktop-functionality-adding-widgets-to-win-11/"><u>Maximizing Desktop Functionality: Adding Widgets to Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventive-measures-for-csgo-launch-woes-on-windows-11/"><u>Preventive Measures for CS:GO Launch Woes on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-input-latency-issues-in-valorant-pc-update-2e24/"><u>Troubleshooting & Fixing Input Latency Issues in Valorant (PC) - Update 2E24</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-artificnelligence-a-beginners-guide/"><u>Understanding Artificnelligence: A Beginner's Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728508779290-windows-10-c/"><u>Windows 10上保证安全清空 C:驱动器的三种方式</u></a></li>
 </ul></div>
 

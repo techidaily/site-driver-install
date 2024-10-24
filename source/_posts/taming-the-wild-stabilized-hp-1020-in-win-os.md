@@ -1,7 +1,7 @@
 ---
 title: "Taming the Wild: Stabilized HP 1020 in Win OS"
-date: 2024-10-14T16:19:43.269Z
-updated: 2024-10-18T17:10:06.997Z
+date: 2024-10-18T01:09:04.202Z
+updated: 2024-10-24T10:52:56.247Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 2. [Update the printer driver in Device Manager](#Fix2)
 3. [Update the printer driver automatically](#Fix3)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Update the printer driver manually
 
 Time needed:  3 minutes.
@@ -38,24 +45,18 @@ Time needed:  3 minutes.
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run the downloaded file, and follow the wizard to finish.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Update the printer driver in Device Manager
 
@@ -70,6 +71,14 @@ Time needed:  3 minutes.
 3. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 
@@ -77,16 +86,16 @@ Time needed:  3 minutes.
 6. Choose**Search automatically for updated driver software** .  
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
@@ -111,13 +120,6 @@ After updating, restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. After updating, restart your computer to take effect.
 
@@ -147,19 +149,16 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-exploring-instagrams-video-sharing-cap-for-2024/"><u>[New] Exploring Instagram's Video Sharing Cap for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inter-app-playlist-exchange-made-simple/"><u>[New] Inter-App Playlist Exchange Made Simple</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-bridging-gap-integrating-zoom-into-your-gmail-setup/"><u>2024 Approved Bridging Gap Integrating Zoom Into Your Gmail Setup</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-creating-a-decreasing-volume-effect-in-audacity/"><u>2024 Approved Creating a Decreasing Volume Effect in Audacity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp3mp4-movavi/"><u>移動網站無限制地MP3到MP4過渡 - 使用Movavi轉換工具</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-cpu-performance-intel-updater/"><u>Enhance CPU Performance: Intel Updater</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/image-distortion-made-easy-for-2024/"><u>Image Distortion Made Easy for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagrams-step-by-step-guide-to-green-room-editing/"><u>In 2024, Instagram's Step-by-Step Guide to Green Room Editing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-driver-update-just-click-here/"><u>Instant Driver Update, Just Click Here</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-graphics-radeon-vega-3-gpu-upgrade-download/"><u>Optimize Graphics - Radeon Vega 3 GPU Upgrade Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-realtek-audio-support-with-driver-updates/"><u>Revamp Realtek Audio Support with Driver Updates</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-anatomy-of-apple-m1-chip-redefining-tech/"><u>The Anatomy of Apple M1 Chip, Redefining Tech</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-7-lenovo-y470-driver-bundle/"><u>Windows 7 Lenovo Y470 Driver Bundle</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aximizing-video-game-earnings/"><u>[New] Maximizing Video Game Earnings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-superior-hd-gameplay-through-top-captures-for-2024/"><u>[New] Superior HD Gameplay Through Top Captures for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-compre-writters-manual-for-great-documentary-storytelling/"><u>[Updated] The Compre Writter's Manual for Great Documentary Storytelling</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-discovering-the-ultimate-14-stardew-valley-upgrades/"><u>2024 Approved Discovering the Ultimate 14 Stardew Valley Upgrades</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-route-to-driver-installation-a-windows-71011-guide/"><u>Easy Route to Driver Installation: A Windows 7/10/11 Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-seconds-at-a-time-the-art-of-phantom-slow-motion/"><u>In 2024, Capturing Seconds at a Time The Art of Phantom Slow Motion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-strategies-for-harvesting-fb-status-video-archives/"><u>In 2024, Strategies for Harvesting FB Status Video Archives</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigate-to-new-driver-version-windows-updates-for-canon-model-f4770n/"><u>Navigate to New Driver Version: Windows Updates for Canon Model F4770N</u></a></li>
+<li><a href="https://driver-install.techidaily.com/professional-steinberg-drivers-bundle/"><u>Professional Steinberg Drivers Bundle</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-your-brother-printers-print-a-win1011-guide-to-fixing-issues/"><u>Revive Your Brother Printer's Print: A Win10/11 Guide to Fixing Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/top-tier-amd-hd-audio-for-windows/"><u>Top-Tier AMD HD Audio for Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Address Broken Drivers Impacting Windows Printers
-date: 2024-08-15T14:40:36.095Z
-updated: 2024-08-16T14:40:36.095Z
+date: 2024-10-21T18:43:44.588Z
+updated: 2024-10-23T22:06:17.005Z
 tags:
   - win11
   - win10
@@ -56,9 +56,6 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -66,30 +63,42 @@ For some printers, you need to update the drivers manually step by step.
  1) Click**Start** menu and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In Settings window, click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
  Click**Check for updates** , and then wait while Windows looks for the latest updates for your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **Way 3: Update your printer driver automatically**
 
  If you don’t have time, patience and computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -103,17 +112,18 @@ For some printers, you need to update the drivers manually step by step.
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
@@ -124,8 +134,6 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,6 +141,23 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-guide-to-optimized-and-streamlined-mac-screenshots-via-keyboard-shortcuts/"><u>[New] 2024 Approved Quick Guide to Optimized and Streamlined Mac Screenshots via Keyboard Shortcuts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nhancing-content-with-youtube-tags-and-notes-for-2024/"><u>[New] Enhancing Content with YouTube Tags & Notes for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-slapstick-to-subtlety-a-guide-to-crafting-memes-online/"><u>[New] In 2024, Slapstick to Subtlety A Guide to Crafting Memes Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation/"><u>[Updated] 2024 Approved Filmmaker's Choice Selecting Perfect Lenses for YouTube Creation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-discovering-the-best-screen-recording-programs-for-win11/"><u>2024 Approved Discovering the Best Screen Recording Programs for Win11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-how-to-optimize-microphone-use-on-windows-11-for-best-results/"><u>2024 Approved How to Optimize Microphone Use on Windows 11 for Best Results</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-make-your-own-rugged-bootable-usb-stick-using-windows-10-or-11/"><u>How to Make Your Own Rugged Bootable USB Stick Using Windows 10 or 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/preparing-for-the-arrival-of-oneplus-10-price-forecasts-launch-date-projections-feature-teasers-and-hushed-conversations-revealed/"><u>Preparing for the Arrival of OnePlus 10: Price Forecasts, Launch Date Projections, Feature Teasers, and Hushed Conversations Revealed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-win-7s-performance-update-the-new-game-mouse-driver/"><u>Revive Win 7'S Performance - Update the New Game Mouse Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-device-configuration-by-installing-drivers/"><u>Seamless Device Configuration by Installing Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-thunderbolt-4-enhancement-for-macbooks/"><u>Swift Thunderbolt 4 Enhancement for MacBooks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/third-party-info-lacks-legit-signs/"><u>Third-Party Info Lacks Legit Signs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshooting-techniques-for-your-hawki-car-concerns/"><u>Troubleshooting Techniques for Your Hawki Car Concerns</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ultra-simple-latest-driver-for-gtx-750-ti/"><u>Ultra Simple: Latest Driver for GTX 750 Ti</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-usbethernet-link-setup-instructions/"><u>Windows USB/Ethernet Link Setup Instructions</u></a></li>
+</ul></div>
 
