@@ -1,7 +1,7 @@
 ---
 title: Configure Canon Printing on Multiple OS Platforms
-date: 2024-08-27T09:06:42.071Z
-updated: 2024-08-28T09:06:42.071Z
+date: 2024-10-26T18:50:59.031Z
+updated: 2024-10-29T17:38:45.857Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
 
  As you see, download driver from website needs a lot clicks. And you should find the correct driver by yourself. It’s a 100% correct way to install the proper driver though, it’s time-consuming.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
  If you are not a tech savvy, or you just want to save much time, way 2 is your choice — Using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to download the latest drivers automatically. Driver Easy is a 100% safe and extremely helpful driver tool. It can help you solve all the drivers problem, including missing, outdated and incompatible drivers. And it supports most Windows versions, from Vista to the newly Windows 10\. Its [Free version](https://tools.techidaily.com/drivereasy/download/) will find the correct drivers for you to install one by one. But if upgrade to [Pro version](https://tools.techidaily.com/drivereasy/download/) , it will update all your drivers with just one click — **Update All** . Of cause including your Canon MX870 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
 
@@ -59,8 +73,6 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -68,12 +80,18 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-install.techidaily.com/accelerate-hd-graphics-sdk-update/"><u>Accelerate HD Graphics SDK Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amd-rx-5700-drivers-download-and-update/"><u>AMD RX 5700 Drivers Download & Update</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-hdmi-and-usb-interfacing-drivers-now-for-optimal-performance/"><u>Download Updated HDMI & USB Interfacing Drivers Now for Optimal Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-managing-audio-drivers-in-ws11/"><u>Efficiently Managing Audio Drivers in WS11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-windows-11-gaming-with-the-latest-nvidia-geforce-210-driver-upgrades/"><u>Enhance Your Windows 11 Gaming with the Latest NVIDIA GeForce 210 Driver Upgrades</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhancing-accessibility-with-special-mobility-how-to-protect-your-data-from-textgrabber-on-abbyy/"><u>Enhancing Accessibility with Special Mobility - How to Protect Your Data From TextGrabber on ABBYY</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/fast-forward-your-twitch-experience/"><u>Fast-Forward Your Twitch Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y78t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y78t Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-your-way-to-group-policies-on-windows/"><u>Navigate Your Way to Group Policies on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-setup-downloadable-canon-scandrivers-windows/"><u>Quick Setup: Downloadable Canon ScanDrivers (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/seamlessly-transfer-and-enjoy-iphone-content-on-android-with-these-2-effective-solutions/"><u>Seamlessly Transfer and Enjoy iPhone Content on Android with These 2 Effective Solutions</u></a></li>
+</ul></div>
 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

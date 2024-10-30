@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Freshen Up Your Windows 11 Driver
-date: 2024-08-22T19:45:27.027Z
-updated: 2024-08-23T19:45:27.027Z
+date: 2024-10-27T08:42:10.563Z
+updated: 2024-10-30T03:07:28.590Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 * **[Manually](#1)**
 * **[Automatically](#2)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1\. Update drivers via Device Manager
 
  To update a device driver manually, you will first need to**download the latest and correct driver** for your specific device and**update the driver with Device Manager** .
@@ -43,6 +50,14 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 2. Right-click the Start menu ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-1.png) and click**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager.jpg)
 3. In the**Device Manager** window, expand the category and the device that you wish to update the driver for. If you need to update Realtek PCIe GBE Family Controller, you’ll find this device under the**Network adapters** category. You can right-click on the device name and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/update-driver.jpg)
 4. Click**Browse my computer for drivers** , and select the downloaded file.  
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
@@ -53,8 +68,12 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 7. Once complete, you now have the latest driver installed. You can restart your PC for it to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2\. Update all drivers automatically
 
  You can download any outdated driver with Driver Easy, and it’s completely free. However, if you don’t want to go through the manual update, you can update it with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  automatically.
@@ -67,16 +86,17 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -92,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +119,24 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-professional-posting-hacks-for-instagram-tv/"><u>[New] In 2024, Professional Posting Hacks for Instagram TV</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-precision-camera-mount-for-optimal-field-recordings/"><u>[Updated] In 2024, Precision Camera Mount for Optimal Field Recordings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-acid-pro-alternatives-the-ultimate-review-series/"><u>2024 Approved ACID Pro Alternatives The Ultimate Review Series</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-flashing-windows-display/"><u>Conquering Flashing Windows Display</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-pc-functionality-revitalizing-msi-drivers-in-windows/"><u>Enhancing PC Functionality: Revitalizing MSI Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-driver-updates-ideapad-y470-win7/"><u>Essential Driver Updates - IdeaPad-Y470 Win7</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-premiere-tech-companies-2024s-best/"><u>Exploring the Premiere Tech Companies: 2024'S Best</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-perfect-every-post-automated-mac-methods-for-instagram-video-sizing/"><u>In 2024, Perfect Every Post Automated Mac Methods for Instagram Video Sizing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-advanced-idt-audio-for-enhanced-windows-7-sound/"><u>Integrate Advanced IDT Audio for Enhanced Windows 7 Sound</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-gadgets-the-art-of-correct-driver-installer/"><u>Optimize Gadgets: The Art of Correct Driver Installer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/perfecting-system-integration-through-drivers/"><u>Perfecting System Integration Through Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/procedures-to-replace-nvidia-on-pcs/"><u>Procedures to Replace NVIDIA on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ultimate-win8w11-guide-asus-usb-bt400-drivers-download/"><u>Ultimate Win8/W11 Guide: ASUS USB-BT400 Drivers Download</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-iphone-17-details-anticipated-launch-timeline-pricing-and-feature-rumors/"><u>Unveiling iPhone 17 Details: Anticipated Launch Timeline, Pricing & Feature Rumors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-driver-update-for-canon-printer-model-f4770n/"><u>Windows Driver Update for Canon Printer Model F4770N</u></a></li>
+</ul></div>
 

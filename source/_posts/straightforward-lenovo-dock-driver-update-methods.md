@@ -1,7 +1,7 @@
 ---
 title: Straightforward Lenovo Dock Driver Update Methods
-date: 2024-08-22T19:43:42.154Z
-updated: 2024-08-23T19:43:42.154Z
+date: 2024-10-27T00:00:41.349Z
+updated: 2024-10-29T20:09:58.469Z
 tags:
   - win11
   - win10
@@ -40,14 +40,19 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
 
  Updating the USB-C Dock drivers involves going to the manufacturer’s official website, sorting through the drivers for the one matching your model of the station and the specific flavor of Windows version (for example, Windows 64 bit), downloading the driver and manually installing it. It may sound complicated, but here I break it down step by step so that it can be easier for you to follow.
@@ -59,29 +64,38 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 1. Go to [**Lenovo official website**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2F) , then click**SUPPORT** in the top navigation section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/support.png)
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Double-click on the execution file and follow the on-screen instructions to install.
 8. Don’t forget to restart your computer for the changes to take effect.
 
@@ -100,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,8 +121,24 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-video-techniques-for-zoom-mastery/"><u>[New] Transformative Video Techniques for Zoom Mastery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-advanced-inshot-transition-methods-explained/"><u>[Updated] Advanced Inshot Transition Methods Explained</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ranked-top-ios-solutions-for-playing-classic-psp-games-today/"><u>[Updated] Ranked Top iOS Solutions for Playing Classic PSP Games Today</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressing-audio-problems-on-windows-10-install-driver/"><u>Addressing Audio Problems on Windows 10, Install Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/all-inclusive-usb-driver-installation-epson-model-2650/"><u>All-Inclusive USB Driver Installation - Epson Model 2650</u></a></li>
+<li><a href="https://driver-install.techidaily.com/aocs-latest-windows-firmware-updates-e1659/"><u>AOC's Latest Windows Firmware Updates: E1659</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/dvdwinx-dvd-ripper-platinum-dvd/"><u>DVDリッピングソフトWinX DVD Ripper Platinum公式版 無料ダウンロード - DVDコレクションを保存・変換しやすい強力ツール</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-windows-compatibility-revamp-with-intels-drivers/"><u>Efficient Windows Compatibility: Revamp with Intel's Drivers</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/enhancing-website-performance-through-advanced-analytics-and-cookiebot-technology/"><u>Enhancing Website Performance Through Advanced Analytics and Cookiebot Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v11-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.1 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-motorola-edge-40-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Motorola Edge 40 Pro FRP Bypass</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-w11plus-with-ease-using-asus-bluetooth-driver/"><u>Integrate W11+ with Ease Using Asus Bluetooth Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-amd-rx-5700x-drivers-available/"><u>Latest AMD RX 5700X Drivers Available</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-easier-driver-rollouts-gtx-760/"><u>New Easier Driver Rollouts, GTX 760</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-minecraft-from-shutting-down-unexpectedly-with-these-6-easy-methods/"><u>Stop Minecraft From Shutting Down Unexpectedly With These 6 Easy Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-driver-updates-for-print-devices/"><u>Streamlining Driver Updates for Print Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210233088-9781633412330-the-mystical-qabalah/"><u>The Mystical Qabalah | Free Book</u></a></li>
+</ul></div>
 

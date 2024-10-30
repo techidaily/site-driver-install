@@ -1,7 +1,7 @@
 ---
 title: Unlocking USBasp on Vista to 10 & 11 Platforms Successfully
-date: 2024-10-18T06:34:07.812Z
-updated: 2024-10-24T13:21:39.806Z
+date: 2024-10-27T19:22:30.646Z
+updated: 2024-10-30T05:03:45.146Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/b74744220589b6a906ebb663c728844a6da00413e
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Download and update USBasp driver manually
 
  USBasp is a USB programmer for Atmel AVR controllers, and you can download the USBasp driver from the manufacturer website.
@@ -49,10 +56,10 @@ To do so:
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Download and update USBasp driver automatically
@@ -76,13 +83,6 @@ To do so:
 
 Tada, now you should have updated the USBasp driver easily.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Download and update USBasp driver via Device Manager
 
  You can also update the USBasp driver via Device Manager, where you can view and manage the hardware information and software driver in your computer.
@@ -95,10 +95,10 @@ Here’s what you need to do:
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
@@ -108,10 +108,10 @@ Here’s what you need to do:
 5. Follow the on-screen instructions to finish it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -132,22 +132,20 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-elevate-video-clarity-with-expert-tips-for-youtube-editors/"><u>[New] Elevate Video Clarity with Expert Tips for YouTube Editors</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-darktable-pro-finding-the-best-paired-editor/"><u>[Updated] Darktable Pro Finding the Best Paired Editor</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-digital-worlds-revealed-metaverse-vs-multiverse-for-2024/"><u>[Updated] Digital Worlds Revealed Metaverse vs Multiverse for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029473423-5/"><u>【無料】オンラインで音声を変換するための最適な5つのサイトがこちら</u></a></li>
-<li><a href="https://driver-install.techidaily.com/advance-igpu-drivers-for-quadro-gpus/"><u>Advance iGPU Drivers for Quadro GPUs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-graphics-performance-new-windows-rx-570-drivers-available/"><u>Boost Graphics Performance: New Windows RX 570 Drivers Available</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boosted-blockchain-experience-installer-guide-to-amd-drivers-windows/"><u>Boosted Blockchain Experience: Installer Guide to AMD Drivers, Windows</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effective-methods-to-restore-or-update-passwords-on-a-windows-(span-stylefont-size16pxcolor03a5f9)7-desktop-system(span)/"><u>Effective Methods to Restore or Update Passwords on a Windows <Span Style=font-Size:16px;color:#03A5F9;>7 Desktop System</Span></u></a></li>
-<li><a href="https://fox-glue.techidaily.com/embed-auditory-features-within-ppt-layouts-for-2024/"><u>Embed Auditory Features Within PPT Layouts for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-deskjet-fixer-for-windows-11-glitches/"><u>HP Deskjet Fixer for Windows 11 Glitches</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-v29e-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo V29e Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720061797133-lenovo-z50-70-updated-drivers-quickly-now/"><u>Lenovo Z50-70: Updated Drivers, Quickly Now!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolve-windows-10-sounds-via-audio-driver-reinstalls/"><u>Resolve Windows 10 Sounds via Audio Driver Reinstalls</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-speed-up-uefi-system/"><u>Secure & Speed-Up UEFI System</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-your-iphones-application-problems-the-ultimate-10-tips-to-prevent-crashes/"><u>Solving Your iPhone's Application Problems: The Ultimate 10 Tips to Prevent Crashes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063605606-unlock-your-devices-potential-universal-adb-on-demand/"><u>Unlock Your Device's Potential - Universal ADB on Demand!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wireless-ps4-setup-a-comprehensive-walkthrough-on-controller-link-up/"><u>Wireless PS4 Setup: A Comprehensive Walkthrough on Controller Link-Up</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-ideal-mp4-slicer-for-mac-boost-your-vlog-game/"><u>[New] 2024 Approved Ideal MP4 Slicer for Mac Boost Your Vlog Game</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-selecting-the-perfect-fps-a-deep-dive-into-30fps-vs-60fps/"><u>[New] Selecting the Perfect FPS A Deep Dive Into 30Fps Vs. 60Fps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-maximizing-mobility-with-top-10-payload-drones/"><u>[Updated] Maximizing Mobility with Top 10 Payload Drones</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/44cm44op44oz44k144og44km44kn44ki5l615ywl6ziy5q2i44gu44gf44kb44gu6kmz44gx44ge5rwb44km44go5oml5q6144cn/"><u>「ランサムウェア侵入防止のための詳しい流れと手段」</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-from-novice-to-pro-the-complete-creator-hub-guide/"><u>2024 Approved From Novice to Pro The Complete Creator Hub Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-bt400-direct-usb-bt-driver-and-tips/"><u>Asus BT400: Direct USB-BT Driver & Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-pc-visual-output-with-new-graphics-driver-update/"><u>Boost PC Visual Output with New Graphics Driver Update</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/efficient-writing-techniques-for-impactful-ad-creation/"><u>Efficient Writing Techniques for Impactful Ad Creation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd5770rh5790driverupdate/"><u>HD5770RH5790DriverUpdate</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-gaming-experience-with-new-radeon-vega-3-driver/"><u>Improve Gaming Experience with New Radeon Vega 3 Driver</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfecting-the-blend-audio-and-visual-synchronization-in-videos-for-2024/"><u>Perfecting the Blend Audio and Visual Synchronization in Videos for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/routines-to-automate-amd-driver-acquisitionupdates/"><u>Routines to Automate AMD Driver Acquisition/Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-logitech-sound-hardware-quickly-and-easily/"><u>Update Logitech Sound Hardware Quickly and Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-sound-framework-in-windows-7-with-latest-idt-driver/"><u>Update Sound Framework in Windows 7 with Latest IDT Driver</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-emotion-ai-and-can-it-really-understand-our-feelings/"><u>What Is Emotion AI and Can It Really Understand Our Feelings?</u></a></li>
 </ul></div>
 

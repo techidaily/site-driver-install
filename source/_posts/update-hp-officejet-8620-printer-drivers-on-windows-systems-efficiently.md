@@ -1,7 +1,7 @@
 ---
 title: Update HP OfficeJet 8620 Printer Drivers on Windows Systems Efficiently
-date: 2024-10-18T07:32:44.579Z
-updated: 2024-10-24T04:03:49.729Z
+date: 2024-10-28T23:18:57.474Z
+updated: 2024-10-30T02:51:04.797Z
 tags:
   - win11
   - win10
@@ -38,13 +38,34 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f337c3865.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Make sure the detected **operating system** is correct, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f2f35ac0c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Run the downloaded file, and follow the wizard to finish.
 
@@ -62,39 +83,19 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  2) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) In Device Manager, double click**Printers** or**Print queues** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Right click on your printer (it may display as**Unknown device**), and select**Update driver** .
@@ -105,25 +106,11 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Follow the on-screen instructions to finish updating the driver.
 
 8) After updating, restart your computer.
 
 Still no luck? OK. There’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
@@ -144,6 +131,19 @@ Still no luck? OK. There’s one more thing to try.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) After updating, restart your computer to take effect.
 
@@ -173,24 +173,20 @@ If you have any questions, feel free to add a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[New] 2024 Approved From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-screencast-guide-to-flawless-presentations-and-demos/"><u>[New] 2024 Approved The Screencast Guide to Flawless Presentations and Demos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-optimize-iphoneandroid-video-quality-in-online-platforms/"><u>[New] In 2024, Optimize iPhone/Android Video Quality in Online Platforms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-elite-methodology-for-unrivaled-mobile-screen-recording-using-mobizen/"><u>[Updated] 2024 Approved Elite Methodology for Unrivaled Mobile Screen Recording Using Mobizen</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-starting-stronger-must-have-tech-for-creators/"><u>[Updated] Starting Stronger Must-Have Tech for Creators</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bringing-back-usb-connections-to-outdated-windows/"><u>Bringing Back USB Connections to Outdated Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eating-well-made-easier-with-chatgpts-culinary-skills/"><u>Eating Well Made Easier With ChatGPT's Culinary Skills</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-your-free-asus-usb-bt400-driver/"><u>Get Your Free Asus USB-BT400 Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-960-compatible-drivers-available/"><u>GTX 960 Compatible Drivers Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-linksys-ea9500-usb-adapter-drivers-step-by-step-tutorial/"><u>How to Download and Install Linksys EA9500 USB Adapter Drivers - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-tweettide-surge-video-waves-gain-momentum/"><u>In 2024, TweetTide Surge Video Waves Gain Momentum</u></a></li>
-<li><a href="https://driver-install.techidaily.com/make-windows-11-work-better-with-a-simple-update/"><u>Make Windows 11 Work Better with a Simple Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-graphics-performance-win/"><u>Optimize Graphics Performance (Win)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063582828-quickly-access-usb-tools-via-simple-driver-download/"><u>Quickly Access USB Tools via Simple Driver Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speed-and-performance-upgrade-with-model-e1659fwu/"><u>Speed & Performance Upgrade with Model E1659FWU</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-your-device-new-dell-system-drivers-release/"><u>Streamline Your Device: New Dell System Drivers Release</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/understanding-periscope-features-pricing-and-how-to-join/"><u>Understanding Periscope Features, Pricing & How To Join</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win11-compatible-conexant-hd-audio-drivers-guide/"><u>Win11 Compatible Conexant HD Audio Drivers Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-clarity-chronicles-for-beginners-unraveling-resolution-factors/"><u>[New] Clarity Chronicles for Beginners Unraveling Resolution Factors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-become-a-pro-at-setting-up-vrecorder-fast/"><u>[New] In 2024, Become a Pro at Setting Up VRecorder Fast</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos/"><u>[Updated] 2024 Approved Essential Tips for Incorporating Dynamic Cards in YouTube Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-tech-tool-extract-facebook-videos-as-mp4-for-2024/"><u>[Updated] Top Tech Tool Extract Facebook Videos as MP4 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-drone-flight-smoothness-choosing-a-gimbal-wisely/"><u>2024 Approved Drone Flight Smoothness Choosing a Gimbal Wisely</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-officejet-8620-latest-windows-drivers-now-available/"><u>Boost Your OfficeJet 8620: Latest Windows Drivers Now Available</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-oppo-a58-4g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Oppo A58 4G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fastest-way-to-bluetooth-reinstall-in-windows-1011/"><u>Fastest Way to Bluetooth Reinstall in Windows 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd5770driverwin11enhancement/"><u>HD5770DriverWin11Enhancement</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-stay-ahead-of-the-curve-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>In 2024, Stay Ahead of the Curve Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-gt-5-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme GT 5</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-threat-detected-in-third-party-infs-lack-of-signs/"><u>No Threat Detected in Third-Party Inf's Lack of Signs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-960-drivers-new-release/"><u>Nvidia GTX 960 Drivers: New Release</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/personalize-facebook-page-with-video-for-2024/"><u>Personalize Facebook Page with Video for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-device-potentials-through-correct-driver-placement/"><u>Unlock Device Potentials Through Correct Driver Placement</u></a></li>
 </ul></div>
 

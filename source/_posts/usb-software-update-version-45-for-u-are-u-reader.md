@@ -1,7 +1,7 @@
 ---
 title: "USB Software Update: Version 4.5 for U-Are-U Reader"
-date: 2024-10-20T08:06:18.558Z
-updated: 2024-10-23T16:22:18.587Z
+date: 2024-10-23T16:02:54.504Z
+updated: 2024-10-29T17:02:24.391Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](#o1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Manually
 
 #### Step 1: Download the driver from the official website
@@ -45,16 +38,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-27_15-45-07.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Or you can obtain the driver from your PC vendor. You’ll need to visit the official website of Lenovo, Dell, or any other vendors, and locate its**Support** section. Then select**Drivers & Software** or**Drivers & Download** to enter the download page of drivers. Search for**U.are.U 4500 fingerprint reader driver** and download the exact driver according to your Windows variant.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Install the driver manually
 
@@ -66,22 +59,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-936.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Select the driver file and click**Next** , then wait for the installation process to finish.
@@ -91,6 +77,13 @@ OR
 See if your fingerprint reader works properly again.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -105,6 +98,19 @@ See if your fingerprint reader works properly again.
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
 
@@ -138,18 +144,16 @@ See if your fingerprint reader works properly again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-enhancing-zoom-sessions-with-video-filters-a-guide/"><u>2024 Approved Enhancing Zoom Sessions with Video Filters A Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/automating-and-customizing-device-drivers-a-windows-8-tutorial/"><u>Automating and Customizing Device Drivers: A Windows 8 Tutorial</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-visual-performance-new-acer-tech-for-w11/"><u>Boost Visual Performance: New Acer Tech for W11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-z50-70-driver-update-process/"><u>Effortless Z50-70 Driver Update Process</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-sovol-sv08-reviving-classic-voron-performance/"><u>Expert Insight on Sovol SV08 - Reviving Classic Voron Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-atheros-wifi-drivers-in-windows-11/"><u>How to Update Atheros Wifi Drivers In Windows 11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/immediate-visual-effects-with-instagrams-chroma-keying-feature-for-2024/"><u>Immediate Visual Effects with Instagram’s Chroma Keying Feature for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-culmination-in-virtual-ventures/"><u>In 2024, Ideal Culmination in Virtual Ventures</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-date-placement-on-visual-memories/"><u>In 2024, Perfecting Date Placement on Visual Memories</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-sonic-selections-fine-tuning-your-instagram-video-soundtrack/"><u>In 2024, Sonic Selections Fine-Tuning Your Instagram Video Soundtrack</u></a></li>
-<li><a href="https://discover-help.techidaily.com/scopri-i-primi-3-software-libero-per-lettore-dvd-che-funzionano-su-windows-ten-e-sono-perfetti-per-il-riproduzione-universale-dei-tuoi-contenuti-in-dvd/"><u>Scopri I Primi 3 Software Libero per Lettore DVD Che Funzionano Su Windows # Ten E Sono Perfetti per Il Riproduzione Universale Dei Tuoi Contenuti in DVD.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-guide-to-update-netgear-a6200-usb/"><u>Step by Step Guide to Update Netgear A6200 USB</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/co-effect-filmmaking-youtubes-guide-to-green-magic/"><u>[New] Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-rated-dj-templates-free-access-for-music-makers-for-2024/"><u>[New] Top-Rated DJ Templates Free Access for Music Makers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-the-power-of-luts-in-adobe-premiere-video-editing/"><u>[Updated] Unleashing the Power of LUTs in Adobe Premiere Video Editing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-system-solving-cyberpunk-2077-audio-issues-in-windows-10/"><u>Fixing Silent System: Solving 'Cyberpunk 2077' Audio Issues in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-seamless-software-tweaks/"><u>Lenovo Z50-70: Seamless Software Tweaks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-mixing-techniques-with-new-scarlett-6i6-driver-update/"><u>Master Mixing Techniques with New Scarlett 6I6 Driver Update</u></a></li>
+<li><a href="https://win-guides.techidaily.com/overcoming-the-challenge-of-error-0x80072f05-during-windows-updates-expert-insights-and-fixes/"><u>Overcoming the Challenge of Error 0X80072F05 During Windows Updates: Expert Insights and Fixes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfect-your-storytelling-with-these-6-reel-apps-for-2024/"><u>Perfect Your Storytelling with These 6 Reel Apps for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-auditory-options-for-iphones/"><u>Premier Auditory Options for iPhones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-system-performance-fixing-ssd-errors-on-windows-pcs/"><u>Streamlined System Performance: Fixing SSD Errors on Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-compatible-me-drivers/"><u>Windows Compatible ME Drivers</u></a></li>
 </ul></div>
 

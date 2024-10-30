@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Guide: Starting Anew with Graphics Drivers"
-date: 2024-08-22T19:42:43.038Z
-updated: 2024-08-23T19:42:43.038Z
+date: 2024-10-22T21:28:21.884Z
+updated: 2024-10-30T02:55:04.900Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ OR
 
 **[Option 2 – Manually](#option2)** – You’ll need some computer skills and patience to download your driver this way, because you need to find exactly the right driver online and then download it yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Automatically download the driver
 
  If you don’t have the time, patience or computer skills to download your graphics drivers manually, **you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -48,9 +55,6 @@ OK, enough intro. Let’s see what you should do:
 
  Rest assured that Driver Easy uses only genuine drivers, straight from your hardware manufacturers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Option 2 – Download the driver manually
 
  This is the most common way you download a driver, but it costs you more time and effort than using a driver updater tool. Besides, you may also download a wrong driver (e.g. not compatible with your system) so all the previous effort goes down the tubes and you have to start all over again. Anyway, just make sure you find the correct driver online.
@@ -63,9 +67,6 @@ OK, enough intro. Let’s see what you should do:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2: Create a system restore point
 
  This step is actually not imperative, but I strongly suggest you create a restore point as a precaution before proceeding to the next step. The restore point allows you to revert your system to a previous state when it’s still functioning well (especially before any problems come up). But don’t panic – you’ll rarely have serious issues during the clean installation.
@@ -77,8 +78,12 @@ OK, enough intro. Let’s see what you should do:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step 3: Uninstall your current graphics drivers
 
  Whether you’ve known it or not, there are two common ways for people to uninstall their drivers: a) clicking “Uninstall device” in Windows Device Manager and b) uninstalling the drivers from “Programs and Features” on Control panel. However, I’ll introduce neither because they CANNOT completely remove a driver (including its files, folders, and registry keys) from your computer. Also, it’s rather time-consuming and error-prone to delete every single file of a driver manually – you need to find out what files the driver contains, where they locate, and then delete them one by one (that can be quite a lot of work). So, in order to save your time and effort, I suggest you use the**Display Driver Uninstaller** **(DDU)** to do the job for you.
@@ -97,12 +102,16 @@ OK, enough intro. Let’s see what you should do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, click**Select device** and choose your graphics card type, such as NVIDIA.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-21.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) There are three options in the upper left:
 
@@ -115,8 +124,12 @@ OK, enough intro. Let’s see what you should do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-22.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Select the option based on your actual situation and then wait for the uninstallation process to complete. No matter which one you choose, you’ll need to**reboot** your computer in order to move on.
 
 ---
@@ -141,9 +154,6 @@ Finally, the last step is to install your driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-10-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -164,8 +174,6 @@ Finally, the last step is to install your driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,8 +181,21 @@ Finally, the last step is to install your driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-10-free-web-conferencing-software-for-online-meeting-for-2024/"><u>[New] 10 Free Web Conferencing Software for Online Meeting for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mastery-of-removal-eliminating-downloaded-youtube-clips/"><u>[Updated] 2024 Approved Mastery of Removal Eliminating Downloaded YouTube Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-low-cost-lift-offs-the-most-affordable-drone-options/"><u>2024 Approved Low-Cost Lift-Offs The Most Affordable Drone Options</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-channels-get-free-visuals-now-for-2024/"><u>Design Channels - Get Free Visuals Now for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-installation-of-nvidia-geforce-gtx-980-graphics-card-drivers/"><u>Effortless Installation of NVIDIA GeForce GTX 980 Graphics Card Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/finding-and-installing-the-right-hp-pro-3500-mt-pc-drivers-with-easy-downloading-techniques/"><u>Finding and Installing the Right HP Pro 3500 MT PC Drivers with Easy Downloading Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-dell-touchpad-not-working-issue-for-windows-10/"><u>Fix Dell Touchpad Not Working Issue for Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-access-lenovo-conexant-hd-sound-card-system-software-download/"><u>Free Access: Lenovo Conexant HD Sound Card System Software Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-latest-lenovo-y900-driver-updates-compatible-with-windows-11-step-by-step-instructions/"><u>Get the Latest Lenovo Y900 Driver Updates Compatible with Windows 11 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-your-amd-radeon-hd/"><u>Get Your AMD Radeon HD</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-100-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor 100 Pro Phone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-nord-n30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus Nord N30 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/save-youtube-content-instantly-use-clickdownloader-for-a-hassle-free-experience-on-mac-computers/"><u>Save YouTube Content Instantly: Use ClickDownloader for a Hassle-Free Experience on Mac Computers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-instructions-on-utilizing-apples-help-desk-for-iphone-queries/"><u>Step-by-Step Instructions on Utilizing Apple's Help Desk for iPhone Queries</u></a></li>
+</ul></div>
 
