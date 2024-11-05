@@ -1,7 +1,7 @@
 ---
 title: "Windows Drivers: Resetting Back to USB Roots"
-date: 2024-10-28T23:07:35.707Z
-updated: 2024-10-30T00:24:00.161Z
+date: 2024-11-03T23:40:20.693Z
+updated: 2024-11-05T00:07:02.852Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 1 – Reinstall the drivers using Device Manager
 
  Device Manager is a Windows built-in tool that allows you to view and control the hardware attached to your computer and update the device drivers. To reinstall the USB drivers in Device Manager, follow the steps below:
@@ -43,20 +36,34 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
 
@@ -70,21 +77,20 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -109,15 +115,24 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-blueprint-for-effective-use-of-audio-emojis/"><u>[Updated] The Ultimate Blueprint for Effective Use of Audio Emojis</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-comment-management-turn-it-on-or-off-for-2024/"><u>[Updated] YouTube Comment Management Turn It On or Off for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-high-quality-captures-at-a-click-top-5-browsers-screen-recorders/"><u>2024 Approved High-Quality Captures at a Click Top 5 Browsers' Screen Recorders</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-pro-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 Pro with a Broken Screen?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/deciphering-and-rectifying-windows-xps-network-problems/"><u>Deciphering and Rectifying Windows XP's Network Problems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-130-music-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia 130 Music Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/inf-secured-no-third-party-signature-found/"><u>Inf Secured: No Third-Party Signature Found</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063679712-unlock-full-usb-potential-with-one-step-adb/"><u>Unlock Full USB Potential With One-Step ADB!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-to-ethernet-converter-for-seamless-networking/"><u>USB-to-Ethernet Converter for Seamless Networking</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-opt-out-of-autoplayed-podcast-selection-by-spotify/"><u>[New] Opt-Out of Autoplayed Podcast Selection by Spotify</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-aesthetic-alchemy-transforming-youtube-videos/"><u>[Updated] In 2024, Aesthetic Alchemy Transforming YouTube Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-essence-of-insta-bokeh-a-step-by-step-guide/"><u>[Updated] In 2024, The Essence of Insta Bokeh - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-integrating-timestamps-youtube-video-link-enhancement-techniques/"><u>[Updated] Integrating Timestamps YouTube Video Link Enhancement Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/advanced-drivers-e1659aoc-for-win-users/"><u>Advanced Drivers: E1659AOC for Win Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audacity-techniques-for-smooth-sound-blending-for-2024/"><u>Audacity Techniques for Smooth Sound Blending for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-downloading-and-installing-asus-touchpad-drivers-on-windows-11/"><u>Easy Guide: Downloading and Installing ASUS Touchpad Drivers on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-vista-performance-with-direct-drivers-update/"><u>Enhancing Vista Performance with Direct Drivers Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-driver-revamp-mf4770n-windows-compatibility/"><u>Essential Driver Revamp: MF4770n Windows Compatibility</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-12plus-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme 12+ 5G Phone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-beyond-google-other-ar-sticker-solutions/"><u>In 2024, Beyond Google Other AR Sticker Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-f04-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy F04 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-struggle-upgrade-wacom-bamboo-drivers-easy/"><u>No Struggle: Upgrade Wacom Bamboo Drivers Easy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/opengl-security-patch-release-alert/"><u>OpenGL Security Patch Release Alert</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-gaming-with-nvidia-gtx-970-driver-update/"><u>Optimize Gaming with Nvidia GTX 970 Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenating-your-windows-devices-auditory-experience/"><u>Rejuvenating Your Windows Device's Auditory Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-utorrent-setup-failures-on-windows-systems/"><u>Resolving uTorrent Setup Failures on Windows Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-windows-for-new-m2-hardware/"><u>Update Windows for New M.2 Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063126456-windows-graphics-upgrade-in-a-minute/"><u>Windows Graphics Upgrade in a Minute</u></a></li>
 </ul></div>
 

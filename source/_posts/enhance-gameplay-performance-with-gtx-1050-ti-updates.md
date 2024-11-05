@@ -1,7 +1,7 @@
 ---
 title: Enhance Gameplay Performance with GTX 1050 Ti Updates
-date: 2024-08-31T12:55:57.038Z
-updated: 2024-09-01T12:55:57.038Z
+date: 2024-10-29T16:28:24.922Z
+updated: 2024-11-04T16:22:38.586Z
 tags:
   - win11
   - win10
@@ -49,15 +49,35 @@ problems, you’re not alone.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594695d7c27.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update your **GTX 1050 Ti**   **driver**   manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -70,21 +90,18 @@ problems, you’re not alone.
 2. Under**Manual Driver Search** , select**GeForce** ,**GeForce 10 Series** ,**GeForce GTX 1050 Ti** accordingly. In the 4th drop-down menu, select your**variant of Windows operating system** (**Windows 10** ,**64-bit** in my case). Select your**preferred language** in the 5th drop-down menu. Then click**START SEARCH** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b06692321344.jpg)
 3. You’ll see a list of results pop up right under. Click**the first result** to make sure you download the latest driver release.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b067305a1425.jpg)
 4. Click**DOWNLOAD** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0634e809b76.jpg)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the update.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -100,8 +117,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,8 +124,17 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>[Updated] In 2024, How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-vimeos-unique-value-over-youtube/"><u>[Updated] Understanding Vimeo's Unique Value over YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-zoom-transcription-apps-finding-value-in-freepaid/"><u>2024 Approved Essential Zoom Transcription Apps Finding Value in Free/Paid</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic5-ultimate-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor Magic5 Ultimate to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-amd-rx-570-in-windows-with-latest-drivers-update/"><u>Improve AMD RX 570 in Windows with Latest Drivers Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-amd-rx-5500xt-drivers-update/"><u>Simplify AMD RX 5500XT Drivers Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplifying-the-process-of-printer-drivers-restoration/"><u>Simplifying the Process of Printer Drivers Restoration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sing-your-heart-out-with-the-user-friendly-multicolor-singing-machine-sml385btbk-karaoke-kit/"><u>Sing Your Heart Out with the User-Friendly, Multicolor Singing Machine SML385BTBK Karaoke Kit!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/step-by-step-guide-capturing-a-screenshot-on-your-mac/"><u>Step-by-Step Guide: Capturing a Screenshot on Your Mac</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-update-guide-enhanced-acer-support/"><u>Windows 11 Update Guide - Enhanced Acer Support</u></a></li>
+</ul></div>
 

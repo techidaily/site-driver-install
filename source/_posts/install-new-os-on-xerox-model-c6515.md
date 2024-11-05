@@ -1,7 +1,7 @@
 ---
 title: Install New OS on Xerox Model C6515
-date: 2024-08-27T09:08:22.201Z
-updated: 2024-08-28T09:08:22.201Z
+date: 2024-11-04T01:02:00.904Z
+updated: 2024-11-04T22:11:45.697Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 
  Therefore, having an up-to-date driver is needed for keeping your Xerox printer in good condition.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to update your Xerox WorkCentre 6515 driver
 
  Here are the two methods you can try to download or update the printer driver. You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to a flagged Xerox WorkCentre 6515 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-DE.jpg)
 4. Restart your computer for the changes to take effect.
@@ -67,8 +81,29 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 3. Download the driver installer. If you’re using a Windows system, download the**Xerox Global Print Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-Windows-OS.jpg)  
  If you’re using a macOS, download the**macOS Print and Scan Driver Installer** .  
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-macOS.jpg)
 4. Open the downloaded file. And then follow the on-screen instructions to install the software and drivers on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -83,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,12 +125,26 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-skyrocket-your-channel-mastery-of-youtube-data-analysis/"><u>[New] 2024 Approved Skyrocket Your Channel Mastery of YouTube Data Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>[New] The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[Updated] 2024 Approved 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-displays-ifas-finest/"><u>Cutting-Edge Displays - IFA's Finest</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-upgrade-hp-officejet-pro/"><u>Driver Upgrade: HP Officejet Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-2-fps-optimization-techniques-get-smooth-gameplay-on-your-pc-without-the-hiccups/"><u>Dying Light 2 FPS Optimization Techniques - Get Smooth Gameplay on Your PC Without the Hiccups!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-restore-printer-functionality-across-os-lines/"><u>How To: Restore Printer Functionality Across OS Lines</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-14-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 14? Learn All 4 Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/leverage-amd-to-power-bitcoin-on-pc-via-driver-upgrade/"><u>Leverage AMD to Power Bitcoin on PC via Driver Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-graphics-performance-on-windows-10/"><u>Revamp Graphics Performance on Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solving-non-responsive-issues-with-apples-homekit-essential-tips-for-device-communication-repair/"><u>Solving Non-Responsive Issues with Apple's HomeKit: Essential Tips for Device Communication Repair</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-guides-and-gadget-testing/"><u>Tom's Tech Reviews: In-Depth Guides & Gadget Testing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-graphics-display-win7-hp-driver-update/"><u>Transform Your Graphics Display – Win7 HP Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-msi-bravos-performance-with-new-drivers/"><u>Upgrading MSI Bravo's Performance with New Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/versatile-pc-software-beyond-inshot/"><u>Versatile PC Software Beyond Inshot</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11-sound-issue-revamp-with-new-audio-driver/"><u>Win11 Sound Issue: Revamp with New Audio Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7-wizardry-simplifying-hp-graphics-driver-updates/"><u>Win7 Wizardry: Simplifying HP Graphics Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-driver-install-guide-xp-to-11-edition/"><u>Windows Driver Install Guide: XP to 11 Edition</u></a></li>
+</ul></div>
 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Address Print Device Configuration Issues in WIN10
-date: 2024-08-31T12:55:43.970Z
-updated: 2024-09-01T12:55:43.970Z
+date: 2024-11-03T18:55:26.918Z
+updated: 2024-11-04T22:50:20.550Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -68,6 +75,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
  Click**Check for updates** , and then wait while Windows looks for the latest updates for your computer.
@@ -79,8 +93,12 @@ For some printers, you need to update the drivers manually step by step.
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Way 3: Update your printer driver automatically**
 
  If you don’t have time, patience and computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -95,9 +113,6 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -105,8 +120,12 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 <ins class="adsbygoogle"
@@ -115,8 +134,6 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,8 +141,26 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-audience-wow-factor-best-stream-cameras-for-your-twitch-channel-for-2024/"><u>[Updated] Audience Wow Factor Best Stream Cameras for Your Twitch Channel for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-depth-guide-to-mobilepcmac-movie-capture-for-2024/"><u>[Updated] In-Depth Guide to Mobile/PC/Mac Movie Capture for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-prime-picks-the-best-in-bike-gaming/"><u>[Updated] Prime Picks The Best in Bike Gaming</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-exploring-dells-bold-move-with-the-latest-p2715q-monitor-review/"><u>2024 Approved Exploring Dell's Bold Move with the Latest P2715Q Monitor Review</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/5qey44cf44gq44kq44o844oh44kj44kq44ov44kh44kk44or44ks57wx5zci44gz44kl44gf44kb44gu5oml6acg/"><u>様々なオーディオファイルを統合するための手順</u></a></li>
+<li><a href="https://driver-install.techidaily.com/c270-hd-webcam-software-update-windows-compatibility-guide/"><u>C270 HD Webcam Software Update: Windows Compatibility Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-updates-to-internal-components-of-w7/"><u>Effortless Updates to Internal Components of W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-track-hp-graphics-driver-fix-in-windows-7/"><u>Fast Track HP Graphics Driver Fix in Windows 7</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-restore-discords-camera-functionality-a-step-by-step-tutorial/"><u>How To Restore Discord's Camera Functionality - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-farm-fun-family-top-10-games-bringing-groups-of-friends-closer-to-farms/"><u>In 2024, Farm Fun Family Top 10 Games Bringing Groups of Friends Closer to Farms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/netgear-a6200-usb-adapter-installation-guide/"><u>Netgear A6200 USB Adapter Installation Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-5-best-free-iphone-video-rotators-for-2024/"><u>New Top 5 Best Free iPhone Video Rotators for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-modern-warfare-3-error-12707-for-a-smooth-gaming-experience/"><u>Resolve Modern Warfare 3 Error 12707 for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalizing-your-system-a-stepwise-guide-to-msi-bios-updates/"><u>Revitalizing Your System: A Stepwise Guide to MSI BIOS Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-safe-download-tp-links-usb-wi-fi-driver/"><u>Secure & Safe: Download TP Link's USB Wi-Fi Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-pc-enhancements-download-windows-11s-touch/"><u>Streamline PC Enhancements - Download Windows 11'S Touch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-implement-hd530-software/"><u>Swiftly Implement HD530 Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win10-effortless-interactive-screen-update/"><u>Win10: Effortless Interactive Screen Update</u></a></li>
+</ul></div>
 

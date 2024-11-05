@@ -1,7 +1,7 @@
 ---
 title: Update HP DeskJet Drivers for Win11
-date: 2024-08-27T09:07:19.925Z
-updated: 2024-08-28T09:07:19.925Z
+date: 2024-11-02T21:56:34.532Z
+updated: 2024-11-04T20:54:27.158Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -74,13 +81,24 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Way 3: Update your printer driver automatically**
 
  If you don’t have time, patience and computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -96,17 +114,18 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 <ins class="adsbygoogle"
@@ -115,8 +134,6 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,8 +141,20 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-imaginative-inspirations-for-virtual-explorers-the-best-metaverse-moments/"><u>[New] 2024 Approved Imaginative Inspirations for Virtual Explorers The Best Metaverse Moments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discover-essential-list-of-7-high-performance-mobile-video-streaming-tools-iphoneandroid-for-2024/"><u>[New] Discover Essential List of 7 High-Performance Mobile Video Streaming Tools (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-faulty-login-recover-your-account-today/"><u>[New] Facebook Faulty Login? Recover Your Account Today</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-navigate-subtitle-installation-in-wmp-easily/"><u>[New] In 2024, Navigate Subtitle Installation in WMP Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-incorporating-informative-commentary-in-youtube-videos/"><u>[New] The Ultimate Guide Incorporating Informative Commentary in YouTube Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elevating-listener-experience-through-podcast-exits-for-2024/"><u>[Updated] Elevating Listener Experience Through Podcast Exits for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-determining-whether-chatgpt-plus-or-perplexity-reigns-supreme/"><u>AI Showdown: Determining Whether ChatGPT Plus or Perplexity Reigns Supreme</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compatible-driver-pack-asus-usb-4kn-bt400/"><u>Compatible Driver Pack: Asus USB 4Kn BT400</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-steps-to-freshen-up-your-windows-11-driver/"><u>Easy Steps to Freshen Up Your Windows 11 Driver</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p40plus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel P40+ Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-print-setup-with-new-drivers-on-win-oses/"><u>Revamping Print Setup with New Drivers on WIN OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solved-hp-laserjet-1020-on-pc-driver-errors/"><u>Solved HP LaserJet 1020 on PC Driver Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-gfx-support-the-ultimate-ddu-guide/"><u>Updating GFX Support: The Ultimate DDU Guide</u></a></li>
+</ul></div>
 

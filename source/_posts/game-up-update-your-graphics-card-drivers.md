@@ -1,7 +1,7 @@
 ---
 title: "Game Up: Update Your Graphics Card Drivers"
-date: 2024-08-31T12:52:40.350Z
-updated: 2024-09-01T12:52:40.350Z
+date: 2024-10-31T17:41:22.556Z
+updated: 2024-11-05T00:19:34.360Z
 tags:
   - win11
   - win10
@@ -51,22 +51,18 @@ problems, you’re not alone.
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Update your **GTX 1050 Ti**   **driver**   manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -79,19 +75,34 @@ problems, you’re not alone.
 2. Under**Manual Driver Search** , select**GeForce** ,**GeForce 10 Series** ,**GeForce GTX 1050 Ti** accordingly. In the 4th drop-down menu, select your**variant of Windows operating system** (**Windows 10** ,**64-bit** in my case). Select your**preferred language** in the 5th drop-down menu. Then click**START SEARCH** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b06692321344.jpg)
 3. You’ll see a list of results pop up right under. Click**the first result** to make sure you download the latest driver release.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b067305a1425.jpg)
 4. Click**DOWNLOAD** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0634e809b76.jpg)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the update.
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -107,8 +118,6 @@ problems, you’re not alone.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,8 +125,19 @@ problems, you’re not alone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/iscover-the-art-of-youtube-playlist-shuffling-for-2024/"><u>[New] Discover the Art of YouTube Playlist Shuffling for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-pixels-and-power-revisiting-magix-manager/"><u>[New] In 2024, Pixels and Power Revisiting MAGIX Manager</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-find-x7-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo Find X7 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-walkthrough-for-activating-googles-two-factor-auth-on-mail/"><u>A Comprehensive Walkthrough for Activating Google's Two-Factor Auth on Mail</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-comprehensive-connectivity-with-tango-textcallvideo-at-no-cost/"><u>Experience Comprehensive Connectivity with Tango - Text/Call/Video at No Cost</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-integrating-sound-a-comprehensive-approach-to-narration/"><u>In 2024, Integrating Sound A Comprehensive Approach to Narration</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-updating-logitech-headset-cables/"><u>Instantly Improve: Updating Logitech Headset Cables</u></a></li>
+<li><a href="https://driver-install.techidaily.com/making-xbox-joy-con-work-on-windows-10/"><u>Making XBox Joy-Con Work on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-msi-driver-refinement-on-previous-windows-versions/"><u>Mastering MSI Driver Refinement on Previous Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quickly-access-usb-tools-via-simple-driver-download/"><u>Quickly Access USB Tools via Simple Driver Download!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mingwm10dll-file-not-found-a-comprehensive-guide/"><u>Solving the 'mingwm10.dll' File Not Found - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-s-mode-imply-in-windows-11-upgrade/"><u>What Does 'S Mode' Imply in Windows 11 Upgrade?</u></a></li>
+</ul></div>
 

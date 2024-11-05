@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Refresh Your Lenovo Dock
-date: 2024-10-25T06:04:40.712Z
-updated: 2024-10-30T01:30:34.470Z
+date: 2024-11-02T20:02:18.110Z
+updated: 2024-11-04T19:47:47.938Z
 tags:
   - win11
   - win10
@@ -42,29 +42,29 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
@@ -82,15 +82,15 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
@@ -125,21 +125,22 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-gopro-deep-dive-side-by-side-specification-comparison/"><u>[Updated] In 2024, GoPro Deep Dive Side-by-Side Specification Comparison</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-refine-your-images-quickly-freepaid-lut-options-for-canon/"><u>[Updated] In 2024, Refine Your Images Quickly - Free/Paid LUT Options for Canon</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-lava-yuva-3-pro-frp-bypass-by-drfone-android/"><u>About Lava Yuva 3 Pro FRP Bypass</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-pc-graphics-with-hp-updates/"><u>Enhance PC Graphics with HP Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tips-to-update-nvidia-audio-in-windows-11-environment/"><u>Essential Tips to Update NVIDIA Audio in Windows 11 Environment</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Phone with Broken Screen</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-stealthy-techniques-to-skip-online-classroom-vids/"><u>In 2024, Stealthy Techniques to Skip Online Classroom Vids</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>In 2024, The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-hp-envy-5530-driver-on-your-windows-11/"><u>Install HP Envy 5530 Driver on Your Windows 11</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-perfecting-audio-precision-key-eq-settings-explored/"><u>New Perfecting Audio Precision Key EQ Settings Explored</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-windows-7-sound-with-new-audio-drivers/"><u>Optimize Windows 7 Sound with New Audio Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tp-link-usb-wi-fi-adapter-windows-get-it-free-today/"><u>TP Link USB Wi-Fi Adapter: Windows, Get It Free Today</u></a></li>
-<li><a href="https://facebook.techidaily.com/unwelcome-visitor-alert-detecting-facebook-security-issues/"><u>Unwelcome Visitor Alert: Detecting Facebook Security Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-rtl8723d-support-secure-wireless-connectivity-in-windows-11/"><u>Update RTL8723D Support: Secure Wireless Connectivity in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-mice-drivers-on-windows-a-step-by-step-guide/"><u>Updating Mice Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cut-edge-video-enhancement-merging-windows-11-and-storyremix-for-creative-edits/"><u>[New] 2024 Approved Cut-Edge Video Enhancement Merging Windows 11 & StoryRemix for Creative Edits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-gamers-choice-best-alternatives-to-official-recorder-for-2024/"><u>[New] Gamer's Choice Best Alternatives to Official Recorder for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-masterful-dissection-the-complete-guide-to-bublcams-vision-for-2024/"><u>[New] Masterful Dissection The Complete Guide to Bublcam's Vision for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-picart-technique-for-clean-images/"><u>[New] The Ultimate PicArt Technique for Clean Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-camera-settings-for-optimal-gopro-timelapse-results/"><u>[Updated] Navigating Camera Settings for Optimal GoPro Timelapse Results</u></a></li>
+<li><a href="https://driver-install.techidaily.com/breathe-new-life-into-astro-software-with-updates/"><u>Breathe New Life Into Astro Software with Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-woes-at-startech-for-windows-versions-solved/"><u>Driver Woes at StarTech for Windows Versions Solved</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-thinkpad-experience-in-win10/"><u>Enhance Your ThinkPad Experience in Win10</u></a></li>
+<li><a href="https://win-net.techidaily.com/guide-complet-execution-de-la-reparation-du-demarrage-windows-win-avec-linvite-de-commandes/"><u>Guide Complet : Exécution De La Reparation Du Démarrage Windows ([Win) Avec L'Invite De Commandes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hp-stream-11-laptop-ultimate-portable-tech-for-everyday-tasks/"><u>HP Stream 11 Laptop: Ultimate Portable Tech for Everyday Tasks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-elevating-channels-strategies-for-stardom-on-youtube/"><u>In 2024, Elevating Channels Strategies for Stardom on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-thinkpad-windows-10-driver-update-guide/"><u>Lenovo ThinkPad: Windows 10 Driver Update Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-windows-11-drivers-for-enhanced-audio-hardware/"><u>New Windows 11 Drivers for Enhanced Audio Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-update-of-gma-igf-graphics/"><u>Rapid Update of GMA iGF Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turbox-nvidia-rtx-3090-download-guide/"><u>TurboX NVIDIA RTX 3090 - Download Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unifying-system-upgrades-across-windows-10-7-and-8-with-msi/"><u>Unifying System Upgrades Across Windows 10, 7 & 8 with MSI</u></a></li>
 </ul></div>
 

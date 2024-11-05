@@ -1,7 +1,7 @@
 ---
 title: Install MTK USB Drivers on Win 11/10
-date: 2024-08-31T12:52:45.274Z
-updated: 2024-09-01T12:52:45.274Z
+date: 2024-10-29T02:02:48.463Z
+updated: 2024-11-04T22:37:55.294Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery-restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
  5) When you see**Startup Settings** , press**number 7** or**F7** on your keyboard to disable Driver Signature Enforcement. This will take about 3 minutes to boot.
@@ -91,6 +98,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/win11-type-device.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In Device Manager,**click on your PC name** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
@@ -99,6 +113,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the Add Hardware Wizard, click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
@@ -106,6 +127,13 @@ To download and install MediaTek drivers manually, you need to:
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Click**Show All Devices** and then**Next** .
 
@@ -121,15 +149,6 @@ To download and install MediaTek drivers manually, you need to:
 
 10) Restart your PC and connect your MediaTek device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Option 2 Automatically
 
  To update MTK drivers, it may take a lot of time to search online and install it manually. If you don’t have the time, patience, or computer skills to update the MediaTek driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -147,24 +166,16 @@ To download and install MediaTek drivers manually, you need to:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** . )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/updateall.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
@@ -187,8 +198,6 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,8 +205,26 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-4-screen-recording-features-for-windows-8/"><u>[New] In 2024, Top 4 Screen Recording Features for Windows 8</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-editing-to-sharing-youtube-mastery-with-adobe-premiere/"><u>[Updated] In 2024, From Editing to Sharing YouTube Mastery with Adobe Premiere</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-mac-gif-capturer-pro/"><u>[Updated] Premier Mac GIF Capturer Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-the-art-of-old-facebook-features-step-by-step/"><u>2024 Approved Mastering the Art of Old Facebook Features Step-by-Step</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-10t-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 10T 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/essential-20-hysterical-detention-cell-gifs-to-amplify-your-online-joy-for-2024/"><u>Essential 20 Hysterical Detention Cell Gifs to Amplify Your Online Joy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/masterful-vlc-youtube-conversion-effortlessly-fix-playback-issues-and-enjoy-flawless-streaming/"><u>Masterful VLC Youtube Conversion – Effortlessly Fix Playback Issues and Enjoy Flawless Streaming</u></a></li>
+<li><a href="https://facebook.techidaily.com/redefine-ig-live-no-video-no-sound-required/"><u>Redefine IG Live - No Video, No Sound Required</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionary-audio-interface-win11-compatible-conexant-hardware/"><u>Revolutionary Audio Interface: Win11-Compatible Conexant Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-pc-enhancement-windows-11s-touch-features/"><u>Simplify PC Enhancement - Windows 11'S Touch Features</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-printing-with-updated-hp-officejet-8620-drivers-on-windows-pcs/"><u>Smooth Printing with Updated HP OfficeJet 8620 Drivers on Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-gpu-software-update-hd-graphics-710/"><u>Speedy GPU Software Update: HD Graphics 710</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-easily-link-your-bluetooth-keyboard/"><u>Step-by-Step Guide: Easily Link Your Bluetooth Keyboard</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-update-your-os-drivers-windows-11-81-7/"><u>Swiftly Update Your OS Drivers (Windows 11, 8.1, 7)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-art-of-drives-manual-tweaks-for-xp-users/"><u>The Art of Drives: Manual Tweaks for XP Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-to-overcoming-the-notorious-502-bad-gateway-issue/"><u>The Ultimate Solution to Overcoming the Notorious 502 Bad Gateway Issue</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshooting-astro-with-updated-device-drivers/"><u>Troubleshooting Astro with Updated Device Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unravel-issues-with-hp-printer-in-windows/"><u>Unravel Issues with HP Printer in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-wacom-bamboo-no-hassle-just-fast/"><u>Update Wacom Bamboo - No Hassle, Just Fast!</u></a></li>
+</ul></div>
 

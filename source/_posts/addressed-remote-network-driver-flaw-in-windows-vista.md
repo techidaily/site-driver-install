@@ -1,7 +1,7 @@
 ---
 title: "Addressed: Remote Network Driver Flaw in Windows Vista"
-date: 2024-08-31T12:51:37.630Z
-updated: 2024-09-01T12:51:37.630Z
+date: 2024-10-28T16:23:31.069Z
+updated: 2024-11-04T17:55:22.718Z
 tags:
   - win11
   - win10
@@ -41,29 +41,37 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same to invoke the Run box.
 2. Double-click**Network adapters** in Device Manager.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc8666c67b7d.jpg)
 3. Right-click on**WAN Miniport** , and select**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc866c1d8ce0.jpg)
 4. Choose**Search automatically for updated driver software** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc8664229f42.jpg)
 5. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you have more than one WAN Miniport driver listed there, repeat steps 3) -5) for each device.
 
  If you can’t connect to the network, or if this method doesn’t work for you, don’t worry. You can try [Method 2](#F2) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update the WAN Miniport driver automatically
 
@@ -79,13 +87,22 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc866da6fd7d.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver. Or click**Update** **All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc8677f1635c.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you should have the latest version for**WAN Miniport drivers** .
@@ -101,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,8 +125,24 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-power-in-healthcare-through-vr/"><u>[New] Transformative Power in Healthcare Through VR</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-7-high-impact-workout-videos-that-engage-and-energize-audiences/"><u>[Updated] 2024 Approved 7 High-Impact Workout Videos That Engage and Energize Audiences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-exclusive-fb-to-mp3-conversion-just-click-instant-results-for-2024/"><u>[Updated] Exclusive FB to MP3 Conversion - Just Click, Instant Results for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-closed-to-open-mastering-srt-files-in-macos/"><u>2024 Approved From Closed to Open Mastering SRT Files in macOS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-shared-humor-top-20-memes-across-social-networks/"><u>In 2024, Shared Humor Top 20 Memes Across Social Networks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-g580-simplified-driver-changes/"><u>Lenovo G580: Simplified Driver Changes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/masterful-device-management-via-installed-hardware-drivers/"><u>Masterful Device Management via Installed Hardware Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-windows-startechs-expertise-in-fixing-drivers-7-11/"><u>Mastering Windows: StarTech's Expertise in Fixing Drivers (7-11)</u></a></li>
+<li><a href="https://discover-great.techidaily.com/modifica-gratuitamente-i-tuoi-video-su-windows-10-con-questo-editore-veloce-e-facile-da-usare-2020/"><u>Modifica Gratuitamente I Tuoi Video Su Windows 10 Con Questo Editore Veloce E Facile Da Usare (2020)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigate-to-installed-r9-drivers-for-windows/"><u>Navigate to Installed R9 Drivers for Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/no-copyright-worries-top-public-domain-video-download-sites-for-2024/"><u>No Copyright Worries Top Public Domain Video Download Sites for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-revolutionary-tool-explained/"><u>OpenAI's Revolutionary Tool Explained</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-document-printing-speed-in-windows-10/"><u>Optimize Document Printing Speed in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/perfect-pc-integration-update-thinkspad-drivers-on-windows-11/"><u>Perfect PC Integration - Update ThinksPad Drivers on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-easy-acer-drivers-update-for-boosted-windows-10-performance/"><u>Quick & Easy Acer Drivers Update for Boosted Windows 10 Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fixes-for-outdated-nvidia-on-windows-pc/"><u>Quick Fixes for Outdated NVIDIA on Windows PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/riconverti-video-ts-in-mov-via-web-gratuito-utilizzando-leditor-di-movavi-nessun-costo-per-la-modifica/"><u>Riconverti Video TS in MOV via Web Gratuito Utilizzando L'editor Di Movavi - Nessun Costo per La Modifica</u></a></li>
+</ul></div>
 
