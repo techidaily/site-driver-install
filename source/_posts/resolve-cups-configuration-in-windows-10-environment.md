@@ -1,7 +1,7 @@
 ---
 title: Resolve CUPS Configuration in Windows 10 Environment
-date: 2024-09-04T16:52:48.003Z
-updated: 2024-09-05T16:52:48.003Z
+date: 2024-11-08T17:11:30.077Z
+updated: 2024-11-14T16:12:02.708Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -68,28 +75,30 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
  Click**Check for updates** , and then wait while Windows looks for the latest updates for your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Way 3: Update your printer driver automatically**
 
  If you don’t have time, patience and computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -104,12 +113,6 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -117,11 +120,12 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 <ins class="adsbygoogle"
@@ -130,8 +134,6 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,8 +141,20 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastery-guide-on-the-world-of-voice-recordings/"><u>[Updated] 2024 Approved Mastery Guide on the World of Voice Recordings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-augmented-reality-aesthetics-tapping-into-free-lut-resources-for-ar/"><u>2024 Approved Augmented Reality Aesthetics Tapping Into Free LUT Resources for AR</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-faded-lenovo-monitor-issues/"><u>Addressing Faded Lenovo Monitor Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-breakdown-hero4-black-usage-for-2024/"><u>Complete Breakdown Hero4 Black Usage for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/directx-vs-opengl-comparison/"><u>DirectX Vs. OpenGL Comparison</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-yoga-900s-functionality-with-new-win10-drivers-download/"><u>Enhance Yoga 900S Functionality with New Win10 Drivers Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-image-output-windows-nt/"><u>Improve Image Output Windows NT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-canon-scan-setup-guide-for-windows-pcs/"><u>Instant Canon Scan Setup Guide for Windows PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/masterfulaiimageeditor-the-best-of-both-worlds-for-2024/"><u>MasterfulAiImageEditor The Best of Both Worlds for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/universal-viewing-how-to-bypass-dvd-region-restrictions-with-a-simple-conversion-tool/"><u>Universal Viewing: How to Bypass DVD Region Restrictions with a Simple Conversion Tool</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-instructions-hp-printer-model-4630/"><u>Update Instructions: HP Printer Model 4630</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-installation-for-asus-usb-bt400/"><u>Windows Installation for Asus USB-BT400</u></a></li>
+</ul></div>
 

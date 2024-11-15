@@ -1,7 +1,7 @@
 ---
 title: "New Software Release: C6515 Model"
-date: 2024-09-04T16:58:29.185Z
-updated: 2024-09-05T16:58:29.185Z
+date: 2024-11-12T06:58:03.728Z
+updated: 2024-11-15T08:33:36.836Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 
  Therefore, having an up-to-date driver is needed for keeping your Xerox printer in good condition.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to update your Xerox WorkCentre 6515 driver
 
  Here are the two methods you can try to download or update the printer driver. You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-DE.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The [**Pro version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com.**](mailto:support@drivereasy.com)
 
 #### Method 2 – Manually download the printer driver from the official website
@@ -67,8 +81,23 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 3. Download the driver installer. If you’re using a Windows system, download the**Xerox Global Print Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-Windows-OS.jpg)  
  If you’re using a macOS, download the**macOS Print and Scan Driver Installer** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-macOS.jpg)
 4. Open the downloaded file. And then follow the on-screen instructions to install the software and drivers on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -83,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,15 +119,19 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-streamline-your-windows-pc-to-record-live-tv-with-ease/"><u>[New] 2024 Approved Streamline Your Windows PC to Record Live TV with Ease</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-amp-up-the-sound-beat-downloads-on-fb-for-2024/"><u>[New] Amp Up the Sound Beat Downloads on FB for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-step-by-step-guide-capturing-your-iphones-activity-without-jailbreaking/"><u>1. Step-by-Step Guide: Capturing Your iPhone's Activity Without Jailbreaking</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-efficiency-with-updated-drivers-install-hp-officejet-8620-on-windows/"><u>Enhance Efficiency with Updated Drivers: Install HP OfficeJet 8620 on Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhancing-chromebooks-zoom-functionality/"><u>Enhancing Chromebook's Zoom Functionality</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-g14-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G14 Pattern Lock Screen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/happy-printing-officejet-pro-drive/"><u>Happy Printing: Officejet Pro Drive</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-audio-drivers-updated-in-windows-maintenimation/"><u>HD Audio Drivers Updated in Windows Maintenimation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-a38-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo A38 Phone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-avi-video-rotators-compared-top-5-choices/"><u>New In 2024, Free AVI Video Rotators Compared Top 5 Choices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reliable-logitech-webcam-firmware/"><u>Reliable Logitech Webcam Firmware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-drivers-update-in-win-11817-systems/"><u>Speedy Drivers Update in Win 11/8.1/7 Systems</u></a></li>
+</ul></div>
 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

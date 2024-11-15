@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Steady Crashing Issues with Metro Exodus: Gold Edition"
-date: 2024-10-19T05:28:03.203Z
-updated: 2024-10-24T09:49:24.073Z
+date: 2024-11-13T22:13:27.215Z
+updated: 2024-11-14T18:56:50.571Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics drivers
 
  A corrupted or outdated driver can also be the main culprit behind the game’s crashing issues. If you haven’t updated your graphics driver for a long time, you should update the graphics driver to see if it solves the crashing issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -52,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
@@ -79,14 +86,14 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
@@ -109,13 +116,6 @@ If the issue persists, try the next fix below.
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on the Metro Exodus game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
@@ -140,35 +140,36 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
@@ -197,20 +198,24 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-comprehensive-walkthrough-setting-up-your-first-wirecast-livestream-to-youtube/"><u>[New] In 2024, A Comprehensive Walkthrough Setting Up Your First WireCast Livestream to Youtube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-power-of-easy-video-editing-in-photos-and-windows-11/"><u>2024 Approved Explore the Power of Easy Video Editing in Photos & Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-favorites-todays-10-music-moments/"><u>2024 Approved Facebook's Favorites Today's #10 Music Moments</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-television-or-projector-unraveling-the-best-for-4k-viewing-pleasure/"><u>2024 Approved Television or Projector? Unraveling the Best for 4K Viewing Pleasure</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/boomerang-on-instagram-create-addictive-loop-videos-on-ig-for-2024/"><u>Boomerang on Instagram Create Addictive Loop Videos on IG for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/convenient-updates-to-system-drivers-in-win7/"><u>Convenient Updates to System Drivers in Win7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effective-driver-updates-for-msi-bravo-laptops/"><u>Effective Driver Updates for MSI Bravo Laptops</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-razer-portals-web-connectivity-best-wireless-laptop-for-gamers/"><u>Evaluating the Razer Portal's Web Connectivity: Best Wireless Laptop for Gamers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/exclusive-driver-access-canons-windows-10-edition/"><u>Exclusive Driver Access: Canon's Windows 10 Edition</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-a-streamlined-download-process-for-youtubes-srt/"><u>In 2024, Tailoring a Streamlined Download Process for YouTube's SRT</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-and-fabulous-top-20-adobe-premiere-title-and-intro-templates/"><u>New Free and Fabulous Top 20 Adobe Premiere Title and Intro Templates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-drivers-refreshed-gtx-970-for-w10-users/"><u>Nvidia Drivers Refreshed: GTX 970 For W10 Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13 Pro Max</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-compatibility-and-speed-aoc-drivers-v1659aoc/"><u>Win Compatibility & Speed: AOC Drivers V1659AOC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-users-boost-pc-speed-with-new-driver/"><u>Windows 10 Users, Boost PC Speed with New Driver!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-aesthetic-alignment-for-online-glamour-content-for-2024/"><u>[Updated] Aesthetic Alignment for Online Glamour Content for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-key-to-youtube-success-understanding-your-cpm/"><u>2024 Approved The Key to YouTube Success Understanding Your CPM</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-the-secret-of-unlocking-your-car-stereo-the-ultimate-tutorial/"><u>Discovering the Secret of Unlocking Your Car Stereo: The Ultimate Tutorial</u></a></li>
+<li><a href="https://win-info.techidaily.com/easy-guide-top-3-techniques-for-importing-pictures-onto-an-iphone/"><u>Easy Guide: Top 3 Techniques for Importing Pictures Onto an iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-best-of-android-does-pickup-lead-photo-editing-tools/"><u>Exploring the Best of Android Does PickUp Lead Photo Editing Tools?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-gt-10-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/quick-paced-fortnite-visual-artistry/"><u>Quick-Paced Fortnite Visual Artistry</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-your-hp-laserjet-with-updated-windows-10-software/"><u>Refresh Your HP Laserjet with Updated Windows 10 Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstating-printer-software-seamlessly-with-new-drivers-on-win-oses/"><u>Reinstating Printer Software Seamlessly with New Drivers on WIN OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/set-up-printer-canon-inkjet-os-versions/"><u>Set up Printer: Canon Inkjet, OS Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/synergy-windows-11xbox-one-driver-combo/"><u>Synergy: Windows 11/Xbox One Driver Combo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-audiophiles-companion-to-top-tier-audio-equipment/"><u>The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-role-of-burst-mode-in-action-sports-filming-for-2024/"><u>The Role of Burst Mode in Action Sports Filming for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-xbox-one-controller-support-for-winsystems/"><u>Universal Xbox One Controller Support for Winsystems</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-clean-windows-11-setup/"><u>Unveiling the Secrets of Clean Windows 11 Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-revamp-hp-laserjet-drivers-for-optimal-performance/"><u>Windows 10: Revamp HP Laserjet Drivers for Optimal Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-enhanced-with-new-acer-driver-support/"><u>Windows 11 Enhanced with New Acer Driver Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-compatible-easy-setup-for-asus-4kn-broadcom-bt400/"><u>Windows Compatible: Easy Setup for Asus 4Kn Broadcom BT400</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-update-surface-pro-4-drivers-installation/"><u>Windows Update: Surface Pro 4 Drivers Installation</u></a></li>
 </ul></div>
 

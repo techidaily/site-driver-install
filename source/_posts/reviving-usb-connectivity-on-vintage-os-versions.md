@@ -1,7 +1,7 @@
 ---
 title: Reviving USB Connectivity on Vintage OS Versions
-date: 2024-11-02T23:35:22.021Z
-updated: 2024-11-04T18:28:25.869Z
+date: 2024-11-13T18:06:05.877Z
+updated: 2024-11-14T19:50:37.592Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1 – Reinstall the drivers using Device Manager
 
  Device Manager is a Windows built-in tool that allows you to view and control the hardware attached to your computer and update the device drivers. To reinstall the USB drivers in Device Manager, follow the steps below:
@@ -33,30 +40,30 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
 
@@ -69,21 +76,20 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -109,17 +115,18 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-key-strategies-for-professional-video-production-via-nvidia-for-2024/"><u>[New] Key Strategies for Professional Video Production via NVIDIA for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-editors-workshop-enhancing-your-youtube-video-visibility-for-2024/"><u>[Updated] Editor's Workshop Enhancing Your Youtube Video Visibility for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-windows-videography-toolkit-editors-and-software-review/"><u>[Updated] In 2024, Ultimate Windows Videography Toolkit Editors & Software Review</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-unleashing-creative-stories-zoom-techniques-on-snapchat/"><u>2024 Approved Unleashing Creative Stories Zoom Techniques on Snapchat</u></a></li>
-<li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-80-pro-straight-screen-edition-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor 80 Pro Straight Screen Edition by Name | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/convenient-installation-canon-xp-software-for-windows-10-users/"><u>Convenient Installation: Canon XP Software for Windows 10 Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-xiaomi-14-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi 14 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-optimized-idt-audio-protocols-for-windows-7/"><u>Install Optimized IDT Audio Protocols for Windows 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063382352-quick-logitech-earphone-firmware-upgrade/"><u>Quick Logitech Earphone Firmware Upgrade</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-sailing-startechs-fixes-to-win8710-drivers/"><u>Smooth Sailing: StarTech's Fixes to WIN8/7/10 Drivers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/streamline-video-communication-learn-to-add-timely-captions-on-fb-videos-for-2024/"><u>Streamline Video Communication Learn to Add Timely Captions on FB Videos for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-update-process-for-lenovo-u310/"><u>Streamlined Update Process for Lenovo U310</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-perfected-framing-for-fb-videos-implement-letterbox-and-dark-frame/"><u>[Updated] 2024 Approved Perfected Framing for FB Videos Implement Letterbox & Dark Frame</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-harness-your-footage-potential-with-vimeo-record-for-2024/"><u>[Updated] Harness Your Footage Potential with Vimeo Record for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-see-groups-shared-photos-and-movies-on-messenger/"><u>[Updated] In 2024, How to See Group's Shared Photos and Movies on Messenger</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-guide-asus-usb-bluetooth-adapter-drivers/"><u>Download & Guide: Asus USB Bluetooth Adapter Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-gtx-970-drivers-windows-11-version/"><u>Download GTX 970 Drivers - Windows 11 Version</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-yamaha-steinberg-audio-driver-pack/"><u>Download Yamaha-Steinberg Audio Driver Pack</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fingerprint-scanner-v450-driver-release/"><u>Fingerprint Scanner V4.50 Driver Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-handling-of-driver-hiccups/"><u>Hassle-Free Handling of Driver Hiccups</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062971588-instantaneously-enhance-sound-quality/"><u>Instantaneously Enhance Sound Quality!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-sound-on-your-apple-device-top-picks-for-2024/"><u>Mastering Sound on Your Apple Device (Top Picks) for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-playing-field-embrace-the-philips-evnias-49-oled-curved-monitor/"><u>Next-Level Playing Field: Embrace the Philips Evnia's 49 OLED Curved Monitor</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y27ss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y27ss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-links.techidaily.com/visual-narrative-magic-mastering-the-art-of-fading-edits/"><u>Visual Narrative Magic Mastering the Art of Fading Edits</u></a></li>
 </ul></div>
 

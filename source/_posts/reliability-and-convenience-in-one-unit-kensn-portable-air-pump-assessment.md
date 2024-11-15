@@ -1,7 +1,7 @@
 ---
 title: "Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
-date: 2024-10-30T01:18:04.837Z
-updated: 2024-11-04T23:54:05.241Z
+date: 2024-11-09T19:09:04.380Z
+updated: 2024-11-15T00:19:19.783Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
@@ -36,6 +36,13 @@ Lifewire / Kelsey Simon
 
 2.7
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
@@ -59,16 +66,10 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Story: Heavy-handed writing to the exclusion of all else**
@@ -76,13 +77,6 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -120,20 +114,13 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -155,6 +142,13 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,14 +173,21 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/beat-the-competition-revamp-with-updated-focusrite-driver/"><u>Beat the Competition: Revamp with Updated Focusrite Driver</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6s Plus Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-find-your-perfect-match-with-these-best-5-iphone-pods/"><u>In 2024, Find Your Perfect Match with These Best 5 iPhone Pods</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-asus-rog-phone-8-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Asus ROG Phone 8</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/new-year-new-speaking-abilities/"><u>New Year, New Speaking Abilities</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-system-improvement-upgrading-to-new-audio-drivers-in-ws11/"><u>Simplify System Improvement: Upgrading to New Audio Drivers in WS11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/solidify-ricoh-printing-setup-on-windows-11/"><u>Solidify Ricoh Printing Setup on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-improvements-upgrade-logitech-earbuds-cables/"><u>Speedy Improvements: Upgrade Logitech Earbuds Cables</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-gt-neo-5-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme GT Neo 5 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-pubg-not-launching-2024-guide/"><u>[FIXED] PUBG Not Launching 2024 Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-live-capture-success-explore-4-effective-recording-strategies/"><u>[New] 2024 Approved Live Capture Success Explore 4 Effective Recording Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-bringing-your-ideas-to-life-vo-plus-ppt-perfection/"><u>[Updated] 2024 Approved Bringing Your Ideas to Life VO + PPT Perfection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-skys-best-pixels-face-off-dji-inspire-1-and-gopro-fusion-mini/"><u>2024 Approved Sky's Best Pixels Face-Off DJi Inspire 1 & GoPro Fusion Mini</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-ultimate-guide-to-unblocked-video-sharing/"><u>2024 Approved The Ultimate Guide to Unblocked Video Sharing</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-effective-methods-to-resolve-terraria-disconnection-issues/"><u>6 Effective Methods to Resolve Terraria Disconnection Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-managing-amd-video-driver-updates/"><u>Efficiently Managing AMD Video Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-and-streamline-your-display-on-windows-11-reviving-drivers/"><u>Enhance and Streamline Your Display on Windows 11: Reviving Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-video-communication-efficiency-logitech-c270-drivers/"><u>Enhance Video Communication Efficiency - Logitech C270 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-audio-driver-update-in-ws11/"><u>Essential Tips for Audio Driver Update in WS11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fifa-21-startup-problems-now-fixed-how-to-launch-the-game-smoothly/"><u>FIFA 21 Startup Problems Now Fixed - How to Launch the Game Smoothly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-driver-guide-get-canon-scanner-access/"><u>Hassle-Free Driver Guide: Get Canon Scanner Access</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-driver-for-logitech-mouse-windows-11/"><u>Install Latest Driver for Logitech Mouse (Windows 11)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062596970-overcoming-xps-network-miniport-obstructions-now-fixed/"><u>Overcoming XP's Network Miniport Obstructions - Now Fixed!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/slash-your-videos-size-retain-excellent-quality-achieve-up-to-90-reduction/"><u>Slash Your Videos' Size, Retain Excellent Quality: Achieve Up to 90% Reduction</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-by-step-guide-facebook-group-assembly-blueprints/"><u>Step-by-Step Guide: Facebook Group Assembly Blueprints</u></a></li>
 </ul></div>
 

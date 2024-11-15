@@ -1,7 +1,7 @@
 ---
 title: C6515 Operating System Patches
-date: 2024-09-04T16:55:49.320Z
-updated: 2024-09-05T16:55:49.320Z
+date: 2024-11-08T04:46:53.448Z
+updated: 2024-11-15T01:26:11.426Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
  Therefore, having an up-to-date driver is needed for keeping your Xerox printer in good condition.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to update your Xerox WorkCentre 6515 driver
 
  Here are the two methods you can try to download or update the printer driver. You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to a flagged Xerox WorkCentre 6515 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-DE.jpg)
 4. Restart your computer for the changes to take effect.
@@ -67,8 +81,23 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 3. Download the driver installer. If you’re using a Windows system, download the**Xerox Global Print Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-Windows-OS.jpg)  
  If you’re using a macOS, download the**macOS Print and Scan Driver Installer** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-macOS.jpg)
 4. Open the downloaded file. And then follow the on-screen instructions to install the software and drivers on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -83,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,15 +119,21 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-exploring-screen-recording-with-zdsoft-for-2024/"><u>[New] Exploring Screen Recording with ZDSoft for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-faces-under-scrutiny-how-iphone-x-and-galaxy-unlock-tech-compare/"><u>[Updated] Faces Under Scrutiny How iPhone X and Galaxy Unlock Tech Compare</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boosting-wireless-capabilities-atheros-driver-update-in-windows-10/"><u>Boosting Wireless Capabilities: Atheros Driver Update in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-omen-15-modernizing-operating-system-components/"><u>HP Omen 15: Modernizing Operating System Components</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-of-latest-canon-mf4770n-drivers-for-win-oses/"><u>Installation of Latest Canon MF4770n Drivers for WIN OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-printing-speed-update-hp-drivers-for-windows-10/"><u>Optimize Printing Speed: Update HP Drivers for Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-mir4-stability-problems-a-guide-for-players-using-pc/"><u>Resolving Mir4 Stability Problems: A Guide for Players Using PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-to-successfully-watching-high-definition-8k-4320p-content-on-mac-and-pc/"><u>Step-by-Step Guide to Successfully Watching High-Definition 8K, 4320P Content on Mac and PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-truth-about-the-asus-rt-ac88u-a-comprehensive-product-review-for-gamers/"><u>The Truth About the Asus RT-AC88U - A Comprehensive Product Review for Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-essential-ai-writing-skills-classes-to-excel-in-prompt-engineering/"><u>Top 5 Essential AI Writing Skills Classes to Excel in Prompt Engineering</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unraveling-hazkis-mysteries-repair-made-easy/"><u>Unraveling Hazki's Mysteries: Repair Made Easy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-users-install-razer-mice-fast-and-simple/"><u>Win Users: Install Razer Mice Fast & Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/win1111s-dxgierror-code-0x887a0006-a-quick-fix/"><u>Win11/11's DXGI_ERROR (Code 0X887A0006): A Quick Fix</u></a></li>
+</ul></div>
 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

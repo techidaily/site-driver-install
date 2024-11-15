@@ -1,7 +1,7 @@
 ---
 title: How to Stop Microsoft Edge From Frequently Exiting Unexpectedly on Windows Vehicles
-date: 2024-10-19T13:19:50.370Z
-updated: 2024-10-24T02:14:20.398Z
+date: 2024-11-07T21:16:43.485Z
+updated: 2024-11-14T20:15:40.520Z
 tags:
   - win11
   - win10
@@ -21,13 +21,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 * Restart your PC
 * Install the latest updates
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -50,34 +43,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -94,25 +66,33 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Click**Repair** .
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -123,11 +103,32 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -138,19 +139,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -172,17 +160,23 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -222,18 +216,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-powerpoint-presentations-enhancing-clarity-with-voiceovers/"><u>[Updated] In 2024, PowerPoint Presentations Enhancing Clarity with Voiceovers</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-virtualization-setting-up-win11-with-vmware-17-player/"><u>Accelerating Virtualization: Setting Up Win11 with VMware 17 Player</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-acurite-pro-weather-station-model-01036m-setup-and-design-analysis/"><u>Comprehensive Guide to the AcuRite Pro Weather Station (Model 01036M): Setup & Design Analysis</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-970-performance-boost-drivers-update-for-win-11/"><u>GTX 970 Performance Boost - Drivers Update for Win 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-13-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 13 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-professionals-picks-windows-11-video-creation-apps/"><u>In 2024, Professionals' Picks Windows 11 Video Creation Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximizing-audio-potential-streamlined-processes-for-hyperx-driver-changes/"><u>Maximizing Audio Potential: Streamlined Processes for HyperX Driver Changes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/razer-wireless-mouse-compatibility-with-windows/"><u>Razer Wireless Mouse Compatibility with Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-adding-the-tmdb-helper-extension-to-your-kodi-setup-compatible-with-nexus-devices/"><u>Step-by-Step Guide to Adding the TMDB Helper Extension to Your Kodi Setup (Compatible with Nexus Devices)</u></a></li>
-<li><a href="https://fox-search.techidaily.com/step-by-step-guide-implementing-disk-imaging-solutions-across-different-windows-server-editions/"><u>Step-by-Step Guide: Implementing Disk Imaging Solutions Across Different Windows Server Editions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-fix-naraka-path-of-the-warriors-sudden-shutdown-issues/"><u>Troubleshooting Guide: How to Fix Naraka: Path of the Warrior's Sudden Shutdown Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-usb-hub-glitches-now-overcome/"><u>Win-USB Hub Glitches, Now Overcome</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerated-driver-update-reenergize-your-logitech-mouse-in-win11/"><u>Accelerated Driver Update - Reenergize Your Logitech Mouse in Win11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/achieving-synchronized-page-turning-sound-effects-in-flipbook-projects-using-flipbuilder-tools/"><u>Achieving Synchronized Page-Turning Sound Effects in FlipBook Projects Using FlipBuilder Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/convenient-installation-windows-11-haptic-driver-update/"><u>Convenient Installation: Windows 11 Haptic Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensure-smooth-performance-thinkpad-w10-updates/"><u>Ensure Smooth Performance: ThinkPad W10 Updates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Identify missing hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ideal-4k-recorder-software-selections/"><u>In 2024, Ideal 4K Recorder Software Selections</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-civ-5-crashes-on-desktop-systems/"><u>Overcoming Civ 5 Crashes on Desktop Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-free-access-to-canon-scanner-drivers-pc-edition/"><u>Quick & Free Access to Canon Scanner Drivers, PC Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revise-graphics-support-on-acer-w11-edition/"><u>Revise Graphics Support on Acer, W11 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-when-your-windows-pc-wont-read-or-play-a-dvd/"><u>Step-by-Step Fixes for When Your Windows PC Won't Read or Play a DVD</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-g42-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia G42 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-of-adobe-and-exploring-others/"><u>Unlocking the Potential of Adobe & Exploring Others</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-amd-ryzen-in-the-asus-zenbook-s16-comprehensive-review-and-benchmarks/"><u>Unveiling the Power of AMD Ryzen in the Asus Zenbook S16: Comprehensive Review & Benchmarks</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-s-top-10-streaming-video-services-free-ones-available/"><u>Updated In 2024, S Top 10 Streaming Video Services Free Ones Available</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-tablet-compatible-with-win10-free-download/"><u>Wacom Tablet Compatible with Win10 [FREE] Download</u></a></li>
 </ul></div>
 

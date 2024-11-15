@@ -1,7 +1,7 @@
 ---
 title: Update HP OfficeJet 8620 Printer Drivers on Windows Systems Efficiently
-date: 2024-10-28T23:18:57.474Z
-updated: 2024-10-30T02:51:04.797Z
+date: 2024-11-09T16:58:31.285Z
+updated: 2024-11-15T03:36:04.803Z
 tags:
   - win11
   - win10
@@ -39,39 +39,32 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f337c3865.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Make sure the detected **operating system** is correct, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f2f35ac0c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Run the downloaded file, and follow the wizard to finish.
 
  Manually downloading the HP OfficeJet Pro 8620 driver requires time and computer skills.
 
  If this method doesn’t work for you, don’t worry. We have other solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update HP OfficeJet Pro 8620 driver in Device Manager
 
@@ -83,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  2) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
@@ -92,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Right click on your printer (it may display as**Unknown device**), and select**Update driver** .
@@ -133,16 +133,10 @@ Still no luck? OK. There’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) After updating, restart your computer to take effect.
@@ -173,20 +167,22 @@ If you have any questions, feel free to add a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-clarity-chronicles-for-beginners-unraveling-resolution-factors/"><u>[New] Clarity Chronicles for Beginners Unraveling Resolution Factors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-become-a-pro-at-setting-up-vrecorder-fast/"><u>[New] In 2024, Become a Pro at Setting Up VRecorder Fast</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos/"><u>[Updated] 2024 Approved Essential Tips for Incorporating Dynamic Cards in YouTube Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-top-tech-tool-extract-facebook-videos-as-mp4-for-2024/"><u>[Updated] Top Tech Tool Extract Facebook Videos as MP4 for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-drone-flight-smoothness-choosing-a-gimbal-wisely/"><u>2024 Approved Drone Flight Smoothness Choosing a Gimbal Wisely</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-your-officejet-8620-latest-windows-drivers-now-available/"><u>Boost Your OfficeJet 8620: Latest Windows Drivers Now Available</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-oppo-a58-4g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Oppo A58 4G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fastest-way-to-bluetooth-reinstall-in-windows-1011/"><u>Fastest Way to Bluetooth Reinstall in Windows 10/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hd5770driverwin11enhancement/"><u>HD5770DriverWin11Enhancement</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-stay-ahead-of-the-curve-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>In 2024, Stay Ahead of the Curve Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-gt-5-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme GT 5</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-threat-detected-in-third-party-infs-lack-of-signs/"><u>No Threat Detected in Third-Party Inf's Lack of Signs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-960-drivers-new-release/"><u>Nvidia GTX 960 Drivers: New Release</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/personalize-facebook-page-with-video-for-2024/"><u>Personalize Facebook Page with Video for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-device-potentials-through-correct-driver-placement/"><u>Unlock Device Potentials Through Correct Driver Placement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-logging-to-global-broadcasting-mastery-through-mindfulness/"><u>[New] 2024 Approved From Live Logging to Global Broadcasting Mastery Through Mindfulness</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-the-art-of-high-quality-video-production-in-obs/"><u>[New] 2024 Approved Mastering the Art of High-Quality Video Production in OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effective-image-sharing-using-snap-camera-for-microsoft-teams/"><u>[New] In 2024, Effective Image Sharing Using Snap Camera for Microsoft Teams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-top-8-yt-thumbnails-that-increase-watch-time-and-interests/"><u>[New] The Top 8 YT Thumbnails that Increase Watch Time and Interests</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-begin-recording-your-webcam-via-vlc-player/"><u>[Updated] 2024 Approved Begin Recording Your Webcam via VLC Player</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-guide-to-excellent-voice-recorders-for-macs/"><u>[Updated] 2024 Approved Guide to Excellent Voice Recorders for Macs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1722990964139-improve-your-naraka-bladepoint-experience-fix-stuttering-and-increase-fps-effectively/"><u>Improve Your Naraka: Bladepoint Experience - Fix Stuttering and Increase FPS Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/restore-windows-10-sound-fidelity-reinstall-drivers/"><u>Restore Windows 10 Sound Fidelity: Reinstall Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-compatibility-package-asus-tech-for-windows/"><u>Seamless Compatibility Package: Asus Tech for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-r9-series-with-updated-software/"><u>Secure R9 Series with Updated Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-display-process-in-win-os/"><u>Streamline Display Process in Win OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-contention-challenges/"><u>System Contention Challenges</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-driver-update-strategy-for-windows-8-enthusiasts/"><u>The Ultimate Driver Update Strategy for Windows 8 Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-opening-the-realtek-hd-audio-controller-successfully/"><u>Troubleshooting Guide: Opening the RealTek HD Audio Controller Successfully</u></a></li>
+<li><a href="https://extra-information.techidaily.com/undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>Undoing Streams A Complete List of 25 Procedures for Twitch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveil-simplified-techniques-for-updating-nvidia-graphics-support/"><u>Unveil Simplified Techniques for Updating Nvidia Graphics Support</u></a></li>
 </ul></div>
 

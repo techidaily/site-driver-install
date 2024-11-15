@@ -1,7 +1,7 @@
 ---
 title: Update Drivers for C6515 Copier
-date: 2024-09-04T16:57:08.718Z
-updated: 2024-09-05T16:57:08.718Z
+date: 2024-11-11T20:42:36.260Z
+updated: 2024-11-15T05:42:12.573Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 
  Therefore, having an up-to-date driver is needed for keeping your Xerox printer in good condition.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to update your Xerox WorkCentre 6515 driver
 
  Here are the two methods you can try to download or update the printer driver. You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -50,6 +57,19 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to a flagged Xerox WorkCentre 6515 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-DE.jpg)
 4. Restart your computer for the changes to take effect.
@@ -65,8 +85,30 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
  If not, you need to select your computer’s OS from the drop-down list of**Platform** . After that, click**APPLY FILTER** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-download-website.jpg)
 3. Download the driver installer. If you’re using a Windows system, download the**Xerox Global Print Driver** .  
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-Windows-OS.jpg)  
  If you’re using a macOS, download the**macOS Print and Scan Driver Installer** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-macOS.jpg)
 4. Open the downloaded file. And then follow the on-screen instructions to install the software and drivers on your computer.
 
@@ -83,8 +125,6 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,21 +132,20 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-innovative-vertical-video-editing-for-instagrams-igtv/"><u>[New] 2024 Approved Innovative Vertical Video Editing for Instagram's IGTV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-tips-how-to-perfectly-flip-videos-on-devices/"><u>[New] 2024 Approved Instagram Tips How to Perfectly Flip Videos on Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-thinkers-playground-top-10-mind-bending-rooms/"><u>[New] 2024 Approved Thinkers' Playground Top 10 Mind-Bending Rooms</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-3ips-precision-audio-capture-solutions/"><u>[New] In 2024, Top 3iP's Precision Audio Capture Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-power-shift-from-sdr-to-hdr-in-media/"><u>2024 Approved Understanding the Power Shift From SDR to HDR in Media</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-gaming-experience-install-new-nvidia-graphics-driver-for-win-1110/"><u>Improve Your Gaming Experience: Install New NVIDIA Graphics Driver for Win 11/10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-realtek-device-functionality-windows-update/"><u>Maximize Realtek Device Functionality - Windows Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/regain-your-bluetooth-capability-quick-fix-for-windows-11/"><u>Regain Your Bluetooth Capability: Quick Fix for Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-windows-11-hp-printer-functionality/"><u>Streamlining Windows 11 HP Printer Functionality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-bamboo-quick-firmware-upgrade-steps/"><u>Wacom Bamboo: Quick Firmware Upgrade Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oneplus-11r-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When OnePlus 11R Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-editing-made-easy-shortening-video-lengths-for-2024/"><u>YouTube Editing Made Easy Shortening Video Lengths for 2024</u></a></li>
+</ul></div>
 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Upgrade WIN10/11 with MTK USB Driver Support
-date: 2024-09-04T16:55:37.799Z
-updated: 2024-09-05T16:55:37.799Z
+date: 2024-11-10T04:17:51.968Z
+updated: 2024-11-15T08:34:22.765Z
 tags:
   - win11
   - win10
@@ -59,9 +59,23 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, select the**Recovery** tab. Under**Advanced startup** , click**Restart now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
@@ -79,6 +93,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery-restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
  5) When you see**Startup Settings** , press**number 7** or**F7** on your keyboard to disable Driver Signature Enforcement. This will take about 3 minutes to boot.
@@ -95,6 +116,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Action** and select**Add legacy hardware** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
@@ -102,6 +130,13 @@ To download and install MediaTek drivers manually, you need to:
  4) In the Add Hardware Wizard, click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
 
@@ -121,12 +156,6 @@ To download and install MediaTek drivers manually, you need to:
 
 10) Restart your PC and connect your MediaTek device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 Automatically
 
  To update MTK drivers, it may take a lot of time to search online and install it manually. If you don’t have the time, patience, or computer skills to update the MediaTek driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -143,22 +172,10 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** . )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/updateall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](mailto:support@drivereasy.com) .
@@ -181,8 +198,6 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,8 +205,22 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-best-mc-housing-plans-for-vibrant-villages/"><u>[New] Best MC Housing Plans for Vibrant Villages</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-demystifying-the-process-of-checking-subs/"><u>[New] In 2024, Demystifying The Process of Checking Subs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-full-spectrum-assessment-dji-phantom-4-unveiled/"><u>[Updated] In 2024, Full Spectrum Assessment DJI Phantom 4 Unveiled</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-wi-fi-performance-installing-new-atheros-drivers-in-windows-10/"><u>Elevate Wi-Fi Performance: Installing New Atheros Drivers in Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-tips-for-cleaning-up-your-photos-remove-distractions-using-movavi-image-editor/"><u>Expert Tips for Cleaning Up Your Photos - Remove Distractions Using Movavi Image Editor</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-50plus-youtube-channel-names-for-vloggers-100-new/"><u>In 2024, 50+ Youtube Channel Names for Vloggers [100% New]</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/incorporate-new-marvell-lan-adapter-into-surface-go-os/"><u>Incorporate New Marvell LAN Adapter Into Surface Go OS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862766355-nice-price-drop-acers-34-curved-qhd-monitor-now-just-200-on-newegg/"><u>Nice Price Drop: Acer's 34 Curved QHD Monitor Now Just $200 on Newegg</u></a></li>
+<li><a href="https://driver-install.techidaily.com/six-two-zero-driver-guide-enhance-system-efficiency/"><u>Six Two Zero Driver Guide - Enhance System Efficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speeding-up-projects-without-compromising-quality-for-2024/"><u>Speeding Up Projects Without Compromising Quality for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-and-simple-driver-optimization-on-nvidia-gpus/"><u>Speedy and Simple Driver Optimization on Nvidia GPUs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-reactivate-lost-store-apps-on-windows-11/"><u>Swiftly Reactivate Lost Store Apps on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-xerox-c6515-os/"><u>Update Xerox C6515 OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063358862-upgrade-lenovo-g580-to-effortless/"><u>Upgrade Lenovo G580 to Effortless!</u></a></li>
+</ul></div>
 

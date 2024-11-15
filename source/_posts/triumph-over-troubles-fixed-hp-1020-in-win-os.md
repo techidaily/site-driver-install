@@ -1,7 +1,7 @@
 ---
 title: "Triumph Over Troubles: Fixed HP 1020 in Win OS"
-date: 2024-11-02T01:38:13.216Z
-updated: 2024-11-04T17:46:32.240Z
+date: 2024-11-10T21:05:45.448Z
+updated: 2024-11-14T22:12:52.832Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/d0cb748bcb0f62a12329bda108fa11c6c1e0878f5
 3. [Update the printer driver automatically](#Fix3)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Update the printer driver manually
@@ -43,19 +43,19 @@ Time needed:  3 minutes.
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
 
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run the downloaded file, and follow the wizard to finish.
 
@@ -76,15 +76,15 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
@@ -107,10 +107,10 @@ After updating, restart your computer.
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
@@ -144,21 +144,22 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-efficient-protocols-for-high-quality-iptv-screening/"><u>[New] In 2024, Efficient Protocols for High-Quality IPTV Screening</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ntriguing-stories-flourishing-channels-top-3-techniques-for-2024/"><u>[New] Intriguing Stories, Flourishing Channels Top 3 Techniques for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-monetization-blueprint-for-your-youtube-ventures-on-fb/"><u>[New] The Monetization Blueprint for Your YouTube Ventures on FB</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-from-creation-to-apple-your-podcasts-journey/"><u>[Updated] From Creation to Apple Your Podcast's Journey</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-perfect-propeller-synergy-for-awe-inspiring-fpv-flights-for-2024/"><u>[Updated] Perfect Propeller Synergy for Awe-Inspiring FPV Flights for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-photo-zoom-pro-7-the-image-resizer/"><u>[Updated] Photo Zoom Pro 7- the Image Resizer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-professional-insights-crafting-youtube-trailers-using-filmora/"><u>2024 Approved Professional Insights Crafting YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-upgrade-installing-new-lenovo-w11-drivers/"><u>Drive Upgrade: Installing New Lenovo W11 Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-computing-started-here-top-windows-programs-to-remove/"><u>Efficient Computing Started Here: Top Windows Programs to Remove</u></a></li>
-<li><a href="https://driver-install.techidaily.com/graphics-driver-reboot-a-comprehensive-guidebook/"><u>Graphics Driver Reboot: A Comprehensive Guidebook</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Phantom V Fold</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-upgrade-your-pcs-network-capabilities/"><u>Instantly Upgrade Your PC's Network Capabilities</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-canon-printer-software-with-win-1178-oss/"><u>Integrate Canon Printer Software with Win 11/7/8 OSs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-pc-audio-with-newly-installed-realtek-driver/"><u>Revitalize PC Audio with Newly Installed Realtek Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-update-of-windows-11-device-drivers-guide/"><u>Smooth Update of Windows 11 Device Drivers Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-amd-radeon-r9-driver-update-guide/"><u>Win AMD Radeon R9 Driver Update Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ensuring-clear-sound-with-proper-obs-configurations/"><u>2024 Approved Ensuring Clear Sound with Proper OBS Configurations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-c53-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme C53 Unlock Without Password</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994896942-expert-tips-to-resolve-valheim-pc-stuttering-ensure-smooth-gameplay-today/"><u>Expert Tips to Resolve Valheim PC Stuttering – Ensure Smooth Gameplay Today!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-world-with-a-vr-headset-for-2024/"><u>Exploring the World with a VR Headset for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-p55-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P55 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-s23-ultra-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy S23 Ultra Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/remedy-usb-serial-communication-breakdown/"><u>Remedy USB-Serial Communication Breakdown</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-unsupported-packet-for-current-chips/"><u>Resolve: Unsupported Packet for Current Chips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-mx870-driver-for-modern-and-legacy-windows/"><u>Setup MX870 Driver for Modern & Legacy Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/snapchats-ai-compared-with-microsofts-bing-on-skype-unveiling-the-top-8-distinctions/"><u>Snapchat's AI Compared with Microsoft's Bing on Skype: Unveiling the Top 8 Distinctions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-audio-driver-upgrade-in-windows-11/"><u>Step-by-Step: Audio Driver Upgrade in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-process-to-refresh-atheros-wi-fi-on-windows-11/"><u>Stepwise Process to Refresh Atheros Wi-Fi on Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-essential-guide-on-resolving-flickering-and-jittery-visual-content-a-step-by-step-manual-using-home-tools-with-subtitles/"><u>The Essential Guide on Resolving Flickering and Jittery Visual Content – A Step-by-Step Manual Using Home Tools (With Subtitles)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-device-full-capability-with-a-simple-adb-click/"><u>Unleash Device Full Capability - With a Simple ADB Click</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-connectivity-seamless-integration-of-atheros-drivers-on-windows-11/"><u>Upgraded Connectivity: Seamless Integration of Atheros Drivers on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-controllers-transitioning-to-windows/"><u>USB Controllers: Transitioning to Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackle FTDI Adapter Glitches
-date: 2024-10-24T23:11:14.787Z
-updated: 2024-10-29T20:15:52.211Z
+date: 2024-11-11T01:52:50.533Z
+updated: 2024-11-15T05:26:41.441Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -79,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -107,16 +113,20 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quality-and-cost-savings-unite-in-best-asmr-mics/"><u>2024 Approved Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-guide-to-fixing-dragons-dogma-2-launch-problems-on-personal-computers/"><u>Complete Guide to Fixing Dragons Dogma 2 Launch Problems on Personal Computers</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/data-rescue-at-no-charge-superior-solver/"><u>Data Rescue at No Charge - Superior Solver</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-conciseness-in-content-editing-your-youtube-videos-smartly/"><u>In 2024, Conciseness in Content Editing Your YouTube Videos Smartly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-pioneering-photography-examination-with-counterparts/"><u>In 2024, Pioneering Photography Examination with Counterparts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-new-os-on-xerox-model-c6515/"><u>Install New OS on Xerox Model C6515</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quickly-upgrade-to-latest-lexmark-printer-driver/"><u>Quickly Upgrade to Latest Lexmark Printer Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-realtek-drivers-for-optimal-performance/"><u>Revamping Realtek Drivers for Optimal Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/selecting-the-best-downloader-choco-vs-windows-package-tool/"><u>Selecting the Best Downloader: Choco Vs. Windows Package Tool</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-value-proposition-of-tp-links-re200-ac750-wireless-signal-amplifier-a-thorough-review/"><u>The Value Proposition of TP-Link's RE200 Ac750 Wireless Signal Amplifier - A Thorough Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-1087-medd-installer-guide/"><u>Windows 10/8/7 MEDD Installer Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/fastest-way-how-to-smoothly-transform-your-flv-files-into-a-youtube-ready-format/"><u>[Fastest Way!]: How to Smoothly Transform Your FLV Files Into a YouTube-Ready Format</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-idevice-videography-tools/"><u>[New] Leading iDevice Videography Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-audio-fading-in-lumafusion-software/"><u>[New] Step-by-Step Audio Fading in Lumafusion Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-a-complete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>2024 Approved A Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y200e-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y200e 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Tecno Phone without Any Data Loss</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reset-and-restore-bluetooth-in-windows-11/"><u>Reset and Restore: Bluetooth in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-deskjet-printer-errors-on-windows-10/"><u>Resolve Deskjet Printer Errors on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stability-problems-in-euro-truck-simulator-2-on-your-computer-system/"><u>Resolving Stability Problems in Euro Truck Simulator 2 on Your Computer System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-canon-scanner-driver-access-for-windows-users/"><u>Simplified Canon Scanner Driver Access for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operation-integrate-pro-4-drivers-into-windows-os/"><u>Smooth Operation: Integrate Pro 4 Drivers Into Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-audio-experience-with-latest-windows-fixes/"><u>Streamlined Audio Experience with Latest Windows Fixes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-guideline-for-mobizen-screen-recorder/"><u>Ultimate Guideline for Mobizen Screen Recorder</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-hp-omen-15-driver-software/"><u>Upgrading HP Omen 15 Driver Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win781-usbasp-driver-stabilization-completed/"><u>Win7/8.1 USBasp Driver Stabilization [Completed]</u></a></li>
 </ul></div>
 

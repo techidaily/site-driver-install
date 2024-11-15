@@ -1,7 +1,7 @@
 ---
 title: How to Fix Kotion Each G2000 Mic Not Working
-date: 2024-10-30T16:34:04.162Z
-updated: 2024-11-04T22:42:14.361Z
+date: 2024-11-14T01:40:14.345Z
+updated: 2024-11-14T16:19:15.229Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -42,6 +49,19 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 * If**no** (no sound on ALL apps), then move on to**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disconnect external speakers
 
@@ -57,36 +77,15 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038f642ae65.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If instead of**Internal Speakers** , you see **Digital Output** or**No output devices found** , then insert your headphone into the headphone port and pull it out. Keep plugging and unplugging until **Internal Speakers** appears. Then repeat step 2).
 
 3) Check if you get sound back on your Mac.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Turn off Bluetooth
 
@@ -98,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
@@ -107,16 +113,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Restart your Mac
@@ -132,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 1) Shut down your computer.
 
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
 
@@ -159,22 +166,15 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038a64edd48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: no password for this account is needed since it’s only a testing account.
@@ -230,18 +230,18 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-gaining-traction-effective-seo-techniques-for-youtube-videos/"><u>[New] 2024 Approved Gaining Traction Effective SEO Techniques for YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-tools-for-unique-youtube-channel-names/"><u>[New] In 2024, Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-crafting-engaging-valorant-thumbnails/"><u>[New] Step-by-Step Guide to Crafting Engaging Valorant Thumbnails</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-budget-friendly-srt-translators-unveiled-online/"><u>[Updated] 2024 Approved Best Budget-Friendly SRT Translators Unveiled Online</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-navigating-iphone-xs-biometrics-addressing-face-id-glitches/"><u>[Updated] Navigating iPhone X's Biometrics Addressing Face ID Glitches</u></a></li>
-<li><a href="https://driver-install.techidaily.com/geforce-driver-improvement-for-gtx-1060/"><u>GeForce Driver Improvement for GTX 1060</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-award-winning-screenplays-for-each-genre-division/"><u>In 2024, Award-Winning Screenplays for Each Genre Division</u></a></li>
-<li><a href="https://driver-install.techidaily.com/incorporate-new-marvell-lan-adapter-into-samsung-tabos/"><u>Incorporate New Marvell LAN Adapter Into Samsung TabOS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/optimal-webcam-use-and-recording-techniques-for-macbook/"><u>Optimal Webcam Use and Recording Techniques for MacBook</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-print-spooler-for-better-document-queuing-in-win10/"><u>Optimize Print Spooler for Better Document Queuing in Win10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/painless-infrared-connection-for-windows-7/"><u>Painless Infrared Connection for Windows 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quickly-connect-windows-7-to-wi-fi/"><u>Quickly Connect Windows 7 to Wi-Fi</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resetting-your-wireless-connection-drivers-on-pcs/"><u>Resetting Your Wireless Connection Drivers on PCs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-youtube-to-mpeg-format-change/"><u>[New] In 2024, Mastering YouTube to MPEG Format Change</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-creating-a-prime-business-channel-top-picks-and-simple-steps/"><u>[Updated] Creating a Prime Business Channel Top Picks & Simple Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-checklist-for-mastering-bandicam-in-the-new-year/"><u>[Updated] In 2024, The Ultimate Checklist for Mastering Bandicam in the New Year</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-12-ultimate-relaxing-pc-titles/"><u>[Updated] In 2024, Top 12 Ultimate Relaxing PC Titles</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieving-profitability-at-half-a-million-viewers/"><u>Achieving Profitability at Half a Million Viewers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-11-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme 11 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://driver-install.techidaily.com/leapfrog-your-lenovo-yoga-900-with-improved-drivers/"><u>Leapfrog Your Lenovo Yoga 900 with Improved Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lightning-drivers-upgrade-pcs-instantly-with-scsi/"><u>Lightning Drivers: Upgrade PCs Instantly with SCSI</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-minor-glitches-in-audio-devices/"><u>Mastering Minor Glitches in Audio Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/qualcomm-nic-driver-reset-procedure-overview/"><u>Qualcomm NIC Driver Reset Procedure Overview</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-to-ie-driver-setup-on-new-windows/"><u>Quick Guide to IE Driver Setup on New Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-lenovo-g580-driver-revision/"><u>Quick Lenovo G580 Driver Revision</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-solution-how-to-fix-a-blank-interface-in-epic-games-launcher-application/"><u>The Solution: How to Fix a Blank Interface in Epic Games Launcher Application</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix FTDI USB to Serial Driver Issue
-date: 2024-09-04T16:53:22.611Z
-updated: 2024-09-05T16:53:22.611Z
+date: 2024-11-12T16:12:27.680Z
+updated: 2024-11-15T01:11:40.404Z
 tags:
   - win11
   - win10
@@ -44,6 +44,19 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 2: Update the FTDI USB to serial driver manually
 
  If you don’t have the time or patience to manually download and install the FTDI USB to serial driver, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -58,11 +71,25 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
 
@@ -77,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,15 +111,22 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-detailed-guide-to-screen-record-skype-via-obs/"><u>[New] In 2024, Detailed Guide to Screen Record Skype via OBS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premium-pc-sound-selector/"><u>[Updated] In 2024, Premium PC Sound Selector</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rank-the-best-comparative-study-of-6-hdmi-21-monitors/"><u>[Updated] Rank the Best Comparative Study of 6 HDMI 2.1 Monitors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-performance-essential-win10-drivers-for-yoga-900s/"><u>Elevate Performance: Essential Win10 Drivers for Yoga 900S</u></a></li>
+<li><a href="https://article-files.techidaily.com/explore-top-tier-ios-video-playback-tools-top-10/"><u>Explore Top-Tier iOS Video Playback Tools (Top 10)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x5-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X5 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-and-reinstall-astro-drivers-on-windows/"><u>How to Update and Reinstall Astro Drivers on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-latest-driver-release/"><u>Quadro RTX 6000 Latest Driver Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/recommended-practices-for-nvidia-audio-drivers-in-win11/"><u>Recommended Practices for NVIDIA Audio Drivers in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-hp-envy-5530-driver-with-windows-10-pcs/"><u>Sync HP Envy 5530 Driver with Windows 10 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-wireless-driver-revamp-for-atheros-in-windows-10/"><u>The Ultimate Guide: Wireless Driver Revamp for Atheros in Windows 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unearthing-8-significant-gains-from-a-premium-linkedin-account/"><u>Unearthing 8 Significant Gains From a Premium LinkedIn Account</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-xerox-copier-6515-drivers/"><u>Update Xerox Copier 6515 Drivers</u></a></li>
+</ul></div>
 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

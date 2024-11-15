@@ -1,7 +1,7 @@
 ---
 title: Unlock Full USB Support on WIN OS
-date: 2024-10-30T01:27:09.021Z
-updated: 2024-11-05T01:27:12.006Z
+date: 2024-11-09T18:26:22.664Z
+updated: 2024-11-14T18:33:57.155Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Update Generic USB Hub driver manually
@@ -46,22 +46,8 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
@@ -69,13 +55,20 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Method 2: Update Generic USB Hub driver automatically
@@ -94,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance
 
@@ -115,22 +115,15 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>[New] In 2024, Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mobile-image-mastery-with-top-10-stickers-for-appleandroid-users/"><u>2024 Approved Mobile Image Mastery with Top 10 Stickers for Apple/Android Users</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/cookiebot-enabled-enhance-your-websites-personalization-and-analytics/"><u>Cookiebot-Enabled: Enhance Your Website's Personalization and Analytics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/directly-implementing-updates-to-windows-vistas-driver-modules/"><u>Directly Implementing Updates to Windows Vista's Driver Modules</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/exploring-the-creme-de-la-creme-of-android-mobas-10-for-2024/"><u>Exploring the Crème De La Crème of Android MOBAs (#10) for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-elex-ii-from-continuously-freezing-on-your-computer/"><u>Fixes & Solutions: How to Stop Elex II From Continuously Freezing on Your Computer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratuit-verbetering-van-3gpp-naar-wma-onlinemethode-met-movavi/"><u>Gratuit Verbetering Van 3GPP Naar WMA: Onlinemethode Met Movavi</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oneplus-ace-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on OnePlus Ace 3 FRP Bypass</u></a></li>
-<li><a href="https://driver-install.techidaily.com/link-hp-laptop-envy-5530-driver-with-your-os/"><u>Link HP Laptop (Envy 5530) Driver with Your OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-nvidia-sound-compatibility-with-w10/"><u>Navigating NVIDIA Sound Compatibility with W10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-hp-omen-15s-latest-hardware-interface/"><u>Revamping HP Omen 15'S Latest Hardware Interface</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-speed-up-your-pc-update-hp-omen-15-drivers/"><u>Secure & Speed Up Your PC: Update HP Omen 15 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-reinstallation-of-windows-1011-bluetooth-driver/"><u>Step-by-Step Reinstallation of Windows 10/11 Bluetooth Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-for-clean-installation-of-nvidia-drivers/"><u>Steps for Clean Installation of NVIDIA Drivers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-definitive-way-to-binge-watch-star-wars-movies-in-sequence-on-disneyplus/"><u>The Definitive Way to Binge Watch ‘Star Wars’ Movies in Sequence on Disney+</u></a></li>
-<li><a href="https://driver-install.techidaily.com/universal-usbasp-fix-from-7-to-81-and-beyond-in-windows-systems/"><u>Universal USBasp Fix: From 7 to 8.1 & Beyond in Windows Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-tier-streaming-tech-ranking-5-top-conference-recorder-devices/"><u>[New] In 2024, Top-Tier Streaming Tech Ranking 5 Top Conference Recorder Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-ranking-the-best-no-cost-tiktok-to-mp3-conversion-services/"><u>[Updated] Ranking the Best No-Cost TikTok to MP3 Conversion Services</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-racing-experience-overcoming-low-fps-challenges-in-forza-horizon-5-for-pc/"><u>Enhance Your Racing Experience: Overcoming Low FPS Challenges in Forza Horizon 5 for PC</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/fixing-iphone-updates-gone-wrong-top-7-proven-methods/"><u>Fixing iPhone Updates Gone Wrong: Top 7 Proven Methods</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-5withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT 5with/without a PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-the-process-of-driver-update-for-windows-8-platforms/"><u>Navigating the Process of Driver Update for Windows 8 Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-970-updated-drivers-for-w11/"><u>Nvidia 970 - Updated Drivers for W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/one-step-windows-10-tactile-support/"><u>One-Step Windows 10 Tactile Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precise-steps-to-rewire-mouse-in-windows-oses/"><u>Precise Steps to Rewire Mouse in Windows OSes</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
 
