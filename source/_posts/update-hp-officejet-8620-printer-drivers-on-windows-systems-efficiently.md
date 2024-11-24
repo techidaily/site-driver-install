@@ -1,7 +1,7 @@
 ---
 title: Update HP OfficeJet 8620 Printer Drivers on Windows Systems Efficiently
-date: 2024-11-09T16:58:31.285Z
-updated: 2024-11-15T03:36:04.803Z
+date: 2024-11-19T16:19:11.965Z
+updated: 2024-11-24T17:54:17.439Z
 tags:
   - win11
   - win10
@@ -22,11 +22,19 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  If you have issues with your printer, for instance, your printer is offline, your printer is not working properly, you should really consider updating your HP printer drivers to fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to download or update HP OfficeJet Pro 8620 driver
 
 1. [Download HP OfficeJet Pro 8620 driver manually](#Fix1)
 2. [Update HP OfficeJet Pro 8620 driver in Device Manager](#Fix2)
 3. [Update HP OfficeJet Pro 8620 driver automatically](#Fix3) (Recommended)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Download HP OfficeJet Pro 8620 driver manually
 
@@ -37,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
  1) Go to [HP Support Center](https://support.hp.com/drivers/) , and select**Printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
@@ -59,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  If this method doesn’t work for you, don’t worry. We have other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Update HP OfficeJet Pro 8620 driver in Device Manager
 
  You can also update the driver for HP OfficeJet 8620 printers in Device Manager. Device Manager enables you to view and manage device hardware settings and driver software on your computer. Here’s how to do it:
@@ -76,31 +70,25 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  2) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In Device Manager, double click**Printers** or**Print queues** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Right click on your printer (it may display as**Unknown device**), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Choose**Search automatically for updated driver software** .
 
@@ -111,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 8) After updating, restart your computer.
 
 Still no luck? OK. There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
@@ -131,13 +123,6 @@ Still no luck? OK. There’s one more thing to try.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) After updating, restart your computer to take effect.
 
@@ -167,22 +152,24 @@ If you have any questions, feel free to add a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-logging-to-global-broadcasting-mastery-through-mindfulness/"><u>[New] 2024 Approved From Live Logging to Global Broadcasting Mastery Through Mindfulness</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-the-art-of-high-quality-video-production-in-obs/"><u>[New] 2024 Approved Mastering the Art of High-Quality Video Production in OBS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effective-image-sharing-using-snap-camera-for-microsoft-teams/"><u>[New] In 2024, Effective Image Sharing Using Snap Camera for Microsoft Teams</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-top-8-yt-thumbnails-that-increase-watch-time-and-interests/"><u>[New] The Top 8 YT Thumbnails that Increase Watch Time and Interests</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-begin-recording-your-webcam-via-vlc-player/"><u>[Updated] 2024 Approved Begin Recording Your Webcam via VLC Player</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-guide-to-excellent-voice-recorders-for-macs/"><u>[Updated] 2024 Approved Guide to Excellent Voice Recorders for Macs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1722990964139-improve-your-naraka-bladepoint-experience-fix-stuttering-and-increase-fps-effectively/"><u>Improve Your Naraka: Bladepoint Experience - Fix Stuttering and Increase FPS Effectively</u></a></li>
-<li><a href="https://driver-install.techidaily.com/restore-windows-10-sound-fidelity-reinstall-drivers/"><u>Restore Windows 10 Sound Fidelity: Reinstall Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-compatibility-package-asus-tech-for-windows/"><u>Seamless Compatibility Package: Asus Tech for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-r9-series-with-updated-software/"><u>Secure R9 Series with Updated Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-display-process-in-win-os/"><u>Streamline Display Process in Win OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/system-contention-challenges/"><u>System Contention Challenges</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-ultimate-driver-update-strategy-for-windows-8-enthusiasts/"><u>The Ultimate Driver Update Strategy for Windows 8 Enthusiasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-opening-the-realtek-hd-audio-controller-successfully/"><u>Troubleshooting Guide: Opening the RealTek HD Audio Controller Successfully</u></a></li>
-<li><a href="https://extra-information.techidaily.com/undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>Undoing Streams A Complete List of 25 Procedures for Twitch</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveil-simplified-techniques-for-updating-nvidia-graphics-support/"><u>Unveil Simplified Techniques for Updating Nvidia Graphics Support</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-fix-swiftly-vanish-coffee-stains-from-your-iphone-pics/"><u>[Updated] Free Fix Swiftly Vanish Coffee Stains From Your iPhone Pics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-sky-warriors-guide-to-drone-racing-plus-selecting-premier-fpvs-for-2024/"><u>[Updated] Sky Warriors' Guide to Drone Racing + Selecting Premier FPVs for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/canon-printer-drivers-download-for-windows-11/"><u>Canon Printer Drivers Download for Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finding-your-way-with-gpt-in-remote-landscapes/"><u>Finding Your Way with GPT in Remote Landscapes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gpu-driver-restart-made-simple-with-ddu/"><u>GPU Driver Restart Made Simple with DDU</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-11-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 11 Pro Max SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-momentum-in-motion-top-20-instagram-ideas-for-mentoring-the-masses/"><u>In 2024, Momentum in Motion Top 20 Instagram Ideas for Mentoring the Masses</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-scsi-support-lightning-fast-driver-download/"><u>Instant SCSI Support: Lightning-Fast Driver Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-connectivity-with-win1110-mtk-support/"><u>Instantly Improve Connectivity with Win11/10 MTK Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/methodical-approach-to-renewing-wacom-support-in-windows-versions/"><u>Methodical Approach to Renewing Wacom Support in Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-aoc-firmware-update-for-winoss/"><u>New AOC Firmware Update for WinOSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-soundscape-how-to-update-focusrites-scarlett-6i6/"><u>Seamless Soundscape: How to Update Focusrite's Scarlett 6I6</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sound-loss-in-win11-reinstall-audio-software-fix/"><u>Sound Loss in Win11? Reinstall Audio Software Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-techniques-for-syncing-and-sharing-duet-content-on-tiktok/"><u>The Ultimate Techniques for Syncing and Sharing Duet Content on TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlocking-high-quality-audio-interpretation-via-google-for-2024/"><u>Unlocking High-Quality Audio Interpretation via Google for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/using-household-items-a-guide-to-opening-your-iphone-sim-tray-without-a-tool/"><u>Using Household Items: A Guide to Opening Your iPhone SIM Tray without a Tool</u></a></li>
+<li><a href="https://driver-install.techidaily.com/what-if-windows-struggles-with-new-driver-setup/"><u>What If Windows Struggles with New Driver Setup?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-x9b-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor X9b? Fixed | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211355322-9798990684027-win-the-battle-against-procrastination/"><u>Win the Battle Against Procrastination | Free Book</u></a></li>
 </ul></div>
 

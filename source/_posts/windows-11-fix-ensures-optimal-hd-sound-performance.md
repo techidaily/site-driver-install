@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Fix: Ensures Optimal HD Sound Performance"
-date: 2024-11-13T23:56:31.874Z
-updated: 2024-11-15T00:30:15.702Z
+date: 2024-11-21T17:49:50.619Z
+updated: 2024-11-24T18:48:53.378Z
 tags:
   - win11
   - win10
@@ -33,26 +33,35 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a56c24763.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double click**Sound, video and game controllers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a5a189883.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right click your**VIA HD Audio driver** , and click**Uninstall device** . (If you are using Windows 7, click**Uninstall** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a858e6ea2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If you see a popup pane to confirm, check the box next to**Delete the driver software for this device** , then click**Uninstall** to delete. (If you are using Windows 7, click**OK** to confirm.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
- 5) After uninstalling, restart your computer and Windows will automatically download and install the audio driver for you at starting. After it’s done, check the audio device to see if it works properly.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 5) After uninstalling, restart your computer and Windows will automatically download and install the audio driver for you at starting. After it’s done, check the audio device to see if it works properly.
 
 ##  Fix 2: Update the VIA HD audio driver automatically
 
@@ -72,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dec2431048.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged audio driver to automatically download the latest VIA HD audio driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update** **All** to automatically download and install the all the latest correct drivers that is missing or outdated in your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click_**Update All**_ ).
@@ -86,10 +88,7 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a961c7174.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
@@ -114,20 +113,14 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pixelperfect-the-modern-recorder-diagnosis/"><u>[New] In 2024, 'PixelPerfect' The Modern Recorder Diagnosis</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-strategies-for-exceptional-tiktok-beginnings-with-macos/"><u>[New] Top Strategies For Exceptional TikTok Beginnings With MacOS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-humor-hubs-the-most-enjoyable-ringtone-downloads/"><u>[Updated] Humor Hubs The Most Enjoyable Ringtone Downloads</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capturing-cinema-smartphone-mac-and-desktop-screenshots/"><u>2024 Approved Capturing Cinema Smartphone, Mac, and Desktop Screenshots</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-ultimate-guide-to-using-roccat-mouse-drivers/"><u>Free Download: Ultimate Guide to Using Roccat Mouse Drivers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-meizu-21-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Meizu 21 FRP</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-updated-radeon-200-series-firmware/"><u>Install Updated Radeon 200 Series Firmware</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-refresh-upgrading-nvidia-drivers-with-ease/"><u>Instant Refresh: Upgrading Nvidia Drivers with Ease</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instructions-install-and-activate-netgear-a6200-driver/"><u>Instructions: Install & Activate Netgear A6200 Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intuitive-patches-available-lenovo-z50-70-edition/"><u>Intuitive Patches Available: Lenovo Z50-70 Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-zoom-audio-high-fidelity-and-unmuted-channels-for-2024/"><u>Mastering Zoom Audio High Fidelity & Unmuted Channels for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098346021-navigated-error-code-45-successfuly/"><u>Navigated Error Code 45, Successfuly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-network-troubles-wan-miniport-resolution-guide/"><u>Navigating Network Troubles: WAN Miniport Resolution Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-drivers-now-available-for-win10/"><u>Nvidia GTX 970 Drivers Now Available for Win10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/printer-software-bundle-epson-model-2650-download-guide/"><u>Printer Software Bundle - Epson Model 2650 Download Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-comprehensible-approach-to-personal-branding-in-the-youtube-sphere/"><u>[New] 2024 Approved A Comprehensible Approach to Personal Branding in the YouTube Sphere</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hidden-pitfalls-investing-in-fraudulent-subscribers-for-2024/"><u>[New] Hidden Pitfalls Investing in Fraudulent Subscribers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pivotal-software-in-shaping-the-future-of-vtuber-audio-identity/"><u>[New] Pivotal Software in Shaping the Future of VTuber Audio Identity</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-flawless-connectivity-with-google-wifi-a-top-rating-for-all-households/"><u>Experience Flawless Connectivity with Google Wifi – A Top Rating for All Households</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hardware-software-tug-of-war/"><u>Hardware-Software Tug-of-War</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-printer-1020-bid-adieu-to-windows-driver-troubles/"><u>HP Printer 1020: Bid Adieu to Windows Driver Troubles</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-hassle-maximum-benefit-instant-usb-access-now/"><u>No Hassle, Maximum Benefit – Instant USB Access Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-f5-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-speedy-acer-driver-patches/"><u>Windows 11: Speedy Acer Driver Patches</u></a></li>
 </ul></div>
 

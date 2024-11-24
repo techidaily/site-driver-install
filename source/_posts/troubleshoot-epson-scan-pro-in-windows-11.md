@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Epson Scan Pro in Windows 11
-date: 2024-11-07T19:57:12.648Z
-updated: 2024-11-14T19:26:17.170Z
+date: 2024-11-18T17:48:27.936Z
+updated: 2024-11-24T18:07:18.556Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597056d6e290b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In Device Manager window, locate the printer device that you wish to update the driver for. For problem device, you can see a yellow mark next to the device name.
 
  Following screen shot is the problem device with a yellow mark for your reference.
@@ -57,10 +61,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Way 2: Use Windows Update for new drivers**
@@ -75,13 +76,6 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
  Click**Check for updates** , and then wait while Windows looks for the latest updates for your computer.
@@ -89,10 +83,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
@@ -100,10 +91,7 @@ For some printers, you need to update the drivers manually step by step.
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
@@ -126,6 +114,10 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 <ins class="adsbygoogle"
@@ -143,19 +135,22 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-free-youtube-earning-predictors/"><u>[New] 2024 Approved Free YouTube Earning Predictors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-browse-and-compare-leading-affordable-quality-webm-streamers/"><u>[Updated] 2024 Approved Browse and Compare Leading Affordable, Quality WebM Streamers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-your-favorites-anytime-anyplace-with-top-6-free-video-downloaders/"><u>[Updated] 2024 Approved Unlock Your Favorites Anytime, Anyplace with Top 6 Free Video Downloaders</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-from-airwaves-to-e-readers-how-to-save-web-tv-shows-for-2024/"><u>[Updated] From Airwaves To E-Readers How to Save Web TV Shows for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/expressing-gratitude-efficiently-the-best-16-ways-in-deutsch/"><u>Expressing Gratitude Efficiently: The Best 16 Ways In Deutsch</u></a></li>
-<li><a href="https://video-capture.techidaily.com/full-features-explored-logitechs-professional-4k-cam/"><u>Full Features Explored Logitech’s Professional 4K Cam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/les-15-meilleurs-logiciels-de-conversion-video-en-4k-sans-cout-pour-windows-et-mac/"><u>Les 15 Meilleurs Logiciels De Conversion Vidéo en 4K Sans Coût Pour Windows Et Mac</u></a></li>
-<li><a href="https://driver-install.techidaily.com/restoring-clear-windows-10-audio-with-new-drivers/"><u>Restoring Clear Windows 10 Audio with New Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-your-laptop-experience-with-lenovos-newest-windows-10-drivers/"><u>Revamp Your Laptop Experience with Lenovo's Newest Windows 10 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revise-driver-for-improved-realtek-pcie-gbe-performance-on-win11/"><u>Revise Driver for Improved Realtek PCIe GBE Performance on Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplified-method-canon-printer-driver-acquisition-win11-style/"><u>Simplified Method: Canon Printer Driver Acquisition, Win11 Style</u></a></li>
-<li><a href="https://driver-install.techidaily.com/universal-controller-setup-tool-for-w11xbone-systems/"><u>Universal Controller Setup Tool for W11/Xbone Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/yamaha-steinberg-usb-driver-download-windows-10-8-7/"><u>Yamaha Steinberg USB Driver Download | Windows 10, 8, 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-video-and-screenshots-with-simple-steps/"><u>[New] In 2024, Mastering Video & Screenshots with Simple Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-profitable-pathways-to-youtube-success-on-the-social-network-superstar/"><u>[Updated] 2024 Approved Profitable Pathways to YouTube Success on the Social Network Superstar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-gamescene-capturers-compendium/"><u>[Updated] GameScene Capturer's Compendium</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-digital-picks-free-alarm-ringtones-download/"><u>2024 Approved Top Digital Picks Free Alarm Ringtones Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-paper-feed-efficiency-on-win10-printers/"><u>Enhance Paper Feed Efficiency on WIN10 Printers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-your-sounds-easy-guide-to-focusrite-driver-update/"><u>Harmonize Your Sounds: Easy Guide to Focusrite Driver Update</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-driver-update-just-click-here/"><u>Instant Driver Update, Just Click Here</u></a></li>
+<li><a href="https://driver-install.techidaily.com/methodical-update-for-modern-windows-and-intell-drivers/"><u>Methodical Update for Modern Windows & Intell Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-through-our-curated-selection-of-top-free-offline-kart-and-racer-games-for-enthusiasts/"><u>Navigate Through Our Curated Selection of Top Free Offline Kart & Racer Games for Enthusiasts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-driver-updates-rapid-and-simple-approaches/"><u>Nvidia Driver Updates: Rapid & Simple Approaches</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-graphics-radeon-vega-3-gpu-upgrade-download/"><u>Optimize Graphics - Radeon Vega 3 GPU Upgrade Download</u></a></li>
+<li><a href="https://extra-support.techidaily.com/playful-media-extractor-evaluation-for-2024/"><u>Playful Media Extractor Evaluation for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-realtek-audio-support-with-driver-updates/"><u>Revamp Realtek Audio Support with Driver Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategies-for-discerning-genuine-contacts-from-impostor-link-requests-on-social-platforms/"><u>Strategies for Discerning Genuine Contacts From Impostor Link Requests on Social Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-lenovo-y470-driver-bundle/"><u>Windows 7 Lenovo Y470 Driver Bundle</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726219625478-wmaaac/"><u>WMAファイル自由にオンラインAAC変換ツール - モブービ</u></a></li>
 </ul></div>
 

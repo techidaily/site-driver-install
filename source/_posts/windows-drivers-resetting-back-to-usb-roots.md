@@ -1,7 +1,7 @@
 ---
 title: "Windows Drivers: Resetting Back to USB Roots"
-date: 2024-11-13T18:21:14.384Z
-updated: 2024-11-15T01:28:24.006Z
+date: 2024-11-23T18:20:33.043Z
+updated: 2024-11-24T17:56:04.750Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Reinstall the drivers using Device Manager
 
  Device Manager is a Windows built-in tool that allows you to view and control the hardware attached to your computer and update the device drivers. To reinstall the USB drivers in Device Manager, follow the steps below:
@@ -33,44 +37,28 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
 
@@ -82,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
@@ -109,18 +101,24 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[New] 2024 Approved From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-5-ai-voice-generators-online-supports-all-browsers/"><u>2024 Approved Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unearthing-your-favorites-facebook-watch-list-access/"><u>2024 Approved Unearthing Your Favorites Facebook Watch List Access</u></a></li>
-<li><a href="https://driver-install.techidaily.com/beat-the-bugs-in-track-drivers-m-audio/"><u>Beat the Bugs in Track Drivers (M-Audio)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/conexants-high-definition-audio-driver-for-windows-11-success/"><u>Conexant's High Definition Audio Driver for Windows 11 Success</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725286358312-dvd-shrink/"><u>DVD-Shrinkファイルを解凍できない問題：エラー発生時の原因究明・回避策</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/eclipse-antenna-by-clearstream-unmatched-performance-in-an-effortlessly-user-friendly-design/"><u>Eclipse Antenna by ClearStream: Unmatched Performance in an Effortlessly User-Friendly Design</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gain-edge-in-gaming-download-gtx-1050-ti-drivers/"><u>Gain Edge in Gaming: Download GTX 1050 Ti Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/graphics-perfection-at-the-touch-of-three-keys/"><u>Graphics Perfection at the Touch of Three Keys</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-for-seamless-integration-of-updated-nvidia-sound-drivers-in-win11/"><u>Guide for Seamless Integration of Updated NVIDIA Sound Drivers in Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-your-amd-rx-5700-firmware/"><u>How to Update Your AMD RX 5700 Firmware</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-spark-20c-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Spark 20C Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-complete-mac-users-bible-to-srt-alteration/"><u>The Complete Mac User's Bible to SRT Alteration</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-hp-laserjet-p2055dn-driver/"><u>[Download] HP LaserJet P2055dn Driver</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-in-depth-guide-on-using-annotations-for-marketing/"><u>[Updated] In 2024, In-Depth Guide on Using Annotations for Marketing</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-video-luster-the-top-5-brilliant-enhancers/"><u>2024 Approved Video Luster The Top 5 Brilliant Enhancers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/connectivity-woes-heres-how-you-can-fix-your-iphone-or-ipad-wi-fi-problems-in-8-ways/"><u>Connectivity Woes? Here's How You Can Fix Your iPhone or iPad Wi-Fi Problems in 8 Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-eac-launch-issue-ensure-your-easy-anti-cheat-installation-is-complete/"><u>Fixing the EAC Launch Issue: Ensure Your Easy Anti-Cheat Installation Is Complete</u></a></li>
+<li><a href="https://driver-install.techidaily.com/from-glitches-to-gains-revitalizing-windows-astro-experience/"><u>From Glitches to Gains: Revitalizing Windows Astro Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/high-fidelity-video-capture-with-logitech-hd-webcam-c270-for-pcs/"><u>High Fidelity Video Capture with Logitech HD Webcam C270 for PCs</u></a></li>
+<li><a href="https://article-files.techidaily.com/ideal-5-monitors-for-enhanced-ps5-experience-for-2024/"><u>Ideal 5 Monitors for Enhanced PS5 Experience for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-edge-2023-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Edge 2023 Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-12-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 12 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://driver-install.techidaily.com/inf-lacks-digital-signatures-issue-solved/"><u>Inf Lacks Digital Signatures, Issue Solved</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-tiktok-video-magic-how-to-reverse-speed-up-and-slow-down-your-clips/"><u>New TikTok Video Magic How to Reverse, Speed Up, and Slow Down Your Clips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/risk-factors-for-uterine-rupture-can-be-mitigated-through-careful-monitoring-judicious-use-of-labor-inducing-agents-and-possibly-opting-for-elective-cesarea2/"><u>Risk Factors for Uterine Rupture Can Be Mitigated Through Careful Monitoring, Judicious Use of Labor-Inducing Agents, and Possibly Opting for Elective Cesarean Delivery.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-and-simple-lenovo-ideapad-u310-updates/"><u>Smooth and Simple: Lenovo Ideapad U310 Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-your-system-quick-driver-update-strategies-for-hyperx-headsets/"><u>Streamlining Your System: Quick Driver Update Strategies for HyperX Headsets</u></a></li>
+<li><a href="https://driver-install.techidaily.com/supercharge-your-driver-updating-speed-in-win-10-81-and-7/"><u>Supercharge Your Driver Updating Speed in Win 10, 8.1 & 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-future-of-gaming-at-your-fingertips-top-10-vr-headsets-for-pc-for-2024/"><u>The Future of Gaming at Your Fingertips Top 10 VR Headsets for PC for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unifying-usbasp-driver-functionality-in-old-and-new-windows/"><u>Unifying USBasp Driver Functionality in Old & New Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-chipset-drivers-for-win-10-8plus-systems/"><u>Upgrade Chipset Drivers for WIN 10-8+ Systems</u></a></li>
 </ul></div>
 

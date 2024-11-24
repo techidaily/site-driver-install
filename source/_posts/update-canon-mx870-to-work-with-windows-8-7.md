@@ -1,7 +1,7 @@
 ---
 title: Update Canon MX870 to Work with Windows 8-7
-date: 2024-11-12T22:40:31.769Z
-updated: 2024-11-14T22:51:22.920Z
+date: 2024-11-22T17:55:31.958Z
+updated: 2024-11-24T16:19:23.012Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 * [**Way 1. Download the latest Canon MX870 driver from Canon website**](#Way1)
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
 
  1) Head to [Canon Driver download center](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers) .
@@ -31,22 +35,27 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click **DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
- Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
 
@@ -57,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
@@ -82,20 +88,18 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/assessing-auroraayers-image-processing-strengths/"><u>Assessing Aurora'ayer's Image Processing Strengths</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/crafting-minecraft-perfect-circles-and-spheres-techniques-for-2024/"><u>Crafting Minecraft Perfect Circles & Spheres Techniques for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/discover-engaging-youtube-threads/"><u>Discover Engaging YouTube Threads</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-avi-video-editor-reviews-our-top-picks/"><u>In 2024, Free AVI Video Editor Reviews Our Top Picks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-quadro-rtx-6000-updates/"><u>Latest Quadro RTX 6000 Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-device-driver-updates-on-vista/"><u>Mastering Device Driver Updates on Vista</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-graphics-with-latest-amd-gpu-update-rx-570-drivers/"><u>Maximize Graphics with Latest AMD GPU Update - RX 570 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/modernize-your-print-setup-update-canon-mf4770n-drivers-in-win-1087/"><u>Modernize Your Print Setup: Update Canon MF4770n Drivers in Win 10/8/7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-through-printer-driver-reinstallation-in-win10/"><u>Navigating Through Printer Driver Reinstallation in WIN10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-pc-performance-new-mouse-driver-for-win10/"><u>Optimize PC Performance: New Mouse Driver for Win10</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/professional-guide-ensuring-imovie-content-shines-on-vimeo-for-2024/"><u>Professional Guide Ensuring iMovie Content Shines on Vimeo for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-install-windows-11-touchscreen-driver-update/"><u>Quick Install: Windows 11 Touchscreen Driver Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-persistent-streaming-pauses-in-kodi/"><u>Resolved: How to Fix Persistent Streaming Pauses in Kodi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/secure-download-links-for-hp-thunderbolt-docking-station-model-g2-120w-and-230w-driver-software/"><u>Secure Download Links for HP Thunderbolt Docking Station Model G2 – 120W & 230W Driver Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/turning-your-youtube-views-into-a-screen-capture-made-simple-and-free-for-2024/"><u>Turning Your YouTube Views Into a Screen Capture Made Simple and Free for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-perfect-your-presence-advanced-tactics-for-youtube-live-visuals/"><u>[Updated] 2024 Approved Perfect Your Presence Advanced Tactics for YouTube Live Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-extract-youtube-soundtracks-for-free-with-this-list-of-25-rippers-for-2024/"><u>[Updated] Extract YouTube Soundtracks for Free With This List of 25 Rippers for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/cross-operating-system-controller-compatibility/"><u>Cross-Operating System Controller Compatibility</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elder-scrolls-online-update-fixes-previous-blackwood-server-delays/"><u>Elder Scrolls Online Update Fixes Previous Blackwood Server Delays</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expedite-lexmark-printer-driver-adaptations/"><u>Expedite Lexmark Printer Driver Adaptations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-your-usb-tools-instantly-no-complications-just-downloads/"><u>Get Your USB Tools Instantly – No Complications, Just Downloads</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-itel-p55t-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Itel P55T? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-11-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme 11 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-atheros-wifi-drivers-in-windows-10/"><u>How to Update Atheros Wifi Drivers In Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/invictus/"><u>Invictus</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rebuilding-atheros-network-driver-effectively/"><u>Rebuilding Atheros Network Driver Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rx-570-graphics-update-for-multi-windows-os-download-links/"><u>RX 570 Graphics Update for Multi-Windows OS Download Links</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-15-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 15 Pro Max You Should Try Out</u></a></li>
 </ul></div>
 

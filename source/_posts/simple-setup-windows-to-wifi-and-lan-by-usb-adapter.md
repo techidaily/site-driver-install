@@ -1,7 +1,7 @@
 ---
 title: "Simple Setup: Windows to WiFi & LAN by USB Adapter"
-date: 2024-10-19T21:49:55.570Z
-updated: 2024-10-23T19:54:20.208Z
+date: 2024-11-21T16:30:13.667Z
+updated: 2024-11-24T16:16:34.786Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
  You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Automatically update Insignia USB 2.0 to Ethernet adapter drivers
 
  If you don’t have the time, patience, or computer skills to update the Insignia USB 2.0 to Ethernet adapter driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . This is your go-to option if you’re using a Windows PC/laptop.
@@ -45,9 +49,17 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have**full technical support** and a**30-day money back guarantee** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update** next to your Insignia USB 2.0 to Ethernet Adapter driver to download it automatically and install it manually for free (it’s partly manual).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-1.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -55,10 +67,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Download and install the driver manually
@@ -71,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 3. Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -100,19 +106,22 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-image-all-screen-website-view-for-2024/"><u>[New] Image All-Screen Website View for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-foodies-framebook-stepwise-filming/"><u>[New] The Foodie's Framebook Stepwise Filming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-picks-for-mp4-audio-gear/"><u>[Updated] Expert Picks for MP4 Audio Gear</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-achieve-proficiency-in-audio-upload-with-google/"><u>2024 Approved Achieve Proficiency in Audio Upload with Google</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-journey-of-drones-from-current-uses-to-future-applications/"><u>2024 Approved The Journey of Drones From Current Uses to Future Applications</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-way-to-add-razer-mouse-drivers-in-win-os/"><u>Easy Way to Add Razer Mouse Drivers in Win OS</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/integrating-hp-3d-imaging-printer-easily/"><u>Integrating HP 3D Imaging Printer Easily</u></a></li>
-<li><a href="https://driver-install.techidaily.com/realign-toshiba-printer-calibration-in-win11/"><u>Realign Toshiba Printer Calibration in Win11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-samsung-galaxy-xcover-6-pro-tactical-edition-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Samsung Galaxy XCover 6 Pro Tactical Edition has been deleted.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rectify-paper-jam-response-time-on-win10-devices/"><u>Rectify Paper Jam Response Time on WIN10 Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-display-drivers-problems-in-hp-monitors-on-windows-10-8-and-7/"><u>Resolving Display Drivers Problems in HP Monitors on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshooting-and-upgrading-nvidia-audio-in-windows-10/"><u>Troubleshooting & Upgrading NVIDIA Audio in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-graphics-makeover-quick-and-easy/"><u>Windows Graphics Makeover: Quick and Easy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expert-iphone-tips-change-image-dimensions-proficiently-for-2024/"><u>[New] Expert iPhone Tips Change Image Dimensions Proficiently for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-timeless-tale-of-roguelike-and-roguelite/"><u>[New] The Timeless Tale of Roguelike and Roguelite</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elite-media-maestro-picture-perfect-with-pitches-for-2024/"><u>[Updated] Elite Media Maestro Picture Perfect with Pitches for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-11-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 11 Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-effortless-selfie-sending-learn-the-technique-now/"><u>2024 Approved Effortless Selfie Sending - Learn the Technique Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/access-advanced-features-amd-vega-3-patch-2024/"><u>Access Advanced Features: AMD Vega 3 Patch 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amd-gpu-boost-get-rx-570-drivers-for-multiple-windows-systems/"><u>AMD GPU Boost: Get RX 570 Drivers for Multiple Windows Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-approach-to-updating-xp-pcs-device-drivers/"><u>Direct Approach to Updating Xp PCs' Device Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/directcontrollerw11sync-with-xone-software/"><u>DirectControllerW11Sync with Xone Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/dive-into-device-management-tidying-up-astro-in-windows/"><u>Dive Into Device Management: Tidying up Astro in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-hawku-car-maintenance-tips/"><u>Effortless Hawku Car Maintenance Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-audio-conexant-hd-driver-win11-style/"><u>Elevate Your Audio: Conexant HD Driver, Win11 Style</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-deleting-temporary-files-in-windows-10-systems/"><u>Expert Tips for Deleting Temporary Files in Windows 10 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonious-compatibility-suite-xbonewin11/"><u>Harmonious Compatibility Suite - Xbone/Win11</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-11-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 11 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-steam-data-write-functionality-in-windows/"><u>Restoring Steam Data Write Functionality in Windows</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/transfer-your-whatsapp-messages-seamlessly-when-switching-phones-a-step-by-step-tutorial/"><u>Transfer Your WhatsApp Messages Seamlessly When Switching Phones: A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

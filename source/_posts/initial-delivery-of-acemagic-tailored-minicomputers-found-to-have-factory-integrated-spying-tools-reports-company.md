@@ -1,7 +1,7 @@
 ---
 title: Initial Delivery of AceMagic Tailored Minicomputers Found to Have Factory-Integrated Spying Tools, Reports Company
-date: 2024-11-07T17:17:47.721Z
-updated: 2024-11-15T01:31:42.602Z
+date: 2024-11-22T17:51:12.971Z
+updated: 2024-11-24T16:13:20.448Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -60,25 +64,18 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-bring-your-photos-to-life-adding-radial-focus-effects-ps-for-2024/"><u>[New] Bring Your Photos to Life Adding Radial Focus Effects PS for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-telepresence-seminar-capture-for-2024/"><u>[Updated] Telepresence Seminar Capture for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-free-video-call-apps-versatile-use-on-windows-and-macos-for-2024/"><u>[Updated] Top Free Video Call Apps Versatile Use on Windows & MacOS for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-facebooks-secrets-30-insider-tricks-for-growth-for-2024/"><u>[Updated] Unveiling Facebook's Secrets 30 Insider Tricks for Growth for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/balancing-dynamics-with-controlled-decays-for-2024/"><u>Balancing Dynamics with Controlled Decays for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/canon-mf4770n-driver-update-in-windows-1187/"><u>Canon MF4770n Driver Update in Windows 11/8/7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-visual-clarity-new-hp-graphics-for-windows/"><u>Drive Visual Clarity - New HP Graphics for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-wi-fi-extender-installation-for-w7/"><u>Easy Wi-Fi Extender Installation for W7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-audio-quality-through-win7-driver-updates/"><u>Enhance Audio Quality Through Win7 Driver Updates</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-list-top-10-live-streaming-networks-ranked-for-2024/"><u>Exclusive List Top 10 Live Streaming Networks Ranked for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/head-to-head-comparison-of-apple-watch-s9-and-fitbit-charge-6/"><u>Head-to-Head Comparison of Apple Watch S9 and Fitbit Charge 6</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-p1102w-printer-driver-for-windows-users/"><u>HP P1102w Printer Driver for Windows Users</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/one-of-the-best-mondly-for-kids-on-google-play/"><u>One Of The Best: Mondly for Kids on Google Play</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-enhance-photo-clarity-with-snapchats-zoom-function/"><u>[New] 2024 Approved Enhance Photo Clarity with Snapchat's Zoom Function</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-essential-3d-toolkit-creating-engaging-video-beginnings/"><u>[Updated] In 2024, Essential 3D Toolkit Creating Engaging Video Beginnings</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-comparing-streams-vimeo-versus-youtube/"><u>2024 Approved Comparing Streams Vimeo Versus YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/actors-deal-for-downloadable-movie-content-for-2024/"><u>Actors' Deal for Downloadable Movie Content for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/are-high-end-tvs-with-aurora-hdr-worth-it-analyzed/"><u>Are High-End TVs with Aurora HDR Worth It? Analyzed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cerebral-showcase-gk-video-challenge-network/"><u>In 2024, Cerebral Showcase - GK Video Challenge Network</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/multimedia-iptv-networking/"><u>Multimedia IPTV Networking</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-pcs-mouse-drivers-with-easy-to-follow-guide/"><u>Optimize Your PC's Mouse Drivers with Easy-to-Follow Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-optimization-update-logitech-usb-audio-drivers/"><u>Rapid Optimization: Update Logitech USB Audio Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-lenovo-g580-one-tap-driver-updates/"><u>Revamp Lenovo G580: One-Tap Driver Updates</u></a></li>
+<li><a href="https://article-tips.techidaily.com/streamline-video-content-delivery-a-curated-list-of-players-for-2024/"><u>Streamline Video Content Delivery A Curated List of Players for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-computer-with-windows-11-touch-driver/"><u>Transform Your Computer with Windows 11 Touch Driver</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-combine-videos-online-without-spending-a-dime-top-5-tools/"><u>Updated Combine Videos Online Without Spending a Dime Top 5 Tools</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Tackle Interrupt Handling Errors
-date: 2024-11-10T04:30:51.514Z
-updated: 2024-11-15T08:11:10.379Z
+date: 2024-11-19T18:03:05.467Z
+updated: 2024-11-24T17:06:20.600Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
  You can download the latest FTDI driver from FTDI official website. Following steps are for your reference how to download and install the driver from FTDI manufacturer. Note the steps will be different if their website is redesigned.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Update the FTDI USB to serial driver manually  
 
  1\. Go to the [FTDI official website](https://www.ftdichip.com/Drivers/VCP.htm) .
@@ -42,13 +46,14 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-96.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
@@ -66,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -79,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -107,24 +106,18 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-essential-stop-motion-movies-you-cant-miss/"><u>[New] Essential Stop-Motion Movies You Can't Miss</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-efficient-strategies-to-document-your-google-meeting-sessions/"><u>[New] In 2024, Efficient Strategies to Document Your Google Meeting Sessions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-mastering-tiktok-bios-adding-linktree-seamlessly-for-2024/"><u>[New] Mastering TikTok Bios Adding Linktree Seamlessly for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-srgb-efficiency-against-basic-rgb/"><u>[New] Srgb Efficiency Against Basic Rgb</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-guide-to-drone-racers-and-top-5-fpv-drones/"><u>[New] Ultimate Guide to Drone Racers & Top 5 FPV Drones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitsnap-secure-effortless-methods-for-downloading-tweets-videos/"><u>[Updated] 2024 Approved TwitSnap Secure Effortless Methods for Downloading Tweets' Videos</u></a></li>
-<li><a href="https://driver-install.techidaily.com/a-parents-comprehensive-manual-understanding-and-navigating-chatgpt-and-ai-generation/"><u>A Parent's Comprehensive Manual: Understanding & Navigating ChatGPT & AI Generation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a15-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A15 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/optimizing-youtube-and-twitch-with-obs-streaming-techniques-for-2024/"><u>Optimizing YouTube & Twitch with OBS Streaming Techniques for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/proven-techniques-to-stand-out-in-podcast-imagery-for-2024/"><u>Proven Techniques to Stand Out in Podcast Imagery for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-ie-management-engine-implementation/"><u>Secure IE Management Engine Implementation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-to-install-latest-intel-82579lm-windows-driver/"><u>Steps to Install Latest Intel 82579LM Windows Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-wacom-workflow-reinstall-steps-in-win-oss/"><u>Streamlining Wacom Workflow: Reinstall Steps in WIN OSs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleashing-connectivity-at-a-bargain-the-in-depth-review-of-tp-links-sub-100-archer-c80-router/"><u>Unleashing Connectivity at a Bargain - The In-Depth Review of TP-Link's Sub-$100 Archer C80 Router</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-for-nvidias-quadro-rtx-6000/"><u>Update for NVIDIA's Quadro RTX 6000</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-win11-networking-setup-with-new-atheros-drivers/"><u>Update Your Win11 Networking Setup with New Atheros Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-logitech-mouse-software-on-windows-11/"><u>Upgrade Logitech Mouse Software on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-w10-with-latest-thinkpad-device-drivers/"><u>Upgrade W10 with Latest ThinkPad Device Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/yamaha-mtrx-driver-windows-and-linux-instructions/"><u>Yamaha MTRX Driver - Windows & Linux Instructions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-capturing-clarity-iphone-low-light-techniques/"><u>[New] 2024 Approved Capturing Clarity IPhone Low Light Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-elevate-home-videography-high-quality-webcam-steps/"><u>2024 Approved Elevate Home Videography - High-Quality WebCam Steps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-selecting-the-finest-screen-recorders-1-to-5-android/"><u>2024 Approved Selecting the Finest Screen Recorders, #1 to #5 (Android)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-device-functionality-restored-by-os-update/"><u>Audio Device Functionality Restored by OS Update</u></a></li>
+<li><a href="https://facebook.techidaily.com/connecting-with-conciseness-the-essential-smart-list-for-users/"><u>Connecting with Conciseness: The Essential SMART List for Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-updating-lenovo-dock-software/"><u>Essential Tips: Updating Lenovo Dock Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/exploring-the-world-of-teresa-wang-renowned-writer-of-aomei-discover-her-story-and-accomplishments/"><u>Exploring the World of Teresa Wang, Renowned Writer of 'AOMEI', Discover Her Story and Accomplishments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-enhanced-windows-11-latest-driver-version/"><u>GTX 970 Enhanced: Windows 11 Latest Driver Version</u></a></li>
+<li><a href="https://techtrends.techidaily.com/linking-several-bluetooth-audio-players-to-a-single-source-a-step-by-step-guide/"><u>Linking Several Bluetooth Audio Players to a Single Source: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rocketbook-fusion-moleskine-alternative-up-to-24-off-perfect-for-eco-friendly-note-taking/"><u>Rocketbook Fusion Moleskine Alternative: Up To 24% Off - Perfect For Eco-Friendly Note Taking</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unwrap-these-8-trending-gems-from-youtubes-big-brother-for-2024/"><u>Unwrap These 8 Trending Gems From YouTube's Big Brother for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-essentials-reinstalling-drivers-in-all-various-windows-versions/"><u>Update Essentials: Reinstalling Drivers in All Various Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-amd-rx-570-driver-download-windows-os-performance-boost/"><u>Upgraded AMD RX 570 Driver Download: Windows OS Performance Boost</u></a></li>
 </ul></div>
 

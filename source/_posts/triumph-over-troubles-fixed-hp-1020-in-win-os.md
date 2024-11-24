@@ -1,7 +1,7 @@
 ---
 title: "Triumph Over Troubles: Fixed HP 1020 in Win OS"
-date: 2024-11-10T21:05:45.448Z
-updated: 2024-11-14T22:12:52.832Z
+date: 2024-11-17T18:15:15.759Z
+updated: 2024-11-24T17:37:08.288Z
 tags:
   - win11
   - win10
@@ -20,18 +20,15 @@ thumbnail: https://thmb.techidaily.com/d0cb748bcb0f62a12329bda108fa11c6c1e0878f5
 
  If your HP LaserJet 1020 printer series are not working properly, for instance, you see certain error when trying to print, or your printer’s status is off, don’t panic. You can update your**HP LaserJet 1020 printer driver** to the latest version to fix the issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Update HP LaserJet 1020 Driver
 
 1. [Update the printer driver manually](#Fix1)
 2. [Update the printer driver in Device Manager](#Fix2)
 3. [Update the printer driver automatically](#Fix3)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Update the printer driver manually
 
@@ -47,17 +44,18 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run the downloaded file, and follow the wizard to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the printer driver in Device Manager
 
@@ -79,19 +77,20 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
 
@@ -105,13 +104,6 @@ After updating, restart your computer.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -144,22 +136,24 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ensuring-clear-sound-with-proper-obs-configurations/"><u>2024 Approved Ensuring Clear Sound with Proper OBS Configurations</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-c53-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme C53 Unlock Without Password</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722994896942-expert-tips-to-resolve-valheim-pc-stuttering-ensure-smooth-gameplay-today/"><u>Expert Tips to Resolve Valheim PC Stuttering – Ensure Smooth Gameplay Today!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-world-with-a-vr-headset-for-2024/"><u>Exploring the World with a VR Headset for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-itel-p55-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P55 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-s23-ultra-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy S23 Ultra Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/remedy-usb-serial-communication-breakdown/"><u>Remedy USB-Serial Communication Breakdown</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolve-unsupported-packet-for-current-chips/"><u>Resolve: Unsupported Packet for Current Chips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/setup-mx870-driver-for-modern-and-legacy-windows/"><u>Setup MX870 Driver for Modern & Legacy Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/snapchats-ai-compared-with-microsofts-bing-on-skype-unveiling-the-top-8-distinctions/"><u>Snapchat's AI Compared with Microsoft's Bing on Skype: Unveiling the Top 8 Distinctions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-audio-driver-upgrade-in-windows-11/"><u>Step-by-Step: Audio Driver Upgrade in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stepwise-process-to-refresh-atheros-wi-fi-on-windows-11/"><u>Stepwise Process to Refresh Atheros Wi-Fi on Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-essential-guide-on-resolving-flickering-and-jittery-visual-content-a-step-by-step-manual-using-home-tools-with-subtitles/"><u>The Essential Guide on Resolving Flickering and Jittery Visual Content – A Step-by-Step Manual Using Home Tools (With Subtitles)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-device-full-capability-with-a-simple-adb-click/"><u>Unleash Device Full Capability - With a Simple ADB Click</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-connectivity-seamless-integration-of-atheros-drivers-on-windows-11/"><u>Upgraded Connectivity: Seamless Integration of Atheros Drivers on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-controllers-transitioning-to-windows/"><u>USB Controllers: Transitioning to Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-iphone-ringtone-updates/"><u>[New] In 2024, Mastering iPhone Ringtone Updates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlabs-rival-in-the-eye-of-a-streamer/"><u>[New] In 2024, Streamlabs' Rival in the Eye of a Streamer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-complete-blueprint-for-iphone-podcast-downloads/"><u>[New] The Complete Blueprint for iPhone Podcast Downloads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-practices-in-selecting-youtube-video-extractor-apps-for-android/"><u>[Updated] 2024 Approved Best Practices in Selecting YouTube Video Extractor Apps for Android</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide/"><u>2024 Approved Unlocking the Secrets of Premium Insta Tunes A Complete Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/atiradeondriversrtkupdate11/"><u>ATIRadeonDriversRTKUpdate11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-frustratingly-slow-wi-fi-on-phones-explore-these/"><u>How to Fix Frustratingly Slow Wi-Fi on Phones? Explore These</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-s18-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo S18 Phone Hassle-Free</u></a></li>
+<li><a href="https://driver-install.techidaily.com/increase-screen-output-performance-windows/"><u>Increase Screen Output Performance (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/integrate-and-setup-windows-hello-with-a-fingerprint/"><u>Integrate and Setup: Windows Hello with a Fingerprint</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-canon-drivers-into-windows-67-systems/"><u>Integrate Canon Drivers Into Windows 6,7 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-seamless-software-tweaks/"><u>Lenovo Z50-70: Seamless Software Tweaks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-mixing-techniques-with-new-scarlett-6i6-driver-update/"><u>Master Mixing Techniques with New Scarlett 6I6 Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-ie-driver-for-windows-xpvista7/"><u>Optimized IE Driver for Windows XP/Vista/7</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/output-maximization/"><u>Output Maximization</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-for-fixing-inoperative-ccleaner-on-windows-os/"><u>Procedures for Fixing Inoperative CCleaner on Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-system-performance-fixing-ssd-errors-on-windows-pcs/"><u>Streamlined System Performance: Fixing SSD Errors on Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-guide-amds-rx-5500xt-graphics/"><u>Upgrade Guide: AMD's RX 5500XT Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-compatible-me-drivers/"><u>Windows Compatible ME Drivers</u></a></li>
 </ul></div>
 

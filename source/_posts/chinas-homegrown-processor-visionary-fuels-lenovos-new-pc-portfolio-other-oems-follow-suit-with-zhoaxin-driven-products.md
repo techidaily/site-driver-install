@@ -1,7 +1,7 @@
 ---
 title: China's Homegrown Processor Visionary Fuels Lenovo's New PC Portfolio; Other OEMs Follow Suit With Zhoaxin-Driven Products
-date: 2024-11-12T17:51:55.270Z
-updated: 2024-11-15T09:04:09.160Z
+date: 2024-11-21T17:56:42.247Z
+updated: 2024-11-24T16:08:29.315Z
 tags:
   - desktop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/La2gosMTvXC5DmJY6Lape9-320-80.jpg
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
@@ -37,10 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,24 +67,19 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elite-top-10-4k-monitors-list/"><u>[New] 2024 Approved Elite Top 10 4K Monitors List</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-youtube-king-of-commercial-success/"><u>[New] In 2024, YouTube King of Commercial Success</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-revolutionary-addition-latest-widget-feature-in-the-microsoft-365-suite/"><u>1. 'Revolutionary Addition: Latest Widget Feature in the Microsoft 365 Suite'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-mozilla-thunderbird-version-52-email-client-updates-and-features/"><u>Discover Mozilla Thunderbird Version 52: Email Client Updates and Features</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-intel-520-graphics-driver/"><u>Easy Intel 520 Graphics Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tips-win11-wireless-driver-patches/"><u>Essential Tips: Win11 Wireless Driver Patches</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expedite-graphics-card-driver-updates-rx-5500xt/"><u>Expedite Graphics Card Driver Updates: RX 5500XT</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fwu-e1659-drivers-enhance-os-win-functions/"><u>FWU-E1659 Drivers Enhance OS WIN Functions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gainzize-des-convertisseurs-videos-gratuits-en-4k-top-15-pour-pc-and-mac-comment-changer-facilement-du-4k-aua-partir-de-1080p/"><u>Gainzize Des Convertisseurs Vidéos Gratuits en 4K: Top 15 Pour PC & Mac - Comment Changer Facilement Du 4K Au/À Partir De 1080P</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-to-modernize-your-msi-bravos-drivers/"><u>Guide to Modernize Your MSI Bravo's Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-restart-and-reset-bluetooth-driver-on-windows-1111/"><u>How to Restart and Reset Bluetooth Driver on Windows 11/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-realtek-pcie-gbe-chipset-support-in-win11-release-notes/"><u>Improve Realtek PCIe GBE Chipset Support in Win11 Release Notes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-ax19-wifi-in-windows-8-devices/"><u>Install AX19 WiFi in Windows 8 Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-hp-officejet-printer-tools/"><u>Install HP Officejet Printer Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/shadow-elimination-for-dark-iphone-footage-for-2024/"><u>Shadow Elimination for Dark iPhone Footage for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/straightforward-steps-to-freshly-update-your-microsoft-drivers-on-windows-10-8-or-nw-7-systems/"><u>Straightforward Steps to Freshly Update Your Microsoft Drivers on Windows 10, 8 or Nw, 7 Systems</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-ultimate-guide-to-pubg-voice-customization-for-2024/"><u>The Ultimate Guide to PUBG Voice Customization for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-online-video-editors-compatible-with-chromebook/"><u>Top-Rated Online Video Editors Compatible with Chromebook</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-pc-management-4-indispensable-advantages-in-corsairs-icue-link/"><u>Transform PC Management: 4 Indispensable Advantages in Corsair’s iCUE Link</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-rise-above-the-rest-one-person-podcast-mastery/"><u>[New] In 2024, Rise Above the Rest One-Person Podcast Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spectaculous-visual-story-builder-suite/"><u>[New] Spectaculous Visual Story Builder Suite</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-prime-time-action-film-transcription/"><u>[Updated] Prime Time Action Film Transcription</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/brand-protection-effective-techniques-for-instagram-watermarks-for-2024/"><u>Brand Protection Effective Techniques for Instagram Watermarks for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-package-for-u-are-u-fingerreader-v45/"><u>Driver Package for U-Are-U FingerReader V4.5</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-system-performance-with-s620-drivers/"><u>Efficient System Performance with S620 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-intel-drivers-with-latest-windows-11-7-and-81-standards/"><u>Harmonize Intel Drivers with Latest Windows 11, 7 & 8.1 Standards</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-100-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-instagram-photo-frame-sizing-tips/"><u>In 2024, Instagram Photo Frame Sizing Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-enabling-high-dynamic-range-auto-hdr-on-windows-11/"><u>In 2024, Step-by-Step Guide to Enabling High Dynamic Range (Auto HDR) on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-efficiency-with-up-to-date-hp-printer-drivers-in-windows-11/"><u>Maximize Efficiency with Up-to-Date HP Printer Drivers in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigate-through-driver-updates-in-windows-xp-manually/"><u>Navigate Through Driver Updates in Windows XP Manually</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-usbasp-errors-across-different-windows-editions/"><u>Navigating USBasp Errors Across Different Windows Editions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-14-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi 14 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
 

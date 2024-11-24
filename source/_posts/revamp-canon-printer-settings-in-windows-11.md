@@ -1,7 +1,7 @@
 ---
 title: Revamp Canon Printer Settings in Windows 11
-date: 2024-11-09T04:35:30.036Z
-updated: 2024-11-15T08:22:01.637Z
+date: 2024-11-22T18:09:46.068Z
+updated: 2024-11-24T16:51:12.497Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 **[Way 3: Update your printer driver automatically](#way3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Way 1: Update your printer driver manually**
 
  You can go to your printer manufacturer’s website to check if your printer model supports Windows 10\. If yes, you can download and install the Windows 10 driver for your printer  . If not, you can download the latest version that the manufacturer has released like Windows 8 version or Windows 7 version  . They may be compatible with Windows 10\.  The driver download can be normally found in Support section. After you download the driver, you can always double-click on the installer file to install the driver.
@@ -57,10 +61,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Way 2: Use Windows Update for new drivers**
@@ -72,22 +73,12 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In Settings window, click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
@@ -95,16 +86,13 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
 
@@ -119,6 +107,10 @@ For some printers, you need to update the drivers manually step by step.
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
@@ -143,22 +135,20 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-thorough-scrutiny-bublcams-panoramic-innovation/"><u>[New] 2024 Approved Thorough Scrutiny Bublcam's Panoramic Innovation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-mp3s-on-android-the-best-free-tools-for-2024/"><u>[New] Mastering MP3s on Android - The Best Free Tools for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sketch-up-your-ideas-an-essential-guide-to-the-top-8-drawing-tools-on-ios/"><u>[New] Sketch Up Your Ideas An Essential Guide to the Top 8 Drawing Tools on iOS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-perfect-blend-of-creativity-and-data-for-title-genius-for-2024/"><u>[New] The Perfect Blend of Creativity & Data for Title Genius for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210000825-9781761034312-chakras/"><u>Chakras | Free Book</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-installd-gaomon-s620-for-superior-performance/"><u>Download & Installd Gaomon S620 for Superior Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-lenovos-high-quality-hd-sound-card-software-at-no-cost/"><u>Download Lenovo's High-Quality HD Sound Card Software at No Cost</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-installation-brother-mfc-9340cdw-printer-drivers-for-windows-10-8-and-7-quick-guide/"><u>Easy Installation: Brother MFC-9340CDW Printer Drivers for Windows 10, 8 & 7 - Quick Guide!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-gt-10-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix GT 10 Prowith/without a PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intuitive-drawing-experience-wacom-intuos-4-free-download/"><u>Intuitive Drawing Experience: Wacom Intuos 4 FREE Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-driver-rollouts-for-nvidias-760/"><u>Rapid Driver Rollouts for Nvidia's 760</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revise-idt-audio-protocols-in-w7-os/"><u>Revise IDT Audio Protocols in W7 OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-mouse-keeps-double-clicking/"><u>Solved: Mouse Keeps Double Clicking</u></a></li>
-<li><a href="https://driver-install.techidaily.com/triumph-over-wan-miniport-glitches-windows-8-guide/"><u>Triumph Over WAN Miniport Glitches - Windows 8 Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-and-repairing-wi-fi-adapter-issues-in-windows-11/"><u>Troubleshooting and Repairing Wi-Fi Adapter Issues in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshooting-solutions-resolving-your-usb-bluetooth-adapter-driver-problems/"><u>Troubleshooting Solutions: Resolving Your USB Bluetooth Adapter Driver Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-controller-policy-implications-for-player-innovation-and-choice/"><u>Xbox Controller Policy: Implications for Player Innovation and Choice</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-recipe-reels-reimagined-the-top-7-edible-videography-secrets/"><u>[New] In 2024, Recipe Reels Reimagined The Top 7 Edible Videography Secrets</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-instant-tunes-live-streaming-on-bigolive-for-2024/"><u>[New] Instant Tunes Live Streaming on BigoLive for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-way-to-record-podcast-remotely-for-2024/"><u>[Updated] Best Way to Record Podcast Remotely for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/comment-pouvez-vous-recuperer-des-fichiers-depuis-le-dossier-temporaire/"><u>Comment Pouvez-Vous Récupérer Des Fichiers Depuis Le Dossier Temporaire?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-1650-driver-update-for-windows-os/"><u>GTX 1650 Driver Update for WIndows OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-decoding-the-social-code-top-30-tips-for-marketing-mastery/"><u>In 2024, Decoding the Social Code Top 30 Tips for Marketing Mastery</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-amd-graphics-card-drivers/"><u>Install Latest AMD Graphics Card Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigate-to-new-hp-officejet-8620-driver-pack-for-windows-installation/"><u>Navigate to New HP OfficeJet 8620 Driver Pack for Windows Installation</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapidly-transform-your-hd-4800-driver-setup/"><u>Rapidly Transform Your HD 4800 Driver Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-os-setup-asus-wireless-adapters/"><u>Streamline OS Setup: Asus Wireless Adapters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tailor-made-strategies-for-direct-driver-adjustments-in-xp/"><u>Tailor-Made Strategies for Direct Driver Adjustments in XP</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-20-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/troubleshooting-guide-instantly-solve-eac-launch-error-by-installing-easy-anti-cheat-software/"><u>Troubleshooting Guide: Instantly Solve 'EAC Launch Error' By Installing Easy Anti-Cheat Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-gtx-960-graphics-drivers/"><u>Update Your GTX 960 Graphics Drivers</u></a></li>
 </ul></div>
 

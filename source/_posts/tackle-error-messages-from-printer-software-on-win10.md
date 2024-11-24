@@ -1,7 +1,7 @@
 ---
 title: Tackle Error Messages From Printer Software on Win10
-date: 2024-11-11T02:28:58.154Z
-updated: 2024-11-15T08:12:06.973Z
+date: 2024-11-20T18:35:36.830Z
+updated: 2024-11-24T17:27:10.165Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597056d6e290b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In Device Manager window, locate the printer device that you wish to update the driver for. For problem device, you can see a yellow mark next to the device name.
 
  Following screen shot is the problem device with a yellow mark for your reference.
@@ -56,6 +60,10 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -64,28 +72,12 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In Settings window, click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
@@ -95,10 +87,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
@@ -119,18 +108,15 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -149,18 +135,16 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-be-the-game-changer-xbox-one-screen-recording-mastery/"><u>[Updated] Be the Game Changer Xbox One Screen Recording Mastery</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/high-resolution-sky-photography-10-preferred-pages/"><u>High-Resolution Sky Photography 10 Preferred Pages</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-legal-music-archives-top-10-websites-for-game-playlists/"><u>In 2024, Legal Music Archives Top 10 Websites for Game Playlists</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-fitbit-charge-6-features-and-performance/"><u>In-Depth Analysis of the Fitbit Charge 6: Features and Performance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mac-studio-screen-and-sounds-recording-feature-for-2024/"><u>Mac Studio Screen & Sounds Recording Feature for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-os-performance-with-updated-drivers/"><u>Revitalize OS Performance with Updated Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/scansnap-s1500-optimize-with-updated-drivers/"><u>Scansnap S1500: Optimize with Updated Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-epic-deal-this-amazing-sceptre-24-curved-gamers-monitor-for-only-79/"><u>Snag the Epic Deal: This Amazing Sceptre 24 Curved Gamer's Monitor for Only $79</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/soundtrack-switch-up-effortlessly-moving-your-music-queue/"><u>Soundtrack Switch-Up Effortlessly Moving Your Music Queue</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-upgrading-hdmi-in-windows-oses/"><u>Step-by-Step: Upgrading HDMI in Windows OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-drivers-in-windows-xp-via-hands-on-approach/"><u>Streamlining Drivers in Windows XP via Hands-On Approach</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveiling-windows-8-updates-manually-changing-device-drivers/"><u>Unveiling Windows 8 Updates: Manually Changing Device Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/y470-laptop-integrated-drivers-for-w7-systems/"><u>Y470 Laptop - Integrated Drivers for W7 Systems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-tv-broadcasts-repeating-youtube-videos-effortlessly-for-2024/"><u>[New] Mastering TV Broadcasts Repeating YouTube Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-step-by-step-ps4-recording-techniques-for-gamers/"><u>[Updated] 2024 Approved Step-by-Step PS4 Recording Techniques for Gamers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-cpu-performance-intel-updater/"><u>Enhance CPU Performance: Intel Updater</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-printing-experience-resolved-laserjet-1020-issues/"><u>Enhanced Printing Experience: Resolved LaserJet 1020 Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-alexas-unresponsiveness-a-step-by-step-guide/"><u>Fixing Alexa's Unresponsiveness: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-upgrade-your-wireless-setup-new-atheros-drivers-in-windows-10/"><u>How to Upgrade Your Wireless Setup: New Atheros Drivers in Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-display-apple-iphone-se-2022-screen-on-pc-easily-drfone-by-drfone-ios/"><u>In 2024, How to Display Apple iPhone SE (2022) Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-chatgpt-pitfalls-a-guide-to-correcting-prevalent-issues/"><u>Navigating ChatGPT Pitfalls: A Guide to Correcting Prevalent Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-stronger-passwords-are-essential-protect-your-streaming-service-account-now-techadvice/"><u>Why Stronger Passwords Are Essential: Protect Your Streaming Service Account Now | TechAdvice</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xbox-controller-software-update-for-pcs/"><u>XBox Controller Software Update for PCs</u></a></li>
 </ul></div>
 

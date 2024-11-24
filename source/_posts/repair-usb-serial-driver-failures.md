@@ -1,7 +1,7 @@
 ---
 title: Repair USB-Serial Driver Failures
-date: 2024-11-10T21:02:16.381Z
-updated: 2024-11-15T05:44:32.291Z
+date: 2024-11-22T16:51:41.583Z
+updated: 2024-11-24T17:35:45.651Z
 tags:
   - win11
   - win10
@@ -32,11 +32,19 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-94.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you click on the version name, you’ll get driver with .inf file which requires you to install the driver step by step through [Device Manager](https://tools.techidaily.com/drivereasy/download/) . We don’t recommend you download this file unless you can’t use the executable file to install the driver successfully.  
 
  3.**Double-click the downloaded file** then**double-click on the Setup file** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-98.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
 
@@ -45,10 +53,7 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
@@ -66,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -79,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -107,19 +106,16 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-tackling-background-noise-in-virtual-presentations/"><u>[New] In 2024, Tackling Background Noise in Virtual Presentations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile-for-2024/"><u>[Updated] Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile) for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-artisans-approach-to-archiving-facebook-discussions/"><u>[Updated] The Artisan's Approach to Archiving Facebook Discussions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-precision-in-screen-recording-a-comprehensively-reviewed-list/"><u>2024 Approved Precision in Screen Recording A Comprehensively Reviewed List</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-storytelling-made-simple-with-premiere-pro-tips/"><u>2024 Approved YouTube Storytelling Made Simple - With Premiere Pro Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-7-advantages-of-ai-for-medical-counsel/"><u>Exploring the 7 Advantages of AI for Medical Counsel</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-performance-with-r9-firmware-updates/"><u>Streamline Performance with R9 Firmware Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/supercharge-with-new-amd-radeon-vega-3-driver-24/"><u>Supercharge with New AMD Radeon Vega 3 Driver '24</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-significance-of-gopros-burst-sequencing-feature/"><u>The Significance of GoPro's Burst Sequencing Feature</u></a></li>
-<li><a href="https://driver-install.techidaily.com/thinkpad-drivers-on-the-rise-windows-10-version/"><u>Thinkpad Drivers on the Rise: Windows 10 Version</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-honor-90-gt-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Honor 90 GT Device</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y55s-5g-2023-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y55s 5G (2023) FRP Bypass</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-essentials-how-to-efficiently-renew-your-hyperx-headsets-drivers/"><u>Update Essentials: How to Efficiently Renew Your HyperX Headset's Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-hdmi-experience-a-guide-for-win-11-users/"><u>Upgrade Your HDMI Experience: A Guide for Win 11 Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-extensive-review-the-gecata-gamersoft-toolkit/"><u>[New] 2024 Approved Extensive Review The Gecata Gamersoft Toolkit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-minimum-view-count-for-youtube-success-stories/"><u>[New] 2024 Approved The Minimum View Count for YouTube Success Stories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts/"><u>[New] The Seamless Media Magic Turning XML, SSA Into Dynamic SRTs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlock-the-art-of-recording-all-your-hulu-content/"><u>[Updated] 2024 Approved Unlock the Art of Recording All Your Hulu Content</u></a></li>
+<li><a href="https://driver-install.techidaily.com/confident-windows-10-logitech-webcam-updater/"><u>Confident Windows 10 Logitech Webcam Updater</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-error-messages-related-to-paper-trays-in-windows-10/"><u>Fix Error Messages Related to Paper Trays in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-voice-into-text-with-openais-whisper-for-windows/"><u>How to Turn Your Voice Into Text With OpenAI’s Whisper for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precision-upgrade-for-lenovo-yoga-900-drivers/"><u>Precision Upgrade for Lenovo Yoga 900 Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-bluetooth-not-working-error-for-windows-11-users/"><u>Solving the 'Bluetooth Not Working' Error for Windows 11 Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-new-normal-for-video-editing-with-movavi-pro-updated-to-2024/"><u>The New Normal for Video Editing with Movavi Pro, Updated to 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-hp-deskjet-drivers-for-win11/"><u>Update HP DeskJet Drivers for Win11</u></a></li>
 </ul></div>
 

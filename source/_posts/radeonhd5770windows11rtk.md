@@ -1,7 +1,7 @@
 ---
 title: RadeonHD5770Windows11RTK
-date: 2024-09-09T05:07:18.283Z
-updated: 2024-09-10T05:07:18.283Z
+date: 2024-11-23T18:02:42.031Z
+updated: 2024-11-24T17:54:07.040Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Radeon HD 5770,Windows 11,RTK,Graphics Card,Performance Enhancement,Ra
 thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1fa4122648e108e1ee1f91de.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## RadeonHD5770Windows11RTK
 
  If you want to update driver for AMD ATI Radeon HD 5770 in Windows 10, you can download the latest driver from AMD, or update the driver via Device Manager, or have the driver updated automatically. Read on and find a way to update the driver quickly & easily.
@@ -34,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a51448230.png)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. In Device Manager, expand category “Display adapters” and right-click on AMD graphics device. Select**Update Driver Software…** on the context menu.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a5367b22f.jpg)
@@ -48,12 +36,6 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a57107fc1.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Way 2: Download and Install the Latest Driver from AMD**
   
  You can download and install the latest Windows 10 driver from AMD. If you have no idea how to download the right driver on AMD’s website, refer to steps below.  
@@ -68,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5857a866968be.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **Way 3: Update Drivers Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
 
  Driver Easy can scan your computer and detect all problem drivers, then give you new drivers. It has Free version and Professional version. With Professional version, you can save much time on updating drivers by enjoying higher download speed and one-click function.  To update ATI Radeon HD 5770 driver for Windows 10, all you need to do is click your mouse 2 times.
@@ -82,28 +58,10 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd8f490cd6c.png)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Click **Update**  **All** button. Then all new drivers including the ATI Radeon HD 5770 driver will be downloaded and installed automatically.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd900b2662f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With [Driver Easy Professional version](https://tools.techidaily.com/drivereasy/download/) , you can expect all drivers will be updated in several minutes. We offer 30-day trial period. If you are not completely satisfied with our product, you can get a full refund for any reason.
 
 * [AMD](https://tools.techidaily.com/drivereasy/download/)
@@ -116,8 +74,6 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,8 +81,24 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-zero-price-screen-recording-easy-on-pc-and-mac/"><u>2024 Approved Zero Price Screen Recording - Easy on PC & Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/apple-iphone-15-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 15 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-hp-graphics-the-win7-updating-guide/"><u>Effortless HP Graphics – The Win7 Updating Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-samsung-850-evo-drive-up-and-running-with-new-drivers-free/"><u>Get Your Samsung 850 EVO Drive Up and Running with New Drivers [Free]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-display-processing-on-devices/"><u>Improve Display Processing on Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-reimagine-your-visuals-three-effective-techniques-for-backdrop-alteration-on-tiktok/"><u>In 2024, Reimagine Your Visuals Three Effective Techniques for Backdrop Alteration on TikTok</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/logiciel-de-synchronisation-optimal-pour-la-mise-a-jour-en-deux-voies-des-fichiers-windows/"><u>Logiciel De Synchronisation Optimal Pour La Mise À Jour en Deux Voies Des Fichiers Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-windows-astro-driver-updates-and-replacements/"><u>Mastering Windows: Astro Driver Updates & Replacements</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-driver-changes-in-windows-7/"><u>Simplified Driver Changes in Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-device-management-with-canon-mf4770n-drivers-update-in-win-1087/"><u>Simplify Device Management with Canon MF4770n Drivers Update in Win 10/8/7</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-new-era-of-anonymous-admiration-fbig-secret-likes/"><u>The New Era of Anonymous Admiration: FB/IG Secret Likes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/zero-hassle-drawing-wacom-tablet-software-for-win10-free/"><u>Zero Hassle Drawing: Wacom Tablet Software for Win10 [Free]</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: High-Performance NVIDIA 3090 Driver
-date: 2024-09-09T05:09:49.293Z
-updated: 2024-09-10T05:09:49.293Z
+date: 2024-11-18T17:13:41.666Z
+updated: 2024-11-24T18:25:01.519Z
 tags:
   - win11
   - win10
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  2.**[Automatic driver update](#option2)** – The best choice for computer newbies or users who don’t want to spend time searching for verified and correct drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 1 – Download and install the driver manually
 
  The hardware manufacturer website is where you could always find the latest device drivers. To check for the 3090 Ti driver update from NVIDIA, follow the steps:
@@ -36,37 +30,32 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 2. Choose**GeForce RTX 3090 Ti** from the Product list and select your operating system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-1.jpg)
 3. Choose which type of driver you would like to download. Gamers are suggested to choose**Game Ready Drivers** that provides support for the latest games, patches, and DLCs. And**Studio Drivers** fit content creators that prioritize stability and quality for creative workflows.  
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-2.jpg)
-4. Click**SEARCH** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-3.jpg)
-5. Click**DOWNLOAD** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-2.jpg)
+4. Click**SEARCH** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-3.jpg)
+5. Click**DOWNLOAD** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-4.jpg)
+
  Once you’ve downloaded the correct drivers for your system, double-click the file and follow the on-screen instructions to install the driver. If you don’t feel like doing the manual search and installation, there’s a more hassle-free solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the RTX 3090 Ti driver
 
@@ -80,22 +69,14 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 3. Click the**Update** button next to the flagged RTX 3090 Ti driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-update-rtx-3090-ti-driver-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -115,8 +96,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,8 +103,18 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-essentials-for-successful-channel-creation/"><u>[New] Youtube Essentials for Successful Channel Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-which-screen-recorder-prevails-bandicam-vs-camtasia/"><u>[Updated] 2024 Approved Which Screen Recorder Prevails Bandicam vs Camtasia?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fives-best-quick-reliable-time-lapse-tools/"><u>2024 Approved Five's Best Quick, Reliable Time-Lapse Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-reboot-a-simple-guide-for-adapter-replacement/"><u>Drive Reboot: A Simple Guide for Adapter Replacement</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/echoes-of-english-contrasting-the-lilt-of-australians-brits-and-americans/"><u>Echoes of English: Contrasting the Lilt of Australians, Brits, and Americans</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-your-system-ready-for-gaomon-s620-drivers/"><u>Get Your System Ready for Gaomon S620 Drivers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-digital-diaries-top-picks-for-personal-recorders/"><u>In 2024, Digital Diaries Top Picks for Personal Recorders</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-usbasp-driver-struggles-across-windows-generations/"><u>Resolving USBasp Driver Struggles Across Windows Generations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-hardware-reviews-and-insights/"><u>Tom's Tech Hub: Comprehensive Hardware Reviews and Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-screen-drivers-in-windows-10-acer-model/"><u>Upgrade Screen Drivers in Windows 10, Acer Model</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-driver-sync-with-diverse-windows-versions-achieved-solved/"><u>USBasp Driver Sync with Diverse Windows Versions Achieved [SOLVED]</u></a></li>
+</ul></div>
 

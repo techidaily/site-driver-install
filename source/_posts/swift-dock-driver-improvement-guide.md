@@ -1,7 +1,7 @@
 ---
 title: Swift Dock Driver Improvement Guide
-date: 2024-11-08T01:17:17.158Z
-updated: 2024-11-15T00:52:47.612Z
+date: 2024-11-23T17:47:34.766Z
+updated: 2024-11-24T17:58:26.973Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 **Lenovo USB-C Dock** is a new-gen docking station that takes care of your multitasking needs by offering a full array of device connection options. Versatile as it is, it’s important that you**keep its drivers up-to-date** to make sure the peripherals connected to the station work properly.
 
  In this tutorial, we’ll guide you through the process of updating the drivers for your Lenovo USB-C Dock, both automatically and manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To update Lenovo USB-C Dock drivers in Windows
 
@@ -41,15 +45,12 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
@@ -66,20 +67,14 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
@@ -91,10 +86,7 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 6. Once the download is complete, extract the file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Double-click on the execution file and follow the on-screen instructions to install.
@@ -124,20 +116,15 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-minimize-surround-loudness-economical-and-premium-solutions/"><u>[New] 2024 Approved Minimize Surround Loudness - Economical & Premium Solutions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapshot-savvy-exploring-the-depths-of-snapchat-filters/"><u>[New] 2024 Approved Snapshot Savvy Exploring the Depths of Snapchat Filters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sleepy-tales-in-visual-format-analysis/"><u>[Updated] Sleepy Tales in Visual Format Analysis</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-quality-leap-windows-11-with-conexant-hardware-upgrade/"><u>Audio Quality Leap: Windows 11 with Conexant Hardware Upgrade</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/circling-the-globe-in-one-shot-versus-layered-visuals/"><u>Circling the Globe in One Shot Versus Layered Visuals</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a23-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A23 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/free-gb-board-software-upgrade-windows-guide/"><u>Free GB Board Software Upgrade, Windows Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-970-driver-upgrade-windows-10-compatibility/"><u>GTX 970 Driver Upgrade: Windows 10 Compatibility</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-nvidia-hd-audio-drivers-for-windows-11/"><u>How to Update NVIDIA HD Audio Drivers for Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oneplus-ace-3-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your OnePlus Ace 3 Phone Network-Ready</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/netflix-interrupted-heres-how-to-get-your-favorite-title-back-on-track/"><u>Netflix Interrupted? Here’s How to Get Your Favorite Title Back On Track</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-your-pcs-with-new-aoc-drivers-e1659fwu/"><u>Optimize Your PCs with New AOC Drivers - E1659FWU</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/rotate-your-3gp-videos-with-ease-best-free-tools-of-the-year-for-2024/"><u>Rotate Your 3GP Videos with Ease Best Free Tools of the Year for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-630-gpu-software-enhancement/"><u>Speedy 630 GPU Software Enhancement</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/brief-guide-to-obscured-faces-on-piscart-platforms-for-2024/"><u>Brief Guide to Obscured Faces on PiscArt Platforms for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expertise-in-printing-officejet-pro-8710-optimized-drivers-for-windows-systems/"><u>Expertise in Printing: Officejet Pro 8710, Optimized Drivers for Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-audio-issues-solving-sound-stutters-and-distortions-in-windows-11-and-7/"><u>Fix Your Audio Issues: Solving Sound Stutters and Distortions in Windows 11 & 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-note-50-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme Note 50 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://driver-install.techidaily.com/masterclass-total-overhaul-of-gpu-drivers/"><u>Masterclass: Total Overhaul of GPU Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-the-nuances-of-nvidia-driver-updates/"><u>Navigating the Nuances of NVIDIA Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-guide-for-reinstalling-astro-drivers-in-windows/"><u>Step-by-Step Guide for Reinstalling Astro Drivers in Windows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-imovie-alternatives-top-free-options-for-video-editing-for-2024/"><u>Updated IMovie Alternatives Top Free Options for Video Editing for 2024</u></a></li>
 </ul></div>
 

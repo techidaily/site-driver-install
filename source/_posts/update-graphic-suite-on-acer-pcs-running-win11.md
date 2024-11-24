@@ -1,7 +1,7 @@
 ---
 title: Update Graphic Suite on Acer Pcs Running Win11
-date: 2024-09-09T05:08:28.158Z
-updated: 2024-09-10T05:08:28.158Z
+date: 2024-11-23T17:10:07.618Z
+updated: 2024-11-24T18:04:03.662Z
 tags:
   - win11
   - win10
@@ -33,37 +33,21 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 ![Windows Setting](https://images.drivereasy.com/wp-content/uploads/2016/04/img_57106435a7634.png)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click **Update & security**   **.**
 
 ![Update&Security](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a95a1074c91.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Windows Update** \>**Check for updates** . Wait while Windows looks for the latest updates for your computer. (It can take up to 20-30 minutes.)
 
 ![Windows Update](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a95a2b53895.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click the link that tells you optional updates are available. (If you don’t see that link, it means Windows Update didn’t find any driver updates for your computer.)  
   
  5) Find the display driver, click**OK** , and then click**Install updates** .
@@ -82,20 +66,23 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5710616d048c1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View by Small icons. Click **Device Manager** .  
   
 ![Device Manager Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/img_571061b786d94.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand the **Display adapters** branch. Then you can see the specific display card installed on your computer.  
 
 ![Display adapters Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a97af6b272a.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Way 3: Update the Driver Automatically**
 
  If you don’t have the time, patience or computer skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -110,12 +97,6 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8a7b13f6c9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to all flagged devices to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -123,18 +104,14 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8a7bb0bf63.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,8 +120,21 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/irtual-voyage-youtubes-premier-10-vr-video-experience/"><u>[New] Virtual Voyage YouTube's Premier 10-VR Video Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bluetooth-usb-adapter-support-guide-asus-bt400/"><u>Bluetooth USB Adapter Support Guide - Asus BT400</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cant-get-your-blue-yeti-microphone-to-connect-check-out-these-helpful-tips/"><u>Can't Get Your Blue Yeti Microphone to Connect? Check Out These Helpful Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-the-ultimate-guide/"><u>Exploring Hardware with Tom: The Ultimate Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/following-the-future-top-25-social-media-pioneers-on-instagram-for-2024/"><u>Following The Future Top 25 Social Media Pioneers on Instagram for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-secure-wireless-driver-for-your-computer-with-tp-link/"><u>Get Secure Wireless Driver for Your Computer with TP Link</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-new-gtx-1650-windows-drivers/"><u>Get the New GTX 1650 Windows Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-760-new-drivers-less-trouble/"><u>GTX 760: New Drivers, Less Trouble</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-11-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 11 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-audio-streams-apple-podcasts-downloading-for-2024/"><u>Mastering Audio Streams Apple Podcasts Downloading for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-epson-driver-performance-in-win11/"><u>Optimize Epson Driver Performance in Win11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-comprehensive-guide-to-slowing-video-on-iphone/"><u>The Comprehensive Guide to Slowing Video on iPhone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-potential-lenovos-simple-upgrade-path/"><u>Unleash Potential: Lenovo's Simple Upgrade Path</u></a></li>
+</ul></div>
 

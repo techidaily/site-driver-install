@@ -1,7 +1,7 @@
 ---
 title: "Achieve Stunning Graphics: Update Your GPU Drivers"
-date: 2024-09-09T05:06:05.041Z
-updated: 2024-09-10T05:06:05.041Z
+date: 2024-11-18T17:11:20.926Z
+updated: 2024-11-24T17:12:59.919Z
 tags:
   - win11
   - win10
@@ -14,12 +14,6 @@ keywords: Updating GPU Drivers,Stunning Graphics Improvement,GPU Drivers Update 
 thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718babb9ab9f4f477093729fe7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Achieve Stunning Graphics: Update Your GPU Drivers
 
 If your computer is experiencing any of the following:
@@ -33,12 +27,6 @@ problems, you’re not alone.
 
  And chances are, it’s time to update your driver for your**GTX 1050 Ti**  graphics card in order to smooth these problems away.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 ways to update GTX 1050 Ti driver
 
 [**Option 1 – Automatically (Recommended)**](#M1) – This is the quickest and easiest option. It’s all done with just a few mouse clicks – super easy even if you’re a computer newbie.
@@ -61,24 +49,22 @@ problems, you’re not alone.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594695d7c27.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Update your **GTX 1050 Ti**   **driver**   manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -91,28 +77,25 @@ problems, you’re not alone.
 2. Under**Manual Driver Search** , select**GeForce** ,**GeForce 10 Series** ,**GeForce GTX 1050 Ti** accordingly. In the 4th drop-down menu, select your**variant of Windows operating system** (**Windows 10** ,**64-bit** in my case). Select your**preferred language** in the 5th drop-down menu. Then click**START SEARCH** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b06692321344.jpg)
 3. You’ll see a list of results pop up right under. Click**the first result** to make sure you download the latest driver release.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b067305a1425.jpg)
 4. Click**DOWNLOAD** .  
+
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0634e809b76.jpg)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -128,8 +111,6 @@ problems, you’re not alone.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,8 +118,24 @@ problems, you’re not alone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-guides-to-quick-webinar-recording-with-macos-and-windows/"><u>[New] 2024 Approved Guides to Quick Webinar Recording with macOS and Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-plotting-precise-promotional-reels/"><u>[New] Plotting Precise Promotional Reels</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-which-ios-video-editor-excels-more-cameo-or-filmorago-for-2024/"><u>[New] Which iOS Video Editor Excels More Cameo or FilmoraGo for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-tech-manual-for-saving-web-streamed-television/"><u>[Updated] In 2024, The Ultimate Tech Manual for Saving Web-Streamed Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/44cm5lia6yplush5yiw5bqv77ya57ch5zau5pit5oec5aac5l2v6lyv6ayg5re75yqg6zplusz5qic5yiw5b2x54mh44cn/"><u>「一鏡到底：簡單易懂如何輕鬆添加音樂到影片」</u></a></li>
+<li><a href="https://driver-install.techidaily.com/adopt-amd-for-blockchain-gaming-and-transactions-windows/"><u>Adopt AMD for Blockchain Gaming and Transactions (Windows)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-lenovo-thinkspad-with-win11-driver-improvements/"><u>Elevate Lenovo ThinksPad with Win11 Driver Improvements</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-gaming-on-hp-omen-15-via-software-improvements/"><u>Elevate Your Gaming on HP Omen 15 via Software Improvements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-from-f4v-and-swf-formats-supported-by-movavi/"><u>Free Online Converter - From F4V & SWF Formats Supported by Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/manually-enhancing-xp-systems-performance-with-drivers/"><u>Manually Enhancing Xp System’s Performance with Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/next-gen-driver-amd-hd-audio-compatible/"><u>Next-Gen Driver: AMD HD Audio Compatible</u></a></li>
+<li><a href="https://driver-install.techidaily.com/operational-boundary-testing/"><u>Operational Boundary Testing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-graphics-drivers-for-better-windows-10-viewing/"><u>Refresh Graphics Drivers for Better Windows 10 Viewing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-on-toms-tech-review/"><u>Top Picks on Tom's Tech Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-new-features-introducing-powertoys-v079s-customizable-keyboard-shortcuts-for-enhanced-windows-control/"><u>Unleash New Features: Introducing PowerToys V0.79's Customizable Keyboard Shortcuts for Enhanced Windows Control</u></a></li>
+<li><a href="https://driver-install.techidaily.com/visual-upgrade-for-win-users-the-triad-approach/"><u>Visual Upgrade for Win Users - The Triad Approach</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-skills-essential-insights-unveiled/"><u>YouTube Skills Essential Insights Unveiled</u></a></li>
+</ul></div>
 

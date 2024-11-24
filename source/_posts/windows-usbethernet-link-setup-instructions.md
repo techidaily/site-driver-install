@@ -1,7 +1,7 @@
 ---
 title: Windows USB/Ethernet Link Setup Instructions
-date: 2024-10-19T07:07:29.199Z
-updated: 2024-10-23T22:03:30.997Z
+date: 2024-11-23T18:41:28.802Z
+updated: 2024-11-24T18:02:37.451Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Automatically update Insignia USB 2.0 to Ethernet adapter drivers
 
  If you don’t have the time, patience, or computer skills to update the Insignia USB 2.0 to Ethernet adapter driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . This is your go-to option if you’re using a Windows PC/laptop.
@@ -45,9 +49,17 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have**full technical support** and a**30-day money back guarantee** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update** next to your Insignia USB 2.0 to Ethernet Adapter driver to download it automatically and install it manually for free (it’s partly manual).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-1.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -55,10 +67,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Download and install the driver manually
@@ -71,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 3. Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -100,15 +106,24 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-masterful-3d-design-best-animation-software-selection-for-2024/"><u>[New] Masterful 3D Design Best Animation Software Selection for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-epic-echoes-academy-superlative-seventeen-for-2024/"><u>[Updated] Epic Echoes Academy – Superlative Seventeen for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/hevc-h265-4k8k/"><u>自由取得 HEVC (H.265)解碼器 - 無價下載提供適用於4K和8K高清影片流暢再生</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-audio-performance-in-windows-7-using-idt/"><u>Improve Audio Performance in Windows 7 Using IDT</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-realme-v30t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Realme V30T without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/increase-system-stability-with-aoc-update-1659e/"><u>Increase System Stability with AOC Update 1659E</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-blaze-2-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Blaze 2 5G Phone FRP Lock</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-instructions-for-safe-drm-free-conversion-of-ebooks-and-more/"><u>Step-by-Step Instructions for Safe DRM-Free Conversion of EBooks and More</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-systems-audio-for-optimal-performance/"><u>Update Your System’s Audio for Optimal Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-systems-graphics-latest-drivers-for-rx-570/"><u>Upgrade Your System's Graphics - Latest Drivers for RX 570</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-this-installation-package-is-not-supported-by-this-processor-type/"><u>[Fix] This Installation Package Is Not Supported by This Processor Type</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-jolly-video-recorder-critique/"><u>[New] In 2024, Jolly Video Recorder Critique</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capturing-both-webcam-and-monitor-live-feed/"><u>[Updated] 2024 Approved Capturing Both Webcam & Monitor Live Feed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/m4bmp3-movavi/"><u>「気軽に変換! M4BファイルをMP3無料ダウンロード - Movavi」</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1728478850596-windows/"><u>簡単なガイド:Windows オペレーティングシステムの再イメージング方法</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-programmers-celebrate-experience-a-revolutionary-leap-in-development-with-free-ai-integration/"><u>Apple Programmers Celebrate! Experience a Revolutionary Leap in Development with Free AI Integration</u></a></li>
+<li><a href="https://driver-install.techidaily.com/astro-drives-reinstallation-guide-for-windows-users/"><u>Astro Drives Reinstallation Guide for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-approach-to-bluetooth-drivers-install-on-windows-1011/"><u>Direct Approach to Bluetooth Drivers Install on Windows 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-download-for-enhanced-windows-graphics/"><u>Direct Download for Enhanced Windows Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-scsi-driverseasily-and-quickly/"><u>Download SCSI Drivers|Easily & Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-screen-rendering-update-hp-driver/"><u>Enhance Screen Rendering - Update HP Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-paper-jam-alerts-with-printer-software-tweaks/"><u>Fix Paper Jam Alerts with Printer Software Tweaks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gpu-specifications-for-opengl/"><u>GPU Specifications for OpenGL</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonizing-usbasp-drivers-across-all-windows-editions/"><u>Harmonizing USBasp Drivers Across All Windows Editions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-guide-to-choosing-a-tunefab-recorder/"><u>In 2024, The Ultimate Guide to Choosing a Tunefab Recorder</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-depth-shots-the-art-of-closing-in-on-movies-for-2024/"><u>In-Depth Shots The Art of Closing in on Movies for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/render-images-with-radial-light-diffusion-technique-for-2024/"><u>Render Images with Radial Light Diffusion Technique for 2024</u></a></li>
 </ul></div>
 

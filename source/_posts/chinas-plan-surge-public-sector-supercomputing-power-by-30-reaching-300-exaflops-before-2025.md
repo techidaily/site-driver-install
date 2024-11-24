@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-11-10T23:34:32.421Z
-updated: 2024-11-14T17:03:20.734Z
+date: 2024-11-18T16:15:47.299Z
+updated: 2024-11-24T17:50:57.564Z
 tags:
   - desktop
 categories:
@@ -56,29 +56,20 @@ Today we have one great deal that turns into two when you take up a bundle offer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-integrate-soundtracks-into-instagram-storytelling/"><u>[New] 2024 Approved Integrate Soundtracks Into Instagram Storytelling</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-disabling-push-notifications-for-commercial-content/"><u>[New] Disabling Push Notifications for Commercial Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-smart-strategies-for-itunes-video-logging/"><u>[Updated] 2024 Approved The Smart Strategies for iTunes Video Logging</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-windows-10-with-updated-acer-drivers/"><u>Accelerate Windows 10 with Updated Acer Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/asus-bluetooth-usb-adapter-setup-instructions/"><u>Asus Bluetooth USB Adapter Setup Instructions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-hp-envy-drivers-on-windows-10-laptop/"><u>Configure HP Envy Drivers on Windows 10 Laptop</u></a></li>
-<li><a href="https://driver-install.techidaily.com/conquering-usbasp-driver-hurdles-on-widely-spanning-windows-oss/"><u>Conquering USBasp Driver Hurdles on Widely Spanning Windows OSs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062446482-effortless-hardware-enhancement-install-now/"><u>Effortless Hardware Enhancement, Install Now!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-connectivity-mf4770n-drivers-for-windows-oses/"><u>Enhance Connectivity: MF4770n Drivers for Windows OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-logitech-cam-software/"><u>Essential Logitech Cam Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/free-asus-bt400-driver-and-tutorial-for-pcs/"><u>Free Asus BT400 Driver & Tutorial for PCs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x50-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X50 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 8 Plus</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-pitch-integrating-music-with-cropping-and-editing-in-canva/"><u>In 2024, Perfect Pitch Integrating Music with Cropping and Editing in Canva</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209966933-quick-fixes-for-when-your-device-reports-no-battery-easy-steps-inside/"><u>Quick Fixes for When Your Device Reports No Battery – Easy Steps Inside</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-setup-process-integrating-auto-gpt-with-ubuntu-operating-system/"><u>Seamless Setup Process: Integrating Auto-GPT with Ubuntu Operating System</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/understanding-gb-requirement-for-a-days-film/"><u>Understanding GB Requirement for a Day's Film</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-futures-camera-giants-top-10-camcorder-picks-2024-edition/"><u>[New] Future's Camera Giants Top 10 Camcorder Picks, 2024 Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-gaomon-s620-drivers-installed-quickly/"><u>Get Gaomon S620 Drivers Installed Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-your-printer-up-and-running-download-hp-jetprot-8710-drivers-for-windows/"><u>Get Your Printer Up and Running: Download HP JetProt 8710 Drivers for Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-moto-g84-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola Moto G84 5G Phones</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-the-nuances-of-japanese-characters/"><u>Navigating the Nuances of Japanese Characters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/power-systems-up-intell-drivers/"><u>Power Systems Up: Intell Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-breakdown-of-modern-wireless-technologies-from-802nbgwi-fi-protocols-to-the-latest-80211ax-series/"><u>The Complete Breakdown of Modern Wireless Technologies: From 802.nB/gWi-Fi Protocols to the Latest 802.11Ax Series</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-bulk-creating-via-canva-and-chatgpt/"><u>The Ultimate Guide to Bulk Creating via Canva & ChatGPT</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-3-email-marketing-pitfalls-of-2naughts-essential-tips-for-effective-communication-with-your-subscriber-base-via-massmail/"><u>Top 3 Email Marketing Pitfalls of 2Naughts: Essential Tips for Effective Communication with Your Subscriber Base via Massmail</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tier-functionality-at-an-accessible-price-the-in-depth-review-of-apples-new-ipad-air-4-and-how-it-stacks-up-to-the-pro-series/"><u>Top-Tier Functionality at an Accessible Price: The In-Depth Review of Apple's New iPad Air 4 and How It Stacks Up to the Pro Series</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-s1500-scansnap-firmware/"><u>Updating S1500 Scansnap Firmware</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Universal Xbox One Controller Support for Winsystems
-date: 2024-11-09T01:01:33.583Z
-updated: 2024-11-14T19:10:34.948Z
+date: 2024-11-18T16:51:01.330Z
+updated: 2024-11-24T17:45:30.373Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  **Way 1:[Update the Driver via Device Manager](#way1)**
  **Way 2:[Update the Driver Using Driver Easy](#way2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Update the Driver via Device Manager
 
  If Windows doesn’t install the driver automatically, you can update the driver manually via Device Manager. Follow these steps:
@@ -39,18 +43,19 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
-6) Check to see if you can use the Xbox One Controller properly.
-
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6) Check to see if you can use the Xbox One Controller properly.
 
 ## Way 2: Update the Driver Using Driver Easy
 
@@ -67,10 +72,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
@@ -80,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
@@ -108,18 +107,24 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/-filmmakers-approach-to-youtube-splitscreen-videos/"><u>[New] A Filmmaker's Approach to YouTube Splitscreen Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-elite-remote-meeting-apps-beyond-zoom/"><u>2024 Approved Elite Remote Meeting Apps Beyond Zoom</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-poco-f5-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Poco F5 Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discovering-the-varieties-in-non-contact-technology/"><u>Discovering the Varieties in Non-Contact Technology</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/ditch-final-cut-pro-x-here-are-10-alternative-video-editors/"><u>Ditch Final Cut Pro X? Here Are 10 Alternative Video Editors</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/journey-back-in-time-with-these-top-5-gba-console-emulators-for-pcs-for-2024/"><u>Journey Back in Time with These Top 5 GBA Console Emulators for PCs for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-prefetch-technology-in-seo-in-depth-analysis-and-expert-techniques-using-seo-powersuite/"><u>Mastering Prefetch Technology in SEO: In-Depth Analysis and Expert Techniques Using SEO PowerSuite</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/peeling-back-the-curtain-on-youtubes-content-popularity-index-for-2024/"><u>Peeling Back the Curtain on YouTube's Content Popularity Index for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/repairing-hp-inkjet-errors-on-win-10-machine/"><u>Repairing HP InkJet Errors on Win 10 Machine</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speed-up-iris-x4-driver-installation/"><u>Speed Up Iris X4 Driver Installation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-your-laserjet-printing-new-windows-10-drivers/"><u>Streamline Your Laserjet Printing: New Windows 10 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/universal-printer-driver-epson-et-2650-installer-kit/"><u>Universal Printer Driver: Epson ET-2650 Installer Kit</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-gaming-mouse-drivers-in-minutes-win-7-style/"><u>Upgrade Gaming Mouse Drivers in Minutes, Win 7 Style</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-videos-integrating-into-ppt-4-techniques/"><u>[New] Mastering YouTube Videos Integrating Into PPT (4 Techniques)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-cutting-edge-from-srt-to-subtitle-system/"><u>[Updated] Cutting Edge From SRT to Subtitle System</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-rapid-routines-transferring-iphone-content/"><u>[Updated] Rapid Routines Transferring iPhone Content</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1728478312887-iphone/"><u>如何迅速修正iPhone 照片被電腦讀不到的問題</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-performance-boost-windows-drivers-update/"><u>Audio Performance Boost: Windows Drivers Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-latest-gpu-driver-nvidias-quadro/"><u>Download Latest GPU Driver: NVIDIA's Quadro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-enhance-wi-fi-experience-by-updating-atheros-drivers-windows/"><u>How to Enhance Wi-Fi Experience by Updating Atheros Drivers (Windows)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063312625-how-to-reinstall-gpu-drivers-with-ddu-2024-ultimate-guide/"><u>How to Reinstall GPU Drivers With DDU – 2024 Ultimate Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-s23-tactical-edition-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy S23 Tactical Edition Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-navigating-the-world-of-digital-sound-capture-a-deep-dive/"><u>In 2024, Navigating the World of Digital Sound Capture A Deep Dive</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-netgear-usb-wi-fi-ac1200-drivers-easy/"><u>Install NETGEAR USB Wi-Fi AC1200 Drivers Easy</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-zte-nubia-flip-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My ZTE Nubia Flip 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-windows-11-networking-drivers-for-realtek-adapters/"><u>Refresh Windows 11 Networking Drivers for Realtek Adapters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-way-to-keep-your-windows-11-drivers-updated/"><u>Seamless Way to Keep Your Windows 11 Drivers Updated</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-windows-interactions-with-updated-astro-device-drivers/"><u>Streamline Windows Interactions with Updated Astro Device Drivers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ten-proven-methods-for-correcting-phantom-inputs-on-iphones/"><u>Ten Proven Methods for Correcting Phantom Inputs on iPhones</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-live-selling-a-comprehensive-starters-guide/"><u>Updated 2024 Approved Live Selling A Comprehensive Starters Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-to-lan-bridge-for-windows-driver-guide/"><u>USB to LAN Bridge for Windows: Driver Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-f25-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo F25 Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

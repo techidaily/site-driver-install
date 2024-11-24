@@ -1,7 +1,7 @@
 ---
 title: Secure Boot & MEDD on Windows
-date: 2024-11-10T19:46:26.151Z
-updated: 2024-11-14T20:35:17.097Z
+date: 2024-11-20T16:22:19.028Z
+updated: 2024-11-24T16:30:00.187Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 **[Intel Management Engine Driver for WIndows 10, 8.1, 7 for Intel NUC](https://downloadmirror.intel.com/26135/eng/ME%5FConsumer%5FWin8.1%5F10%5F11.0.6.1194.zip)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Step 2: Install the driver accordingly**
 
  1) You will be downloading a .zip file to your computer. Un-zip it first.  
@@ -46,22 +50,27 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ca2e76e79.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you want to install the drivers and the**ME Security Status application and control panel** , choose to run the setup file in**ME\_SW\_MSI** folder.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cba0066eb.png)
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If you only want to install the drivers, you can choose the setup file in folder**MEI-Only Installer MSI** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ccff509cb.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Folder**WINDOWSDriverPackages** contains the .inf files for IT professionals. Check it if you are interested.  
   
@@ -87,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7b1d1786b4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **NOTE:**
   
  1) If you are running a Windows 7 operating system, please make sure that you have installed [**Kernel-Mode Driver Framework version 1.11**](https://www.microsoft.com/en-us/download/details.aspx?id=38423) first.  
@@ -101,35 +103,19 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ce3cf3ba3.png)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) If the Intel Management Engine driver is not successfully installed, you may see an error notification in**Device Manager > PCI Simple Communications Controller** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cecf378b7.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If you are seeing a yellow exclamation mark next to**Intel Management Engine** in**Device Manager** , here is a post that you might find helpful:
 [**Intel Management Engine Interface: This device cannot start on Windows**](https://tools.techidaily.com/drivereasy/download/)
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/intel-r-management-engine-interface-imei.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Intel](https://tools.techidaily.com/drivereasy/download/)
 
@@ -148,21 +134,16 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-enhancements-the-most-acclaimed-video-editing-tools/"><u>[New] 2024 Approved Snapchat Enhancements The Most Acclaimed Video Editing Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-launching-effective-charity-challenges-and-contests-online/"><u>[Updated] 2024 Approved Launching Effective Charity Challenges and Contests Online</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-perfectly-smooth-window-snap-tool/"><u>2024 Approved Perfectly Smooth Window Snap Tool</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-reno-10-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Reno 10 5G FRP</u></a></li>
-<li><a href="https://driver-install.techidaily.com/add-hp-laptop-driver-to-windows-10-pc/"><u>Add HP Laptop Driver to Windows 10 PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/break-the-ice-with-top-10-easy-italian-salutations/"><u>Break the Ice with Top 10 Easy Italian Salutations</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-connection-protocol-for-windows-usb-guide/"><u>Direct Connection Protocol for Windows: USB Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-usb-driver-pack-for-versatile-oss-epson-2650/"><u>Direct USB Driver Pack for Versatile OSs - Epson 2650</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-1050-ti-drivers-download-and-update-for-your-better-gaming-experience/"><u>GTX 1050 Ti Drivers Download & Update for Your Better Gaming Experience</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062890212-how-to-update-drivers-in-windows-10-81-7-quickly-and-easily/"><u>How to Update Drivers in Windows 10, 8.1, 7. Quickly & Easily</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-note-13-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi Note 13 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-innovators-choice-best-gimbal-systems-for-video-creators/"><u>In 2024, The Innovator’s Choice Best Gimbal Systems for Video Creators</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-driver-upgrade-for-radeon-hd-4800/"><u>Instant Driver Upgrade for Radeon HD 4800</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/reviving-your-pc-two-effective-methods-for-restoring-a-full-backup-from-an-exterior-hdd/"><u>Reviving Your PC: Two Effective Methods for Restoring a Full Backup From an Exterior HDD</u></a></li>
-<li><a href="https://driver-install.techidaily.com/transform-your-lenovo-thinkspad-install-driver-updates-on-win11/"><u>Transform Your Lenovo ThinksPad - Install Driver Updates on Win11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unleashing-potential-profile-video-elevation/"><u>[Updated] 2024 Approved Unleashing Potential Profile Video Elevation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-springs-screen-recorder-unveiled-a-users-perspective/"><u>[Updated] In 2024, Spring's Screen Recorder Unveiled A User's Perspective</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-experience-the-7-aspects-that-make-googles-bard-ai-superior-with-palm-2-integration/"><u>Elevate Your Experience: The 7 Aspects That Make Google's Bard AI Superior with PaLM 2 Integration</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/faster-than-ever-update-drivers-across-all-win-os-generations/"><u>Faster Than Ever: Update Drivers Across All Win OS Generations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experience-the-future-with-these-top-iphone-vr-titles/"><u>In 2024, Experience the Future with These Top iPhone VR Titles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/leap-into-adventure-mastering-the-realm-of-virtual-reality-for-2024/"><u>Leap Into Adventure Mastering the Realm of Virtual Reality for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-download-for-gtx-750-ti-graphics/"><u>Swift Driver Download: For GTX 750 Ti Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-enhance-system-performance-via-scsi-software/"><u>Swiftly Enhance System Performance via SCSI Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-update-nvidia-970-drivers-release/"><u>Windows 11 Update: Nvidia 970 Drivers Release</u></a></li>
+<li><a href="https://common-error.techidaily.com/youtube-audio-malfunctioning-in-windows-10-heres-how-to-get-it-right/"><u>YouTube Audio Malfunctioning in Windows 10? Here's How to Get It Right!</u></a></li>
 </ul></div>
 

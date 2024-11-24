@@ -1,7 +1,7 @@
 ---
 title: Unlocking USBasp on Vista to 10 & 11 Platforms Successfully
-date: 2024-11-13T08:43:41.568Z
-updated: 2024-11-15T05:58:19.925Z
+date: 2024-11-20T18:15:14.889Z
+updated: 2024-11-24T16:31:12.345Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b74744220589b6a906ebb663c728844a6da00413e
 
  Whether you’re getting an issue like**USBasp driver not installing** ,**missing USBasp driver** , or your USBasp device issue, you can try updating your USBasp driver to fix these problems. In addition, if you want to make the best possible performance for your USBasp device, you should consider updating your USBasp driver to the latest version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to download and update USBasp driver in Windows?
 
 1. [**Download and update USBasp driver manually**](#M1)
@@ -29,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/b74744220589b6a906ebb663c728844a6da00413e
 3. [**Download and update USBasp driver via Device Manager**](#M3)
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Download and update USBasp driver manually
 
@@ -54,32 +45,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc737a002.jpg)
 3. Click the driver package in the**Drivers** section, and download the driver with the instructions.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc9287d92.png)
 4. Run the downloaded file and follow the on-screen instructions to finish it.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You should have the latest USBasp driver installed in your Windows computer.
 
  If this method doesn’t work for you, don’t worry. There is something else to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Download and update USBasp driver automatically
 
@@ -99,10 +74,7 @@ To do so:
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](mailto:support@drivereasy.com) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -120,11 +92,19 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dcf3157ac.jpg)
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
 4. Choose**Search automatically for updated driver software** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -144,18 +124,22 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-detailed-examination-intuitive-hdr-techniques/"><u>[Updated] In 2024, Detailed Examination Intuitive HDR Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-skybound-creativity-essential-editing-skills-for-drone-films/"><u>[Updated] Skybound Creativity Essential Editing Skills for Drone Films</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/error-404-explained-causes-and-easy-fixes-you-should-know/"><u>Error 404 Explained – Causes and Easy Fixes You Should Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-reno-9a-by-drfone-android/"><u>How to Bypass FRP on Oppo Reno 9A?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-a-quick-guide-secure-your-instagram-stories-with-screen-record/"><u>In 2024, A Quick Guide Secure Your Instagram Stories with Screen Record</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-logitech-brio-camera-drivers-for-windows-11-8-and-7-free-download-guide/"><u>Latest Logitech Brio Camera Drivers for Windows 11, 8 & 7: Free Download Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/premium-free-template-pack-top-titles-for-ae-dreamers/"><u>Premium FREE Template Pack Top Titles for AE Dreamers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revive-your-system-amd-driver-update-for-various-windows-oss/"><u>Revive Your System: AMD Driver Update for Various Windows OSs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionize-printing-update-your-hp-laserjet-drivers-in-win10/"><u>Revolutionize Printing - Update Your HP Laserjet Drivers in WIN10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-printer-tasks-with-updated-windows-10-drivers/"><u>Streamline Printer Tasks with Updated Windows 10 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/universal-interface-for-xbox-one-and-w11/"><u>Universal Interface for Xbox One and W11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xbox-controller-protocols-windows-10/"><u>Xbox Controller Protocols Windows 10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-augment-your-audibility-the-leading-android-tools-for-voice-recording-change/"><u>[Updated] 2024 Approved Augment Your Audibility The Leading Android Tools for Voice Recording Change</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-highlight-heroics-in-samsung-phone-games-for-2024/"><u>[Updated] Highlight Heroics in Samsung Phone Games for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breaking-barriers-7-top-tools-for-artists-transforming-into-nfts-for-2024/"><u>Breaking Barriers 7 Top Tools for Artists Transforming Into NFTs for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-lava-agni-2-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Lava Agni 2 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gaomon-s620-setup-made-easy-download-now/"><u>Gaomon S620 Setup Made Easy - Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978711216-get-the-newest-epson-tm-t88v-windows-driver-software-here/"><u>Get the Newest EPSON TM-T88v Windows Driver Software Here</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-quickly-reviving-print-capabilities-by-updating-drivers-on-win10117/"><u>Guide to Quickly Reviving Print Capabilities by Updating Drivers on WIN10/11/7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-dual-monitor-setup-on-your-laptop/"><u>Guide: Dual-Monitor Setup on Your Laptop</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-legality-in-screenshots-from-youtube/"><u>In 2024, Understanding Legality in Screenshots From YouTube</u></a></li>
+<li><a href="https://driver-install.techidaily.com/netgear-a6200-driver-download-and-update-for-windows/"><u>Netgear a6200 Driver Download & Update for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steady-connection-reinstating-atheros-adapter-driver/"><u>Steady Connection: Reinstating Atheros Adapter Driver</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-erasing-browsing-history-on-all-web-browsers/"><u>Step-by-Step Guide: Erasing Browsing History on All Web Browsers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-your-device-upgrade-intel-82579lm-drivers/"><u>Streamlining Your Device: Upgrade Intel 82579LM Drivers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-guide-to-androids-premium-music-video-watching-apps-for-2024/"><u>The Ultimate Guide to Android's Premium Music Video Watching Apps for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tips-for-a-quick-driver-switch-on-msi-bravo-15/"><u>Tips for a Quick Driver Switch on MSI Bravo 15</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-nvidia-sound-drivers-in-windows-11-guide/"><u>Updating NVIDIA Sound Drivers in Windows 11 Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-bluetooth-setup-made-simple/"><u>Windows 7 Bluetooth Setup Made Simple</u></a></li>
 </ul></div>
 

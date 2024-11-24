@@ -1,7 +1,7 @@
 ---
 title: "IdeaPad-Y470 W7Drivers: Installation Tips"
-date: 2024-09-09T05:05:27.991Z
-updated: 2024-09-10T05:05:27.991Z
+date: 2024-11-19T16:26:36.306Z
+updated: 2024-11-24T17:58:45.656Z
 tags:
   - win11
   - win10
@@ -39,28 +39,10 @@ This passage mainly shows you how to download and update device drivers for your
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/sound-video-and-game-controllers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Then double click the option**High Definition Audio Device** . You should double click the device you want to update.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/high-definition-audio-device.png)
   
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Go under**Driver** tab and choose**Update Driver…** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver.png)
@@ -69,12 +51,6 @@ This passage mainly shows you how to download and update device drivers for your
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/search-automatically-for-updated-driver-software.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You may need to wait for a while for Microsoft to help you locate the correct driver.
   
  As stated above, Microsoft might not always be able to help you locate the latest or the correct driver, so if you find this is not helpful enough, you might want to consider going the second method.
@@ -87,28 +63,10 @@ This passage mainly shows you how to download and update device drivers for your
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e1091dd41a0-1024x433.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Enter your product name here in the search box.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e10a6c0516b-600x297.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Make sure the operating system information is correct according to your own OS,**Windows 7 (64-bit or 32-bit)**. Then choose from the list of choice of**Component**the device driver that you need on your laptop.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/look-for-drivers-or-software-for-your-machine.jpg)
@@ -117,12 +75,6 @@ This passage mainly shows you how to download and update device drivers for your
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/download-file-form-lenovo-1024x256.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Go to **[Device Manager](https://tools.techidaily.com/drivereasy/download/)** .
   
 7) Expand the category where the device driver needs to be updated. Double click the device.
@@ -145,18 +97,6 @@ We use Audio driver as an example, so we will expand **Sound, video and game con
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/paste-the-address.png)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 11) Wait for the installation of the audio device driver on your IdeaPad-Y470\.
   
 There you go. You have got the device driver you need installed.
@@ -177,12 +117,6 @@ Step two, press the**Update**button next to the driver that you would like to up
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f0855948ed3.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 That’s it. How convenient is that! Just download [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/)  right now and enjoy the best driver update experience.
   
 If you want to enjoy more features such as driver backup and driver restore as well as professional tech support to help you with any driver problem, you can go to **[Driver Easy professional version](https://tools.techidaily.com/drivereasy/download/)** . If you find the professional version not satisfied enough, you can always ask for a refund within thirty days.
@@ -193,8 +127,6 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,8 +134,23 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-enhance-file-handling-effective-methods-for-transferring-to-your-computer/"><u>[New] Enhance File Handling Effective Methods for Transferring to Your Computer</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-how-to-verify-rights-before-sharing-on-tiktok-platforms/"><u>[New] How to Verify Rights Before Sharing on TikTok Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-list-premier-networks-for-live-viewing-for-2024/"><u>[Updated] Ultimate List Premier Networks for Live Viewing for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-w710-performance-aoc-driver-ve1659/"><u>Boost W7/10 Performance - AOC Driver vE1659</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-x265-to-x264-transformation-tutorial-using-handbrake-effortless-techniques-for-speedy-results/"><u>Fast X265 to X264 Transformation Tutorial Using Handbrake - Effortless Techniques for Speedy Results</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonizing-msi-bios-with-successful-windows-driver-update/"><u>Harmonizing MSI BIOS with Successful Windows Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/high-quality-amd-audio-software/"><u>High-Quality AMD Audio Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-tutorial-on-editing-youtube-videos/"><u>In 2024, The Ultimate Tutorial on Editing YouTube Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/realtek-gbe-family-seamless-update-on-win10/"><u>Realtek GBE Family - Seamless Update on Win10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/speeding-up-your-pc-10-effective-tips-for-enhanced-efficiency/"><u>Speeding Up Your PC: 10 Effective Tips for Enhanced Efficiency</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-guide-to-reviving-hdmi-on-win-11-systems/"><u>Step-by-Step Guide to Reviving HDMI on Win 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-most-innovative-keyboards-of-2024-professional-insights-and-ratings-pcworld/"><u>Ultimate Guide to the Most Innovative Keyboards of 2024 - Professional Insights and Ratings | PCWorld</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

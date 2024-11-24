@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Quiet Zone? Here's How to Get Game Sounds Back!
-date: 2024-11-12T21:50:02.862Z
-updated: 2024-11-15T09:00:48.942Z
+date: 2024-11-20T16:01:46.438Z
+updated: 2024-11-24T17:46:10.172Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
  If you’re having audio issues on your**PS4** , check[](https://tools.techidaily.com/drivereasy/download/) **[here](https://tools.techidaily.com/drivereasy/download/)**  .  
  If you’re on Xbox, check[**here**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -30,15 +34,16 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
@@ -51,6 +56,10 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **1)** On your keyboard, press the**Windows logo** key and type**troubleshoot settings** . Then, click**Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
@@ -110,23 +119,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
 
@@ -143,10 +138,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
@@ -177,19 +169,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-transforming-film-frames-on-insta-with-easy-steps-for-2024/"><u>[New] Transforming Film Frames on Insta with Easy Steps for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-essential-guide-to-cooler-mini-house-creations/"><u>[Updated] 2024 Approved The Essential Guide to Cooler Mini-House Creations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-theta-s-deep-dive-an-extensive-review/"><u>2024 Approved Theta S Deep Dive An Extensive Review</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-7-plus-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 7 Plus Activation Lock</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-installing-videoleap-on-macbook-a-step-by-step-guide-for-2024/"><u>New Installing Videoleap on MacBook A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionize-your-prints-windows-10-canon-driver-upload/"><u>Revolutionize Your Prints: Windows 10, Canon Driver Upload</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-recommended-macos-software-latest-picks/"><u>Top Recommended macOS Software - Latest Picks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-faulty-shift-key-now-repaired/"><u>Troubleshooting Your Faulty Shift Key - Now Repaired</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-the-magic-behind-quantum-hdr-for-2024/"><u>Understanding the Magic Behind Quantum HDR for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-thinkpad-drivers-for-optimal-w10-performance/"><u>Update ThinkPad Drivers for Optimal W10 Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-pc-today-with-windows-11-touch-features/"><u>Upgrade Your PC Today with Windows 11 Touch Features</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-system-incor-written-in-the-stars-mtk-drivers-win1110/"><u>Upgrade Your System: Incor Written in the Stars - MTK Drivers, Win11/10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-to-the-latest-win-pcs-astro-drivers/"><u>Upgrading to the Latest: Win PC's Astro Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/vega-3-gpu-update-free-driver-download-2024/"><u>Vega 3 GPU Update - Free Driver Download 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-elevate-your-feed-quality-with-these-tags/"><u>[Updated] 2024 Approved Elevate Your Feed Quality with These Tags</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-determining-maximum-videos-on-a-64gb-device-for-2024/"><u>[Updated] Determining Maximum Videos on a 64GB Device for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-step-up-your-gaming-with-advanced-ps4-capture-techniques/"><u>[Updated] In 2024, Step Up Your Gaming with Advanced PS4 Capture Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-driver-changes-on-winos-versions-a-straightforward-tutorial/"><u>Accelerate Driver Changes on WINOS Versions - A Straightforward Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/align-windows-11plus7plus81-drivers-to-optimized-intel-hardware/"><u>Align Windows 11+7+8.1 Drivers to Optimized Intel Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-firmware-upgraded-for-compatibility-with-os/"><u>Audio Firmware Upgraded for Compatibility with OS</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/create-a-page-turning-illusion-for-your-online-book-with-corner-flips-learn-the-art-at-flipbuildercom/"><u>Create a Page-Turning Illusion for Your Online Book with Corner Flips: Learn the Art at FlipBuilder.com</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-setup-logitech-c270-usb-webcam-driver-guide/"><u>Download & Setup: Logitech C270 USB Webcam Driver Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-deskjet-hp-print-efficiency-on-win11/"><u>Enhance Deskjet HP Print Efficiency on Win11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-15-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 15 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-f34-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy F34 5G Through Google Earth?</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-copyright-after-sharing-a-selfie/"><u>Navigating Copyright After Sharing a Selfie</u></a></li>
+<li><a href="https://games-able.techidaily.com/rebooting-ps5s-subscription-status/"><u>Rebooting PS5's Subscription Status</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063001015-smoothen-windows-11-display-update-your-hdmi-drivers-now/"><u>Smoothen Windows 11 Display: Update Your HDMI Drivers Now!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-drivers-startech-support-on-winxp-811/"><u>Streamlined Drivers: StarTech Support on WinXP, 8/11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transform-windows-11-homes-into-pros-comprehensive-guide/"><u>Transform Windows 11 Homes Into Pros: Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-compatibility-fixes-in-antique-windows-versions/"><u>USB Compatibility Fixes in Antique Windows Versions</u></a></li>
 </ul></div>
 

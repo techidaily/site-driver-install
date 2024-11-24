@@ -1,7 +1,7 @@
 ---
 title: "Windows Driver Reinstallation: USB Focus for Legacy Machines"
-date: 2024-11-12T21:45:52.603Z
-updated: 2024-11-14T18:34:48.070Z
+date: 2024-11-20T16:46:12.595Z
+updated: 2024-11-24T18:52:52.831Z
 tags:
   - win11
   - win10
@@ -26,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Reinstall the drivers using Device Manager
@@ -40,28 +37,22 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
@@ -76,14 +67,15 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -109,22 +101,17 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-essential-skills-for-youtube-success-8-free-online-courses/"><u>[New] In 2024, Essential Skills for YouTube Success 8 Free Online Courses</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-of-gopro-timelapse-photography/"><u>[Updated] Unveiling the Secrets of GoPro Timelapse Photography</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/easy-tutorial-how-to-configure-and-manage-recurring-tasks-via-vcenters-user-interface/"><u>Easy Tutorial: How to Configure and Manage Recurring Tasks via vCenter's User Interface</u></a></li>
-<li><a href="https://driver-install.techidaily.com/experience-great-listening-on-a-budget-with-amazon-basic-soundbar/"><u>Experience Great Listening on a Budget with Amazon Basic Soundbar</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ghostly-gtx-displayed-by-device-hub/"><u>Ghostly GTX Displayed by Device Hub</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-v30t-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme V30T Phones? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-a2-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo A2 Without PUK Codes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-understanding-and-enabling-fbs-auto-video-functionality/"><u>In 2024, Understanding and Enabling Fb's Auto-Video Functionality</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1723262408287-innovation-hub-the-inside-scoop-from-toms-hardware-for-gadget-lovers/"><u>Innovation Hub: The Inside Scoop From Tom's Hardware for Gadget Lovers.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/inside-toms-gadget-guide-reliable-assessments-of-hardware-products/"><u>Inside Tom's Gadget Guide: Reliable Assessments of Hardware Products</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-your-computer-needs-the-ultimate-toms-hardware-compilation/"><u>Mastering Your Computer Needs: The Ultimate Tom's Hardware Compilation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/meteor-lake-cpu-driven-new-mini-pc-with-onexplayer-m1-intel-core-ultra-coffee-lake-9th-gen-up-to-32gb-ram-and-oculink/"><u>Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-classics-playing-oldschool-games-with-dosbox-x/"><u>Reviving Classics: Playing Oldschool Games with DOSBox-X</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-lexmark-printer-driver-integration/"><u>Speedy Lexmark Printer Driver Integration</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-revamping-msi-motherboard-drivers-for-classic-oss/"><u>Step-by-Step: Revamping MSI Motherboard Drivers for Classic OSs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y36-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y36 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ultra-mini-desktop-that-mirrors-laptop-aesthetics-houses-beefy-core-i9-cpu-and-nvidias-mobile-gaming-power/"><u>Ultra Mini Desktop That Mirrors Laptop Aesthetics - Houses Beefy Core I9 CPU and NVIDIA's Mobile Gaming Power</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-screenshot-and-recorder-software-for-professors/"><u>[Updated] 2024 Approved Best Screenshot and Recorder Software for Professors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-complete-lowdown-on-io-image-recording-software/"><u>2024 Approved The Complete Lowdown on IO Image Recording Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/all-about-color-grading-for-2024/"><u>All About Color Grading for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bayerische-hypotheken-und-wechselbank/"><u>Bayerische Hypotheken Und Wechselbank</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-mx870-driver-on-windows-11-7-and-8-platforms/"><u>Enable MX870 Driver on Windows 11, 7, and 8 Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reactivating-stalled-windows-batch-processes/"><u>Guide to Reactivating Stalled Windows Batch Processes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/razer-mice-driver-installation-on-windows-systems/"><u>Razer Mice Driver Installation on Windows Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/thrifty-tv-buyers-rejoice-review-of-the-50s425-tcls-50-inch-4k-led-smart-display-featuring-roku-released-in-2019/"><u>Thrifty TV Buyers Rejoice: Review of the 50S425 TCL's 50-Inch 4K LED Smart Display, Featuring Roku (Released in 2019)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-graphics-support-in-windows/"><u>Update Graphics Support in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-systems-audio-for-optimal-performance/"><u>Update Your System’s Audio for Optimal Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-your-computers-mouse-with-ease/"><u>Upgrading Your Computer's Mouse with Ease</u></a></li>
 </ul></div>
 

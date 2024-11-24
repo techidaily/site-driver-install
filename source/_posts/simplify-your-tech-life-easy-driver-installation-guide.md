@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Tech Life: Easy Driver Installation Guide"
-date: 2024-10-17T08:59:15.601Z
-updated: 2024-10-23T16:21:59.628Z
+date: 2024-11-22T16:23:02.399Z
+updated: 2024-11-24T16:32:09.048Z
 tags:
   - win11
   - win10
@@ -23,10 +23,7 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
  To download new drivers, go to the PC manufacturer’s website or the device manufacturer’s website. Driver updates are often available in the Support section of their website. If you are using a branded computer, it is recommended that you go to the PC manufacturer’s website to check for the latest driver first, as they may customize the driver. You are required to use the **PC model** and the **operating system** that you are using to download the correct driver. Usually, the PC model can be found on the machine. See [How to Check Your Operating System Version](https://tools.techidaily.com/drivereasy/download/) . If you need to download the driver from device manufacturer, then you are required to know the device model.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install the driver
@@ -40,8 +37,17 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Then type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 2. Right-click on the device that needs a driver update and select **Update driver** . (Here we take a video card as an example.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Update-driver.jpg)
 3. Select **Browse my computer for drivers** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse-my-computer-for-drivers-Graphics-card.jpg)
 4. Select **Let me pick from a list of device drivers on my computer** .  
@@ -49,21 +55,11 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Let-me-pick-from-a-list-of-available-drivers-on-my-computer-Graphics-driver.jpg)
 5. Click the **Have Disk…** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Have-disk.jpg)
 6. Click the **Browse…** button. Navigate to the folder where you saved the downloaded driver file and browse the .inf driver file.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse.jpg)
@@ -85,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -108,24 +101,20 @@ thumbnail: https://thmb.techidaily.com/11ac2fbc2d55a16e83a13ae11b90d85bbbd47dc0f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-compelling-videos-youtubes-best-thumbnail-practices/"><u>[New] 2024 Approved Crafting Compelling Videos YouTube's Best Thumbnail Practices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-streammaster-showdown-obs-or-shadowplay/"><u>[New] In 2024, StreamMaster Showdown OBS or ShadowPlay?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-your-youtube-trajectory-essential-tools-from-social-blade/"><u>[Updated] 2024 Approved Charting Your YouTube Trajectory Essential Tools From Social Blade</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-discovering-the-timeline-for-youtube-earnings/"><u>[Updated] Discovering the Timeline for YouTube Earnings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mold-amusement-pictures-for-giphy-platform/"><u>[Updated] Mold Amusement Pictures for Giphy Platform</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amds-latest-performance-upgrade-available-rx-570-drivers-for-oses/"><u>AMD's Latest Performance Upgrade - Available RX 570 Drivers for OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/convenient-bluetooth-driver-reset-for-windows-1011/"><u>Convenient Bluetooth Driver Reset for Windows 10/11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cookiebot-driven-insights-elevating-data-driven-decisions-in-marketing/"><u>Cookiebot Driven Insights: Elevating Data-Driven Decisions in Marketing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-hot-40-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Hot 40</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-to-quickly-reviving-print-capabilities-by-updating-drivers-on-win10117/"><u>Guide to Quickly Reviving Print Capabilities by Updating Drivers on WIN10/11/7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-wireless-connectivity-in-windows-10-via-atheros-driver-update/"><u>Improve Wireless Connectivity in Windows 10 via Atheros Driver Update</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-latest-hp-graphics-for-windows-10/"><u>Install Latest HP Graphics for Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-moto-e13-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Moto E13 Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/netgear-a6200-driver-download-and-update-for-windows/"><u>Netgear a6200 Driver Download & Update for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/scanning-mastery-s1500-driver-upgrade/"><u>Scanning Mastery: S1500 Driver Upgrade</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-your-device-upgrade-intel-82579lm-drivers/"><u>Streamlining Your Device: Upgrade Intel 82579LM Drivers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-searchgpt-your-new-go-to-web-search-platform-enhanced-with-chatgpts-powerful-capabilities/"><u>Unveiling SearchGPT – Your New Go-To Web Search Platform Enhanced with ChatGPT's Powerful Capabilities</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-7-bluetooth-setup-made-simple/"><u>Windows 7 Bluetooth Setup Made Simple</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-access-all-movies-ioss-no1-freepluspaid-film-apps-guide/"><u>[New] Access All Movies IOS's No.1, FREE+Paid Film Apps Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-complete-igtv-user-manual/"><u>[New] In 2024, The Complete IGTV User Manual</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-transition-moving-your-snapchat-savings-home-for-2024/"><u>[New] Mastering the Transition Moving Your Snapchat Savings Home for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-syncing-your-browser-with-auto-play-feature-in-facebook-for-2024/"><u>[Updated] Syncing Your Browser with Auto-Play Feature in Facebook for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensive-guide-to-wacom-driver-management-across-win-versions/"><u>Comprehensive Guide to Wacom Driver Management Across WIN Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-inkjet-printer-for-windows-environments/"><u>Configure Inkjet Printer for Windows Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-gaomon-s620-for-optimal-performance/"><u>Download Gaomon S620 for Optimal Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixed-hp-laserjet-1020-drivers-on-windows-systems/"><u>Fixed HP LaserJet 1020 Drivers on Windows Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-windows-uefi-ie-driver-installation/"><u>Guide to Windows UEFI IE Driver Installation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-y17s-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Y17s.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-reactivate-older-os-network-links/"><u>How To Reactivate Older OS Network Links</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-poco-f5-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Poco F5 5G Without PUK Codes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-overwatch-voip-functionality-with-these-expert-tips/"><u>Restore Your Overwatch VOIP Functionality with These Expert Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063478001-unleash-device-full-capability-with-a-simple-adb-click/"><u>Unleash Device Full Capability - With a Simple ADB Click!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unlocking-seamless-linktree-addition-in-your-tiktok-profile-for-2024/"><u>Unlocking Seamless Linktree Addition in Your TikTok Profile for 2024</u></a></li>
 </ul></div>
 

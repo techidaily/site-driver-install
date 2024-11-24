@@ -1,7 +1,7 @@
 ---
 title: How to Stop Microsoft Edge From Frequently Exiting Unexpectedly on Windows Vehicles
-date: 2024-11-07T21:16:43.485Z
-updated: 2024-11-14T20:15:40.520Z
+date: 2024-11-20T16:18:24.494Z
+updated: 2024-11-24T17:17:49.402Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 * Restart your PC
 * Install the latest updates
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -43,6 +47,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
@@ -50,6 +58,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -65,33 +77,16 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
@@ -104,31 +99,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Click**Clear history** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -160,23 +138,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -187,6 +156,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -216,20 +189,22 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/accelerated-driver-update-reenergize-your-logitech-mouse-in-win11/"><u>Accelerated Driver Update - Reenergize Your Logitech Mouse in Win11</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/achieving-synchronized-page-turning-sound-effects-in-flipbook-projects-using-flipbuilder-tools/"><u>Achieving Synchronized Page-Turning Sound Effects in FlipBook Projects Using FlipBuilder Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/convenient-installation-windows-11-haptic-driver-update/"><u>Convenient Installation: Windows 11 Haptic Driver Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ensure-smooth-performance-thinkpad-w10-updates/"><u>Ensure Smooth Performance: ThinkPad W10 Updates</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Identify missing hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-ideal-4k-recorder-software-selections/"><u>In 2024, Ideal 4K Recorder Software Selections</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-civ-5-crashes-on-desktop-systems/"><u>Overcoming Civ 5 Crashes on Desktop Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-and-free-access-to-canon-scanner-drivers-pc-edition/"><u>Quick & Free Access to Canon Scanner Drivers, PC Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revise-graphics-support-on-acer-w11-edition/"><u>Revise Graphics Support on Acer, W11 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-when-your-windows-pc-wont-read-or-play-a-dvd/"><u>Step-by-Step Fixes for When Your Windows PC Won't Read or Play a DVD</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-g42-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia G42 5G FRP Bypass</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-of-adobe-and-exploring-others/"><u>Unlocking the Potential of Adobe & Exploring Others</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-power-of-amd-ryzen-in-the-asus-zenbook-s16-comprehensive-review-and-benchmarks/"><u>Unveiling the Power of AMD Ryzen in the Asus Zenbook S16: Comprehensive Review & Benchmarks</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-s-top-10-streaming-video-services-free-ones-available/"><u>Updated In 2024, S Top 10 Streaming Video Services Free Ones Available</u></a></li>
-<li><a href="https://driver-install.techidaily.com/wacom-tablet-compatible-with-win10-free-download/"><u>Wacom Tablet Compatible with Win10 [FREE] Download</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-primes-peak-performers-highest-tweets-and-viewing-numbers-for-2024/"><u>[Updated] Prime’s Peak Performers Highest Tweets & Viewing Numbers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/adding-depth-with-3d-text-in-photoshop-workflows-for-2024/"><u>Adding Depth with 3D Text in Photoshop Workflows for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/assimilate-hp-laptop-driver-into-win10-pcs/"><u>Assimilate HP Laptop Driver Into Win10 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-the-drivers-from-xp-to-win7-81-and-10-with-usbasp/"><u>Bridge the Drivers: From XP to Win7, 8.1 & 10 with USBasp</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/carbon-monoxide-binds-with-hemoglobin-more-effectively-than-oxygen-reducing-the-bloods-oxygen-carrying-capacity-and-can-lead-to-hypoxic-injury-to-the-heart.451/"><u>Carbon Monoxide Binds with Hemoglobin More Effectively than Oxygen, Reducing the Blood's Oxygen-Carrying Capacity and Can Lead to Hypoxic Injury to the Heart.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/dominate-windows-solve-usb-glitches-now/"><u>Dominate Windows: Solve USB Glitches Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-update-process-for-acer-drivers-in-win11/"><u>Efficient Update Process for Acer Drivers in Win11</u></a></li>
+<li><a href="https://win-top.techidaily.com/effortless-transition-transferring-data-from-your-previous-device-to-the-latest-iphone-1415/"><u>Effortless Transition: Transferring Data From Your Previous Device to the Latest iPhone 14/15</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-display-via-windows-11-hdmi-driver-refresh/"><u>Enhancing Display via Windows 11: HDMI Driver Refresh</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-benq-sw320-review-a-gateway-to-true-high-definition/"><u>In 2024, BenQ SW320 Review A Gateway to True High Definition</u></a></li>
+<li><a href="https://apple-account.techidaily.com/navigating-the-world-of-wifi-easier-with-tp-links-deco-p9-system-a-detailed-breakdown/"><u>Navigating the World of WiFi Easier with TP-Link's Deco P9 System - A Detailed Breakdown</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-updates-revolutionizing-your-windows-10-via-new-acer-drivers/"><u>Speedy Updates: Revolutionizing Your Windows 10 via New Acer Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-precise-way-to-update-device-drivers-on-xp/"><u>The Precise Way to Update Device Drivers on XP</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitterscape-treasury-your-one-stop-shop-for-tweeted-gifs/"><u>Twitterscape Treasury Your One-Stop Shop for Tweeted GIFs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-touch-screen-driver-download-and-update-easily/"><u>Windows 11 Touch Screen Driver Download & Update. Easily!</u></a></li>
 </ul></div>
 

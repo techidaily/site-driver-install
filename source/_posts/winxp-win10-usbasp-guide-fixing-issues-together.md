@@ -1,7 +1,7 @@
 ---
 title: "WinXP-Win10 USBasp Guide: Fixing Issues Together"
-date: 2024-10-16T23:50:35.005Z
-updated: 2024-10-24T00:31:29.222Z
+date: 2024-11-17T18:03:45.165Z
+updated: 2024-11-24T16:53:59.644Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc737a002.jpg)
 3. Click the driver package in the**Drivers** section, and download the driver with the instructions.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc9287d92.png)
 4. Run the downloaded file and follow the on-screen instructions to finish it.
 
@@ -56,10 +49,7 @@ To do so:
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Download and update USBasp driver automatically
@@ -76,10 +66,7 @@ To do so:
 3. Click the**Update** button next to the device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -89,6 +76,10 @@ To do so:
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](mailto:support@drivereasy.com) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 Tada, now you should have updated the USBasp driver easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Download and update USBasp driver via Device Manager
 
@@ -101,6 +92,10 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dcf3157ac.jpg)
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
 4. Choose**Search automatically for updated driver software** .  
 
@@ -108,10 +103,7 @@ Here’s what you need to do:
 5. Follow the on-screen instructions to finish it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -132,21 +124,15 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-cut-the-cord-free-tiktok-videos-here/"><u>[Updated] Cut the Cord - FREE TikTok Videos Here</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-discover-the-premier-screen-recording-tools-for-mac/"><u>[Updated] Discover the Premier Screen Recording Tools for Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-pioneering-efficient-editing-embrace-inshot-software/"><u>[Updated] Pioneering Efficient Editing Embrace Inshot Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amplify-systems-visual-capabilities/"><u>Amplify System's Visual Capabilities</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-upgrade-conexant-hd-compatible-with-win11/"><u>Drive Upgrade: Conexant HD Compatible with Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-win10-touchscreen-driver-fixes/"><u>Effortless Win10 TouchScreen Driver Fixes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/novice-to-notoriety-steps-for-a-youtube-channel-in-gaming-for-2024/"><u>From Novice to Notoriety Steps for a YouTube Channel in Gaming for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-innovative-approaches-to-run-a-winning-fb-giveaway/"><u>In 2024, Innovative Approaches to Run a Winning FB Giveaway</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-lava-yuva-3-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Lava Yuva 3 Pro for Streaming | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/macaw-mambo-march-for-2024/"><u>Macaw Mambo March for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-servers-not-available-error-in-destiny-2-expert-tips-and-fixes/"><u>Overcoming 'Servers Not Available' Error in Destiny 2 - Expert Tips & Fixes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overlapping-functionality-review/"><u>Overlapping Functionality Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/signature-absence-in-third-party-data-cleared/"><u>Signature Absence in Third-Party Data Cleared</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-annual-gaming-plan-and-its-financial-implications/"><u>Sony's Annual Gaming Plan and Its Financial Implications</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stay-ahead-of-the-curve-with-latest-drivers-for-hp-omen-15/"><u>Stay Ahead of the Curve with Latest Drivers for HP Omen 15</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-tech-upgrades-for-lenovo-u310/"><u>Streamlined Tech Upgrades for Lenovo U310</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715860357024-new-capturing-screen-content-on-huawei-mate-10-20-and-p-series-phones-via-built-in-recorders/"><u>[New] Capturing Screen Content on Huawei Mate 10, 20 & P-Series Phones via Built-In Recorders.</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-broadcast-brilliance-with-cost-effective-templates/"><u>[New] In 2024, Broadcast Brilliance with Cost-Effective Templates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-latest-drivers-for-hp-printer-4630-model/"><u>Download Latest Drivers for HP Printer 4630 Model</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-reinstalling-hardware-drivers-for-all-windows-editions/"><u>Efficiently Reinstalling Hardware Drivers for All Windows Editions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-windows-security-with-me/"><u>Enhance Windows Security with ME</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-graphics-via-hp-software-windows-10/"><u>Enhanced Graphics via HP Software, Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-expert-techniques-for-simple-iphone-screenshot-processes/"><u>In 2024, Expert Techniques for Simple IPhone Screenshot Processes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-gt-10-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix GT 10 Pro Device</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/precision-and-power-in-your-hands-the-ultimate-guide-to-the-gamesir-x2s-type-c-review/"><u>Precision and Power in Your Hands: The Ultimate Guide to the GameSir X2s Type-C Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sky-magnificence-in-focus-leading-websites-uncovered/"><u>Sky Magnificence in Focus Leading Websites Uncovered</u></a></li>
 </ul></div>
 

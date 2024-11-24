@@ -1,7 +1,7 @@
 ---
 title: Setup Canon Printer Support for WIN 11 & Older Editions
-date: 2024-11-13T20:18:29.155Z
-updated: 2024-11-15T02:40:36.305Z
+date: 2024-11-21T16:18:54.926Z
+updated: 2024-11-24T17:33:54.241Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 * [**Way 1. Download the latest Canon MX870 driver from Canon website**](#Way1)
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
 
  1) Head to [Canon Driver download center](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers) .
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
  2) Enter **MX870**  in the search box and click **PIXMA MX870** from the matched result. Go on to click **Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
@@ -39,19 +47,14 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
@@ -63,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
@@ -88,24 +88,15 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ree-youtube-money-calculators-calculate-youtube-money-in-2024/"><u>[New] Free YouTube Money Calculators-Calculate YouTube Money, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-brief-guide-to-download-install-and-use-ez-grabber/"><u>[New] In 2024, A Brief Guide to Download, Install, and Use EZ Grabber</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-enhance-your-vtuber-experience-with-top-voice-modification-tools/"><u>[New] In 2024, Enhance Your VTuber Experience with Top Voice Modification Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-basic-to-exceptional-a-step-by-step-thumbnail-guide/"><u>[Updated] 2024 Approved From Basic to Exceptional A Step-by-Step Thumbnail Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-elite-gaming-laptops-top-5-options-for-gamers/"><u>Affordable Elite Gaming Laptops - Top 5 Options for Gamers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/getting-started-with-photography-the-leading-cams/"><u>Getting Started with Photography The Leading Cams</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unlocking-potential-snapchat-insights-for-companies/"><u>In 2024, Unlocking Potential Snapchat Insights for Companies</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-latest-hd-audio-nvidia-drivers-on-win11/"><u>Installing Latest HD Audio NVIDIA Drivers on Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-upgrade-optimize-windows-10-and-speed-up-acer-performance/"><u>Instant Upgrade: Optimize Windows 10 & Speed up Acer Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/introduction-to-opengl-programming/"><u>Introduction to OpenGL Programming</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intuitive-guide-to-adding-new-hardware-drivers/"><u>Intuitive Guide to Adding New Hardware Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-driver-for-hp-officejet-4630-available/"><u>Latest Driver for HP Officejet 4630 Available</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-driver-updates-a-quick-guide-for-win-11-users/"><u>Mastering Driver Updates: A Quick Guide for Win 11 Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/modernizing-old-operating-systems-with-updated-amd-supports/"><u>Modernizing Old Operating Systems with Updated AMD Supports</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-release-alert-gtx-970s-performance-on-w10-enhanced/"><u>New Release Alert: GTX 970'S Performance on W10 Enhanced</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-drivers-update-boost-performance-gtx-970-windows-10-edition/"><u>Nvidia Drivers Update: Boost Performance - GTX 970 Windows 10 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prime-frame-rate-enhancing-laggard-motion/"><u>Prime Frame Rate Enhancing Laggard Motion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-efficiently-using-look-up-tables-luts-for-2024/"><u>The Ultimate Guide to Efficiently Using Look-Up Tables (LUTs) for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unleashing-potential-instagram-tiktok-sync-guidebook-for-2024/"><u>Unleashing Potential Instagram-TikTok Sync Guidebook for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prime-time-action-film-transcription/"><u>[New] In 2024, Prime Time Action Film Transcription</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-quietest-cool-memes-on-the-web/"><u>[Updated] The Quietest Cool Memes on the Web</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-11documents4/"><u>如何在Windows 11中迁移Documents磁盘：4个有效方法解析</u></a></li>
+<li><a href="https://win-tips.techidaily.com/win11-lenovo/"><u>詳解如何損修Win11 Lenovo硬碟分割問題 - 教程</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-xp-system-mastering-driver-changes-by-hands/"><u>Elevate Your XP System: Mastering Driver Changes by Hands</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-enhancing-scansnap-s1500-performance/"><u>Guide to Enhancing ScanSnap S1500 Performance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-your-fcp-potential-with-these-10-plugs/"><u>Unlock Your FCP Potential with These 10 Plugs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-nvidia-ai-compute-drivers-rtx-3090/"><u>Update Nvidia AI Compute Drivers, RTX 3090</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-friendly-m2-nvme-compatibility/"><u>Win-Friendly M.2 NVMe Compatibility</u></a></li>
 </ul></div>
 

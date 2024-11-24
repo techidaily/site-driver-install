@@ -1,7 +1,7 @@
 ---
 title: Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860
-date: 2024-11-07T21:17:45.347Z
-updated: 2024-11-15T00:46:16.808Z
+date: 2024-11-21T17:08:58.978Z
+updated: 2024-11-24T17:10:06.858Z
 tags:
   - desktop
 categories:
@@ -49,6 +49,10 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -72,31 +76,24 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-advanced-techniques-for-title-artistry-in-adobe-ae-for-2024/"><u>[Updated] Advanced Techniques for Title Artistry in Adobe AE for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-new-to-vector-art-dive-into-basics-forms-and-software/"><u>2024 Approved New to Vector Art? Dive Into Basics, Forms, and Software</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1726219689115-movavi/"><u>美しいキャプション付き画像作成手順 - Movaviの独案</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/budding-filmmakers-check-out-these-gopro-upgrades-for-2024/"><u>Budding Filmmakers, Check Out These GoPro Upgrades for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-reviving-inactive-speakers-on-windows-10-computers/"><u>Comprehensive Fixes: Reviving Inactive Speakers on Windows 10 Computers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-fueled-website-optimization/"><u>Cookiebot-Fueled Website Optimization</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-download-link-for-wacom-bamboo-drivers/"><u>Direct Download Link for Wacom Bamboo Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-activate-surface-pro-4-drivers-in-windows/"><u>Download and Activate Surface Pro 4 Drivers in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-driver-updates-for-msi-in-pre-win10-and-win11-systems/"><u>Efficient Driver Updates for MSI in Pre-Win10 & Win11 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-updating-windows-71011s-printer-drivers/"><u>Efficiently Updating Windows 7/10/11'S Printer Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-windows-11-driver-revision-process/"><u>Effortless Windows 11 Driver Revision Process</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-screen-clarity-with-windows-update-tips/"><u>Elevate Screen Clarity with Windows Update Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-logitech-mouse-functionality-windows-11-guide/"><u>Enhance Logitech Mouse Functionality - Windows 11 Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-windows-display-upgrade-hp-graphics-drivers/"><u>Enhance Windows Display: Upgrade HP Graphics Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonize-software-and-chip-specs/"><u>Harmonize Software and Chip Specs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-overlay-techniques-for-video-and-image-enhancement-with-windows-10/"><u>Mastering Overlay Techniques for Video and Image Enhancement with Windows 10</u></a></li>
-<li><a href="https://win-info.techidaily.com/protecting-your-phone-from-threats-6-essential-tips-for-a-malware-free-android-experience/"><u>Protecting Your Phone From Threats: 6 Essential Tips for a Malware-Free Android Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Nokia C210? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-assassins-creed-syndicate-crashes-expert-advice/"><u>Ultimate Fixes for Assassin's Creed Syndicate Crashes - Expert Advice</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-entertainment-unlocked-apk-of-funimate-explained-for-2024/"><u>[New] Entertainment Unlocked APK of Funimate Explained for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unveiling-the-secrets-of-effective-screencasts-for-2024/"><u>[New] Unveiling the Secrets of Effective Screencasts for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/11-key-steps-for-perfect-color-grading-in-photography-for-2024/"><u>11 Key Steps for Perfect Color Grading in Photography for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-analysis-of-gemini-vs-chatgpt-plus-determining-top-performance/"><u>Advanced Analysis of Gemini Vs. ChatGPT Plus - Determining Top Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridging-devices-direct-pc-to-network-via-usb/"><u>Bridging Devices: Direct PC-to-Network via USB</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridging-usbasp-compatibility-gaps-across-older-and-modern-windows/"><u>Bridging USBasp Compatibility Gaps Across Older and Modern Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-find-x7-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Find X7 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-printer-driver-issues-on-windows-11/"><u>Fix Printer Driver Issues on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-quadro-rtx-6000-drivers-download-and-update/"><u>NVIDIA Quadro RTX 6000 Drivers - Download & Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-w107-performance-install-aoc-e1659dri/"><u>Optimize W10/7 Performance - Install AOC E1659DRI</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-win10-screen-update-guide/"><u>Quick Win10 Screen Update Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenate-mouse-operation-on-winx-10-and-11/"><u>Rejuvenate Mouse Operation on WINX, 10 & 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-process-for-pro-6-drivers-installation/"><u>Streamlined Process for Pro 6 Drivers Installation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-role-and-function-of-slug-lines-for-2024/"><u>The Role and Function of Slug Lines for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-10-easy-to-use-drones-kids-edition/"><u>Top 10 Easy-to-Use Drones - Kids Edition</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-ranked-windows-10-image-viewer-applications-the-ultimate-guide/"><u>Top-Ranked Windows 10 Image Viewer Applications - The Ultimate Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-drivers-on-windows-xp-without-automatic-tools/"><u>Updating Drivers on Windows XP Without Automatic Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-im-continuously-choosing-the-apple-watch-series-7-over-upcoming-series-10/"><u>Why I'm Continuously Choosing the Apple Watch Series 7 Over Upcoming Series 10</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

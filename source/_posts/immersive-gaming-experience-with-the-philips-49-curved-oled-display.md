@@ -1,7 +1,7 @@
 ---
 title: Immersive Gaming Experience with the Philips 49 Curved OLED Display
-date: 2024-11-13T23:56:53.628Z
-updated: 2024-11-15T08:30:03.631Z
+date: 2024-11-20T16:51:22.214Z
+updated: 2024-11-24T17:25:50.412Z
 categories:
   - BestProducts
 description: This Article Describes Immersive Gaming Experience with the Philips 49 Curved OLED Display
@@ -37,6 +37,10 @@ Lifewire / Jonno Hill
 
 4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HP Omen Obelisk
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
@@ -69,6 +73,10 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 ## **Design** : **Nice looks and small footprint, with many reservations**
@@ -94,10 +102,7 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
@@ -124,27 +129,17 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Pz9tV-mhJl_Cjm8HSqEQ_VZPbVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-5-cdbd9d78a8c14b8e8bce0113d12e9fcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Just enough options**
 
@@ -156,6 +151,10 @@ Lifewire / Jonno Hill
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Highly competitive**
 
  The HP OMEN Obelisk with the same specs as this one can be found for around $2,000, at least when it’s in stock. Despite a lot of flaws that I can point to a nit-pick about, the price is one of the main reasons I still consider the OMEN to be a solid deal. I went through the trouble of parting out a similar build on PCPartPicker, going as far as to cut corners where I usually wouldn’t, and still arrived at just under $1800 before tax.
@@ -165,10 +164,7 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
@@ -184,13 +180,6 @@ Lifewire / Jonno Hill
  **High performance and fantastic value, but upsetting thermals.**
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -226,20 +215,19 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-seamless-integration-mac-recording-techniques-for-snapchat/"><u>[Updated] 2024 Approved Seamless Integration Mac Recording Techniques for Snapchat</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-tunefabs-cutting-edge-approach-to-live-streaming/"><u>2024 Approved Tunefab's Cutting-Edge Approach to Live Streaming</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/canon-mf4770n-printer-driver-update-windows-guide/"><u>Canon MF4770n Printer Driver Update: Windows Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/confront-uartusb-incompatibility/"><u>Confront UART/USB Incompatibility</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-setup-guide-asus-bt400/"><u>Download and Setup Guide: Asus BT400</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-hp-laserjet-1102w-for-pcs/"><u>Download HP LaserJet 1102W for PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-your-pc-with-windows-11-touch-features/"><u>Enhance Your PC with Windows 11 Touch Features</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ensuring-smooth-printing-update-your-hp-officejet-pro-8620-drivers-on-pcs/"><u>Ensuring Smooth Printing: Update Your HP OfficeJet Pro 8620 Drivers on PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-no-installable-drivers-found-on-windows-1087/"><u>How to Fix 'No Installable Drivers Found' On Windows 10/8/7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-ax19-wireless-network-card-in-asus-devices/"><u>Install AX19 Wireless Network Card in ASUS Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-youtube-live-selling-boost-your-sales-with-these-tips-for-2024/"><u>New YouTube Live Selling Boost Your Sales With These Tips for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/t-potential-per-viewer-youtubes-financial-dynamics-for-2024/"><u>Profit Potential Per Viewer YouTube's Financial Dynamics for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-sound-outputs-guides-for-windows-7-10-users/"><u>Troubleshooting Missing Sound Outputs: Guides for Windows 7-10 Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-the-perks-and-pitfalls-of-mcn-alliances/"><u>[New] 2024 Approved Exploring the Perks and Pitfalls of MCN Alliances</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premium-sound-quality-best-of-the-best-9-mic-recording-tools-2e/"><u>[New] In 2024, Premium Sound Quality Best of the Best 9 Mic Recording Tools (2E)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-performance-essential-win10-drivers-for-yoga-900s/"><u>Elevate Performance: Essential Win10 Drivers for Yoga 900S</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-live-action-sims-perfecting-your-videos/"><u>In 2024, Live-Action Sims Perfecting Your Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/master-your-wellbeing-with-garmin-venu-a-detailed-look-at-continuous-fitness-monitoring/"><u>Master Your Wellbeing with Garmin Venu: A Detailed Look at Continuous Fitness Monitoring</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-latest-driver-release/"><u>Quadro RTX 6000 Latest Driver Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/recommended-practices-for-nvidia-audio-drivers-in-win11/"><u>Recommended Practices for NVIDIA Audio Drivers in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-win-password-update/"><u>Step-by-Step Guide to Win Password Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-airpod-connection-errors-on-windows-11-latest-techniques/"><u>Step-by-Step Guide: Overcoming AirPod Connection Errors on Windows 11 - Latest Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968635485-streamline-your-surface-books-experience-with-quick-driver-downloads-and-updates/"><u>Streamline Your Surface Book's Experience with Quick Driver Downloads and Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-hp-envy-5530-driver-with-windows-10-pcs/"><u>Sync HP Envy 5530 Driver with Windows 10 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-wireless-driver-revamp-for-atheros-in-windows-10/"><u>The Ultimate Guide: Wireless Driver Revamp for Atheros in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-xerox-copier-6515-drivers/"><u>Update Xerox Copier 6515 Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voice-for-algorithms-chatgpts-new-command-respondive-capability/"><u>Voice for Algorithms: ChatGPT's New Command-Respondive Capability</u></a></li>
 </ul></div>
 

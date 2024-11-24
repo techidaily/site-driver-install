@@ -1,7 +1,7 @@
 ---
 title: "USB Software Update: Version 4.5 for U-Are-U Reader"
-date: 2024-11-09T09:19:16.248Z
-updated: 2024-11-14T22:20:33.329Z
+date: 2024-11-18T16:44:58.608Z
+updated: 2024-11-24T17:26:23.251Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 2: Install the driver manually
 
  1) On your keyboard, press the **Windows logo key + R** at the same time, type **devmgmt.msc** , and press **Enter** .
@@ -56,10 +49,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device-manager-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double click**Biometric devices** , then right-click**U.are.U 4500 Fingerprint Reader,** and select **Update driver** .
@@ -67,10 +57,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Browse my computer for driver software** .
@@ -84,6 +71,10 @@ OR
 See if your fingerprint reader works properly again.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -100,10 +91,7 @@ See if your fingerprint reader works properly again.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
@@ -111,6 +99,10 @@ See if your fingerprint reader works properly again.
  Or click the**Update All** button to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get full support and 30 day money-back guarantee. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your PC after finishing installing.
 
@@ -138,18 +130,18 @@ See if your fingerprint reader works properly again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-tunefab-screen-recorder-review/"><u>[New] 2024 Approved Tunefab Screen Recorder Review</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-go-backwards-a-step-by-step-for-reversing-youtube-videos/"><u>[Updated] In 2024, Go Backwards A Step-by-Step for Reversing YouTube Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-strategic-tagging-for-skyrocketing-youtube-statistics/"><u>2024 Approved Strategic Tagging for Skyrocketing YouTube Statistics</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-transforming-videos-with-unprecedented-clarity-using-vce-22/"><u>2024 Approved Transforming Videos with Unprecedented Clarity Using VCE 2.2</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-asus-ax6000-rt-ax88u-leading-the-charge-in-advanced-wifi-6-connectivity/"><u>In-Depth Analysis of the Asus AX6000 (RT-AX88U): Leading the Charge in Advanced WiFi 6 Connectivity</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722985994652-stop-league-of-legends-crashing-effortless-troubleshooting-steps-inside/"><u>Stop League of Legends Crashing - Effortless Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-hp-printer-functionality-using-win11-drivers/"><u>Streamline HP Printer Functionality Using Win11 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-key-to-modernizing-msi-boards-in-legacy-operating-systems/"><u>The Key to Modernizing MSI Boards in Legacy Operating Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-for-correcting-missing-d3dx924dll-error-messages/"><u>The Ultimate Solution for Correcting Missing d3dx9_24.dll Error Messages</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-with-a-click-lenovo-g580-drivers/"><u>Update with a Click: Lenovo G580 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-computers-amd-radeon-driver/"><u>Update Your Computer's AMD Radeon Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-update-nvidia-gtx-970-drivers/"><u>Windows 10 Update: Nvidia GTX 970 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-hub-reconciliation-fixed/"><u>Windows Hub Reconciliation - Fixed!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-join-the-live-revolution-fb-streaming-tips/"><u>[New] 2024 Approved Join the Live Revolution FB Streaming Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beam-me-up-optimal-webcam-choices-for-podcasts/"><u>2024 Approved Beam Me Up Optimal Webcam Choices for Podcasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-kingdom-clashers-elite-battle-royale-games/"><u>2024 Approved Kingdom Clashers Elite Battle Royale Games</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-precision-in-performance-utilizing-social-blade-for-youtube-data/"><u>2024 Approved Precision in Performance Utilizing Social Blade for YouTube Data</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-gt-5-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme GT 5 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-realme-v30t-frp-bypass-by-drfone-android/"><u>In 2024, About Realme V30T FRP Bypass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elevate-your-vision-advanced-techniques-in-hdr-portraits/"><u>In 2024, Elevate Your Vision Advanced Techniques in HDR Portraits</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-software-installation-toolkit-model-2650-epson/"><u>Intuitive Software Installation Toolkit: Model 2650 Epson</u></a></li>
+<li><a href="https://driver-install.techidaily.com/repair-solving-windows-problems-with-hp-laserjet-pro-400-driver/"><u>Repair: Solving Windows Problems with HP LaserJet Pro 400 Driver</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-instructions-for-malfunctioning-bose-sound-units/"><u>Step-by-Step Repair Instructions for Malfunctioning Bose Sound Units</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-drivers-ensuring-smooth-operation-of-hp-printer-on-win-os/"><u>Sync Drivers: Ensuring Smooth Operation of HP Printer on Win OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-for-compatible-chip-type/"><u>Update for Compatible Chip Type</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-intels-chipset-support-for-ws-11781-systems-efficiency/"><u>Upgrade Intel's Chipset Support for WS 11/7/8.1 Systems Efficiency</u></a></li>
 </ul></div>
 

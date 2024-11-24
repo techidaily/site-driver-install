@@ -1,7 +1,7 @@
 ---
 title: "Update Copier: Model 6515 Drivers"
-date: 2024-11-09T06:51:42.220Z
-updated: 2024-11-14T23:28:46.903Z
+date: 2024-11-19T18:03:36.296Z
+updated: 2024-11-24T17:21:27.206Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/ae11f135f58753564eec93a4a8d775f2e6a724fb4
 
  Therefore, having an up-to-date driver is needed for keeping your Xerox printer in good condition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update your Xerox WorkCentre 6515 driver
 
  Here are the two methods you can try to download or update the printer driver. You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -50,15 +54,16 @@ thumbnail: https://thmb.techidaily.com/ae11f135f58753564eec93a4a8d775f2e6a724fb4
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to a flagged Xerox WorkCentre 6515 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-DE.jpg)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The [**Pro version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com.**](mailto:support@drivereasy.com)
@@ -73,31 +78,18 @@ thumbnail: https://thmb.techidaily.com/ae11f135f58753564eec93a4a8d775f2e6a724fb4
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-download-website.jpg)
 3. Download the driver installer. If you’re using a Windows system, download the**Xerox Global Print Driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-Windows-OS.jpg)  
  If you’re using a macOS, download the**macOS Print and Scan Driver Installer** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-macOS.jpg)
 4. Open the downloaded file. And then follow the on-screen instructions to install the software and drivers on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -122,22 +114,19 @@ thumbnail: https://thmb.techidaily.com/ae11f135f58753564eec93a4a8d775f2e6a724fb4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enthralling-epics-essential-channel-building-tactics/"><u>[New] 2024 Approved Enthralling Epics Essential Channel-Building Tactics</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quintessential-quests-and-thrills-top-10-games/"><u>[New] 2024 Approved Quintessential Quests & Thrills – Top 10 Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-youtube-editing-made-simple-step-by-step-time-stamp-implementation/"><u>[New] 2024 Approved YouTube Editing Made Simple Step-by-Step Time Stamp Implementation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-snapsizestrategy-optimize-your-visual-content-on-ig/"><u>[New] In 2024, SnapSizeStrategy Optimize Your Visual Content on IG</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-cinematic-influence-building-a-powerful-video-marketing-strategy-for-2024/"><u>[New] Instagram Cinematic Influence Building a Powerful Video Marketing Strategy for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tickler-toolkit-image-mashup/"><u>2024 Approved Tickler Toolkit Image Mashup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-battle-of-the-titans-gopro-hero5-black-vs-session/"><u>In 2024, Battle of the Titans GoPro Hero5 Black VS Session</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refined-audio-mastering-the-update-to-scarlett-6i6-drivers/"><u>Refined Audio: Mastering the Update to Scarlett 6I6 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refresh-visual-output-of-windows-10-acer-edition/"><u>Refresh Visual Output of Windows 10, Acer Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reviving-nvidia-sound-for-windows-10-systems/"><u>Reviving NVIDIA Sound for Windows 10 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/settle-hardware-interfacing-discrepancies/"><u>Settle Hardware Interfacing Discrepancies</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-driver-refreshes-for-logitech-sound-devices/"><u>Speedy Driver Refreshes for Logitech Sound Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-windows-10-wireless-with-updated-atheros-drivers/"><u>Streamlining Windows 10 Wireless with Updated Atheros Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/timing-updates-to-intel-pc-drivers/"><u>Timing Updates to Intel PC Drivers</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-to-ethernet-installer-for-quick-connections/"><u>USB-to-Ethernet Installer for Quick Connections</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-gain-techniques-to-expand-your-channels-audience/"><u>[New] In 2024, Quick-Gain Techniques to Expand Your Channel's Audience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/upercharge-your-content-innovative-youtube-seo-tools-to-use/"><u>[New] Supercharge Your Content Innovative YouTube SEO Tools to Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>[New] Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-videoblogging-victory-surviving-ten-frequent-phobias/"><u>[Updated] 2024 Approved Videoblogging Victory Surviving Ten Frequent Phobias</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-no-cost-audio-treasure-trove-for-video-endings/"><u>[Updated] No-Cost Audio Treasure Trove for Video Endings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-personal-aerial-companions-gps-drones-that-never-stray/"><u>2024 Approved Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-poco-c55-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Poco C55 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/advanced-opengl-lighting-methods/"><u>Advanced OpenGL Lighting Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-compatibility-e1659fwu-drivers/"><u>Enhanced Compatibility: E1659FWU Drivers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210163917-9781646282203-higher-learning-for-higher-activities/"><u>Higher Learning for Higher Activities | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-and-boost-latest-driver-updates-for-logitec-widow-7-mouse/"><u>Install & Boost: Latest Driver Updates for Logitec Widow 7 Mouse</u></a></li>
+<li><a href="https://driver-install.techidaily.com/uncomplicated-guide-to-installing-bluetooth-driver-in-win11/"><u>Uncomplicated Guide to Installing Bluetooth Driver in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-20-to-ethernet-step-by-step-driver-instruction/"><u>USB 2.0 to Ethernet: Step by Step Driver Instruction</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Full Process: Reinstalling Graphics Drivers From Scratch"
-date: 2024-09-09T05:07:02.103Z
-updated: 2024-09-10T05:07:02.103Z
+date: 2024-11-20T18:44:59.742Z
+updated: 2024-11-24T16:46:00.888Z
 tags:
   - win11
   - win10
@@ -14,38 +14,18 @@ keywords: Graphics Driver Installation,Reinstall Graphics Drivers Guide,Driver C
 thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95480871656b8b252c90f9890.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Full Process: Reinstalling Graphics Drivers From Scratch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-39.png)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re looking for a step-by-step guide on how to clean install your graphics drivers, then you’ve come to the right place. “Clean install” can be quite new to those who don’t tinker with their computers very often, but it is worth your attention as a potential cure for game crashing and other driver installation problems.
 
 Now use the following procedure to clean install your graphics drivers:
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 1: Download the driver you need
 
  First and foremost, you should download the driver you need. There’re mainly two options for you to do this:
@@ -56,12 +36,6 @@ OR
 
 **[Option 2 – Manually](#option2)** – You’ll need some computer skills and patience to download your driver this way, because you need to find exactly the right driver online and then download it yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1 – Automatically download the driver
 
  If you don’t have the time, patience or computer skills to download your graphics drivers manually, **you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -78,6 +52,10 @@ OK, enough intro. Let’s see what you should do:
 
  Rest assured that Driver Easy uses only genuine drivers, straight from your hardware manufacturers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2 – Download the driver manually
 
  This is the most common way you download a driver, but it costs you more time and effort than using a driver updater tool. Besides, you may also download a wrong driver (e.g. not compatible with your system) so all the previous effort goes down the tubes and you have to start all over again. Anyway, just make sure you find the correct driver online.
@@ -89,6 +67,10 @@ OK, enough intro. Let’s see what you should do:
  3) If you’re using Intel, click **[here](https://downloadcenter.intel.com/)**  .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Create a system restore point
 
@@ -118,15 +100,13 @@ OK, enough intro. Let’s see what you should do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, click**Select device** and choose your graphics card type, such as NVIDIA.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) There are three options in the upper left:
 
@@ -142,12 +122,6 @@ OK, enough intro. Let’s see what you should do:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 4: Install the downloaded driver
 
 Finally, the last step is to install your driver.
@@ -163,6 +137,10 @@ Finally, the last step is to install your driver.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-29-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the graphics driver, simply click the **Update**  button next to it.
 
@@ -188,8 +166,6 @@ Finally, the last step is to install your driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,8 +173,19 @@ Finally, the last step is to install your driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-charting-a-course-through-creative-professions/"><u>[New] 2024 Approved Charting a Course Through Creative Professions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-live-video-logging-on-mac-free/"><u>[New] Live Video Logging on Mac, Free</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-principles-of-paradoxical-intervention/"><u>[Updated] Principles of Paradoxical Intervention</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/44cm5pig5yop5zcm5aor44gu6j6n5zci5oml5rov77ya44ot44oh44kq57eo6zug5ywl6zaa44cn/"><u>「映像同士の融合手法：ビデオ編集入門」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-acoustic-dissolve-windowsmac-playback-guide/"><u>2024 Approved Acoustic Dissolve Windows/Mac Playback Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/8-top-tools-to-keep-your-social-calendar-on-track/"><u>8 Top Tools to Keep Your Social Calendar on Track</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accessibility-at-its-best-download-adb-in-minutes/"><u>Accessibility at Its Best - Download ADB in Minutes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cultivating-self-awareness-via-gpt-assistance/"><u>Cultivating Self-Awareness via GPT Assistance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-2023-streamline-post-tweeted-videos-to-whatsapp/"><u>In 2024, 2023 Streamline Post Tweeted Videos to WhatsApp</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-windows-10-graphics-via-driver-refresh/"><u>Optimize Windows 10 Graphics via Driver Refresh</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenate-acer-vision-in-windows-11-software/"><u>Rejuvenate Acer Vision in Windows 11 Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-installing-lenovo-os-on-yoga-900/"><u>Seamlessly Installing Lenovo OS on Yoga 900</u></a></li>
+</ul></div>
 

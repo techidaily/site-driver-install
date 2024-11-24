@@ -1,7 +1,7 @@
 ---
 title: Update Realtek PCIe GBE Family Controller Drivers on Windows 11
-date: 2024-11-08T05:12:28.969Z
-updated: 2024-11-14T22:08:18.422Z
+date: 2024-11-17T18:28:23.393Z
+updated: 2024-11-24T16:56:53.714Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd022406e025.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the Realtek PCIe GbE driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -57,10 +61,7 @@ _Realtek PCIe GBE Familly Controller_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Use Windows Update
@@ -72,10 +73,7 @@ _Realtek PCIe GBE Familly Controller_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3\. Update the Driver Manually
@@ -83,6 +81,10 @@ _Realtek PCIe GBE Familly Controller_
  You can go to your PC manufacturer’s website to download the Windows 10 driver for this device. Alternatively, you can visit [Realtek](http://www.realtek.com/downloads/) website to download the Windows 10 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-521.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Usually, the driver can be self-installing. After you download the driver, double-click on the file to begin the installation. If the driver cannot be installed in this way, you might have to install it manually, then follow steps below to install the driver.
 
@@ -92,33 +94,17 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0234c3a594.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In Device Manager, expand category **Network adapters** . Under this category, right-click on the**Realtek PCIe GbE Family Controller** . Then click**Update Driver Software…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023a099bb2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click **Browse my Computer for driver software.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023ca8557c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
@@ -147,15 +133,20 @@ _Realtek PCIe GBE Familly Controller_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expose-your-guide-to-finding-censored-youtube-clips/"><u>[New] 2024 Approved Exposé Your Guide to Finding Censored YouTube Clips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-live-stream-reader/"><u>[Updated] In 2024, Live Stream Reader</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-igtv-content-with-multilingual-support/"><u>2024 Approved Crafting IGTV Content with Multilingual Support</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-performance-with-updated-rx-5500xt-drivers/"><u>Boost Performance with Updated RX 5500XT Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-bluetooth-recovery-for-windows-11/"><u>Effortless Bluetooth Recovery for Windows 11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-recording-devices-for-livestream-producers/"><u>Elite Recording Devices for Livestream Producers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hear-the-difference-in-high-definition-audio-on-win7-via-nvidia/"><u>Hear the Difference in High Definition Audio on Win7 via NVIDIA</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-nord-n30-se-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Nord N30 SE Phone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/music-video-shoot-estimated-financial-outlay-for-2024/"><u>Music Video Shoot - Estimated Financial Outlay for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-hp-laserjet-printer-drivers-for-windows-10/"><u>Update HP Laserjet Printer Drivers for Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-crafting-a-cinematic-look-ken-burns-in-camtasa-for-2024/"><u>[New] Crafting a Cinematic Look Ken Burns in Camtasa for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-glamour-unleashed-comprehensive-youtube-guide-to-elegance/"><u>[Updated] In 2024, Glamour Unleashed Comprehensive YouTube Guide to Elegance</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-instantaneous-screen-logger-for-chrome-for-2024/"><u>[Updated] Instantaneous Screen Logger for Chrome for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-software-update-tool-for-windows-pcs/"><u>ASUS Software Update Tool for Windows PCs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-box-customization-havens-on-the-internet-for-2024/"><u>Best Box-Customization Havens on the Internet for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blend-mp3s-with-presentation-content-in-ppt-for-2024/"><u>Blend MP3s with Presentation Content in PPT for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-hp-envy-5530-driver-with-windows-os/"><u>Bridge HP Envy 5530 Driver with Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-pc-download-latest-canon-printer-software-windows-11/"><u>Enhance Your PC: Download Latest Canon Printer Software, Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-network-setup-errors-for-an-optimal-dragon-ball-fighterz-gaming-experience/"><u>Fixing Network Setup Errors for an Optimal Dragon Ball FighterZ Gaming Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-reinstall-printer-drivers-on-windows-11-11-7/"><u>How to Reinstall Printer Drivers on Windows 11, 11, 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-ideapad-u310-update-made-easy/"><u>Lenovo Ideapad U310: Update Made Easy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/one-click-driver-upgrade-gtx-750-ti-version/"><u>One-Click Driver Upgrade: GTX 750 Ti Version</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimize-your-audio-content-expert-tips-for-editing-in-garageband-for-2024/"><u>Optimize Your Audio Content Expert Tips for Editing in GarageBand for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/set-a-competitive-price/"><u>Set a Competitive Price</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-uploading-your-gopro-footage-directly-onto-your-iphone/"><u>Step-by-Step Guide: Uploading Your GoPro Footage Directly Onto Your iPhone</u></a></li>
 </ul></div>
 

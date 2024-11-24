@@ -1,7 +1,7 @@
 ---
 title: Seamless WIN11/10 Integration Through MTK USB Support
-date: 2024-11-07T17:37:39.914Z
-updated: 2024-11-14T20:21:34.485Z
+date: 2024-11-23T18:42:05.005Z
+updated: 2024-11-24T17:22:44.932Z
 tags:
   - win11
   - win10
@@ -30,10 +30,7 @@ There are two methods for you to download and install MediaTek drivers.
 * Option 2 –**[Automatically](#m2)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 Manually
@@ -70,13 +67,6 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
  4) When you see**Startup Settings** , press**number 7** or**F7** on your keyboard to disable Driver Signature Enforcement. This will take about 3 minutes to boot.
@@ -89,16 +79,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the Restart now button.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery-restart.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
@@ -112,9 +99,17 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/win11-type-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In Device Manager,**click on your PC name** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Action** and select**Add legacy hardware** .
 
@@ -137,10 +132,7 @@ To download and install MediaTek drivers manually, you need to:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Select **MTK\_Driver\_ext > SP\_Drivers\_v2.0 > Android > android\_winusb** inf.
@@ -148,13 +140,6 @@ To download and install MediaTek drivers manually, you need to:
  9) Once selected, click**OK** . Then select the model you want and click**Next** to install. You can install all MediaTek drivers on your computer.
 
 10) Restart your PC and connect your MediaTek device.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2 Automatically
 
@@ -175,6 +160,10 @@ To download and install MediaTek drivers manually, you need to:
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** . )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/updateall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: You can do it for free if you like, but it’s partly manual.
 
@@ -207,20 +196,17 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-step-by-step-shooting-slow-motion-videos-on-iphone/"><u>[New] 2024 Approved Step by Step Shooting Slow Motion Videos on iPhone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/discover-toms-ultimate-guide-to-computer-components-your-one-stop-tech-resource/"><u>Discover Tom's Ultimate Guide to Computer Components - Your One-Stop Tech Resource</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721465909359-dont-delay-discover-the-must-have-features-in-latest-ios-update-153/"><u>Don’t Delay: Discover the Must-Have Features in Latest iOS Update, 15.3!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-keyboard-slow-response-easily/"><u>How To Fix Keyboard Slow Response Easily</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-90-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor 90 Data? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-expert-recommendations-top-3d-animation-software-for-every-level/"><u>New Expert Recommendations Top 3D Animation Software for Every Level</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/nytestegindsguide-obs-virtual-camera-den-forste-hard-vejledning/"><u>Nytestegindsguide OBS Virtual Camera - Den Forste Hård Vejledning</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-permanent-display-damage-a-complete-strategy-for-all-screens/"><u>Resolving Permanent Display Damage: A Complete Strategy for All Screens</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-guide-to-updating-nvidia-hd-audio-on-windows-11-pcs/"><u>Step-by-Step Guide to Updating NVIDIA HD Audio on Windows 11 PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/surface-pro-speed-boosters-download-microsofts-drivers/"><u>Surface Pro Speed Boosters: Download Microsoft's Drivers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/tailoring-drop-dates-to-maximize-listener-interest/"><u>Tailoring Drop Dates to Maximize Listener Interest</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-big-thing-in-tech-the-rumored-apple-ring-price-predictions-release-dates-and-specs-discussed/"><u>The Next Big Thing in Tech – The Rumored Apple Ring: Price Predictions, Release Dates, and Specs Discussed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/toms-tech-review-in-depth-analysis-and-reviews/"><u>Tom's Tech Review - In-Depth Analysis and Reviews</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tp-link-usb-adapter-no-hassle-download-for-pcs-free/"><u>TP Link USB Adapter, No Hassle: Download for PCs FREE</u></a></li>
-<li><a href="https://driver-install.techidaily.com/uefi-secure-boot-and-management-engine/"><u>UEFI Secure Boot & Management Engine</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-preeminent-audio-editing-tools-compilation-for-2024/"><u>[New] Preeminent Audio Editing Tools Compilation for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-reliable-wellness-insights-fact-checking-with-chatgpt-and-ai-generated-information/"><u>Ensuring Reliable Wellness Insights: Fact-Checking with ChatGPT and AI Generated Information</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-simplified-techniques-for-using-the-io-screener/"><u>In 2024, Simplified Techniques for Using the IO Screener</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-8-youtube-rankers-for-content-optimization-revealed/"><u>In 2024, Top 8 YouTube Rankers for Content Optimization Revealed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-setup-toolkit-epson-et-2650-printer-drivers/"><u>Instant Setup Toolkit: Epson ET-2650 Printer Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-apples-essential-qanda-for-understanding-and-solutions-on-your-tech-journey/"><u>Mastering Apples: Essential Q&A for Understanding and Solutions on Your Tech Journey</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-system-updates-efficiently-managing-msi-drivers-and-bios/"><u>Mastering System Updates: Efficiently Managing MSI Drivers and BIOS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/printer-interface-for-officejet-7740/"><u>Printer Interface for Officejet 7740</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operation-of-usbasp-on-varied-windows-platforms-unlocked-solved/"><u>Smooth Operation of USBasp on Varied Windows Platforms Unlocked [SOLVED]</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-retrieving-data-from-a-secure-usb-flash-drive/"><u>Step-by-Step Guide: Retrieving Data From a Secure USB Flash Drive</u></a></li>
+<li><a href="https://driver-install.techidaily.com/support-and-installation-broadcom-bt400-for-windows-pcs/"><u>Support & Installation: Broadcom BT400 for Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oneplus-nord-ce-3-lite-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on OnePlus Nord CE 3 Lite 5G without backup.</u></a></li>
 </ul></div>
 

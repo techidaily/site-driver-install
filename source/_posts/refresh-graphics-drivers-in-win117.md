@@ -1,7 +1,7 @@
 ---
 title: Refresh Graphics Drivers in Win11/7
-date: 2024-11-07T20:46:57.542Z
-updated: 2024-11-15T05:35:15.995Z
+date: 2024-11-18T18:33:34.278Z
+updated: 2024-11-24T16:31:26.931Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -37,20 +41,21 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
 
  The option **Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information about Driver Store, please see [Driver Store in Microsoft](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) . **If you don’t see this option** on the Uninstall confirm dialog box, the driver package may have been removed. In this case, **just click Uninstall to uninstall only the driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
- After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
 
 ## Step 2: Install a new graphics driver
 
@@ -67,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
  If you don’t have the time, patience or computer skills to reinstall the driver manually, or if Windows doesn’t provide the latest driver, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,10 +87,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -104,10 +99,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -133,14 +125,17 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-prepping-zones-vr-setup-guide-with-oculus/"><u>[Updated] Prepping Zones VR Setup Guide with Oculus</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accessing-and-using-srt-audio-on-various-oses-for-2024/"><u>Accessing and Using SRT Audio on Various OSes for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-canon-mx870-into-win-oss-earlier-than-11/"><u>Integrate Canon MX870 Into Win OSs Earlier than 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-thinkpad-x12-detachable-review-good-2-in-1-great-keyboard/"><u>Lenovo ThinkPad X12 Detachable Review: Good 2-in-1, Great Keyboard</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-driver-software-package-hp-model-4630/"><u>New Driver Software Package HP Model 4630</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-need-for-signatures-in-third-party-information/"><u>No Need for Signatures in Third-Party Information</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-bypass-tools-to-bypass-lock-screen-oppo-k11-5g-by-drfone-android-unlock-android-unlock/"><u>Oppo Bypass Tools to Bypass Lock Screen(Oppo K11 5G)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-change-drivers-on-windows-7/"><u>Quick-Change Drivers on Windows 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-missteps-and-myths-surrounding-ai-messaging/"><u>The Missteps and Myths Surrounding AI Messaging</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-movavis-innovation-journey-video-editor-pro-2024-review/"><u>[New] Inside Movavi's Innovation Journey – Video Editor Pro 2024 Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-online-meetings-best-choices/"><u>[New] Mastering Online Meetings Best Choices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-reveling-in-the-highs-of-nature-with-garmins-ultra-30/"><u>2024 Approved Reveling in the Highs of Nature with Garmin's Ultra 30</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/diverse-hoe-norton-ghost-te-technieken-voor-windows-11-10-8-en-7-overbranden/"><u>Diverse Hoe Norton Ghost Te-Technieken Voor Windows 11, 10, 8 en 7 Overbranden</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-brother-adf-issues-in-windows-11/"><u>Fix Brother ADF Issues in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-and-optimize-win10-touchscreen/"><u>Install & Optimize Win10 Touchscreen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-canon-mx870-driver-for-windows-11-7-and-8/"><u>Install Canon MX870 Driver for Windows 11, 7 & 8</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-yoga-900s-windows-10-drivers-free-download/"><u>Lenovo Yoga 900S - Windows 10 Drivers, Free Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-updated-drivers-quickly-now/"><u>Lenovo Z50-70: Updated Drivers, Quickly Now</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-best-ups-battery-backups-of-2024/"><u>The Best UPS Battery Backups of 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-rich-world-of-assassins-creed-valhalla-a-gripping-tale-through-medieval-norsemen-history/"><u>Unveiling the Rich World of Assassin’s Creed: Valhalla - A Gripping Tale Through Medieval Norsemen History</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4m4a/"><u>영구제 MP4/M4A 형식을 바꾸기: 이웃 사이트를 통해 무료 전원</u></a></li>
 </ul></div>
 

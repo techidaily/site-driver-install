@@ -1,7 +1,7 @@
 ---
 title: All-in-One Ultraportable Computer with AMD Ryzen Performance – Features Foldable Design, Touchscreen Controls, and Built-In Battery
-date: 2024-11-08T20:39:39.922Z
-updated: 2024-11-15T03:59:09.028Z
+date: 2024-11-19T16:23:22.613Z
+updated: 2024-11-24T17:50:30.307Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,27 +56,14 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-five-must-play-street-fighter-clones/"><u>[Updated] 2024 Approved Five Must-Play Street Fighter Clones</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-androids-optimal-cloud-savers-updated-list/"><u>[Updated] In 2024, Android's Optimal Cloud Savers Updated List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-listen-log-and-store-iphone-2024-call-recordings/"><u>[Updated] Listen, Log and Store IPhone 2024 Call Recordings</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-8-crucial-aspects-to-think-about-when-buying-a-tablet/"><u>Discover The 8 Crucial Aspects To Think About When Buying A Tablet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/driver-installation-u-are-u-reader-v45-download/"><u>Driver Installation: U-Are-U Reader V4.5 Download</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-vivo-s17-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Vivo S17</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-fresh-rx-5500xt-software/"><u>Efficiently Fresh RX 5500XT Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ss-thumbnails-for-epic-battle-royale-for-2024/"><u>Express Thumbnails for Epic Battle Royale for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fine-tune-intel-chipset-interaction-for-ws-11781-computers/"><u>Fine-Tune Intel Chipset Interaction for WS 11/7/8.1 Computers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fix-defective-win11-audio-driver-reload-advice/"><u>Fix Defective Win11 Audio - Driver Reload Advice</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-to-nvidia-hd-driver-update-for-windows-users/"><u>Guide to NVIDIA HD Driver Update for Windows Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-guide-for-trackir-hardware-integration/"><u>How-To Guide for TrackIR Hardware Integration</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-a59-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo A59 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/syncing-muted-voices-with-obs-streams-for-2024/"><u>Syncing Muted Voices with OBS Streams for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nleashing-laughter-on-screen-essential-tactics-for-youtube-reaction-video-making-3-ways-for-2024/"><u>[New] Unleashing Laughter on Screen Essential Tactics for YouTube Reaction Video Making (3 Ways) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-step-by-step-guide-to-acquiring-elite-instagram-soundtracks-and-building-perfect-alarms/"><u>[Updated] A Step-by-Step Guide to Acquiring Elite Instagram Soundtracks and Building Perfect Alarms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/breeze-through-updating-logitech-mouse-win-7-edition/"><u>Breeze Through Updating Logitech Mouse, Win 7 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-distinctive-aspects-of-ai-giants-chatgpt-vs-microsoft-bing-in-10-points/"><u>Decoding the Distinctive Aspects of AI Giants: ChatGPT vs Microsoft Bing in 10 Points</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-keep-your-pcs-w11-drivers-current/"><u>How To Keep Your PC's W11 Drivers Current</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenate-your-computer-points-with-new-omen-15-driver-software/"><u>Rejuvenate Your Computer' Points With New Omen 15 Driver Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-reinstallation-of-printer-drivers-on-vintage-pcs/"><u>Stepwise Reinstallation of Printer Drivers on Vintage PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-top-3-free-tools-similar-to-ffmpeg-you-should-consider-downloading/"><u>The Ultimate List of Top 3 Free Tools Similar to FFmpeg You Should Consider Downloading</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

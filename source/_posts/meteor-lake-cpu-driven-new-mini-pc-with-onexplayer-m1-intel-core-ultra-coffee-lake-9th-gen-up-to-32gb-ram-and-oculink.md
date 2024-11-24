@@ -1,7 +1,7 @@
 ---
 title: Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink
-date: 2024-11-14T01:13:09.661Z
-updated: 2024-11-14T19:17:57.432Z
+date: 2024-11-23T16:56:12.606Z
+updated: 2024-11-24T18:19:10.299Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,6 +52,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -70,29 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-the-shooting-range-to-streaming-real-time-dslr-and-pcmac-connection/"><u>[New] In 2024, From the Shooting Range to Streaming Real-Time DSLR & PC/Mac Connection</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-spotifys-1-charting-tunes/"><u>2024 Approved Spotify's #1 Charting Tunes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/camera-lenses-for-youtube/"><u>Best Camera Lenses for YouTube</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-your-pcs-aural-performance-with-newest-nvidia-audio-drivers-on-windows-11/"><u>Boost Your PC's Aural Performance with Newest NVIDIA Audio Drivers on Windows 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/cooking-cut-away-classics-top-7-techniques-for-tasty-videos-for-2024/"><u>Cooking Cut-Away Classics - Top 7 Techniques for Tasty Videos for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-perfect-youtube-introend-videos-at-no-cost-for-2024/"><u>Crafting Perfect YouTube Intro/End Videos at No Cost for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creative-image-collage-tools-ranked-10/"><u>Creative Image Collage Tools Ranked #10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-guide-on-updating-device-drivers-in-windows-881/"><u>Effortless Guide on Updating Device Drivers in Windows 8/8.1</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expert-tips-for-efficient-dell-realtek-driver-refreshment/"><u>Expert Tips for Efficient Dell Realtek Driver Refreshment</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonizing-hp-printer-with-win-drivers/"><u>Harmonizing HP Printer with Win Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hd-sound-fixed-windows-now-fully-integrated/"><u>HD Sound Fixed: Windows Now Fully Integrated</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-printer-mastery-on-windows-11-with-updated-drivers/"><u>HP Printer Mastery on Windows 11 with Updated Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/implement-amd-gpu-enhancements-in-windows-os/"><u>Implement AMD GPU Enhancements in Windows OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-sound-quality-with-new-audio-drivers-in-win11/"><u>Improve Sound Quality with New Audio Drivers in Win11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/microsofts-bing-ai-head-to-head-with-chatgpt-understanding-the-10-key-differences/"><u>Microsoft's Bing AI Head-to-Head with ChatGPT: Understanding the 10 Key Differences</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/purifypicture-premium-bg-eraser-and-editor-for-2024/"><u>PurifyPicture Premium BG Eraser & Editor for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-much-money-can-you-score-with-youtube-short-videos-for-2024/"><u>[New] How Much Money Can You Score with YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-syncing-songs-to-social-networks-iphonesandroid-approach/"><u>[Updated] 2024 Approved Syncing Songs to Social Networks IPhones/Android Approach</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-best-online-video-saving-tools-reviewed-and-ranked/"><u>[Updated] Best Online Video Saving Tools Reviewed & Ranked</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-youtube-livestream-game-plan-for-2024/"><u>[Updated] Elevate Your YouTube Livestream Game Plan for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-10-costless-conversion-apps-for-srt-files-explored/"><u>2024 Approved Top 10 Costless Conversion Apps for SRT Files Explored</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-installer-enable-your-tp-link-adapter-on-windows-pcs/"><u>Easy Installer: Enable Your TP Link Adapter on Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-manually-update-drivers-in-windows-vista/"><u>How to Manually Update Drivers in Windows Vista</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-p40-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-s17-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo S17 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-playnite-viewing-switching-to-tv-fullscreen/"><u>Maximizing Playnite Viewing: Switching to TV Fullscreen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/powerful-printers-smooth-performance-update-windows-10-laserjet-drivers/"><u>Powerful Printers, Smooth Performance - Update Windows 10 Laserjet Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-lenovo-thinks-with-updated-driver-set/"><u>Revitalize Lenovo Thinks with Updated Driver Set</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rx-5500xt-driver-update-make-it-swift/"><u>RX 5500XT Driver Update: Make It Swift</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-wireless-connections-with-updated-rtl8723d-drivers/"><u>Streamline Wireless Connections with Updated RTL8723D Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-driver-redo-effective-reinstallation-tactics-for-win-71011/"><u>The Driver Redo: Effective Reinstallation Tactics for Win 7/10/11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-tecnicas-para-combinar-duas-fotografias-com-fotoeditor-e-alternativas-em-2024/"><u>Top 5 Técnicas Para Combinar Duas Fotografias Com FotoEditor E Alternativas Em 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062481681-wireless-driver-for-windows-7-download-and-install-easily/"><u>Wireless Driver for Windows 7 Download & Install EASILY!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Enhanced HD Sound Support Through Software Fix
-date: 2024-09-09T05:08:52.174Z
-updated: 2024-09-10T05:08:52.174Z
+date: 2024-11-19T16:20:54.064Z
+updated: 2024-11-24T17:19:04.927Z
 tags:
   - win11
   - win10
@@ -25,12 +25,6 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Fix 1: Reinstall the VIA HD audio driver
 
  You can try to uninstall the VIA high definition audio driver, and reinstall it in your computer.
@@ -39,55 +33,35 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a56c24763.png)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Double click**Sound, video and game controllers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a5a189883.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right click your**VIA HD Audio driver** , and click**Uninstall device** . (If you are using Windows 7, click**Uninstall** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a858e6ea2.png)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) If you see a popup pane to confirm, check the box next to**Delete the driver software for this device** , then click**Uninstall** to delete. (If you are using Windows 7, click**OK** to confirm.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) After uninstalling, restart your computer and Windows will automatically download and install the audio driver for you at starting. After it’s done, check the audio device to see if it works properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Fix 2: Update the VIA HD audio driver automatically
 
@@ -107,18 +81,16 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dec2431048.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download the latest VIA HD audio driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update** **All** to automatically download and install the all the latest correct drivers that is missing or outdated in your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a961c7174.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer and check whether your problem is solved.
 
   These are the two effective solutions to fix the**VIA HD audio driver issue in your computer** . If you have any questions, feel free to comment below and we will see what more we can do to help.
@@ -132,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,8 +111,24 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-infuse-your-reels-with-dynamic-music-choices/"><u>[New] How to Infuse Your Reels with Dynamic Music Choices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-turning-fans-into-followers-friends-and-profits/"><u>[Updated] In 2024, Turning Fans Into Followers, Friends, and Profits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-visualizing-warriors-for-2024/"><u>[Updated] Visualizing Warriors for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/44cm44km44kn44ow5lik44gn5psplus6ycb5asn5a2m5o6i5qwt44ks44kt44oj44ox44ob44oj44o844gz44kl44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj44cn/"><u>「ウェブ上で放送大学授業をキャプチャーするステップバイステップガイド」</u></a></li>
+<li><a href="https://driver-install.techidaily.com/atheros-card-reboot-fresh-start-guide/"><u>Atheros Card Reboot: Fresh Start Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortlessly-install-3dconnexion-drivers-on-pc/"><u>Effortlessly Install 3Dconnexion Drivers on PC</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/experience-the-ultimate-multipurpose-anker-maggo-magnetic-charger-station-featuring-qi-usb-c-and-6-additional-ports/"><u>Experience the Ultimate Multipurpose Anker MagGo Magnetic Charger Station: Featuring Qi, USB-C, and 6 Additional Ports</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-windows-10-sound-issues-reinstall-audio-drivers/"><u>Fixing Windows 10 Sound Issues: Reinstall Audio Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-guide-to-prime-livestream-sites/"><u>In 2024, Exclusive Guide to Prime Livestream Sites</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209704925-9781632658203-kitchen-witchs-guide-to-divination/"><u>Kitchen Witch's Guide to Divination | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/opengl-performance-optimization/"><u>OpenGL Performance Optimization</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ize-engagement-and-analytics-harnessing-tubebuddys-insights/"><u>Optimize Engagement & Analytics - Harnessing TubeBuddy's Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/propel-pc-potential-upgrade-wxw8w7-with-mf4770n-drivers/"><u>Propel PC Potential: Upgrade WX/W8/W7 With MF4770n Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-drivers-improvement-for-amd-radeon-rx-5500xt/"><u>Quick Drivers Improvement for AMD Radeon RX 5500XT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-reinstalling-print-drivers-on-windows-oses/"><u>Quick Guide: Reinstalling Print Drivers on Windows OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-intuos-4-unlock-free-download-for-pc-safely/"><u>Wacom Intuos 4 Unlock: Free Download for PC Safely</u></a></li>
+</ul></div>
 

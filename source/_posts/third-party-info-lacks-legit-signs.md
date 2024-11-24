@@ -1,7 +1,7 @@
 ---
 title: Third-Party Info Lacks Legit Signs
-date: 2024-10-21T23:17:54.969Z
-updated: 2024-10-24T13:47:06.555Z
+date: 2024-11-22T17:21:06.313Z
+updated: 2024-11-24T16:45:17.170Z
 tags:
   - win11
   - win10
@@ -24,21 +24,16 @@ _The third-party INF does not contain digital signature information_is a common 
 
 Either when updating or installing you get this error, you CAN fix this error easily. In this post, we will tell you what is an INF file and why it need to contain digital signature information, most importantly, how to solve this problem. If you urge to solve the problem, you can skip to the methods to solve the problem.[**What is an INF file and why it need to contain digital signature information?**](#INF) [**How to solve the problem to install my driver successfully?**](#SOLUTION)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is an INF file and why it should contain digital signature information?
 
 An INF file is a text file to supply the driver setup information for your Windows to install the driver. It comes with the driver file you download. If you’re using Windows 10 or 8, the INF file should contain digital signature information extra. That’s due to the “driver signature enforcement” security feature in these Windows. This feature requires the drivers you install should be signed by Microsoft. So if the driver your Windows try to install is old unsigned or inofficial, Windows 10 or 8 can’t load it, then you would receive the error above.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to solve the problem to install my driver successfully?
@@ -50,10 +45,7 @@ As we know, we should install the driver signed by Microsoft on Windows 8, 10\. 
 You can download the correct driver signed by Microsoft from your device manufacturer’s website like AMD, Intel, Realtek. Or if you’re using a brand computer, you can download the driver from your computer manufacturer’s website. 1) Go to the manufacturer’s website. 2) Find the specific driver download page, it’s usually under the Support section. 3) You will be asked to enter your device model. 4) Download the driver file from the result and then double-click the file to install on your Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download the driver automatically by Driver Easy
@@ -63,16 +55,7 @@ If you’re not confident with updating drivers manually, let **[Driver Easy](ht
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1520ca39ed8.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) If you try the Free version, click **Update** next to any flagged driver to automatically download and install the correct version of this driver. Or if you use the Pro version, click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.
@@ -80,10 +63,7 @@ If you’re not confident with updating drivers manually, let **[Driver Easy](ht
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15208aebc0b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer to make the driver take effect. If you insists on installing the driver which bring the problem to you, we have another post for you to [disable the driver signature enforcement feature on Window 10 & 8](https://tools.techidaily.com/drivereasy/download/). But please don’t do this unless you are sure of the security of the driver.
@@ -107,18 +87,16 @@ If you’re not confident with updating drivers manually, let **[Driver Easy](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/download-geforce-gtx-1650-driver-for-windows-11107/"><u>[Download] GeForce GTX 1650 Driver for Windows 11/10/7</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-optimized-screen-capture-on-pcmac-with-elite-tools/"><u>[New] 2024 Approved Optimized Screen Capture on PC/Mac with Elite Tools</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-gopro-hero-vs-yi-4k-which-takes-the-prize-in-latest-tech/"><u>[Updated] 2024 Approved GoPro Hero Vs. Yi 4K Which Takes the Prize in Latest Tech?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-stepwise-strategies-to-record-flawless-screens-with-adobe-captive/"><u>[Updated] Stepwise Strategies to Record Flawless Screens with Adobe Captive</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/come-impostare-il-backup-automatico-di-sistema-per-windows-versioni-da-11-a-7/"><u>Come Impostare Il Backup Automatico Di Sistema per Windows Versioni Da 11 a 7</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/complete-tutorial-erasing-and-setting-up-drives-with-windows-11s-built-in-tools/"><u>Complete Tutorial: Erasing and Setting Up Drives with Windows 11'S Built-In Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-setup-toolkit-epson-et-2650-printer-drivers/"><u>Instant Setup Toolkit: Epson ET-2650 Printer Drivers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leap-forward-upgrading-windows-11-from-32-to-64-bit/"><u>Leap Forward: Upgrading Windows 11 From 32 to 64-Bit</u></a></li>
-<li><a href="https://driver-install.techidaily.com/support-and-installation-broadcom-bt400-for-windows-pcs/"><u>Support & Installation: Broadcom BT400 for Windows PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-quick-and-simple-way-to-solve-your-hawkui-issue/"><u>The Quick and Simple Way to Solve Your Hawkui Issue</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-12-mini-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 12 mini from iCloud</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-rated-photo-slideshow-applications-compatible-with-windows-11/"><u>Top-Rated Photo Slideshow Applications Compatible with Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-reader-software-u-are-u-fpr-version-450x/"><u>Upgrade Reader Software: U-Are-U FPR Version 4.50X</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iny-content-overview-made-easy-for-2024/"><u>[New] Tiny Content Overview Made Easy for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-what-is-mukbang-and-how-to-make-mukbang-videos/"><u>[New] What Is Mukbang and How to Make Mukbang Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-horizon-captured-which-camera-takes-the-lead-for-2024/"><u>[Updated] Horizon Captured Which Camera Takes the Lead for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/windows-113/"><u>宛先ディレクトリアクセスを回復する：Windows 11での3つの方法</u></a></li>
+<li><a href="https://facebook.techidaily.com/connecting-consumers-and-companies-with-facebooks-new-initiative/"><u>Connecting Consumers and Companies with Facebook’s New Initiative</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dragon-quest-continuum-arranging-the-how-to-train-your-dragon-movies-for-full-story/"><u>Dragon Quest Continuum: Arranging the How To Train Your Dragon Movies for Full Story</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-upgrade-to-iris-gma520-sdk/"><u>Efficient Upgrade to Iris GMA520 SDK</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-hardware-device-adjustments-for-w7-users/"><u>Effortless Hardware Device Adjustments for W7 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expedite-windows-drivers-with-winos/"><u>Expedite Windows Drivers with WinOS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-acer-visuals-for-windows-10/"><u>Install Latest Acer Visuals for Windows 10</u></a></li>
 </ul></div>
 

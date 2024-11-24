@@ -1,7 +1,7 @@
 ---
 title: "Fixing Discord Connection Woes: Overcoming Packet Loss Challenges"
-date: 2024-11-10T20:39:29.388Z
-updated: 2024-11-14T21:14:22.342Z
+date: 2024-11-21T17:35:33.948Z
+updated: 2024-11-24T16:23:56.315Z
 tags:
   - win11
   - win10
@@ -38,18 +38,19 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/dis.jpg)
 
-3) Launch Discord again. It should be open normally.
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3) Launch Discord again. It should be open normally.
 
 ### Fix 2: Set your date/time automatically
 
@@ -62,10 +63,7 @@ When you double-click Discord but the program won’t open, it could be very fru
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the right pane, turn on the button under**Set time automatically** .
@@ -73,13 +71,6 @@ When you double-click Discord but the program won’t open, it could be very fru
  4) Reboot the Discord program to check.
 
 If it doesn’t work, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Discord as administrator
 
@@ -90,32 +81,11 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Use Task Manager
 
@@ -129,6 +99,10 @@ If it doesn’t work, move to the next fix.
 
 3) Restart Discord. It should open.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable your proxies
 
  If you’re using proxies while running Discord and have this problem, you need to disable your proxies.  
@@ -138,9 +112,17 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Internet Options** .
 
@@ -150,21 +132,16 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Relaunch the Discord and it should open.
@@ -179,13 +156,6 @@ If it doesn’t work, move to the next fix.
 
 3) Type**cmd** . Then press**Ctrl + Shift + Enter** together to run as Administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
 
@@ -242,6 +212,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -270,16 +244,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/hannel-conclusion-mastery-customized-screens-in-focus/"><u>[New] Channel Conclusion Mastery Customized Screens in Focus</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-compre-written-guide-to-the-latest-videoshow-version/"><u>[Updated] Compre Written Guide to the Latest VideoShow Version</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/5aac5l2v5zyo5b6u5lplush5lik5ogi5b6p5bey5rif56m655qe6kqe6zplusz5zkm6kaw5yop6kiy6yyepyatiowplusrusoeavsoanrualrplusavkeawueazlsb8iowbvuinoplusamhpluswvva/"><u>如何在微信上恢復已清空的語音和視像記錄? - 微信数据拯救方法 | 图解指导</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-7t-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 7T Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcoming-game-crashes-a-players-guide-to-fixing-dev-error-6634-in-call-of-duty-warzone/"><u>Overcoming Game Crashes: A Player's Guide to Fixing Dev Error 6634 in Call of Duty: Warzone</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-compliance-of-non-functional-windows-batches/"><u>Restoring Compliance of Non-Functional Windows Batches</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-to-successfully-install-new-printer-drivers-on-win-systems/"><u>Steps to Successfully Install New Printer Drivers on WIN Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stop-your-macs-auto-sleep-feature-with-these-simple-steps/"><u>Stop Your Mac's Auto-Sleep Feature with These Simple Steps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/supercharged-windows-experience-with-rtx-ti-driver/"><u>Supercharged Windows Experience with RTX Ti Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sync-up-systems-integrate-hp-print-driver-with-windows-pc/"><u>Sync Up Systems: Integrate HP Print Driver with Windows PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/systematic-uninstall-install-cycle-for-wacom-devices-on-windows/"><u>Systematic Uninstall-Install Cycle for Wacom Devices on Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-luminalabs-exploring-affordable-video-editors/"><u>[Updated] LuminaLabs Exploring Affordable Video Editors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-soundtrack-selection-in-unboxing-filmmaking/"><u>[Updated] Navigating Soundtrack Selection in Unboxing Filmmaking</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unleash-speed-edit-windows-11-photos-like-a-pro-for-2024/"><u>[Updated] Unleash Speed Edit Windows 11 Photos Like a Pro for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/windows-111087iso/"><u>無料でWindows 11・10・8・7用ISOファイル生成手順 - 完全ガイド</u></a></li>
+<li><a href="https://article-tips.techidaily.com/action-cams-for-aspiring-filmmakers-2023-edition/"><u>Action Cams for Aspiring Filmmakers - 2023 Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-netgear-amped-wireless-usb-driver-for-pcs/"><u>Download NETGEAR Amped Wireless USB Driver for PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-ie-driver-placement-in-windows-10plus/"><u>Efficient IE Driver Placement in Windows 10+</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-methods-msi-bravo-15-driver-patches/"><u>Efficient Methods: MSI Bravo 15 Driver Patches</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hookup-hp-envy-5530-driver-with-windows-10/"><u>Hookup HP Envy 5530 Driver with Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-v29-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo V29</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-instagram-analysts-handbook-decoding-engagement-and-reach/"><u>In 2024, The Instagram Analyst's Handbook Decoding Engagement and Reach</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-driver-updates-across-windows-versions-10plus81plus7/"><u>Optimizing Driver Updates Across Windows Versions 10+8.1+7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/razer-usb-mouse-setup-for-windows-1078-users/"><u>Razer USB Mouse Setup for Windows 10/7/8 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalizing-usb-functionality-on-historic-oss/"><u>Revitalizing USB Functionality on Historic OSs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-how-to-obtain-latest-d-link-drivers-for-windows-systems-fixed/"><u>Step-by-Step Tutorial: How to Obtain Latest D-Link Drivers for Windows Systems [FIXED]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/uncomplicated-scsi-driver-integration/"><u>Uncomplicated SCSI Driver Integration</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winprinter-setup-epson-et-2650-windows-installation/"><u>WinPrinter Setup: Epson ET-2650 Windows Installation</u></a></li>
 </ul></div>
 

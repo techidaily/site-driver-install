@@ -1,7 +1,7 @@
 ---
 title: Upgrade Wi-Fi Controller Support in Win11 Release
-date: 2024-11-08T18:54:56.236Z
-updated: 2024-11-15T01:01:48.314Z
+date: 2024-11-18T17:03:34.736Z
+updated: 2024-11-24T16:57:33.460Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Update the Driver Automatically**
 
  If you don’t have the time, patience or computer skills to update the Realtek PCIe GbE Family Controller driver manually,  you can do it automatically with **[Driver Easy.](https://tools.techidaily.com/drivereasy/download/)**
@@ -57,10 +61,7 @@ _Realtek PCIe GBE Familly Controller_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Use Windows Update
@@ -69,13 +70,14 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0236547c83.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3\. Update the Driver Manually
@@ -92,22 +94,13 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0234c3a594.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Device Manager, expand category **Network adapters** . Under this category, right-click on the**Realtek PCIe GbE Family Controller** . Then click**Update Driver Software…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023a099bb2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click **Browse my Computer for driver software.**
 
@@ -116,19 +109,6 @@ _Realtek PCIe GBE Familly Controller_
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023f947709.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click on   **Next** button to install the driver.
 
@@ -153,20 +133,21 @@ _Realtek PCIe GBE Familly Controller_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-voice-recording-essentials-the-filmmakers-key-to-excellence/"><u>[New] 2024 Approved Voice Recording Essentials The Filmmaker's Key to Excellence</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-io-screen-recorder-skills-for-professionals/"><u>[Updated] 2024 Approved Essential IO Screen Recorder Skills for Professionals</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-tips-for-snagging-superior-pixels-without-spending/"><u>[Updated] 2024 Approved Expert Tips for Snagging Superior Pixels Without Spending</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-subtitles-that-shine-discover-the-best-free-online-tools/"><u>[Updated] Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-x-flip-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo X Flip Quickly? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-t2x-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mastering-mobile-connectivity-with-the-samsung-galaxy-s20-fe-5g-an-authoritative-review/"><u>Mastering Mobile Connectivity with the Samsung Galaxy S20 FE 5G - An Authoritative Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolve-m-audio-track-glitches-with-simplicity/"><u>Resolve M-Audio Track Glitches with Simplicity</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-tp-link-wireless-driver-for-windows-users/"><u>Seamless TP Link Wireless Driver for Windows Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/silence-windows-10-noise-reinstall-audio-drivers-first/"><u>Silence Windows 10 Noise? Reinstall Audio Drivers First</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-printer-setbacks-win-10-version/"><u>Streamlining Printer Setbacks, Win 10 Version</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-potential-with-new-vega-3-firmware-version/"><u>Unleash Potential with New Vega 3 Firmware Version</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-canon-mx870-to-work-with-windows-8-7/"><u>Update Canon MX870 to Work with Windows 8-7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-11-reimagined-next-gen-acer-driver-support/"><u>Windows 11 Reimagined: Next-Gen Acer Driver Support</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-live-stream-platform-showdown-xsplit-and-obs-face-off/"><u>[New] 2024 Approved Live Stream Platform Showdown XSplit & OBS Face-Off</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-beginner-friendly-steps-to-record-your-mac-display/"><u>[New] In 2024, Beginner-Friendly Steps to Record Your Mac Display</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/solved-avatar-frontiers-of-pandora-crashing-on-pc/"><u>[SOLVED] Avatar: Frontiers of Pandora Crashing on PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-10-uplifting-films-for-boosting-your-drive-for-2024/"><u>[Updated] Top 10 Uplifting Films for Boosting Your Drive for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/easy-convert-and-enhance-transform-your-documents-from-ms-office-to-interactive-paperback-books-experience-with-flipoffice-pro-flipbuildercom/"><u>Easy Convert & Enhance: Transform Your Documents From MS Office to Interactive Paperback Books [Experience With FlipOffice Pro - FlipBuilder.com]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-wacom-bamboo-driver-updater/"><u>Easy Wacom Bamboo Driver Updater</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-drivers-update-game-in-windows-10-81-and-7/"><u>Elevate Your Drivers Update Game in Windows 10, 8.1 & 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-se-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone SE? Heres the Best Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>In 2024, The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-the-art-of-intel-82579lm-driver-patches-for-windows/"><u>Master the Art of Intel 82579LM Driver Patches for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstall-gpu-drivers-for-clear-viewing/"><u>Reinstall GPU Drivers for Clear Viewing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-wan-port-troubles-in-windows-xp-fixed/"><u>Resolved: WAN Port Troubles in Windows XP [FIXED]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-integration-of-startech-drivers-on-old-and-new-windows/"><u>Seamless Integration of StarTech Drivers on Old and New Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-and-smooth-tracer-problem-resolution/"><u>Swift and Smooth Tracer Problem Resolution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-checklist-for-zoom-recording/"><u>The Ultimate Checklist for Zoom Recording</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/the-ultimate-guide-to-clearing-your-laptop-for-a-new-owner-follow-these-simple-steps/"><u>The Ultimate Guide to Clearing Your Laptop for a New Owner - Follow These Simple Steps!</u></a></li>
 </ul></div>
 

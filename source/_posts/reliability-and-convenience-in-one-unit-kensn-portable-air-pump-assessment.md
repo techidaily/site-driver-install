@@ -1,7 +1,7 @@
 ---
 title: "Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
-date: 2024-11-09T19:09:04.380Z
-updated: 2024-11-15T00:19:19.783Z
+date: 2024-11-21T16:13:13.494Z
+updated: 2024-11-24T16:34:09.644Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
@@ -36,16 +36,13 @@ Lifewire / Kelsey Simon
 
 2.7
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -66,10 +63,7 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Story: Heavy-handed writing to the exclusion of all else**
@@ -92,6 +86,10 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
  Beyond this, the other major gameplay mechanic is a system of effort and inspiration. Every action you take will prompt you to use effort. This effort allows for your character to work harder at the chosen action, and thus gives your character a better chance of accomplishing their goal.
@@ -106,6 +104,10 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -114,14 +116,11 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
- Lifewire / Kelsey Simon
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Kelsey Simon
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -142,13 +141,6 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,21 +165,24 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-pubg-not-launching-2024-guide/"><u>[FIXED] PUBG Not Launching 2024 Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-live-capture-success-explore-4-effective-recording-strategies/"><u>[New] 2024 Approved Live Capture Success Explore 4 Effective Recording Strategies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-bringing-your-ideas-to-life-vo-plus-ppt-perfection/"><u>[Updated] 2024 Approved Bringing Your Ideas to Life VO + PPT Perfection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-skys-best-pixels-face-off-dji-inspire-1-and-gopro-fusion-mini/"><u>2024 Approved Sky's Best Pixels Face-Off DJi Inspire 1 & GoPro Fusion Mini</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-ultimate-guide-to-unblocked-video-sharing/"><u>2024 Approved The Ultimate Guide to Unblocked Video Sharing</u></a></li>
-<li><a href="https://win-able.techidaily.com/6-effective-methods-to-resolve-terraria-disconnection-issues/"><u>6 Effective Methods to Resolve Terraria Disconnection Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-managing-amd-video-driver-updates/"><u>Efficiently Managing AMD Video Driver Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-and-streamline-your-display-on-windows-11-reviving-drivers/"><u>Enhance and Streamline Your Display on Windows 11: Reviving Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-video-communication-efficiency-logitech-c270-drivers/"><u>Enhance Video Communication Efficiency - Logitech C270 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tips-for-audio-driver-update-in-ws11/"><u>Essential Tips for Audio Driver Update in WS11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fifa-21-startup-problems-now-fixed-how-to-launch-the-game-smoothly/"><u>FIFA 21 Startup Problems Now Fixed - How to Launch the Game Smoothly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hassle-free-driver-guide-get-canon-scanner-access/"><u>Hassle-Free Driver Guide: Get Canon Scanner Access</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-latest-driver-for-logitech-mouse-windows-11/"><u>Install Latest Driver for Logitech Mouse (Windows 11)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062596970-overcoming-xps-network-miniport-obstructions-now-fixed/"><u>Overcoming XP's Network Miniport Obstructions - Now Fixed!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/slash-your-videos-size-retain-excellent-quality-achieve-up-to-90-reduction/"><u>Slash Your Videos' Size, Retain Excellent Quality: Achieve Up to 90% Reduction</u></a></li>
-<li><a href="https://facebook.techidaily.com/step-by-step-guide-facebook-group-assembly-blueprints/"><u>Step-by-Step Guide: Facebook Group Assembly Blueprints</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-cushy-comfort-best-idle-pc-games/"><u>[New] In 2024, Cushy Comfort Best Idle PC Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-journey-through-the-digital-landscape-six-engaging-quizzes-for-every-vlogger-admirer-for-2024/"><u>[Updated] A Journey Through the Digital Landscape Six Engaging Quizzes for Every Vlogger Admirer for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ng-doubts-a-guide-to-vloggings-most-common-anxieties/"><u>Dodging Doubts A Guide to Vlogging's Most Common Anxieties</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dynamic-focus-enhanced-handheld-shot-quality/"><u>Dynamic Focus Enhanced Handheld Shot Quality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-hp-deskjet-printer-windows-11-driver-issues/"><u>Fix HP Deskjet Printer Windows 11 Driver Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-envy-5530-windows-11-driver-setup/"><u>HP Envy 5530 Windows 11 Driver Setup</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-reel-it-in-the-premier-browser-recording-tools-of-2023/"><u>In 2024, Reel It In The Premier Browser Recording Tools of 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-ideas-in-immersive-realms-30plus-quotes-to-motivate-you/"><u>Innovative Ideas in Immersive Realms 30+ Quotes to Motivate You</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-access-easy-driver-for-tp-link-adapter-on-pc/"><u>Instant Access: Easy Driver for TP Link Adapter on PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lenovo-tab-4-assessment-affordable-android-tablet-features-and-constraints/"><u>Lenovo Tab 4 Assessment: Affordable Android Tablet Features and Constraints</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-art-of-manual-drives-updates-on-windows-881/"><u>Mastering the Art of Manual Drives Updates on Windows 8/8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/radeonhd5770windows11rtk/"><u>RadeonHD5770Windows11RTK</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/record-webcam-video-with-vlc/"><u>Record Webcam Video with VLC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-samsung-ssd-errors-on-windows-systems/"><u>Resolving Samsung SSD Errors on Windows Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/score-the-best-prices-exceptional-discounts-on-benq-display-equipment-prime-day-edition/"><u>Score the Best Prices: Exceptional Discounts on BenQ Display Equipment - Prime Day Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-hawkui-vehicle-repairs-explained/"><u>Simplified Hawkui Vehicle Repairs Explained</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smart-routines-for-keeping-amd-drivers-updated/"><u>Smart Routines for Keeping AMD Drivers Updated</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-w7-audio-framework-using-idt-drivers/"><u>Update W7 Audio Framework Using IDT Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-terminal-and-powershell-a-comparative-analysis-on-their-uniqueness/"><u>Windows Terminal & PowerShell: A Comparative Analysis on Their Uniqueness</u></a></li>
 </ul></div>
 

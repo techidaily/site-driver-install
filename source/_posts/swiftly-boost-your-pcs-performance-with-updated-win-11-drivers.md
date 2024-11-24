@@ -1,7 +1,7 @@
 ---
 title: Swiftly Boost Your PC's Performance with Updated Win 11 Drivers
-date: 2024-11-11T22:58:48.492Z
-updated: 2024-11-15T02:40:39.842Z
+date: 2024-11-17T16:40:20.395Z
+updated: 2024-11-24T17:17:07.541Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 * **[Manually](#1)**
 * **[Automatically](#2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1\. Update drivers via Device Manager
 
  To update a device driver manually, you will first need to**download the latest and correct driver** for your specific device and**update the driver with Device Manager** .
@@ -43,46 +47,30 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 2. Right-click the Start menu ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-1.png) and click**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the**Device Manager** window, expand the category and the device that you wish to update the driver for. If you need to update Realtek PCIe GBE Family Controller, you’ll find this device under the**Network adapters** category. You can right-click on the device name and select**Update driver** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/update-driver.jpg)
 4. Click**Browse my computer for drivers** , and select the downloaded file.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
 5. Browse to the folder where your driver file is saved.  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-path.jpg)
 6. It will install the drivers automatically for you.  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/download-location.jpg)
 7. Once complete, you now have the latest driver installed. You can restart your PC for it to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2\. Update all drivers automatically
@@ -97,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
@@ -125,18 +117,20 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/1716069486607-updated-2024-approved-best-free-call-apps-on-android-ranks-them/"><u>[Updated] 2024 Approved Best Free Call Apps on Android, Ranks Them!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-realme-narzo-60-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme Narzo 60 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-13-proplus-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Redmi Note 13 Pro+ 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-s24plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy S24+ Location | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-dell-xps-13-driver-software-quick-and-simple-downloads-and-updates/"><u>Latest Dell XPS 13 Driver Software - Quick and Simple Downloads & Updates</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/master-online-learning-10-superior-academic-websites-to-elevate-your-knowledge-base/"><u>Master Online Learning: 10 Superior Academic Websites to Elevate Your Knowledge Base</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-your-printing-experience-install-updated-win11-drivers-for-hp/"><u>Revamp Your Printing Experience - Install Updated Win11 Drivers for HP</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revive-graphics-support-in-windows-711/"><u>Revive Graphics Support in Windows 7/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/system-access-negotiation/"><u>System Access Negotiation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/up-to-date-nvidia-gtx-970-installation-guide-w11/"><u>Up-to-Date Nvidia GTX 970: Installation Guide W11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-graphic-integration-for-acer-pcs-in-windows-10/"><u>Update Graphic Integration for Acer PCs in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-windows-system-with-amd-gpu-software/"><u>Upgrade Windows System with AMD GPU Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-broadcast-iptv-across-platforms/"><u>[New] In 2024, Broadcast IPTV Across Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eamless-channel-transitions-with-customized-end-screens-for-2024/"><u>[New] Seamless Channel Transitions with Customized End Screens for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-androids-top-12-virtual-creature-experiences/"><u>[Updated] Android's Top 12 Virtual Creature Experiences</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-12-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme 12 Pro 5G</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/burnova/"><u>Aiseesoft Burnova DVD/Blu-ray Burnner</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-reinstall-bluetooth-driver-in-windows-1011-easily/"><u>How to Reinstall Bluetooth Driver in Windows 10/11 [Easily]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-navigating-the-digital-realm-uploading-with-premiere-and-youtube/"><u>In 2024, Navigating the Digital Realm Uploading with Premiere & YouTube</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precision-tuning-of-samsung-ssds-in-windows-setups-done/"><u>Precision Tuning of Samsung SSDs in Windows Setups [Done]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-your-system-an-in-depth-guide-to-msi-driver-update/"><u>Revamping Your System: An In-Depth Guide to MSI Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tune-performance-latest-updates-for-intels-chipset-in-ws-11781/"><u>Tune Performance: Latest Updates for Intel's Chipset in WS 11/7/8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-optimal-printing-fixed-hp-laserjet-1-points/"><u>Unleash Optimal Printing: Fixed HP LaserJet 1 Points</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-your-devices-potential-universal-adb-on-demand/"><u>Unlock Your Device's Potential - Universal ADB on Demand</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-711-graphics-drivers-retry/"><u>Windows 7/11: Graphics Drivers Retry</u></a></li>
 </ul></div>
 
