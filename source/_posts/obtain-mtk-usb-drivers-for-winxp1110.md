@@ -1,7 +1,7 @@
 ---
 title: Obtain MTK USB Drivers for WINXP11/10
-date: 2024-09-11T00:54:09.679Z
-updated: 2024-09-15T10:02:14.238Z
+date: 2024-11-30T19:33:32.878Z
+updated: 2024-12-02T18:45:25.656Z
 tags:
   - win11
   - win10
@@ -59,9 +59,17 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, select the**Recovery** tab. Under**Advanced startup** , click**Restart now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
@@ -95,6 +103,10 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Action** and select**Add legacy hardware** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
@@ -107,6 +119,10 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Show All Devices** and then**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard3.jpg)
@@ -115,11 +131,19 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Select **MTK\_Driver\_ext > SP\_Drivers\_v2.0 > Android > android\_winusb** inf.
 
  9) Once selected, click**OK** . Then select the model you want and click**Next** to install. You can install all MediaTek drivers on your computer.
 
 10) Restart your PC and connect your MediaTek device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 Automatically
 
@@ -170,12 +194,23 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-economical-4k-digital-video-devices/"><u>[New] 2024 Approved Economical 4K Digital Video Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-extensive-breakdown-gecata-tracking-device-assessment/"><u>[New] 2024 Approved Extensive Breakdown Gecata Tracking Device Assessment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-expansion-through-smart-youtube-link-building-methods/"><u>[New] In 2024, Channel Expansion Through Smart YouTube Link-Building Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-your-social-media-presence-by-pining-on-snapchat/"><u>[Updated] 2024 Approved Elevate Your Social Media Presence by Pining on Snapchat</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/embark-on-a-metaverse-adventure-with-these-top-8-helmets-and-headsets-for-2024/"><u>Embark on a Metaverse Adventure with These Top 8 Helmets & Headsets for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expert-advice-ensuring-smooth-playback-of-nba-5-new-best-seo-titles-suitable-for-google-search-engine-that-convey-similar-meanings-to-solved-how-to-fix-micr477/"><u>Expert Advice: Ensuring Smooth Playback of NBA 5 New Best SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to [SOLVED] How to Fix Microsoft Edge Crashing on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-side-by-side-configuration-conflicts-and-errors-in-windows-11/"><u>How to Solve Side by Side Configuration Conflicts and Errors in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-achieve-the-perfect-look-youtubes-guide-to-video-aspect-ratios/"><u>In 2024, Achieve the Perfect Look YouTube's Guide to Video Aspect Ratios</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionize-your-yoga-900-with-simple-updates/"><u>Revolutionize Your Yoga 900 with Simple Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/safe-webcam-driver-for-pcs/"><u>Safe Webcam Driver for PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-setup-installing-the-newest-netgear-a6200-driver/"><u>Simplified Setup: Installing the Newest Netgear A6200 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operations-swift-logitec-mouse-driver-for-widow-7/"><u>Smooth Operations: Swift Logitec Mouse Driver for Widow 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-driver-upgrade-enhance-f4770n-functionality-on-winos/"><u>Streamlined Driver Upgrade: Enhance F4770N Functionality on WINOS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-fix-ensures-optimal-hd-sound-performance/"><u>Windows 11 Fix: Ensures Optimal HD Sound Performance</u></a></li>
+</ul></div>
 

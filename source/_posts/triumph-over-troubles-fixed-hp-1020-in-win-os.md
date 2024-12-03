@@ -1,7 +1,7 @@
 ---
 title: "Triumph Over Troubles: Fixed HP 1020 in Win OS"
-date: 2024-11-17T18:15:15.759Z
-updated: 2024-11-24T17:37:08.288Z
+date: 2024-12-02T07:48:02.435Z
+updated: 2024-12-03T02:53:34.092Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/d0cb748bcb0f62a12329bda108fa11c6c1e0878f5
 
  If your HP LaserJet 1020 printer series are not working properly, for instance, you see certain error when trying to print, or your printer’s status is off, don’t panic. You can update your**HP LaserJet 1020 printer driver** to the latest version to fix the issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Update HP LaserJet 1020 Driver
 
 1. [Update the printer driver manually](#Fix1)
@@ -40,22 +36,26 @@ Time needed:  3 minutes.
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
 
- Run the downloaded file, and follow the wizard to finish.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run the downloaded file, and follow the wizard to finish.
 
 ### Method 2: Update the printer driver in Device Manager
 
@@ -71,26 +71,26 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
 
@@ -136,24 +136,20 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-iphone-ringtone-updates/"><u>[New] In 2024, Mastering iPhone Ringtone Updates</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlabs-rival-in-the-eye-of-a-streamer/"><u>[New] In 2024, Streamlabs' Rival in the Eye of a Streamer</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-complete-blueprint-for-iphone-podcast-downloads/"><u>[New] The Complete Blueprint for iPhone Podcast Downloads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-practices-in-selecting-youtube-video-extractor-apps-for-android/"><u>[Updated] 2024 Approved Best Practices in Selecting YouTube Video Extractor Apps for Android</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide/"><u>2024 Approved Unlocking the Secrets of Premium Insta Tunes A Complete Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/atiradeondriversrtkupdate11/"><u>ATIRadeonDriversRTKUpdate11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-frustratingly-slow-wi-fi-on-phones-explore-these/"><u>How to Fix Frustratingly Slow Wi-Fi on Phones? Explore These</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-s18-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo S18 Phone Hassle-Free</u></a></li>
-<li><a href="https://driver-install.techidaily.com/increase-screen-output-performance-windows/"><u>Increase Screen Output Performance (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/integrate-and-setup-windows-hello-with-a-fingerprint/"><u>Integrate and Setup: Windows Hello with a Fingerprint</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-canon-drivers-into-windows-67-systems/"><u>Integrate Canon Drivers Into Windows 6,7 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-seamless-software-tweaks/"><u>Lenovo Z50-70: Seamless Software Tweaks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/master-mixing-techniques-with-new-scarlett-6i6-driver-update/"><u>Master Mixing Techniques with New Scarlett 6I6 Driver Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimized-ie-driver-for-windows-xpvista7/"><u>Optimized IE Driver for Windows XP/Vista/7</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/output-maximization/"><u>Output Maximization</u></a></li>
-<li><a href="https://windows11.techidaily.com/procedures-for-fixing-inoperative-ccleaner-on-windows-os/"><u>Procedures for Fixing Inoperative CCleaner on Windows OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-system-performance-fixing-ssd-errors-on-windows-pcs/"><u>Streamlined System Performance: Fixing SSD Errors on Windows PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-guide-amds-rx-5500xt-graphics/"><u>Upgrade Guide: AMD's RX 5500XT Graphics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-compatible-me-drivers/"><u>Windows Compatible ME Drivers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-achieving-clear-dialogue-in-google-hangouts/"><u>[New] In 2024, Achieving Clear Dialogue in Google Hangouts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-prime-stabilization-techniques-for-youtubers/"><u>[New] In 2024, Prime Stabilization Techniques for YouTubers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srt-from-basics-to-cutting-edge-techniques/"><u>[New] SRT From Basics to Cutting-Edge Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-recommendations-for-maximum-data-keep-for-2024/"><u>[Updated] Essential Recommendations for Maximum Data Keep for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-stardew-essentials-unveiling-ginger-islands-secrets/"><u>2024 Approved Stardew Essentials Unveiling Ginger Island's Secrets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/birdie-ballet-bounce-for-2024/"><u>Birdie Ballet Bounce for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-reducing-wudfhostexes-cpu-impact-on-your-windows-10-pc/"><u>Effective Strategies for Reducing WUDFHost.exe's CPU Impact on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-of-siri-apples-strategic-move-to-boost-intelligence-by-2025-the-latest-news/"><u>Future of Siri: Apple's Strategic Move to Boost Intelligence by 2025 - The Latest News</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-your-pc-ready-for-win-11-essential-usb-setup-strategies/"><u>Get Your PC Ready for Win 11: Essential USB Setup Strategies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/haste-your-nvidia-driver-for-gtx-750-ti/"><u>Haste Your NVIDIA Driver for GTX 750 Ti</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-download-canon-scanner-software-windows-version/"><u>Quick Download: Canon Scanner Software (Windows) Version</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rebooting-your-pc-qualcomm-wireless-network-card-fix/"><u>Rebooting Your PC: Qualcomm Wireless Network Card Fix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-graphic-issues-in-win-os/"><u>Resolve Graphic Issues in Win OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-drivers-update-for-w7/"><u>Streamlined Drivers Update for W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-hp-graphics-driver-in-windows-10/"><u>Update HP Graphics Driver in Windows 10</u></a></li>
 </ul></div>
 

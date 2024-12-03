@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your System: Incor Written in the Stars - MTK Drivers, Win11/10"
-date: 2024-11-18T18:00:21.475Z
-updated: 2024-11-24T17:02:59.092Z
+date: 2024-11-26T08:23:49.264Z
+updated: 2024-12-02T16:20:35.990Z
 tags:
   - win11
   - win10
@@ -59,10 +59,6 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left panel, select the**Recovery** tab. Under**Advanced startup** , click**Restart now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
@@ -79,17 +75,9 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the Restart now button.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery-restart.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
@@ -103,13 +91,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/win11-type-device.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In Device Manager,**click on your PC name** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Action** and select**Add legacy hardware** .
 
@@ -120,7 +108,7 @@ To download and install MediaTek drivers manually, you need to:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
@@ -131,15 +119,27 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Select**Have Disk** and select the .inf file you extracted before.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Select **MTK\_Driver\_ext > SP\_Drivers\_v2.0 > Android > android\_winusb** inf.
 
  9) Once selected, click**OK** . Then select the model you want and click**Next** to install. You can install all MediaTek drivers on your computer.
 
 10) Restart your PC and connect your MediaTek device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 Automatically
 
@@ -162,7 +162,7 @@ To download and install MediaTek drivers manually, you need to:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/updateall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Note: You can do it for free if you like, but it’s partly manual.
@@ -196,21 +196,24 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-best-techniques-for-capturing-youtube-live-video-for-2024/"><u>[New] Best Techniques for Capturing YouTube Live Video for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-counterplay-creative-ways-to-watch-youtube-in-reverse/"><u>[Updated] The Counterplay Creative Ways to Watch YouTube in Reverse</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-awaitingnewagecameratechnologies/"><u>2024 Approved AwaitingNewAgeCameraTechnologies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-secrets-for-striking-fb-video-promos/"><u>2024 Approved Secrets for Striking FB Video Promos</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-support-bluetooth-broadcom-adapter-asus-bt400/"><u>Download & Support: Bluetooth Broadcom Adapter - Asus BT400</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-connectivity-with-mtk-drivers-win1110/"><u>Enhance Connectivity with MTK Drivers, Win11/10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-windows-10-auditory-output-via-drivers-reinstallation/"><u>Enhance Windows 10 Auditory Output via Drivers Reinstallation</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-itel-p55-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Itel P55 5G Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a56s-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A56s 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinventing-the-astro-experience-windows-reinstallation-guide/"><u>Reinventing the Astro Experience: Windows Reinstallation Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-computing-with-new-dell-and-os-drivers/"><u>Revitalize Computing with New Dell and OS Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-easy-guide-downloading-updating-amd-graphics-drivers/"><u>The Easy Guide: Downloading, Updating AMD Graphics Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/thorough-method-rebuilding-graphic-card-drivers/"><u>Thorough Method: Rebuilding Graphic Card Drivers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-mkv-cutting-tools-2023-edition-no-cost/"><u>Updated Best MKV Cutting Tools 2023 Edition (No Cost!)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-mastery-how-to-add-structure-and-subdivisions-for-enhanced-content-for-2024/"><u>YouTube Mastery How to Add Structure and Subdivisions for Enhanced Content for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716062634296-updated-2024-approved-how-to-record-a-voice-over-for-a-video/"><u>[Updated] 2024 Approved How To Record A Voice Over For A Video?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-montage-image-assembly/"><u>[Updated] 2024 Approved Unveiling the Secrets of Montage Image Assembly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-a-step-by-step-guide-to-autoplaying-youtube-in-facebook-groups-and-pages-for-2024/"><u>[Updated] A Step-by-Step Guide to Autoplaying Youtube in Facebook Groups and Pages for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-comprehensive-strategies-for-tracking-yt-traffic-and-gains-for-2024/"><u>[Updated] Comprehensive Strategies for Tracking YT Traffic and Gains for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovation-meets-opportunity-the-leading-7-nft-generation-tools/"><u>[Updated] Innovation Meets Opportunity The Leading 7 NFT Generation Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-insta-tips-for-enthusiasts-on-uploading-podcasts/"><u>[Updated] Insta-Tips for Enthusiasts on Uploading Podcasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-guide-to-capturing-skype-conversations-on-windowsmac/"><u>[Updated] The Essential Guide to Capturing Skype Conversations on Windows/Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5x-faster-engagement-in-twitter-conversations-using-cutting-edge-hashtag-tracking-apps/"><u>5X Faster Engagement in Twitter Conversations Using Cutting-Edge Hashtag Tracking Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-officejet-pro-8620-driver-upgrade-step-by-step-for-windows-users/"><u>HP OfficeJet Pro 8620 Driver Upgrade - Step by Step for Windows Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-redmi-12-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Redmi 12 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/power-up-your-bitcoin-experience-on-windows-using-new-amd-drivers/"><u>Power Up Your Bitcoin Experience on Windows Using New AMD Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivating-your-disabled-apple-device-tips-and-tricks/"><u>Reactivating Your Disabled Apple Device: Tips & Tricks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-printing-errors-win-os-and-hp-printer-connection/"><u>Rectify Printing Errors: Win OS & HP Printer Connection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-operating-system-windows-8-drivers-for-dell/"><u>Refresh Operating System: Windows 8 Drivers for Dell</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-windows-issues-hp-printer-1020-driver-update/"><u>Resolved Windows Issues: HP Printer 1020 Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-optimize-with-radeon-vega-3-release-2024/"><u>Secure & Optimize with Radeon Vega 3 Release 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-system-performance-efficiently-asus-drivers-win/"><u>Upgrade Your System Performance Efficiently - ASUS Drivers (Win)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-intuos-4-ultimate-windows-tablet-companion-free/"><u>Wacom Intuos 4: Ultimate Windows Tablet Companion (Free)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-enhanced-support-for-lenovo-y470/"><u>Windows 7 Enhanced Support for Lenovo Y470</u></a></li>
 </ul></div>
 

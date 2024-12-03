@@ -1,7 +1,7 @@
 ---
 title: Simplifying Driver Install on Windows Machines
-date: 2024-11-22T16:45:32.149Z
-updated: 2024-11-24T17:26:44.594Z
+date: 2024-11-28T07:18:24.123Z
+updated: 2024-12-03T01:13:20.335Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Uninstall the graphics driver
 
  You can uninstall the driver via Device Manager. Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update, or roll back drivers via Device Manager.
@@ -39,24 +43,20 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 3. Double-click**Display adapters** , right-click your NVIDIA graphics card, then select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 4. On the Uninstall confirm dialog box, select the**Delete the driver software for this device** check box, then click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
 5. On Windows 11, the message is different, but still, you just need to tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-49.png)
 6. Repeat the same to remove the driver for your other Nvidia display card if you have one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The option Delete the driver software for this device allows you to delete the driver package from the Driver Store (For more information about Driver Store, please see [**here**](https://learn.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) .)
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Install a new NVIDIA driver
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
  In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
 3. Follow the on-screen instructions to download the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -135,18 +135,22 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/5-ways-to-record-minecraft-on-mac-for-2024/"><u>5 Ways to Record Minecraft on Mac for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-every-moment-premium-no-cost-windowsmac-tools/"><u>Capture Every Moment Premium, No-Cost Windows/Mac Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-hd-webcam-driver-logitech-c270-for-windows-1011/"><u>Download HD Webcam Driver: Logitech C270 for Windows 10/11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-effortless-tips-for-storing-vimeo-videos/"><u>In 2024, Effortless Tips for Storing Vimeo Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-synchronized-intro-editing-across-all-your-devices-this-year/"><u>In 2024, Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-reaction-video-mastery-top-ios-and-android-apps-for-2024/"><u>New Reaction Video Mastery Top iOS and Android Apps for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-driver-integration-surface-pro-4-on-windows/"><u>Seamless Driver Integration: Surface Pro 4 on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-narzo-60x-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme Narzo 60x 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-gtx-750-ti-driver-downloads/"><u>Streamlined GTX 750 Ti Driver Downloads</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-process-for-lenovo-usb-c-driver-update/"><u>Streamlined Process for Lenovo USB-C Driver Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-hp-printer-software/"><u>Update Your HP Printer Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1985919-9781780282558-what-islam-did-for-us/"><u>What Islam Did For Us | Free Book</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-instantaneous-fortnite-tile-design-guide/"><u>[New] In 2024, Instantaneous Fortnite Tile Design Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-intersection-of-brain-research-and-strategic-business-management/"><u>[New] In 2024, The Intersection of Brain Research and Strategic Business Management</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-the-art-of-digital-image-preservation/"><u>[Updated] Mastering the Art of Digital Image Preservation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015659266-chrome-sound-not-working-heres-how-you-can-get-your-audio-back/"><u>Chrome Sound Not Working? Here's How You Can Get Your Audio Back</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-touch-screen-driver-installation-for-windows-11/"><u>Efficient Touch Screen Driver Installation for Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-hp-officejet-4630-installation-assistance/"><u>Enhanced HP Officejet 4630 Installation Assistance</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-find-your-steam-id/"><u>How to Find Your Steam ID</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>In 2024, The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-nvidia-970-drivers-optimized-for-win-11/"><u>Install Nvidia 970 Drivers - Optimized for Win 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrating-c270-webcam-with-modern-windows-11-system/"><u>Integrating C270 Webcam with Modern Windows 11 System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/m2-drivers-upgrade-your-pc-written-by-a-professional-tech-guru/"><u>M.2 Drivers: Upgrade Your PC' Written by a Professional Tech Guru</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-delays-just-perfect-scsi-driver-installation/"><u>No Delays, Just Perfect SCSI Driver Installation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-vr-videos-on-youtube-to-have-immersive-experience-for-2024/"><u>Top 10 VR Videos on YouTube to Have Immersive Experience for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-simple-techniques-for-amd-driver-downloads/"><u>Unlocking Simple Techniques for AMD Driver Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063378462-update-lenovo-g580-drivers-easily/"><u>Update Lenovo G580 Drivers. Easily!</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-complete-strategy-for-embedding-music-into-imovie-footage/"><u>Updated In 2024, The Complete Strategy for Embedding Music Into iMovie Footage</u></a></li>
 </ul></div>
 

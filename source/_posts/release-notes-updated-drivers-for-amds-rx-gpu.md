@@ -1,7 +1,7 @@
 ---
 title: "Release Notes: Updated Drivers for AMD's RX GPU"
-date: 2024-09-09T11:49:45.949Z
-updated: 2024-09-14T17:41:04.713Z
+date: 2024-11-28T23:08:42.391Z
+updated: 2024-12-03T04:36:02.230Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ OR
 
  The screenshot below are from Windows 10, but the steps also apply to Windows 7, 8 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  AMD keeps updating its drivers to prevent graphics card issues and glitches. You need to spend some time searching for the correct driver and installing it on your own. Here are the steps:
@@ -38,10 +42,23 @@ OR
 3. Choose your operating system. (For my case, I click Windows 10 – 64-Bit Edition).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-10.jpg)
 4. Click the**Download** button next to the driver you want.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-5.jpg)
 5. Double-click the downloaded file and follow the on-screen instruction to install the driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you feel the steps above are a little complicated, try the automatic method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the AMD 5700 drivers (Recommended)
 
@@ -58,6 +75,10 @@ OR
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -81,12 +102,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-optimizing-vimeo-playback-speed/"><u>[New] In 2024, Optimizing Vimeo Playback Speed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-diy-techniques-transforming-smartphones-into-webcams/"><u>2024 Approved DIY Techniques Transforming Smartphones Into Webcams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>2024 Approved Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-your-dolby-advanced-audio-driver-when-confronted-with-startup-problems-in-windows-11/"><u>How to Reactivate Your Dolby Advanced Audio Driver When Confronted with Startup Problems in Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-a-step-by-step-metaverse-marketing-plan/"><u>In 2024, A Step-by-Step Metaverse Marketing Plan</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-digital-trailer-development-agencies/"><u>New 2024 Approved Digital Trailer Development Agencies</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-defense-7-steps-to-thwart-windows-hackers/"><u>Proactive Defense: 7 Steps to Thwart Windows Hackers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-win-7s-performance-update-the-new-game-mouse-driver/"><u>Revive Win 7'S Performance - Update the New Game Mouse Driver</u></a></li>
+<li><a href="https://win-webster.techidaily.com/securing-your-microsoft-account-essential-strategies-to-defend-against-cyber-threats-insights-from-zdnet/"><u>Securing Your Microsoft Account: Essential Strategies to Defend Against Cyber Threats - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-thunderbolt-4-enhancement-for-macbooks/"><u>Swift Thunderbolt 4 Enhancement for MacBooks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/third-party-info-lacks-legit-signs/"><u>Third-Party Info Lacks Legit Signs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-platforms-for-free-live-music-downloads-and-performances/"><u>Top Platforms for Free Live Music Downloads & Performances</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshooting-techniques-for-your-hawki-car-concerns/"><u>Troubleshooting Techniques for Your Hawki Car Concerns</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ultra-simple-latest-driver-for-gtx-750-ti/"><u>Ultra Simple: Latest Driver for GTX 750 Ti</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-wacom-bamboo-quickly/"><u>Update Your Wacom Bamboo Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-and-nvidia-driver-update-boost-your-graphics/"><u>Windows 10 & Nvidia Driver Update: Boost Your Graphics</u></a></li>
+</ul></div>
 

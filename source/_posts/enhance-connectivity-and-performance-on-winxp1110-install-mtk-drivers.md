@@ -1,7 +1,7 @@
 ---
 title: Enhance Connectivity & Performance on WINXP11/10 - Install MTK Drivers
-date: 2024-09-10T01:16:11.827Z
-updated: 2024-09-14T16:23:17.635Z
+date: 2024-11-30T13:54:38.448Z
+updated: 2024-12-03T04:36:41.949Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ There are two methods for you to download and install MediaTek drivers.
 
 * Option 1 –**[Manually](#m1)** – You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it, and install it step by step.
 * Option 2 –**[Automatically](#m2)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 Manually
 
@@ -58,6 +62,10 @@ To download and install MediaTek drivers manually, you need to:
  1) Click**Settings** and select**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-control-panel-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left panel, select the**Recovery** tab. Under**Advanced startup** , click**Restart now** .
 
@@ -95,6 +103,10 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Action** and select**Add legacy hardware** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
@@ -107,9 +119,17 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Show All Devices** and then**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Select**Have Disk** and select the .inf file you extracted before.
 
@@ -120,6 +140,10 @@ To download and install MediaTek drivers manually, you need to:
  9) Once selected, click**OK** . Then select the model you want and click**Next** to install. You can install all MediaTek drivers on your computer.
 
 10) Restart your PC and connect your MediaTek device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 Automatically
 
@@ -170,12 +194,26 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivating-your-persona-in-the-world-of-gamers-for-2024/"><u>[New] Cultivating Your Persona in the World of Gamers for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-language-of-immersive-digital-worlds/"><u>[New] In 2024, The Language of Immersive Digital Worlds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-increase-attendance-and-engagement-with-strategic-zoom-recordings/"><u>[New] Increase Attendance and Engagement with Strategic Zoom Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quintet-of-top-10-royale-battles/"><u>[New] Quintet of Top 10 Royale Battles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-greenhouse-gatherings-the-best-farm-titles-for-group-joy/"><u>[Updated] 2024 Approved Greenhouse Gatherings The Best Farm Titles for Group Joy</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mac-innovators-handbook-crafting-cool-youtube-videos/"><u>[Updated] Mac Innovators' Handbook Crafting Cool Youtube Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-infinix-note-30-vip-racing-edition-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Infinix Note 30 VIP Racing Edition’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-15-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 15 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-y77t-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo Y77t to Mac? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-firmware-lasting-sound-quality/"><u>Instant Firmware, Lasting Sound Quality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-new-idt-audio-into-w7-operating-system/"><u>Integrate New IDT Audio Into W7 Operating System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/keep-your-computer-up-to-date-install-latest-drivers-for-hp-omen-15/"><u>Keep Your Computer Up-to-Date – Install Latest Drivers for HP Omen 15</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-software-update-quadro-rtx-6000/"><u>Latest Software Update - Quadro RTX 6000</u></a></li>
+<li><a href="https://driver-install.techidaily.com/m2-ssd-detection-and-installation-guide/"><u>M.2 SSD Detection & Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-msi-drivers-update-in-old-windows-editions/"><u>Navigating MSI Drivers Update in Old Windows Editions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-horizons-for-windows-7-with-updated-hp-drivers/"><u>New Horizons for Windows 7 with Updated HP Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-acer-screens-on-windows-10-through-updates/"><u>Optimize Acer Screens on Windows 10 Through Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-aoc-performance-on-win-711/"><u>Optimize AOC Performance on Win 7/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-benefits-of-consulting-chatgpt-for-your-wellness-journey/"><u>Top 7 Benefits of Consulting ChatGPT for Your Wellness Journey</u></a></li>
+</ul></div>
 

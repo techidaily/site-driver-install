@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Updating AMD with Windows OSs, Versions Included
-date: 2024-09-13T00:44:36.755Z
-updated: 2024-09-14T21:45:47.408Z
+date: 2024-12-02T12:16:06.340Z
+updated: 2024-12-02T17:32:39.986Z
 tags:
   - win11
   - win10
@@ -32,9 +32,19 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. On Windows 10, 8.1, 8 and 7, the option says**Delete the driver software for this device** , but it works the same. Tick the box and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/1-4-6.jpg)
 
 When it’s done, AMD graphics card will disappear from the list.
@@ -44,6 +54,10 @@ When it’s done, AMD graphics card will disappear from the list.
  After finishing the steps above, restart your computer and Windows will automatically detect the AMD graphics and install the appropriate drivers for you.
 
  However, Windows doesn’t always provide the latest device drivers ([see why](https://tools.techidaily.com/drivereasy/download/) ). In this case, you should try the other two ways to get the correct and up-to-date AMD drivers:**[manually](#option1)** or**[automatically](#option2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Manually download and install drivers from AMD
 
@@ -63,10 +77,7 @@ When it’s done, AMD graphics card will disappear from the list.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -75,10 +86,7 @@ When it’s done, AMD graphics card will disappear from the list.
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -106,5 +114,22 @@ When it’s done, AMD graphics card will disappear from the list.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-step-by-step-instructions-for-crafting-and-installing-whatsapp-alerts-for-2024/"><u>[New] Step-By-Step Instructions for Crafting & Installing WhatsApp Alerts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-approach-to-crafting-hits-on-9gag/"><u>[Updated] Step-by-Step Approach to Crafting Hits on 9GAG</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-guide-to-audio-editing-in-audacity-made-simple/"><u>[Updated] The Complete Guide to Audio Editing in Audacity, Made Simple</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-future-of-photo-shooting-smart-hdr-technology-insights/"><u>[Updated] The Future of Photo Shooting Smart HDR Technology Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-system-stability-update-intel-82579lm-windows-driver/"><u>Enhancing System Stability: Update Intel 82579LM Windows Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-distorted-sound-in-windows-10-with-driver-reinstall/"><u>Fix Distorted Sound in Windows 10 with Driver Reinstall</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/from-live-to-video-key-techniques-in-gaming-recordings-for-2024/"><u>From Live to Video Key Techniques in Gaming Recordings for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-nokia-c110-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Nokia C110</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-8-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 8 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rtx-3090-supercharge-windows-compatible-driver/"><u>RTX 3090 Supercharge - Windows Compatible Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-guide-to-revamping-windows-mouse-interface/"><u>Simplified Guide to Revamping Windows' Mouse Interface</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-realme-c53-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Realme C53.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-vivid-graphics-on-your-windows-machine/"><u>Unleash Vivid Graphics on Your Windows Machine</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-the-secrets-of-windows-11-hdmi-driver-updates/"><u>Unveiling the Secrets of Windows 11 HDMI Driver Updates</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-best-of-both-worlds-vn-video-editor-for-mac-and-its-alternatives/"><u>Updated In 2024, The Best of Both Worlds VN Video Editor for Mac and Its Alternatives</u></a></li>
+</ul></div>
 

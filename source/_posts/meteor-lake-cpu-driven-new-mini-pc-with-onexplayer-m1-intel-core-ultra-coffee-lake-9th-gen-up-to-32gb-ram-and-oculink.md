@@ -1,7 +1,7 @@
 ---
 title: Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink
-date: 2024-11-23T16:56:12.606Z
-updated: 2024-11-24T18:19:10.299Z
+date: 2024-11-28T01:21:51.919Z
+updated: 2024-12-02T20:49:53.863Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,22 +78,17 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ow-much-money-can-you-score-with-youtube-short-videos-for-2024/"><u>[New] How Much Money Can You Score with YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-syncing-songs-to-social-networks-iphonesandroid-approach/"><u>[Updated] 2024 Approved Syncing Songs to Social Networks IPhones/Android Approach</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-best-online-video-saving-tools-reviewed-and-ranked/"><u>[Updated] Best Online Video Saving Tools Reviewed & Ranked</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-youtube-livestream-game-plan-for-2024/"><u>[Updated] Elevate Your YouTube Livestream Game Plan for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-top-10-costless-conversion-apps-for-srt-files-explored/"><u>2024 Approved Top 10 Costless Conversion Apps for SRT Files Explored</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-installer-enable-your-tp-link-adapter-on-windows-pcs/"><u>Easy Installer: Enable Your TP Link Adapter on Windows PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-manually-update-drivers-in-windows-vista/"><u>How to Manually Update Drivers in Windows Vista</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-p40-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-s17-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo S17 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-playnite-viewing-switching-to-tv-fullscreen/"><u>Maximizing Playnite Viewing: Switching to TV Fullscreen</u></a></li>
-<li><a href="https://driver-install.techidaily.com/powerful-printers-smooth-performance-update-windows-10-laserjet-drivers/"><u>Powerful Printers, Smooth Performance - Update Windows 10 Laserjet Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-lenovo-thinks-with-updated-driver-set/"><u>Revitalize Lenovo Thinks with Updated Driver Set</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rx-5500xt-driver-update-make-it-swift/"><u>RX 5500XT Driver Update: Make It Swift</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-wireless-connections-with-updated-rtl8723d-drivers/"><u>Streamline Wireless Connections with Updated RTL8723D Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-driver-redo-effective-reinstallation-tactics-for-win-71011/"><u>The Driver Redo: Effective Reinstallation Tactics for Win 7/10/11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-tecnicas-para-combinar-duas-fotografias-com-fotoeditor-e-alternativas-em-2024/"><u>Top 5 Técnicas Para Combinar Duas Fotografias Com FotoEditor E Alternativas Em 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062481681-wireless-driver-for-windows-7-download-and-install-easily/"><u>Wireless Driver for Windows 7 Download & Install EASILY!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-saving-youtube-videos-a-legal-overview/"><u>[New] 2024 Approved Saving YouTube Videos A Legal Overview</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pinnacle-programs-for-peak-webcam-video-quality/"><u>[Updated] 2024 Approved Pinnacle Programs for Peak Webcam Video Quality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-silent-movies-to-sound-films-a-modern-tutorial/"><u>[Updated] From Silent Movies to Sound Films A Modern Tutorial</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-video-production-with-chroma-key-techniques/"><u>[Updated] Mastering Video Production with Chroma Key Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-excellent-facial-editors-for-smartphones-for-2024/"><u>10 Excellent Facial Editors for Smartphones for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-ink-level-indicators-through-windows-10-adjustments/"><u>Enhance Ink Level Indicators Through Windows 10 Adjustments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-simple-acquire-scsi-control-software/"><u>Fast & Simple: Acquire SCSI Control Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-enters-alliance-with-pearson-institute/"><u>Mondly Enters Alliance with Pearson Institute</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-9-the-trailblazer-in-android-phones-with-new-life-saving-satellite-emergency-features-exclusively-on-googles-latest-device-tech-news-by-zdnet/"><u>Pixel 9: The Trailblazer in Android Phones with New Life-Saving Satellite Emergency Features, Exclusively on Google's Latest Device | Tech News by ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/printer-drivers-hps-efficient-solution/"><u>Printer Drivers: HP's Efficient Solution</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-recourse-and-resource-conflicts/"><u>System Recourse and Resource Conflicts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/"><u>Update PC's Graphics Capabilities with New Drivers</u></a></li>
 </ul></div>
 

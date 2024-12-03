@@ -1,7 +1,7 @@
 ---
 title: Effortless Drivers Revamp on Your Windows 11 PC
-date: 2024-09-11T07:44:58.566Z
-updated: 2024-09-14T16:00:47.316Z
+date: 2024-11-30T01:30:13.940Z
+updated: 2024-12-02T18:45:04.465Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 
 **Pro Tip:** If you’re not tech-savvy, or you’re short on time and patience, you can try updating all your drivers on Windows 11 with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  in one click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update drivers on Windows 11
 
  Whether you want to do it manually or automatically, below you will find two different step-by-step installation guides.
@@ -47,10 +51,24 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 4. Click**Browse my computer for drivers** , and select the downloaded file.  
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
 5. Browse to the folder where your driver file is saved.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-path.jpg)
 6. It will install the drivers automatically for you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/download-location.jpg)
 7. Once complete, you now have the latest driver installed. You can restart your PC for it to take full effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2\. Update all drivers automatically
 
@@ -68,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -90,12 +112,26 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/eyond-boundaries-channel-youtube-for-exciting-green-screens-for-2024/"><u>[New] Beyond Boundaries Channel Youtube for Exciting Green Screens for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highest-rated-vehicle-tracking-cameras-overview/"><u>[New] Highest Rated Vehicle Tracking Cameras Overview</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-online-symphony-sessions/"><u>[Updated] Prime Online Symphony Sessions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-canon-mx870-in-win-765-systems/"><u>Enable Canon MX870 in WIN 7/6/5 Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exclusive-reveal-the-most-exceptional-magsafe-wallet-not-by-appleanker-at-a-steep-discount-zdnet-insights/"><u>Exclusive Reveal: The Most Exceptional MagSafe Wallet (Not by Apple/Anker) at a Steep Discount | ZDNET Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expedite-bios-flash-for-dell-latitude/"><u>Expedite BIOS Flash for Dell Latitude</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-gaomon-s620-running-fast-installation-tips-and-tricks/"><u>Get Gaomon S620 Running Fast: Installation Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-easily-screen-capture-in-windows-11-4-techniques-explored/"><u>How to Easily Screen Capture in Windows 11: 4 Techniques Explored</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-laserjet-1020-driver-issues-in-windows-fixed/"><u>HP LaserJet 1020 Driver Issues in Windows [Fixed]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-guide-gaomon-s620-upgrade/"><u>Installation Guide: Gaomon S620 Upgrade</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/launching-successful-online-gaming-shows-on-youtube-for-2024/"><u>Launching Successful Online Gaming Shows on YouTube for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-intel-chipset-compatibility-with-ws-11781-systems/"><u>Refresh Intel Chipset Compatibility with WS 11/7/8.1 Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782217-9781620552452-sacred-number-and-the-lords-of-time/"><u>Sacred Number and the Lords of Time | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-huion-h420-driver-enhancement-for-pcs/"><u>Step-by-Step Huion H420 Driver Enhancement for PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-the-stutter-proven-solutions-to-get-rid-of-minecraft-lag/"><u>Stop the Stutter: Proven Solutions to Get Rid of Minecraft Lag</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/troubleshooting-guide-solving-stardew-valley-pc-game-crashes/"><u>Troubleshooting Guide: Solving Stardew Valley PC Game Crashes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/trusty-windows-10-cam-software/"><u>Trusty Windows 10 Cam Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-print-spooler-performance-issues-in-windows-10/"><u>Unlock Print Spooler Performance Issues in Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-in-depth-reviews-of-pc-hardware/"><u>Unveiling Gadgets with Tom: In-Depth Reviews of PC Hardware</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Lenovo Docking Solution Step by Step
-date: 2024-09-11T17:41:08.081Z
-updated: 2024-09-15T08:00:23.076Z
+date: 2024-11-28T04:29:52.181Z
+updated: 2024-12-03T02:42:42.764Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 **Lenovo USB-C Dock** is a new-gen docking station that takes care of your multitasking needs by offering a full array of device connection options. Versatile as it is, it’s important that you**keep its drivers up-to-date** to make sure the peripherals connected to the station work properly.
 
  In this tutorial, we’ll guide you through the process of updating the drivers for your Lenovo USB-C Dock, both automatically and manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To update Lenovo USB-C Dock drivers in Windows
 
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
 
  Updating the USB-C Dock drivers involves going to the manufacturer’s official website, sorting through the drivers for the one matching your model of the station and the specific flavor of Windows version (for example, Windows 64 bit), downloading the driver and manually installing it. It may sound complicated, but here I break it down step by step so that it can be easier for you to follow.
@@ -56,12 +64,27 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 1. Go to [**Lenovo official website**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2F) , then click**SUPPORT** in the top navigation section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/support.png)
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
 7. Double-click on the execution file and follow the on-screen instructions to install.
@@ -89,12 +112,20 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-scripting-solutions-in-ae/"><u>2024 Approved Optimal Scripting Solutions in AE</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/discover-the-latest-in-computing-with-toms-gadget-insights/"><u>Discover the Latest in Computing with Tom's Gadget Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-40i-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 40i in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/identifying-your-ideal-video-sharing-app-tiktok-or-youtubes-shorts-in-2024/"><u>Identifying Your Ideal Video Sharing App TikTok or YouTubes' Shorts, In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-navigating-the-seas-of-saving-facebook-gifs-on-various-tech-platforms/"><u>In 2024, Navigating the Seas of Saving Facebook GIFs on Various Tech Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-iphone-camera-for-nighttime-pics-for-2024/"><u>Navigating iPhone Camera for Nighttime Pics for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstalling-wacom-software-for-win-11-10-and-7-systems/"><u>Reinstalling Wacom Software for Win 11, 10, and 7 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-deskjet-printer-errors-on-windows-10/"><u>Resolve Deskjet Printer Errors on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operation-integrate-pro-4-drivers-into-windows-os/"><u>Smooth Operation: Integrate Pro 4 Drivers Into Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-m14-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy M14 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-intel-82579lm-a-guide-for-windows-drivers/"><u>Updating Intel 82579LM: A Guide for Windows Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vmix-vs-wirecast-top-picks-for-professional-broadcasting/"><u>VMix Vs. Wirecast Top Picks for Professional Broadcasting</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10plus-driver-setup-manual-ie/"><u>Windows 10+ Driver Setup Manual - IE</u></a></li>
+</ul></div>
 

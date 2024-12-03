@@ -1,7 +1,7 @@
 ---
 title: Efficient Hardware Drivers Setup
-date: 2024-09-12T21:27:14.394Z
-updated: 2024-09-15T00:50:07.686Z
+date: 2024-11-30T18:50:45.865Z
+updated: 2024-12-02T21:45:12.649Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 
  As you know, a driver is software that a device uses to work with your PC. When your device isn’t working properly, you can check if the driver is installed correctly. A faulty driver could always be the cause. To fix the problem, you need to update the driver. For some devices, Windows can update the driver automatically. For some devices especially external devices, you need to install the updated drivers yourself, then you need to download the driver manually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download the driver manually
 
  To download new drivers, go to the PC manufacturer’s website or the device manufacturer’s website. Driver updates are often available in the Support section of their website. If you are using a branded computer, it is recommended that you go to the PC manufacturer’s website to check for the latest driver first, as they may customize the driver. You are required to use the **PC model** and the **operating system** that you are using to download the correct driver. Usually, the PC model can be found on the machine. See [How to Check Your Operating System Version](https://tools.techidaily.com/drivereasy/download/) . If you need to download the driver from device manufacturer, then you are required to know the device model.
@@ -33,12 +37,27 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Then type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 2. Right-click on the device that needs a driver update and select **Update driver** . (Here we take a video card as an example.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Update-driver.jpg)
 3. Select **Browse my computer for drivers** .  
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse-my-computer-for-drivers-Graphics-card.jpg)
 4. Select **Let me pick from a list of device drivers on my computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Let-me-pick-from-a-list-of-available-drivers-on-my-computer-Graphics-driver.jpg)
 5. Click the **Have Disk…** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Have-disk.jpg)
 6. Click the **Browse…** button. Navigate to the folder where you saved the downloaded driver file and browse the .inf driver file.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse.jpg)
@@ -59,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 <ins class="adsbygoogle"
@@ -74,12 +97,24 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-elevate-skype-call-audio-excellence/"><u>[New] Elevate Skype Call Audio Excellence</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-lenses-for-animation-photography/"><u>[New] Top Lenses for Animation Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thrifty-tech-finds-best-cameras-on-a-dime/"><u>[Updated] Thrifty Tech Finds Best Cameras on a Dime</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-gdx-setup-failure-on-os-x/"><u>Corrected GDX Setup Failure on OS X</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-solutions-for-handling-error-4013-in-iphone-updaterestore-processes/"><u>Effective Solutions for Handling Error 4013 in iPhone Update/Restore Processes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-someone-fast-a-guide-to-8-effective-people-search-engines/"><u>Find Someone Fast: A Guide to 8 Effective People-Search Engines</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g14frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G14FRP Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-visual-output-of-windows-10-acer-edition/"><u>Refresh Visual Output of Windows 10, Acer Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/release-notice-updated-drivers-from-amd-graphics/"><u>Release Notice: Updated Drivers From AMD Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-graphics-support-on-acer-pcs-windows-10/"><u>Revamp Graphics Support on Acer PCs, Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-driver-refreshes-for-logitech-sound-devices/"><u>Speedy Driver Refreshes for Logitech Sound Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-soundscape-with-scarlett-6i6-updates/"><u>Streamline Your Soundscape with Scarlett 6I6 Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/timing-updates-to-intel-pc-drivers/"><u>Timing Updates to Intel PC Drivers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-novice-to-pro-20-adobe-premiere-shortcuts-to-elevate-your-skills/"><u>Updated 2024 Approved From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-garden-with-the-brightest-permanent-govee-outdoor-lighting-install-this-weekend-zdnet/"><u>Upgrade Your Garden with the Brightest Permanent Govee Outdoor Lighting - Install This Weekend! | ZDNET</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-to-ethernet-installer-for-quick-connections/"><u>USB-to-Ethernet Installer for Quick Connections</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-installing-new-lenovo-thinkpad-drivers/"><u>Windows 10: Installing New Lenovo ThinkPad Drivers</u></a></li>
+</ul></div>
 

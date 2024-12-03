@@ -1,7 +1,7 @@
 ---
 title: Upgrading Windows 11 for Optimal HDMI Functionality
-date: 2024-09-08T20:56:06.950Z
-updated: 2024-09-15T02:49:19.900Z
+date: 2024-11-26T19:17:39.786Z
+updated: 2024-12-03T03:32:15.083Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ OR
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2 – Automatically update the graphics driver
 
  If you don’t have the time, patience, or computer skills to update the graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,29 +57,27 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is HDMI still not working?
 
  Updating your graphics driver can fix some HDMI issues, but if this method didn’t do the trick, you might want to try the following troubleshooting steps:
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1 – Change display settings
@@ -89,16 +91,7 @@ _Display modes on Windows 11_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/project-mode.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Display modes on Windows 10_
@@ -146,5 +139,16 @@ _Display modes on Windows 10_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-ace-the-sky-best-drones-and-their-precision-editing-companions-for-2024/"><u>[New] Ace the Sky Best Drones & Their Precision Editing Companions for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-perfectly-smooth-window-snap-tool-for-2024/"><u>[New] Perfectly Smooth Window Snap Tool for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-11web/"><u>「Windows 11上のWebミーティングに最適 - 録画と録音の簡単ガイド」</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-correcting-the-problem-of-absent-ksuserdll-files/"><u>Diagnosing and Correcting the Problem of Absent ksUSER.DLL Files</u></a></li>
+<li><a href="https://driver-install.techidaily.com/discover-cutting-edge-tech-exploring-toms-in-depth-hardware-analysis/"><u>Discover Cutting-Edge Tech: Exploring Tom's In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionize-your-tech-space-with-this-stylish-silent-modders-retro-future-mini-computer-and-lightning-fast-ssd-storage-via-usb4/"><u>Revolutionize Your Tech Space with This Stylish, Silent Modder's 'Retro-Future' Mini Computer and Lightning-Fast SSD Storage via USB4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-a-non-responsive-corsair-virtuoso-microphone/"><u>Step-by-Step Guide: Fixing a Non-Responsive Corsair Virtuoso Microphone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transformative-updates-for-a-modern-windows-11-experience/"><u>Transformative Updates for a Modern Windows 11 Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turbocharge-lenovo-yoga-900-with-simple-updates/"><u>Turbocharge Lenovo Yoga 900 with Simple Updates</u></a></li>
+</ul></div>
 

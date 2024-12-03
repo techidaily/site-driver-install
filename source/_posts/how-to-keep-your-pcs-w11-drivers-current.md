@@ -1,7 +1,7 @@
 ---
 title: How To Keep Your PC's W11 Drivers Current
-date: 2024-09-09T02:22:47.183Z
-updated: 2024-09-15T04:33:38.181Z
+date: 2024-11-28T22:57:34.678Z
+updated: 2024-12-02T16:21:34.689Z
 tags:
   - win11
   - win10
@@ -26,12 +26,20 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
 
 **Pro Tip:** If you’re not tech-savvy, or you’re short on time and patience, you can try updating all your drivers on Windows 11 with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  in one click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update drivers on Windows 11
 
  Whether you want to do it manually or automatically, below you will find two different step-by-step installation guides.
 
 * **[Manually](#1)**
 * **[Automatically](#2)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1\. Update drivers via Device Manager
 
@@ -42,9 +50,24 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
  If you can’t find the driver online, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (a trusted source for millions of verified drivers) to download the correct driver for you.
 2. Right-click the Start menu ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-1.png) and click**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the**Device Manager** window, expand the category and the device that you wish to update the driver for. If you need to update Realtek PCIe GBE Family Controller, you’ll find this device under the**Network adapters** category. You can right-click on the device name and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/update-driver.jpg)
 4. Click**Browse my computer for drivers** , and select the downloaded file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
 5. Browse to the folder where your driver file is saved.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-path.jpg)
@@ -90,18 +113,26 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-experience-effortless-videodownloads-on-pinterest-with-5-best-tools/"><u>[New] In 2024, Experience Effortless Videodownloads on Pinterest with 5 Best Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/erfect-end-screen-and-cards-strategies-for-yt/"><u>[New] Perfect End Screen & Cards Strategies for YT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ranked-top-5-ps3-virtual-players-for-pc/"><u>[New] Ranked Top 5 PS3 Virtual Players for PC</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/2-methoden-zum-synchronisieren-von-dateien-auf-demselben-rechner-einfache-losungen-erklart/"><u>2 Methoden Zum Synchronisieren Von Dateien Auf Demselben Rechner - Einfache Lösungen Erklärt</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-xerox-paper-jam-issues/"><u>Eliminating Xerox Paper Jam Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-crypto-dialogues-with-ai-gpt/"><u>Essential Crypto Dialogues with AI GPT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/jumpstart-tech-efficiency-with-device-drivers-installation/"><u>Jumpstart Tech Efficiency with Device Drivers Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-huion-h420-upgrading-for-windows-users/"><u>Maximize Huion H420: Upgrading for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/microsoft-recommended-me-installation/"><u>Microsoft Recommended ME Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-970-updated-drivers-for-w11/"><u>Nvidia 970 - Updated Drivers for W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/opengl-extensions-release-notes/"><u>OpenGL Extensions Release Notes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-system-performance-with-new-hardware-drivers/"><u>Optimize System Performance with New Hardware Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precise-steps-to-rewire-mouse-in-windows-oses/"><u>Precise Steps to Rewire Mouse in Windows OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-6000-drivers-latest-release-version/"><u>Quadro 6000 Drivers: Latest Release Version</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-restart-boosting-systems-wi-fi-functionality/"><u>Quick Restart: Boosting System's Wi-Fi Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-resolving-missing-d3d9dll-error-messages/"><u>Step-by-Step Tutorial on Resolving Missing d3d9.dll Error Messages</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailored-visual-representation-free-logo-base-for-personal-touches-for-2024/"><u>Tailored Visual Representation Free Logo Base for Personal Touches for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-14-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 14 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/video-editing-alternatives-to-the-go-to-inshot-for-2024/"><u>Video Editing Alternatives to the Go-To Inshot for 2024</u></a></li>
+</ul></div>
 

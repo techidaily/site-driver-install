@@ -1,7 +1,7 @@
 ---
 title: Swiftly Boost Your PC's Performance with Updated Win 11 Drivers
-date: 2024-11-17T16:40:20.395Z
-updated: 2024-11-24T17:17:07.541Z
+date: 2024-11-26T08:48:38.405Z
+updated: 2024-12-03T06:30:34.984Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
 **Pro Tip:** If you’re not tech-savvy, or you’re short on time and patience, you can try updating all your drivers on Windows 11 with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  in one click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update drivers on Windows 11
 
  Whether you want to do it manually or automatically, below you will find two different step-by-step installation guides.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 * **[Automatically](#2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1\. Update drivers via Device Manager
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the**Device Manager** window, expand the category and the device that you wish to update the driver for. If you need to update Realtek PCIe GBE Family Controller, you’ll find this device under the**Network adapters** category. You can right-click on the device name and select**Update driver** .  
@@ -56,22 +60,18 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/update-driver.jpg)
 4. Click**Browse my computer for drivers** , and select the downloaded file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
 5. Browse to the folder where your driver file is saved.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-path.jpg)
 6. It will install the drivers automatically for you.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/download-location.jpg)
 7. Once complete, you now have the latest driver installed. You can restart your PC for it to take full effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2\. Update all drivers automatically
 
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -117,20 +117,22 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-broadcast-iptv-across-platforms/"><u>[New] In 2024, Broadcast IPTV Across Platforms</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/eamless-channel-transitions-with-customized-end-screens-for-2024/"><u>[New] Seamless Channel Transitions with Customized End Screens for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-androids-top-12-virtual-creature-experiences/"><u>[Updated] Android's Top 12 Virtual Creature Experiences</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-12-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme 12 Pro 5G</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/burnova/"><u>Aiseesoft Burnova DVD/Blu-ray Burnner</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-reinstall-bluetooth-driver-in-windows-1011-easily/"><u>How to Reinstall Bluetooth Driver in Windows 10/11 [Easily]</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-navigating-the-digital-realm-uploading-with-premiere-and-youtube/"><u>In 2024, Navigating the Digital Realm Uploading with Premiere & YouTube</u></a></li>
-<li><a href="https://driver-install.techidaily.com/precision-tuning-of-samsung-ssds-in-windows-setups-done/"><u>Precision Tuning of Samsung SSDs in Windows Setups [Done]</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-your-system-an-in-depth-guide-to-msi-driver-update/"><u>Revamping Your System: An In-Depth Guide to MSI Driver Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tune-performance-latest-updates-for-intels-chipset-in-ws-11781/"><u>Tune Performance: Latest Updates for Intel's Chipset in WS 11/7/8.1</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-optimal-printing-fixed-hp-laserjet-1-points/"><u>Unleash Optimal Printing: Fixed HP LaserJet 1 Points</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-your-devices-potential-universal-adb-on-demand/"><u>Unlock Your Device's Potential - Universal ADB on Demand</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-711-graphics-drivers-retry/"><u>Windows 7/11: Graphics Drivers Retry</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-where-the-community-rocks-a-comparative-study-of-twitch-and-youtube/"><u>[New] 2024 Approved Where the Community Rocks A Comparative Study of Twitch & YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-sweeping-videography-iphone-techniques-for-facebook/"><u>[Updated] 2024 Approved Sweeping Videography IPhone Techniques for Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-comprehensive-directors-manual-powerdirector-24/"><u>2024 Approved Comprehensive Directors' Manual - PowerDirector '24</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discover-your-preferred-music-experience-top-6-android-music-video-apps/"><u>2024 Approved Discover Your Preferred Music Experience - Top 6 Android Music Video Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-download-asus-usb-drivers-win-setup/"><u>Direct Download: ASUS USB Drivers Win Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-classic-printer-driver-canon-mx870-on-win-xp/"><u>Enable Classic Printer Driver: Canon MX870 on Win XP</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-graphics-speed-windows-10-hp-version/"><u>Enhance Graphics Speed - Windows 10, HP Version</u></a></li>
+<li><a href="https://driver-install.techidaily.com/graphics-reinstallation-for-stable-display/"><u>Graphics Reinstallation for Stable Display</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a79-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo A79 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-envy-driver-setup-for-windows-11-upgrade/"><u>HP Envy Driver Setup for Windows 11 Upgrade</u></a></li>
+<li><a href="https://extra-information.techidaily.com/meme-magic-sprinkle-hilarity-with-simple-steps/"><u>Meme Magic Sprinkle Hilarity with Simple Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/modernize-pc-graphics-with-hp-driver-update/"><u>Modernize PC Graphics with HP Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/obtain-mtk-usb-drivers-for-winxp1110/"><u>Obtain MTK USB Drivers for WINXP11/10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streaming-mastery-ioss-no1-freepluspaid-movie-apps-guide/"><u>Streaming Mastery IOS's No.1, FREE+Paid Movie Apps Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/take-your-video-editing-to-the-next-level-adobe-premiere-pro-on-mac/"><u>Take Your Video Editing to the Next Level Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unparalleled-top-5-lightweight-cinematography-devices-for-2024/"><u>Unparalleled Top 5 Lightweight Cinematography Devices for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-huion-h420-seamless-integration-with-windows/"><u>Upgrading Huion H420: Seamless Integration with Windows</u></a></li>
 </ul></div>
 

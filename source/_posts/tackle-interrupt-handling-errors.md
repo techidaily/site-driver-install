@@ -1,7 +1,7 @@
 ---
 title: Tackle Interrupt Handling Errors
-date: 2024-11-19T18:03:05.467Z
-updated: 2024-11-24T17:06:20.600Z
+date: 2024-11-28T12:21:41.482Z
+updated: 2024-12-03T01:19:35.088Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
  You can download the latest FTDI driver from FTDI official website. Following steps are for your reference how to download and install the driver from FTDI manufacturer. Note the steps will be different if their website is redesigned.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 1: Update the FTDI USB to serial driver manually  
@@ -42,18 +42,18 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-98.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-96.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -106,18 +106,18 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-capturing-clarity-iphone-low-light-techniques/"><u>[New] 2024 Approved Capturing Clarity IPhone Low Light Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-elevate-home-videography-high-quality-webcam-steps/"><u>2024 Approved Elevate Home Videography - High-Quality WebCam Steps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-selecting-the-finest-screen-recorders-1-to-5-android/"><u>2024 Approved Selecting the Finest Screen Recorders, #1 to #5 (Android)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-device-functionality-restored-by-os-update/"><u>Audio Device Functionality Restored by OS Update</u></a></li>
-<li><a href="https://facebook.techidaily.com/connecting-with-conciseness-the-essential-smart-list-for-users/"><u>Connecting with Conciseness: The Essential SMART List for Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-tips-updating-lenovo-dock-software/"><u>Essential Tips: Updating Lenovo Dock Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/exploring-the-world-of-teresa-wang-renowned-writer-of-aomei-discover-her-story-and-accomplishments/"><u>Exploring the World of Teresa Wang, Renowned Writer of 'AOMEI', Discover Her Story and Accomplishments</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-970-enhanced-windows-11-latest-driver-version/"><u>GTX 970 Enhanced: Windows 11 Latest Driver Version</u></a></li>
-<li><a href="https://techtrends.techidaily.com/linking-several-bluetooth-audio-players-to-a-single-source-a-step-by-step-guide/"><u>Linking Several Bluetooth Audio Players to a Single Source: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rocketbook-fusion-moleskine-alternative-up-to-24-off-perfect-for-eco-friendly-note-taking/"><u>Rocketbook Fusion Moleskine Alternative: Up To 24% Off - Perfect For Eco-Friendly Note Taking</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unwrap-these-8-trending-gems-from-youtubes-big-brother-for-2024/"><u>Unwrap These 8 Trending Gems From YouTube's Big Brother for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-essentials-reinstalling-drivers-in-all-various-windows-versions/"><u>Update Essentials: Reinstalling Drivers in All Various Windows Versions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-amd-rx-570-driver-download-windows-os-performance-boost/"><u>Upgraded AMD RX 570 Driver Download: Windows OS Performance Boost</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-art-of-visual-anonymity-in-videos/"><u>[Updated] 2024 Approved The Art of Visual Anonymity in Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-launch-your-youtube-presence-step-by-step-guide/"><u>[Updated] Launch Your YouTube Presence Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-practical-advice-for-documenting-online-conferencing-sessions/"><u>2024 Approved Practical Advice for Documenting Online Conferencing Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/2024windows-10-top-photo-viewer-recommendations/"><u>2024年度最搶手的Windows 10影像鑒別程式 - Top Photo Viewer Recommendations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-mx870-drivers-on-windows-78-systems/"><u>Configure MX870 Drivers on Windows 7/8 Systems</u></a></li>
+<li><a href="https://discover-help.techidaily.com/guide-facile-et-rapide-pour-faire-reconnaitre-votre-carte-micro-sd-sous-windows-11/"><u>Guide Facile Et Rapide Pour Faire Reconnaître Votre Carte Micro-SD Sous Windows 11 !</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/harnessing-hype-strategies-to-elevate-your-instagram-presence/"><u>Harnessing Hype Strategies to Elevate Your Instagram Presence</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-scsi-software-integration-for-you/"><u>Instant SCSI Software Integration for You</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneous-driver-updates-acer-plus-windows-11/"><u>Instantaneous Driver Updates: Acer + Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-avcodecdll-file-not-found-comprehensive-troubleshooting-guide/"><u>Resolving Avcodec.dll File Not Found: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-bluetooth-driver-reinstallation-on-windows-1011/"><u>Seamless Bluetooth Driver Reinstallation on Windows 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-drives-update-guide-for-winos/"><u>Speedy Drives Update Guide for WINOS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-7-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 7 Plus</u></a></li>
 </ul></div>
 

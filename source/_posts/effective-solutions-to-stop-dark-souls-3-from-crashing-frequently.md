@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to Stop Dark Souls 3 From Crashing Frequently
-date: 2024-11-22T18:33:17.835Z
-updated: 2024-11-24T17:51:18.981Z
+date: 2024-11-28T23:55:28.731Z
+updated: 2024-12-03T00:13:12.934Z
 tags:
   - win11
   - win10
@@ -49,7 +49,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Disable your antivirus software
@@ -61,7 +61,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify your game cache
@@ -75,7 +75,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change your save files location
@@ -83,6 +83,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Steam Overlay
 
@@ -92,10 +96,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your driver
 
@@ -124,7 +124,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. Relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -148,18 +148,20 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-streamlined-playback-import-tunes-into-inshot/"><u>[New] 2024 Approved Streamlined Playback Import Tunes Into InShot</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unveiling-dji-phantom-3s-superior-flight-control-features/"><u>[New] In 2024, Unveiling DJI Phantom 3'S Superior Flight Control Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-youtube-entrance-videos-with-the-top-tools-for-2024/"><u>[Updated] Crafting YouTube Entrance Videos with the Top Tools for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-strategies-for-flawless-screens-in-adobe-captivity/"><u>[Updated] Innovative Strategies for Flawless Screens in Adobe Captivity</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-integrate-sound-and-sight-web-studio/"><u>[Updated] Integrate Sound & Sight Web Studio</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-smooth-sailing-for-social-broadcasts-fixing-interruptions-on-fb/"><u>2024 Approved Smooth Sailing for Social Broadcasts Fixing Interruptions on FB</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-flawless-audio-capture-mic-free/"><u>2024 Approved The Art of Flawless Audio Capture, Mic-Free</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-windows-78-use-asus-usb-bt400-download/"><u>Efficient Windows 7/8 Use: ASUS USB-BT400 Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hacking-fast-fixes-for-m-audio-glitches/"><u>Hacking Fast Fixes for M-Audio Glitches</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-system-sounds-for-ws11-guide-to-audio-driver-update/"><u>Optimize System Sounds for WS11: Guide to Audio Driver Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/transition-to-advanced-features-update-your-windows-10-8-and-7/"><u>Transition to Advanced Features - Update Your Windows 10, 8 & 7</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-creative-tactics-for-medical-ad-success-on-facebook/"><u>[New] In 2024, Creative Tactics for Medical Ad Success on Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-comprehensive-checklist-for-incorporating-srt-in-mp4-files-for-2024/"><u>[Updated] Comprehensive Checklist for Incorporating SRT in MP4 Files for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-viewing-on-facebook-live-for-2024/"><u>[Updated] Mastering Viewing on Facebook Live for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-sync-sound-files-with-ppt-slides/"><u>[Updated] Sync Sound Files with PPT Slides</u></a></li>
+<li><a href="https://driver-install.techidaily.com/breeze-through-updating-logitech-mouse-win-7-edition/"><u>Breeze Through Updating Logitech Mouse, Win 7 Edition</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-gmail-backup-strategies-discover-the-best-techniques/"><u>Effective Gmail Backup Strategies: Discover the Best Techniques!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-webcam-driver-for-clear-video-capture-logitech-c270/"><u>Essential Webcam Driver for Clear Video Capture: Logitech C270</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/experience-streamlined-interactions-thanks-to-our-integration-with-cookiebot-solutions/"><u>Experience Streamlined Interactions, Thanks to Our Integration with Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-cybersecurity-risks-deciphering-new-twitter-schemes-the-arrival-of-metas-verified-feature-and-demystifying-chatgpt/"><u>Exploring Cybersecurity Risks : Deciphering New Twitter Schemes, The Arrival of Meta’s Verified Feature, and Demystifying ChatGPT-</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-tecno-camon-20-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Tecno Camon 20 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lead-in-tech-quick-scsi-drives-ready/"><u>Lead-In Tech: Quick SCSI Drives Ready</u></a></li>
+<li><a href="https://driver-install.techidaily.com/manual-enhancement-of-windows-vista-devices/"><u>Manual Enhancement of Windows Vista Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-free-imagery-with-photoscape-expert-insights-and-review/"><u>Mastering Free Imagery with PhotoScape – Expert Insights and Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-lenovo-ideapad-u310/"><u>Quick Driver Updates on Lenovo Ideapad U310</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-reinstallation-of-printer-drivers-on-vintage-pcs/"><u>Stepwise Reinstallation of Printer Drivers on Vintage PCs</u></a></li>
 </ul></div>
 

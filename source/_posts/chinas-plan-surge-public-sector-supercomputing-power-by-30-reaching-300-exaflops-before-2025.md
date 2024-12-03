@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-11-18T16:15:47.299Z
-updated: 2024-11-24T17:50:57.564Z
+date: 2024-11-29T22:37:00.701Z
+updated: 2024-12-03T09:18:59.938Z
 tags:
   - desktop
 categories:
@@ -56,20 +56,24 @@ Today we have one great deal that turns into two when you take up a bundle offer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-futures-camera-giants-top-10-camcorder-picks-2024-edition/"><u>[New] Future's Camera Giants Top 10 Camcorder Picks, 2024 Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-gaomon-s620-drivers-installed-quickly/"><u>Get Gaomon S620 Drivers Installed Quickly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-your-printer-up-and-running-download-hp-jetprot-8710-drivers-for-windows/"><u>Get Your Printer Up and Running: Download HP JetProt 8710 Drivers for Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-moto-g84-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola Moto G84 5G Phones</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/navigating-the-nuances-of-japanese-characters/"><u>Navigating the Nuances of Japanese Characters</u></a></li>
-<li><a href="https://driver-install.techidaily.com/power-systems-up-intell-drivers/"><u>Power Systems Up: Intell Drivers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-breakdown-of-modern-wireless-technologies-from-802nbgwi-fi-protocols-to-the-latest-80211ax-series/"><u>The Complete Breakdown of Modern Wireless Technologies: From 802.nB/gWi-Fi Protocols to the Latest 802.11Ax Series</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-bulk-creating-via-canva-and-chatgpt/"><u>The Ultimate Guide to Bulk Creating via Canva & ChatGPT</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-3-email-marketing-pitfalls-of-2naughts-essential-tips-for-effective-communication-with-your-subscriber-base-via-massmail/"><u>Top 3 Email Marketing Pitfalls of 2Naughts: Essential Tips for Effective Communication with Your Subscriber Base via Massmail</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-tier-functionality-at-an-accessible-price-the-in-depth-review-of-apples-new-ipad-air-4-and-how-it-stacks-up-to-the-pro-series/"><u>Top-Tier Functionality at an Accessible Price: The In-Depth Review of Apple's New iPad Air 4 and How It Stacks Up to the Pro Series</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-s1500-scansnap-firmware/"><u>Updating S1500 Scansnap Firmware</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-previewing-facebooks-hidden-activities/"><u>[Updated] 2024 Approved A Comprehensive Guide to Previewing Facebook's Hidden Activities</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-effortless-selection-of-personal-ending-music-samples-for-2024/"><u>[Updated] Effortless Selection of Personal Ending Music Samples for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-screen-capture-alternatives-for-the-cost-conscious-user/"><u>2024 Approved Best Screen Capture Alternatives for the Cost-Conscious User</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-driver-updates-on-windows-versions-10plus81plus7-guide/"><u>Accelerate Driver Updates on Windows Versions: 10+8.1+7 Guide!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581151239-celebrating-a-decade-of-mondly/"><u>Celebrating A Decade of Mondly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-device-control-intel-me/"><u>Enhance Device Control: Intel ME</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-lexmark-driver-update-procedure/"><u>Enhance Lexmark Driver Update Procedure</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grasping-the-nuances-in-youtube-viewer-reactions-for-2024/"><u>Grasping the Nuances in YouTube Viewer Reactions for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10 4G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-your-pcs-performance-with-updated-hp-omen-drivers/"><u>Master Your PC's Performance with Updated HP Omen Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-startech-conflicts-across-windows-versions/"><u>Resolving StarTech Conflicts Across Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-updating-and-downloading-the-ch340g-serial-converter-drivers-for-modern-windows-systems/"><u>Step-by-Step Tutorial on Updating and Downloading the CH340G Serial Converter Drivers for Modern Windows Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/streamline-your-videography-instantly-upgrade-fb-videos-to-mp4-hd-for-2024/"><u>Streamline Your Videography - Instantly Upgrade FB Videos to MP4 HD for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-astro-performance-update-and-install-steps/"><u>Streamlining Astro Performance: Update & Install Steps</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

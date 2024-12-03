@@ -1,7 +1,7 @@
 ---
 title: Discover Tom's Ultimate Guide to Computer Components - Your One-Stop Tech Resource
-date: 2024-11-20T17:11:24.579Z
-updated: 2024-11-24T17:37:42.012Z
+date: 2024-11-27T06:42:00.072Z
+updated: 2024-12-03T00:04:49.625Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,17 +66,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-beyond-basic-how-hdr-transforms-video-editing-processes/"><u>[New] Beyond Basic How HDR Transforms Video Editing Processes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-standout-settings-guide-for-online-events/"><u>[New] Standout Settings Guide for Online Events</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-from-your-vantage-point-to-the-worlds-sharing-immersive-photos-online/"><u>[Updated] 2024 Approved From Your Vantage Point to the World's Sharing Immersive Photos Online</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-your-desktop-gaming-update-logitech-mouse-drivers-in-win11/"><u>Boost Your Desktop Gaming: Update Logitech Mouse Drivers in Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-support-toolkit-epson-2650-model-drivers-bundle/"><u>Direct Support Toolkit: Epson 2650 Model Drivers Bundle</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-z50-70-driver-update-process/"><u>Effortless Z50-70 Driver Update Process</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-atheros-wifi-drivers-in-windows-11/"><u>How to Update Atheros Wifi Drivers In Windows 11</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-how-to-join-and-reap-the-rewards-of-social-media-success-stories/"><u>In 2024, How to Join & Reap the Rewards of Social Media Success Stories</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-insights-with-toms-pc-hub/"><u>Mastering Hardware Insights with Tom's PC Hub</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-your-printer-update-officejet-pro-8620-drivers-in-windows/"><u>Secure Your Printer: Update OfficeJet Pro 8620 Drivers in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/security-of-extensions-for-chatgpt-platforms/"><u>Security of Extensions for ChatGPT Platforms?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-cutting-out-extra-sounds-in-your-tiktok-videos/"><u>The Ultimate Guide to Cutting Out Extra Sounds in Your TikTok Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-virtual-realms-in-retroperusia-facebooks-image-inversion/"><u>[New] In 2024, Navigating Virtual Realms in Retroperusia Facebook's Image Inversion</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressing-inkjet-print-problems-on-pc-10-edition/"><u>Addressing InkJet Print Problems on PC 10 Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-latest-hp-elitebook-problem/"><u>Download & Install Latest HP EliteBook # Problem</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-entertainment-a-revealing-look-at-the-picture-perfection-of-the-lg-oled-c9-65-television/"><u>Elevate Your Entertainment - A Revealing Look at the Picture Perfection of the LG OLED C9 65 Television.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-pcs-display-navigating-the-new-hdmi-driver-in-win10-11/"><u>Elevate Your PC's Display - Navigating the New HDMI Driver in Win10, 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/ending-your-insta-saga-a-comprehensive-guide-to-deactivation-for-2024/"><u>Ending Your Insta Saga A Comprehensive Guide to Deactivation for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-dealing-with-a-solitary-speaker/"><u>In 2024, Dealing with a Solitary Speaker</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidias-gtx-760-now-updating-is-simple/"><u>Nvidia's GTX 760 Now Updating Is Simple</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-logitech-mouse-updates-on-win-7/"><u>Streamline Logitech Mouse Updates on Win 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-high-performance-camera-software-with-c270-drivers/"><u>Upgrade to High-Performance Camera Software with C270 Drivers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/vr-in-education-a-new-paradigm-shift-for-2024/"><u>VR in Education A New Paradigm Shift for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-performance-boost-aoc-update-1659fwv/"><u>Windows Performance Boost: AOC Update 1659FWV</u></a></li>
 </ul></div>
 

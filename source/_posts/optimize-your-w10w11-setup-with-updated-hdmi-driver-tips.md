@@ -1,7 +1,7 @@
 ---
 title: Optimize Your W10/W11 Setup with Updated HDMI Driver Tips
-date: 2024-09-09T23:03:16.159Z
-updated: 2024-09-15T10:08:22.427Z
+date: 2024-11-29T19:24:16.387Z
+updated: 2024-12-02T23:52:43.693Z
 tags:
   - win11
   - win10
@@ -34,18 +34,15 @@ OR
 
 [**Option 2 — Automatically (Recommended) —**](#option-2) This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  Your graphics adapter manufacturer keeps updating drivers. To get them, you need to go to its website, find the exact graphics driver corresponding with your specific flavor of Windows version (for example, Windows 10 64 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update the graphics driver
 
@@ -60,24 +57,23 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is HDMI still not working?
@@ -89,6 +85,10 @@ OR
  1) On your keyboard press the **Windows logo key** and **P** to check your computer display settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/extend.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Display modes on Windows 11_
 
@@ -102,13 +102,6 @@ _Display modes on Windows 10_
 * **Second screen/Projector only** — Only using the second monitor.
 
  2) Experiment with each mode, and you will be able to see images on the screen connected via HDMI when the display settings are correct.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2 – Restart and reconnect everything
 
@@ -146,5 +139,26 @@ _Display modes on Windows 10_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-cutting-edge-design-top-5-3d-intro-makers/"><u>[Updated] 2024 Approved Cutting-Edge Design Top 5 3D Intro Makers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-digital-destinations-where-to-direct-your-videos/"><u>2024 Approved Digital Destinations Where to Direct Your Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/bridging-gap-acquired-msvcr71dll/"><u>Bridging Gap: Acquired MSVCR71.dll</u></a></li>
+<li><a href="https://fox-where.techidaily.com/conquering-the-glitch-effective-fixes-for-your-xbox-ones-persistent-green-screen-issue/"><u>Conquering the Glitch: Effective Fixes for Your Xbox One's Persistent Green Screen Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-switching-5-must-try-fixes-when-airpods-struggle-with-automatic-device-changes/"><u>Effortless Switching: 5 Must-Try Fixes When AirPods Struggle with Automatic Device Changes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-meizu-21-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Meizu 21 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-driver-update-gtx-1650-nvidia-graphics/"><u>Instant Driver Update – GTX 1650 Nvidia Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-windows-78-drivers-for-gtx-1650/"><u>Latest Windows 7/8 Drivers for GTX 1650</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-windows-11-drivers-update-with-ease/"><u>Mastering Windows 11 Drivers Update with Ease</u></a></li>
+<li><a href="https://driver-install.techidaily.com/modernize-your-thinkpad-windows-11-driver-upgrade/"><u>Modernize Your Thinkpad: Windows 11 Driver Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/opengl-shading-language-user-manual/"><u>OpenGL Shading Language User Manual</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-sound-how-to-update-audio-drivers-on-ws11/"><u>Optimized Sound: How to Update Audio Drivers on WS11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pcie-audio-improvement-install-new-drivers-in-win10/"><u>PCIe Audio Improvement: Install New Drivers in Win10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/push-the-limits-of-audio-on-windows-7-powered-by-nvidia/"><u>Push the Limits of Audio on Windows 7, Powered by NVIDIA</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-easy-lenovo-z50-70-update-guide/"><u>Quick, Easy: Lenovo Z50-70 Update Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-websites-your-source-for-youtube-branding-collabs-for-2024/"><u>Unveiling Websites Your Source for YouTube Branding Collabs for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-transform-your-images-into-videos-with-these-10-online-tools/"><u>Updated Transform Your Images Into Videos with These 10 Online Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restarting AMD Support for Latest Windows OSs
-date: 2024-09-12T06:21:26.005Z
-updated: 2024-09-14T20:51:30.293Z
+date: 2024-11-26T22:44:00.607Z
+updated: 2024-12-03T07:56:45.262Z
 tags:
   - win11
   - win10
@@ -32,12 +32,26 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. On Windows 10, 8.1, 8 and 7, the option says**Delete the driver software for this device** , but it works the same. Tick the box and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/1-4-6.jpg)
 
 When it’s done, AMD graphics card will disappear from the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2 – Install new AMD drivers
 
@@ -51,13 +65,6 @@ When it’s done, AMD graphics card will disappear from the list.
 
  Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2 – Install the AMD drivers automatically (recommended)
 
  If you don’t have the time, patience or computer skills to install the AMD driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -69,22 +76,17 @@ When it’s done, AMD graphics card will disappear from the list.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -112,5 +114,21 @@ When it’s done, AMD graphics card will disappear from the list.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-essential-8-platforms-for-private-screenings/"><u>[Updated] 2024 Approved Essential 8 Platforms for Private Screenings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-a-to-z-guide-to-recording-games-using-obs/"><u>[Updated] 2024 Approved The A-to-Z Guide to Recording Games Using OBS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aerial-imaging-face-off-dji-fpv-vs-gopro-max-x/"><u>Aerial Imaging Face-Off DJi FPV vs GoPro Max X</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-realtek-pci-express-fe-chipset-drivers-on-windows-10-no-cost/"><u>Get the Latest Realtek PCI Express FE Chipset Drivers on Windows 10 - No Cost!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-selection-of-economical-4k-projection-screens/"><u>In 2024, Ultimate Selection of Economical 4K Projection Screens</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operating-system-startechs-driver-upgrades-to-windows-71011/"><u>Smooth Operating System: StarTech's Driver Upgrades to Windows 7/10/11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/splitscreen-study-for-2024/"><u>SplitScreen Study for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/step-by-step-tutorial-on-switching-off-icloud-photo-library-without-losing-data/"><u>Step-by-Step Tutorial on Switching Off iCloud Photo Library Without Losing Data</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-access-clashing/"><u>System Access Clashing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unveiling-the-best-skype-recorders-of-this-year-for-2024/"><u>Unveiling the Best Skype Recorders of This Year for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-lenovo-audio-drivers-in-windows-10-easily/"><u>Update Lenovo Audio Drivers in Windows 10. Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-lenovo-g580-to-effortless/"><u>Upgrade Lenovo G580 to Effortless</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11-sound-troubleshoot-audio-driver-reinstallation/"><u>Win11 Sound Troubleshoot: Audio Driver Reinstallation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-canon-driver-get-it-now/"><u>Windows 10 Canon Driver, Get It Now</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential Tech Upgrade: Adding Supporting Hardware Drivers"
-date: 2024-09-07T21:09:29.494Z
-updated: 2024-09-15T10:09:05.667Z
+date: 2024-11-28T01:00:39.259Z
+updated: 2024-12-02T17:03:38.888Z
 tags:
   - win11
   - win10
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
  As you know, a driver is software that a device uses to work with your PC. When your device isn’t working properly, you can check if the driver is installed correctly. A faulty driver could always be the cause. To fix the problem, you need to update the driver. For some devices, Windows can update the driver automatically. For some devices especially external devices, you need to install the updated drivers yourself, then you need to download the driver manually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download the driver manually
 
  To download new drivers, go to the PC manufacturer’s website or the device manufacturer’s website. Driver updates are often available in the Support section of their website. If you are using a branded computer, it is recommended that you go to the PC manufacturer’s website to check for the latest driver first, as they may customize the driver. You are required to use the **PC model** and the **operating system** that you are using to download the correct driver. Usually, the PC model can be found on the machine. See [How to Check Your Operating System Version](https://tools.techidaily.com/drivereasy/download/) . If you need to download the driver from device manufacturer, then you are required to know the device model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to install the driver
 
@@ -33,16 +41,30 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Then type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 2. Right-click on the device that needs a driver update and select **Update driver** . (Here we take a video card as an example.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Update-driver.jpg)
 3. Select **Browse my computer for drivers** .  
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse-my-computer-for-drivers-Graphics-card.jpg)
 4. Select **Let me pick from a list of device drivers on my computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Let-me-pick-from-a-list-of-available-drivers-on-my-computer-Graphics-driver.jpg)
 5. Click the **Have Disk…** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Have-disk.jpg)
 6. Click the **Browse…** button. Navigate to the folder where you saved the downloaded driver file and browse the .inf driver file.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse.jpg)
 7. Click the**OK** button and then **Next** button to finish the installation. You might be asked for an admin password or to confirm your choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have difficulty downloading and installing drivers manually, or if you want to save more time in updating drivers, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -74,18 +96,17 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-autoplay-videos/"><u>[New] 2024 Approved Mastering the Art of Autoplay Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tutorial-on-stopping-automatic-youtube-video-prefaces/"><u>[Updated] Tutorial on Stopping Automatic YouTube Video Prefaces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-list-of-text-tools-and-plugins/"><u>2024 Approved Ultimate List of Text Tools & Plugins</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-persistent-windows-update-issue-error-0x8024002e-successfully/"><u>Fixing the Persistent Windows Update Issue (Error 0X8024002e) Successfully</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-f23-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo F23 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-synergy-updating-windows-and-intels/"><u>Seamless Synergy: Updating Windows and Intels</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-updating-atheros-drivers-to-optimize-windows-10-wifi/"><u>Seamlessly Updating Atheros Drivers to Optimize Windows 10 Wifi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/trim-guide-how-to-effortlessly-replace-bluetooth-drivers/"><u>Trim Guide: How To Effortlessly Replace Bluetooth Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-1011-updater-problems-and-quick-solutions-for-xerror/"><u>Windows 10/11 Updater Problems & Quick Solutions for XError</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-installation-microsoft-surface-pro-4-drivers/"><u>Windows Installation: Microsoft Surface Pro 4 Drivers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "USB Software Update: Version 4.5 for U-Are-U Reader"
-date: 2024-11-18T16:44:58.608Z
-updated: 2024-11-24T17:26:23.251Z
+date: 2024-12-01T05:10:07.110Z
+updated: 2024-12-03T04:03:37.377Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
  It’s always important to keep your fingerprint driver up-to-date so that you can make sure the fingerprint reader on your PC is working in proper condition and prevent issues like being unable to log in with a fingerprint.
 
  In this article, we’re showing you 2 easy ways to get the latest U.are.U. 4500 fingerprint driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to update U. are. U 4500 fingerprint reader driver
 
@@ -49,16 +53,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device-manager-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double click**Biometric devices** , then right-click**U.are.U 4500 Fingerprint Reader,** and select **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Browse my computer for driver software** .
 
@@ -73,7 +73,7 @@ See if your fingerprint reader works properly again.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
@@ -91,7 +91,7 @@ See if your fingerprint reader works properly again.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
@@ -101,7 +101,7 @@ See if your fingerprint reader works properly again.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your PC after finishing installing.
@@ -130,18 +130,24 @@ See if your fingerprint reader works properly again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-join-the-live-revolution-fb-streaming-tips/"><u>[New] 2024 Approved Join the Live Revolution FB Streaming Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beam-me-up-optimal-webcam-choices-for-podcasts/"><u>2024 Approved Beam Me Up Optimal Webcam Choices for Podcasts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-kingdom-clashers-elite-battle-royale-games/"><u>2024 Approved Kingdom Clashers Elite Battle Royale Games</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-precision-in-performance-utilizing-social-blade-for-youtube-data/"><u>2024 Approved Precision in Performance Utilizing Social Blade for YouTube Data</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-realme-gt-5-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme GT 5 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-realme-v30t-frp-bypass-by-drfone-android/"><u>In 2024, About Realme V30T FRP Bypass</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-elevate-your-vision-advanced-techniques-in-hdr-portraits/"><u>In 2024, Elevate Your Vision Advanced Techniques in HDR Portraits</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intuitive-software-installation-toolkit-model-2650-epson/"><u>Intuitive Software Installation Toolkit: Model 2650 Epson</u></a></li>
-<li><a href="https://driver-install.techidaily.com/repair-solving-windows-problems-with-hp-laserjet-pro-400-driver/"><u>Repair: Solving Windows Problems with HP LaserJet Pro 400 Driver</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-instructions-for-malfunctioning-bose-sound-units/"><u>Step-by-Step Repair Instructions for Malfunctioning Bose Sound Units</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sync-drivers-ensuring-smooth-operation-of-hp-printer-on-win-os/"><u>Sync Drivers: Ensuring Smooth Operation of HP Printer on Win OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-for-compatible-chip-type/"><u>Update for Compatible Chip Type</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-intels-chipset-support-for-ws-11781-systems-efficiency/"><u>Upgrade Intel's Chipset Support for WS 11/7/8.1 Systems Efficiency</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-quick-guide-capturing-time-lapse-on-your-ipad/"><u>[New] In 2024, Quick Guide Capturing Time Lapse on Your iPad</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>[Updated] 2024 Approved How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-online-methods-to-perfect-vhs-picture-editing/"><u>2024 Approved Mastering Online Methods to Perfect VHS Picture Editing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amend-brother-mfp-driver-in-win11/"><u>Amend Brother MFP Driver in Win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-s18-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo S18 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-manually-update-drivers-in-windows-xp/"><u>How to Manually Update Drivers in Windows XP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-video-player-apps-for-windows-phone/"><u>In 2024, Best Video Player Apps for Windows Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nokia-c300-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nokia C300 Device SIM</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-steps-for-new-amd-radeon-x-driver/"><u>Installation Steps for New AMD Radeon X Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-solution-for-dying-bluetooth-in-windows-1111/"><u>Instant Solution for Dying Bluetooth in Windows 11/11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/loudness-in-the-void-breaking-soundless-twitter-vids/"><u>Loudness in the Void Breaking Soundless Twitter Vids</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-pc-performance-windows-11-thinkpad-drivers/"><u>Revitalize PC Performance - Windows 11 Thinkpad Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-mouse-functionality-in-windows-environments/"><u>Revive Mouse Functionality in Windows Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-driver-mastery-for-multiple-windows-environments/"><u>StarTech Driver Mastery for Multiple Windows Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-methods-for-fresh-amd-video-drivers/"><u>Step-by-Step Methods for Fresh AMD Video Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-surface-pro-4-performance-via-drivers/"><u>Upgrade Surface Pro 4 Performance via Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-edge-40-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Edge 40 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

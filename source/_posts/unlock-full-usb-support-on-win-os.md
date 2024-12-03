@@ -1,7 +1,7 @@
 ---
 title: Unlock Full USB Support on WIN OS
-date: 2024-11-18T16:14:35.123Z
-updated: 2024-11-24T18:46:11.692Z
+date: 2024-11-30T21:57:13.711Z
+updated: 2024-12-02T18:34:40.578Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  If you want to download or update your Generic USB hub driver for your USB Hub device, you can update the driver to fix your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update Generic USB Hub driver
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update Generic USB Hub driver manually
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and**R** at the same time to invoke the**Run** box.
 2. Type**devmgmt.msc** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
@@ -58,17 +54,17 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 5. Choose**Search automatically for update driver software** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
- If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
 
 ###  Method 2: Update Generic USB Hub driver automatically
 
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance
 
@@ -107,20 +107,18 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-video-calls-discover-the-top-10-apps-for-your-phone-for-2024/"><u>[New] Mastering Video Calls Discover the Top 10 Apps for Your Phone for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-up-your-film-game-on-instagram-with-border-tips/"><u>[Updated] Step up Your Film Game on Instagram with Border Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-choosing-livestream-software-the-obs-vs-streamlabs-dilemma/"><u>2024 Approved Choosing Livestream Software The OBS Vs. Streamlabs Dilemma</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effective-methods-to-update-atheros-drivers-on-your-windows-system/"><u>Effective Methods to Update Atheros Drivers on Your Windows System</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-driver-update-new-gaming-mouse/"><u>Fast Driver Update: New Gaming Mouse</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-v-purse-by-fonelab-android-recover-data/"><u>How to recover lost data from V Purse?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-step-by-step-guide-to-music-insertion-in-youtube-editing-tools/"><u>In 2024, Step-by-Step Guide to Music Insertion in YouTube Editing Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-ideapad-u310-drivers-update-easily/"><u>Lenovo Ideapad U310 Drivers Update Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-incompatible-device-driver-issue-on-windows-operating-system/"><u>Resolved: Incompatible Device Driver Issue on Windows Operating System</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-integration-setup-for-epson-et-2650-driver/"><u>Seamless Integration Setup for Epson ET-2650 Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/securing-network-connectivity-in-windows-xp-to-zt/"><u>Securing Network Connectivity in Windows XP to ZT</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1168807-9781577318651-the-power-of-stillness/"><u>The Power of Stillness | Free Book</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-msi-compatibility-on-windows-10-7-and-8-editions/"><u>Upgrading MSI Compatibility on Windows 10, 7 & 8 Editions</u></a></li>
-<li><a href="https://common-error.techidaily.com/verify-organization-level-settings-enforcement-on-your-windows-machine/"><u>Verify Organization-Level Settings Enforcement on Your Windows Machine</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-isprings-screen-recording-explored-for-2024/"><u>[New] ISpring's Screen Recording Explored for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-7-enhancements-for-an-optimal-stardew-farming-experience/"><u>[Updated] 2024 Approved Top 7 Enhancements for an Optimal Stardew Farming Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-5-filters-elevating-submerged-cinematography/"><u>[Updated] Prime 5 Filters Elevating Submerged Cinematography</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-necessity-of-applecare-plus-extended-coverage/"><u>Exploring the Necessity of AppleCare Plus Extended Coverage</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-x5-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco X5 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y27-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y27 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-sound-enhancement-with-logitech-drivers/"><u>Instant Sound Enhancement with Logitech Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-win7/"><u>Quick Driver Updates on Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-mouse-driver-installation-guide-for-win10/"><u>Quick Mouse Driver Installation Guide for Win10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reestablish-visual-support-software/"><u>Reestablish Visual Support Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-unreal-engine-4-fixing-the-unreal-process-has-crashed-ue4-madness-bug/"><u>Resolved Issue: Unreal Engine 4 - Fixing the 'Unreal Process Has Crashed: UE4 Madness' Bug</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-nexis-print-service-on-win11/"><u>Update Nexis Print Service on Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winsolutions-for-startech-driver-problems-windows-xp-11/"><u>WinSolutions for StarTech Driver Problems (Windows XP-11)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Instant Canon Scan Setup Guide for Windows PCs
-date: 2024-09-13T00:36:56.114Z
-updated: 2024-09-15T01:51:23.006Z
+date: 2024-11-29T00:07:23.021Z
+updated: 2024-12-03T04:02:10.313Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
  Note: the screenshots below come from Windows 10, and the methods also work on Windows 11, 8 ,and 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Download Canon scanner driver manually
 
  You can manually download the driver for your Canon scanner from the Canon support center.
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 5. Install the driver on your computer.
 
  This requires time or computer skills. If you don’t have time or patience, you can try the solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update Canon scanner driver automatically
 
@@ -72,26 +80,25 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 1. Make sure you’ve connected your Canon scanner to your Windows computer.
 2. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 3. Type**devmgmt.msc** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 4. In Device Manager, double-click**Printers** or**Print queues** to expand it.  Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 5. Choose**Search automatically for updated driver software** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 6. Follow the on-screen instructions to finish updating the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Restart your computer afterward.
@@ -115,5 +122,26 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-perfecting-the-art-of-screen-recording-with-step-by-step-instructions-from-adobe-captivate/"><u>[New] 2024 Approved Perfecting the Art of Screen Recording with Step-by-Step Instructions From Adobe Captivate</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-collaborative-chats-in-skype-windows-mac/"><u>[New] 2024 Approved The Ultimate Guide to Collaborative Chats in Skype (Windows, Mac)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/levate-your-online-presence-audios-for-your-channel-for-2024/"><u>[New] Elevate Your Online Presence Audios for Your Channel for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-master-class-adding-podcasts-to-instagram-features-for-2024/"><u>[Updated] Master Class Adding Podcasts to Instagram Features for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-sound-shift-secrets-revealed-uncover-the-best-voice-recorder-changer-apps/"><u>[Updated] Sound Shift Secrets Revealed Uncover the Best Voice Recorder Changer Apps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 8 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://driver-error.techidaily.com/devmgr-error-code-48-addressed/"><u>DevMgr: Error Code 48 Addressed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-prime-mp3-converters-the-ultimate-list-from-youtube/"><u>In 2024, Prime MP3 Converters The Ultimate List From YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-preserving-your-playlist-perfection-in-cross-services/"><u>In 2024, The Art of Preserving Your Playlist Perfection in Cross Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-a-chatgpt-mobile-app-necessary-exploring-alternatives/"><u>Is a ChatGPT Mobile App Necessary? Exploring Alternatives</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smoothly-reactivate-your-bluetooth-with-this-guide-win1111/"><u>Smoothly Reactivate Your Bluetooth with This Guide, Win11/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-gpu-firmware-upgrade-amd/"><u>Swift GPU Firmware Upgrade, AMD</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshoot-epson-scan-pro-in-windows-11/"><u>Troubleshoot Epson Scan Pro in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tweak-windows-711-graphics-drivers-quickly/"><u>Tweak Windows 7/11 Graphics Drivers Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-hp-graphics-driver-in-windows-11/"><u>Update HP Graphics Driver in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-pc-with-free-gb-motherboard-and-driver-software-for-windows/"><u>Upgrade PC with Free GB Motherboard & Driver Software for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-functionality-latest-drivers-release-by-dell/"><u>Upgraded Functionality: Latest Drivers Release by Dell</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-11-10plus-ie-management-engine-installation-guide/"><u>Win 11-10+ IE Management Engine Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xbox-one-control-to-windows-compatibility/"><u>Xbox One Control to Windows Compatibility</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860
-date: 2024-11-21T17:08:58.978Z
-updated: 2024-11-24T17:10:06.858Z
+date: 2024-11-29T08:06:15.172Z
+updated: 2024-12-02T22:16:14.210Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,24 +76,19 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-entertainment-unlocked-apk-of-funimate-explained-for-2024/"><u>[New] Entertainment Unlocked APK of Funimate Explained for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unveiling-the-secrets-of-effective-screencasts-for-2024/"><u>[New] Unveiling the Secrets of Effective Screencasts for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/11-key-steps-for-perfect-color-grading-in-photography-for-2024/"><u>11 Key Steps for Perfect Color Grading in Photography for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-analysis-of-gemini-vs-chatgpt-plus-determining-top-performance/"><u>Advanced Analysis of Gemini Vs. ChatGPT Plus - Determining Top Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bridging-devices-direct-pc-to-network-via-usb/"><u>Bridging Devices: Direct PC-to-Network via USB</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bridging-usbasp-compatibility-gaps-across-older-and-modern-windows/"><u>Bridging USBasp Compatibility Gaps Across Older and Modern Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-find-x7-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Find X7 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fix-printer-driver-issues-on-windows-11/"><u>Fix Printer Driver Issues on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-quadro-rtx-6000-drivers-download-and-update/"><u>NVIDIA Quadro RTX 6000 Drivers - Download & Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-w107-performance-install-aoc-e1659dri/"><u>Optimize W10/7 Performance - Install AOC E1659DRI</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-win10-screen-update-guide/"><u>Quick Win10 Screen Update Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rejuvenate-mouse-operation-on-winx-10-and-11/"><u>Rejuvenate Mouse Operation on WINX, 10 & 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-process-for-pro-6-drivers-installation/"><u>Streamlined Process for Pro 6 Drivers Installation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-role-and-function-of-slug-lines-for-2024/"><u>The Role and Function of Slug Lines for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/top-10-easy-to-use-drones-kids-edition/"><u>Top 10 Easy-to-Use Drones - Kids Edition</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-ranked-windows-10-image-viewer-applications-the-ultimate-guide/"><u>Top-Ranked Windows 10 Image Viewer Applications - The Ultimate Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-drivers-on-windows-xp-without-automatic-tools/"><u>Updating Drivers on Windows XP Without Automatic Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-im-continuously-choosing-the-apple-watch-series-7-over-upcoming-series-10/"><u>Why I'm Continuously Choosing the Apple Watch Series 7 Over Upcoming Series 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unique-channels-generating-top-notch-video-naming/"><u>[Updated] 2024 Approved Unique Channels Generating Top-Notch Video Naming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ar-merging-physical-and-fictional-worlds/"><u>[Updated] In 2024, AR Merging Physical and Fictional Worlds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-flipbook-of-facebook-feeds/"><u>2024 Approved Flipbook of Facebook Feeds</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compatibility-boost-new-aoc-fwu-update/"><u>Compatibility Boost: New AOC FWU Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-hp-graphics-on-windows-11-with-new-driver-updates/"><u>Enhance HP Graphics on Windows 11 with New Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-envy-usb-driver-installation-on-windows-11/"><u>HP Envy USB Driver Installation on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experts-picks-the-top-5-professional-drone-brands/"><u>In 2024, Expert's Picks The Top 5 Professional Drone Brands</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-swift-seize-video-with-soundtracking/"><u>In 2024, Swift Seize Video with Soundtracking</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-sound-quality-with-new-drivers-on-hyperx-devices/"><u>Instantly Improve Sound Quality with New Drivers on HyperX Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-document-analysis-and-interaction-through-powerful-chatgpt-integrated-tools/"><u>Master Document Analysis and Interaction Through Powerful ChatGPT Integrated Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-a15-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy A15 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackle-disruptive-sound-on-windows-10-with-new-driver-install/"><u>Tackle Disruptive Sound on Windows 10 with New Driver Install</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/transitioning-photos-from-physical-to-digital-storage-for-2024/"><u>Transitioning Photos From Physical to Digital Storage for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-108-relaunching-efficiently-for-wi-fi-support/"><u>Win 10/8: Relaunching Efficiently for Wi-Fi Support</u></a></li>
 </ul></div>
 

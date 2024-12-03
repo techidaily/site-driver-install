@@ -1,7 +1,7 @@
 ---
 title: "Installation Guide: MTK Drivers for Windows 11/10"
-date: 2024-09-09T07:12:48.680Z
-updated: 2024-09-14T22:04:50.025Z
+date: 2024-11-27T03:22:24.256Z
+updated: 2024-12-03T03:08:20.808Z
 tags:
   - win11
   - win10
@@ -63,6 +63,10 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
  4) When you see**Startup Settings** , press**number 7** or**F7** on your keyboard to disable Driver Signature Enforcement. This will take about 3 minutes to boot.
@@ -74,6 +78,10 @@ To download and install MediaTek drivers manually, you need to:
 2) Click the**System** category, scroll down the right pane, and then click**Recovery** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click the Restart now button.
 
@@ -95,6 +103,10 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Action** and select**Add legacy hardware** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
@@ -102,6 +114,10 @@ To download and install MediaTek drivers manually, you need to:
  4) In the Add Hardware Wizard, click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
 
@@ -114,6 +130,10 @@ To download and install MediaTek drivers manually, you need to:
  7) Select**Have Disk** and select the .inf file you extracted before.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Select **MTK\_Driver\_ext > SP\_Drivers\_v2.0 > Android > android\_winusb** inf.
 
@@ -140,6 +160,10 @@ To download and install MediaTek drivers manually, you need to:
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** . )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/updateall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: You can do it for free if you like, but it’s partly manual.
 
@@ -170,12 +194,20 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unraveling-the-secret-of-seamless-subtitle-crafting-for-facebook-videos/"><u>[New] 2024 Approved Unraveling the Secret of Seamless Subtitle Crafting for Facebook Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-editors-deep-dive-visionx-pro-and-its-features/"><u>2024 Approved Editor's Deep Dive VisionX Pro and Its Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rve-space-not-time-youtube-video-length-adjustment-for-2024/"><u>Conserve Space, Not Time YouTube Video Length Adjustment for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-the-best-our-full-scrutiny-of-inshot-app/"><u>Discovering the Best - Our Full Scrutiny of InShot App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2000-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2000 has stopped working error?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-asus-rog-phone-8-lock-screen-password-by-drfone-android/"><u>How to Reset your Asus ROG Phone 8 Lock Screen Password</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-y900-drivers-download-and-update-on-windows-10/"><u>Lenovo Y900 Drivers Download & Update on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-amd-driver-support-for-windows-10-systems/"><u>Optimized AMD Driver Support for Windows 10 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-safe-microsoft-lifecam-setup-step-by-step-download-tutorial-for-users/"><u>Quick & Safe Microsoft Lifecam Setup: Step-by-Step Download Tutorial for Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fixes-for-windows-11-network-drivers-get-your-internet-back-on-track/"><u>Quick Fixes for Windows 11 Network Drivers: Get Your Internet Back On Track!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-microsoft-lifecam-webcam-downloading-made-simple/"><u>Quick Guide: Microsoft LifeCam Webcam Downloading Made Simple</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quickly-resolve-your-ethernet-drivers-troubles-on-windows-10-a-simple-guide/"><u>Quickly Resolve Your Ethernet Drivers Troubles on Windows 10: A Simple Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-pc-superuser-status-achievable/"><u>Reclaim Your PC: Superuser Status Achievable</u></a></li>
+</ul></div>
 

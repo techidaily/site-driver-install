@@ -1,7 +1,7 @@
 ---
 title: Optimize PC with AMD RX 200 Series Firmware
-date: 2024-09-08T01:33:30.100Z
-updated: 2024-09-14T23:22:08.604Z
+date: 2024-11-27T12:50:28.086Z
+updated: 2024-12-02T23:54:04.898Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ problems, you’re not alone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b68332f24249.jpg)
@@ -62,6 +66,10 @@ problems, you’re not alone.
 4) Restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Update **AMD Radeon R9 200 Series drivers** manually
 
@@ -76,14 +84,28 @@ problems, you’re not alone.
 2. In**Radeon Software** , click**DOWNLOAD** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92e2a5e0b.png)
 3. On your keyboard, press**the Windows logo key** and**R** at the same time, then copy & paste **devmgmt.msc** into the box and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 4. Click on**the arrow** left to **Display adapters** (aka.**graphics card** , **video card**) to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92534e0ab.jpg)
 5. Right-click on **AMD Radeon R9 200 Series** and click**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afac249bd784.jpg)
 6. Click**Browse my computer for driver software** , follow the on-screen instructions to complete the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9502d9df0.png)
 7. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -104,12 +126,24 @@ problems, you’re not alone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-the-art-of-saving-your-favorite-shows/"><u>[New] In 2024, Mastering the Art of Saving Your Favorite Shows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtube-potential-with-perpetual-creative-commons-membership/"><u>[New] Unlocking YouTube Potential with Perpetual Creative Commons Membership</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagrams-hidden-gems-how-to-upload-large-amounts-of-content/"><u>[Updated] In 2024, Instagram's Hidden Gems How to Upload Large Amounts of Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-accelerating-yt-channels-for-intellectual-enlightenment/"><u>2024 Approved Top 10 Accelerating YT Channels for Intellectual Enlightenment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-atheros-wi-fi-driver-updates-on-windows-10/"><u>Instant Atheros Wi-Fi Driver Updates on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-lenovo-g580-driver-enhancements/"><u>Instant Lenovo G580 Driver Enhancements</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-intels-ie-driver-integration-on-legacy-pcs/"><u>Mastering Intel's IE Driver Integration on Legacy PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-print-on-windows-hp-laserjet-success/"><u>Mastering Print on Windows: HP LaserJet Success</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-windows-drives-with-usbasp-resolved/"><u>Navigating Windows Drives with USBasp [Resolved]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-wi-fi-in-windows-10-efficiently-update-atheros-drivers/"><u>Optimize Wi-Fi in Windows 10: Efficiently Update Atheros Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-asus-usb-bt400-for-windows-107-users/"><u>Optimized ASUS USB-BT400 for Windows 10/7 Users</u></a></li>
+<li><a href="https://solve-info.techidaily.com/optimized-with-the-help-of-cookiebot-enhanced-website-analytics/"><u>Optimized with the Help of Cookiebot: Enhanced Website Analytics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/peek-inside-how-do-vr-headsets-connect/"><u>Peek Inside How Do VR Headsets Connect?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-driver-updates-on-lenovo-ideapad/"><u>Quick Fix Driver Updates on Lenovo Ideapad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-the-command-line-from-your-file-explorer/"><u>Step-by-Step Guide: Accessing the Command Line From Your File Explorer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/switching-up-audio-gear-unexpected-delights-with-my-new-jbl-after-trading-in-my-premium-soundbar-insights-from-zdnet/"><u>Switching Up Audio Gear: Unexpected Delights with My New JBL After Trading In My Premium Soundbar - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-audio-access-failures-in-audacity/"><u>Troubleshooting Audio Access Failures in Audacity</u></a></li>
+</ul></div>
 

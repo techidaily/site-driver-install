@@ -1,7 +1,7 @@
 ---
 title: How to Fix Kotion Each G2000 Mic Not Working
-date: 2024-11-21T17:34:30.521Z
-updated: 2024-11-24T16:03:58.806Z
+date: 2024-11-30T18:43:29.549Z
+updated: 2024-12-03T08:14:40.707Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 * If**no** (no sound on ALL apps), then move on to**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disconnect external speakers
 
@@ -65,11 +65,19 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038f642ae65.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If instead of**Internal Speakers** , you see **Digital Output** or**No output devices found** , then insert your headphone into the headphone port and pull it out. Keep plugging and unplugging until **Internal Speakers** appears. Then repeat step 2).
 
 3) Check if you get sound back on your Mac.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Turn off Bluetooth
 
@@ -82,19 +90,23 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check if the**no sound problem** has been solved.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Restart your Mac
@@ -133,17 +145,9 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
@@ -161,10 +165,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
  9) Click **System Preferences** \> **Users & Groups** \> the**Lock** icon > the**Minus** icon to delete your testing account.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix **8: Update your Mac OS**
 
@@ -206,20 +206,19 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-sportswomens-scorecard-poker-analysis/"><u>[New] SPORTSWOMEN'S SCORECARD Poker Analysis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-audio-capture-guide-best-ten-for-spotify-enthusiasts-for-2024/"><u>[Updated] Ultimate Audio Capture Guide Best Ten for Spotify Enthusiasts for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-12-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 12 Pro Max in Lost Mode</u></a></li>
-<li><a href="https://driver-install.techidaily.com/c6515-operating-system-patches/"><u>C6515 Operating System Patches</u></a></li>
-<li><a href="https://driver-install.techidaily.com/compatible-asus-bluetooth-drivers-for-w11windows-7plus/"><u>Compatible ASUS Bluetooth Drivers for W11/Windows 7+</u></a></li>
-<li><a href="https://driver-install.techidaily.com/converting-xbox-input-methods-for-windows/"><u>Converting Xbox Input Methods, for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-win11-with-new-hp-graphics-driver/"><u>Enhance Win11 with New HP Graphics Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-effortlessly-update-the-mice-control-system-in-windows/"><u>How to Effortlessly Update the Mice Control System in Windows</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-asus-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Asus FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/neutralizing-windows-update-triggers/"><u>Neutralizing Windows Update Triggers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-pcie-audio-support-update-realtek-drivers-in-win10/"><u>Optimize PCIe Audio Support - Update Realtek Drivers in Win10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-a58-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo A58 4G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211383487-9798330236978-selfish-healing/"><u>Selfish Healing | Free Book</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-network-transition-windows-plus-usb-to-wifi/"><u>Smooth Network Transition: Windows + USB to WiFi</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-navigate-to-tiktok-world-installation-for-macbook/"><u>[New] 2024 Approved Navigate to TikTok World Installation for MacBook</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-supreme-suggestions-elite-ios-tone-craftsmen/"><u>[New] In 2024, Supreme Suggestions Elite iOS Tone Craftsmen</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-professional-lenses-and-cameras-for-youtubers/"><u>[Updated] In 2024, Professional Lenses & Cameras for Youtubers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-slow-it-down-iphone-mastery-over-time-lapse/"><u>[Updated] In 2024, Slow It Down IPhone Mastery over Time-Lapse</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-canons-spectral-conversion-paid-and-gratis-lut-tools/"><u>2024 Approved Canon's Spectral Conversion Paid & Gratis LUT Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/audioarchive-compiler-download-playback-and-test/"><u>AudioArchive Compiler Download, Playback & Test</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-update-instructions-amd-rx-5700-gpu/"><u>Download & Update Instructions: AMD RX 5700 GPU</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-data-transfer-mtk-usb-driver-installation/"><u>Enhance Data Transfer: MTK USB Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-windows-78-pcs-with-easy-asus-bluetooth-installation/"><u>Enhance Windows 7/8 PCs with Easy ASUS Bluetooth Installation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-ensure-no-trace-remains-a-step-by-step-process-to-delete-everything-on-your-iphone/"><u>How to Ensure No Trace Remains: A Step-by-Step Process to Delete Everything on Your iPhone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/printer-firmware-p1102w-windows-installation-guide/"><u>Printer Firmware P1102w Windows Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refreshing-printer-drivers-seamlessly-on-modern-oses/"><u>Refreshing Printer Drivers Seamlessly on Modern OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/technical-dispute-solvers/"><u>Technical Dispute Solvers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unpacking-youtubes-social-media-code-of-conduct/"><u>Unpacking YouTube's Social Media Code of Conduct</u></a></li>
 </ul></div>
 

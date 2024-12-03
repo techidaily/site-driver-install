@@ -1,7 +1,7 @@
 ---
 title: Restore Graphics Settings on PCs
-date: 2024-09-10T00:11:57.153Z
-updated: 2024-09-15T02:22:12.866Z
+date: 2024-11-30T10:30:44.791Z
+updated: 2024-12-03T01:19:56.973Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
@@ -43,7 +47,15 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
 
@@ -59,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
  This method is very simple. **After uninstalling the driver, you just need to reboot your computer** . Then Windows will install the driver automatically from Windows Update.
 
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
@@ -82,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -103,12 +123,24 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-precision-sculpting-perfect-circles-spheres-in-minecraft-world/"><u>[Updated] 2024 Approved Precision Sculpting Perfect Circles, Spheres in Minecraft World</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-blueprint-of-youtubes-innovative-shorts-economy-model/"><u>[Updated] The Blueprint of YouTube's Innovative Shorts Economy Model</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/edit-photos-like-a-pro-using-the-no-cost-lightzone-app-on-windows-macos-or-linux-systems/"><u>Edit Photos Like a Pro Using the No-Cost LightZone App on Windows, macOS, or Linux Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-hd-happy-new-year-music-downloads-top-20-mp3-tracks-2021-2023/"><u>Free HD Happy New Year Music Downloads: Top 20 MP3 Tracks (2021-2023)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-asus-vg248qe-drivers-step-by-step-update-process-for-windows-users/"><u>Get the Latest Asus VG248QE Drivers: Step-by-Step Update Process for Windows Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-narzo-60-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme Narzo 60 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/remedy-usb-serial-communication-breakdown/"><u>Remedy USB-Serial Communication Breakdown</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-mx870-driver-for-modern-and-legacy-windows/"><u>Setup MX870 Driver for Modern & Legacy Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-audio-driver-upgrade-in-windows-11/"><u>Step-by-Step: Audio Driver Upgrade in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-process-to-refresh-atheros-wi-fi-on-windows-11/"><u>Stepwise Process to Refresh Atheros Wi-Fi on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-14-engaging-text-movies-for-creative-experimentation/"><u>Top 14 Engaging Text Movies for Creative Experimentation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-device-full-capability-with-a-simple-adb-click/"><u>Unleash Device Full Capability - With a Simple ADB Click</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-connectivity-seamless-integration-of-atheros-drivers-on-windows-11/"><u>Upgraded Connectivity: Seamless Integration of Atheros Drivers on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-controllers-transitioning-to-windows/"><u>USB Controllers: Transitioning to Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11-soundscape-install-convex-hd-audio-support-drivers/"><u>Win11 Soundscape: Install Convex-HD Audio Support Drivers</u></a></li>
+</ul></div>
 

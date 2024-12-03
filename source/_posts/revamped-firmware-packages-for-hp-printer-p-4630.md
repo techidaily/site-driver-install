@@ -1,7 +1,7 @@
 ---
 title: Revamped Firmware Packages for HP Printer P-4630
-date: 2024-09-09T04:44:51.802Z
-updated: 2024-09-14T16:43:06.844Z
+date: 2024-12-01T16:12:01.553Z
+updated: 2024-12-02T22:45:31.485Z
 tags:
   - win11
   - win10
@@ -38,12 +38,20 @@ Updating your printer driver can:
 
 then it’s probably time to update the driver for it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  Both methods below work in Windows 10 and 7\. And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
 
 1. [Update my**HP Officejet 4630**  driver manually](#M1)
 2. [Update my**HP Officejet 4630**  driver automatically(Recommended)](#M2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: update my**HP Officejet 4630**  driver manually
 
@@ -53,6 +61,10 @@ then it’s probably time to update the driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0bc64ab34b5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Copy & paste **HP Officejet 4630 e-All-in-One Printer series** into the box, then click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0bdf4fa41c5.png)
@@ -61,22 +73,13 @@ then it’s probably time to update the driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0bd1d4f1d6d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Double-click on the downloaded file to install your printer driver.
 
 5) Restart your computer for the changes to take effect even if you’re not asked to.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: update my**HP Officejet 4630**  driver automatically(Recommended)
 
@@ -99,10 +102,7 @@ then it’s probably time to update the driver for it.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0bd4b443ace.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -125,5 +125,20 @@ then it’s probably time to update the driver for it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-comprehensive-angles-in-filming-versus-diverse-dimensions/"><u>[New] Comprehensive Angles in Filming versus Diverse Dimensions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-step-by-step-guide-to-adding-descriptive-text-in-tiktok-videos/"><u>[Updated] In 2024, Step-by-Step Guide to Adding Descriptive Text in TikTok Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ultimate-list-the-best-vr-game-advancements/"><u>[Updated] Ultimate List The Best VR Game Advancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-creative-potential-in-filmmaking-with-filmora-answers/"><u>[Updated] Unlock Creative Potential in Filmmaking with Filmora Answers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-trio-of-dimensions-differentiating-the-futures-tech-trio/"><u>2024 Approved A Trio of Dimensions Differentiating the Future's Tech Trio</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/end-your-iphones-frustrating-stuck-in-attempting-data-recovery-loop-with-these-easy-fixes/"><u>End Your iPhone's Frustrating Stuck in ‘Attempting Data Recovery’ Loop with These Easy Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-power-of-intova-x/"><u>In 2024, Exploring The Power of Intova X</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-m-audio-track-glitches-with-simplicity/"><u>Resolve M-Audio Track Glitches with Simplicity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-tp-link-wireless-driver-for-windows-users/"><u>Seamless TP Link Wireless Driver for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/silence-windows-10-noise-reinstall-audio-drivers-first/"><u>Silence Windows 10 Noise? Reinstall Audio Drivers First</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-invert-playback-videos-android-for-2024/"><u>Step-by-Step Guide Invert Playback Videos Android for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-canon-mx870-to-work-with-windows-8-7/"><u>Update Canon MX870 to Work with Windows 8-7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y77t-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y77t Phone Network-Ready</u></a></li>
+</ul></div>
 
