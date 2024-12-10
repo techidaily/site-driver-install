@@ -1,7 +1,7 @@
 ---
 title: Tweak Windows 7/11 Graphics Drivers Quickly
-date: 2024-11-29T08:21:42.199Z
-updated: 2024-12-03T05:37:22.102Z
+date: 2024-12-05T19:25:01.689Z
+updated: 2024-12-09T19:27:26.625Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -33,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
@@ -47,11 +55,11 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
- After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
 
 ## Step 2: Install a new graphics driver
 
@@ -68,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
  If you don’t have the time, patience or computer skills to reinstall the driver manually, or if Windows doesn’t provide the latest driver, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -87,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -97,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
  In the screenshot shown below, take NVIDIA GeForce GT 640 for example. If you’re using Intel graphics driver, or AMD graphics driver, you’ll see the specific Intel or AMD graphics card model in the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -125,16 +125,18 @@ thumbnail: https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-shield.techidaily.com/1728493602571-instagram/"><u>如何在多種裝置上復原Instagram刪除的帖子</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-harness-the-potential-of-obs-studio-by-mastering-lut-application-techniques/"><u>In 2024, Harness the Potential of OBS Studio by Mastering LUT Application Techniques</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-t2-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo T2 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-latest-hp-graphics-on-win11/"><u>Install Latest HP Graphics on Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-mining-potential-in-your-computer-using-amds-bitcoin-drivers/"><u>Maximize Mining Potential in Your Computer Using AMD's Bitcoin Drivers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-how-to-do-noise-reduction-in-audacity-and-filmorapro-easily/"><u>New 2024 Approved How to Do Noise Reduction in Audacity and FilmoraPro Easily</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolution-found-third-party-inf-no-signs/"><u>Resolution Found: Third-Party Inf No Signs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/settle-down-with-our-best-10-chill-titles/"><u>Settle Down with Our Best 10 Chill Titles</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-nt-2008-usb-drivers-rebooting-process/"><u>Windows NT-2008: USB Drivers Rebooting Process</u></a></li>
-<li><a href="https://driver-install.techidaily.com/zero-issues-startechs-driver-flawlessness-in-winxp811/"><u>Zero Issues: StarTech's Driver Flawlessness in WinXP/8/11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-gourmet-guides-leading-food-vloggers-online/"><u>[Updated] Gourmet Guides Leading Food Vloggers Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-pioneering-color-grading-with-3d-luts/"><u>[Updated] In 2024, Pioneering Color Grading with 3D LUTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-best-hdr-cameras/"><u>[Updated] Navigating the Best HDR Cameras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-key-to-online-success-mastering-backlink-construction-for-2024/"><u>[Updated] The Key to Online Success Mastering Backlink Construction for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-speech-reader-feedback-summary/"><u>2024 Approved Speech Reader Feedback Summary</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/lautstarke-optimierter-lenovo-ssd-klon-hochleistungsbootfahige-hdd-ubersetzung/"><u>Lautstärke-Optimierter Lenovo-SSD-Klon: Hochleistungsbootfähige HDD-Übersetzung</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ready-your-pc-for-windows-11s-tactile-interface/"><u>Ready Your PC for Windows 11'S Tactile Interface</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/streamline-your-dj-setups-with-remote-requests-in-pcdj-karaoki-via-the-songbookdb-integration/"><u>Streamline Your DJ Setups with Remote Requests in PCDJ Karaoki via the SongBookDB Integration</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-process-downloading-canon-printer-drivers-win11/"><u>Streamlined Process: Downloading Canon Printer Drivers Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-hp-envy-5530-drivers-with-win-11/"><u>Sync HP Envy 5530 Drivers with Win 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-essential-guide-to-reviving-dells-audio-software/"><u>The Essential Guide to Reviving Dell's Audio Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshoot-startechs-driver-issues-in-winxp-810/"><u>Troubleshoot: StarTech's Driver Issues in WINXP, 8/10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-direct-network-access-via-usb-cable/"><u>Windows Direct Network Access via USB Cable</u></a></li>
 </ul></div>
 

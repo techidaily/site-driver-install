@@ -1,7 +1,7 @@
 ---
 title: C6515 Operating System Enhancements
-date: 2024-09-18T16:30:21.465Z
-updated: 2024-09-20T16:09:12.442Z
+date: 2024-12-04T10:24:34.948Z
+updated: 2024-12-10T07:30:35.452Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
  If your Xerox WorkCentre 6515 printer isn’t working properly or is responding too slowly and you’re wondering if downloading or updating printer drivers will help you solve the problem, you’ve come to the right place. In this post, we will show you how to update your Xerox printer driver easily to keep your Xerox printer running smoothly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/截屏2022-07-28-下午10.36.04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why you need the Xerox WorkCentre 6515 driver
 
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-DE.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The [**Pro version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com.**](mailto:support@drivereasy.com)
 
 #### Method 2 – Manually download the printer driver from the official website
@@ -65,10 +73,24 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
  If not, you need to select your computer’s OS from the drop-down list of**Platform** . After that, click**APPLY FILTER** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-download-website.jpg)
 3. Download the driver installer. If you’re using a Windows system, download the**Xerox Global Print Driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-Windows-OS.jpg)  
  If you’re using a macOS, download the**macOS Print and Scan Driver Installer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/Xerox-macOS.jpg)
 4. Open the downloaded file. And then follow the on-screen instructions to install the software and drivers on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -90,12 +112,20 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-understanding-the-magic-behind-m1-max-clips/"><u>[New] In 2024, Understanding the Magic Behind M1 Max Clips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-googles-efficient-route-to-instantaneous-visual-masterpieces/"><u>[Updated] Google's Efficient Route to Instantaneous Visual Masterpieces</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reimagining-commerce-through-immersive-technology/"><u>[Updated] Reimagining Commerce Through Immersive Technology</u></a></li>
+<li><a href="https://driver-install.techidaily.com/add-razer-mouse-to-your-windows-system/"><u>Add Razer Mouse to Your Windows System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-wifi-restoration-procedure-for-bluetooth-drivers-in-windows-11/"><u>Easy WiFi Restoration: Procedure for Bluetooth Drivers in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-lava-blaze-curve-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Lava Blaze Curve 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/grab-easy-usb-access-via-simple-driver-download/"><u>Grab Easy USB Access via Simple Driver Download!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/identifying-relevant-metaphors-and-analogies/"><u>Identifying Relevant Metaphors and Analogies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-a05-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy A05 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-f23-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo F23 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-reconnecting-an-unpaired-xbox-one-controller/"><u>Mastering the Art of Reconnecting an Unpaired Xbox One Controller</u></a></li>
+<li><a href="https://driver-install.techidaily.com/replace-w7-idt-audio-with-modern-driver-version/"><u>Replace W7 IDT Audio with Modern Driver Version</u></a></li>
+<li><a href="https://facebook.techidaily.com/weekends-boosted-by-facebooks-live-shopping-fridays/"><u>Weekends Boosted by Facebook’s Live Shopping Fridays</u></a></li>
+</ul></div>
 

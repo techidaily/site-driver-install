@@ -1,7 +1,7 @@
 ---
 title: Download & Install New AMD RX Firmware Version
-date: 2024-09-10T17:44:46.750Z
-updated: 2024-09-15T04:36:10.032Z
+date: 2024-12-04T09:17:08.750Z
+updated: 2024-12-10T08:04:33.219Z
 tags:
   - win11
   - win10
@@ -36,12 +36,26 @@ OR
 2. Select**Graphics** \>**AMD Radeon 5700 Series** \>**AMD Radeon RX 5700 Series** \>**AMD Radeon RX 5700** . Then, click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-7.jpg)
 3. Choose your operating system. (For my case, I click Windows 10 – 64-Bit Edition).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-10.jpg)
 4. Click the**Download** button next to the driver you want.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-5.jpg)
 5. Double-click the downloaded file and follow the on-screen instruction to install the driver.
 
  If you feel the steps above are a little complicated, try the automatic method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the AMD 5700 drivers (Recommended)
 
@@ -56,8 +70,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click the **Update**  button next to the flagged **AMD RX 5700 driver** to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -81,12 +103,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-nows-vr-tech-landscape/"><u>[Updated] 2024 Approved Now’s VR Tech Landscape</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-2023-play-facebook-videos-on-tv/"><u>2024 Approved 2023 | Play Facebook Videos on TV?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-installation-dive-into-ifunnys-meme-world/"><u>2024 Approved Simplified Installation Dive Into iFunny's Meme World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficient-methods-for-tracking-screen-activity-on-android-phones/"><u>Efficient Methods for Tracking Screen Activity on Android Phones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-gaming-performance-via-latest-gpu-software/"><u>Enhance Gaming Performance via Latest GPU Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-printer-performance-installation-of-hp-projector-8710-software-windows/"><u>Enhance Printer Performance - Installation of HP Projector 8710 Software (Windows)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/epson-2650-driver-guide-for-cross-platform-oss/"><u>Epson 2650 Driver Guide for Cross-Platform OSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-win7-updates-ideapad-y470-laptop-drivers/"><u>Essential Win7 Updates: IdeaPad-Y470 Laptop Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y78t-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y78t Pattern Lock Screen</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-light-up-your-feed-expert-tips-for-instagram-highlights-3-steps/"><u>In 2024, Light Up Your Feed Expert Tips for Instagram Highlights (3 Steps)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-precision-screen-capturing-top-tools-reviewed-on-pcmac/"><u>In 2024, Precision Screen Capturing Top Tools Reviewed on PC/Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/instantgrabbed-extendedcapture/"><u>InstantGrabbed ExtendedCapture</u></a></li>
+<li><a href="https://driver-install.techidaily.com/netgear-ac1200-wifi-usb-adapter-driver-download/"><u>NETGEAR AC1200 WiFi USB Adapter Driver Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplicity-in-installing-win10s-screen-updates/"><u>Simplicity in Installing Win10's Screen Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/skyline-enhancement-three-windows-graphic-tricks/"><u>Skyline Enhancement: Three Windows Graphic Tricks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transform-your-games-into-a-live-stream-spectacle/"><u>Transform Your Games Into a Live Stream Spectacle</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-gpo-details-using-gpresult/"><u>Unveiling GPO Details Using GPResult</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-the-secrets-3dconnexion-driver-setup/"><u>Unveiling the Secrets: 3Dconnexion Driver Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-friendly-m2-nvme-compatibility/"><u>Win-Friendly M.2 NVMe Compatibility</u></a></li>
+</ul></div>
 

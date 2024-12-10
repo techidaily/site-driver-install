@@ -1,7 +1,7 @@
 ---
 title: Swiftly Boost Your PC's Performance with Updated Win 11 Drivers
-date: 2024-11-26T08:48:38.405Z
-updated: 2024-12-03T06:30:34.984Z
+date: 2024-12-03T00:27:35.705Z
+updated: 2024-12-10T10:36:30.721Z
 tags:
   - win11
   - win10
@@ -26,20 +26,12 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
 **Pro Tip:** If you’re not tech-savvy, or you’re short on time and patience, you can try updating all your drivers on Windows 11 with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  in one click.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update drivers on Windows 11
 
  Whether you want to do it manually or automatically, below you will find two different step-by-step installation guides.
 
 * **[Manually](#1)**
 * **[Automatically](#2)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1\. Update drivers via Device Manager
 
@@ -52,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the**Device Manager** window, expand the category and the device that you wish to update the driver for. If you need to update Realtek PCIe GBE Family Controller, you’ll find this device under the**Network adapters** category. You can right-click on the device name and select**Update driver** .  
@@ -63,15 +55,19 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
 5. Browse to the folder where your driver file is saved.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-path.jpg)
 6. It will install the drivers automatically for you.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/download-location.jpg)
 7. Once complete, you now have the latest driver installed. You can restart your PC for it to take full effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2\. Update all drivers automatically
 
@@ -87,12 +83,16 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -117,22 +117,16 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-where-the-community-rocks-a-comparative-study-of-twitch-and-youtube/"><u>[New] 2024 Approved Where the Community Rocks A Comparative Study of Twitch & YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-sweeping-videography-iphone-techniques-for-facebook/"><u>[Updated] 2024 Approved Sweeping Videography IPhone Techniques for Facebook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-comprehensive-directors-manual-powerdirector-24/"><u>2024 Approved Comprehensive Directors' Manual - PowerDirector '24</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-discover-your-preferred-music-experience-top-6-android-music-video-apps/"><u>2024 Approved Discover Your Preferred Music Experience - Top 6 Android Music Video Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-download-asus-usb-drivers-win-setup/"><u>Direct Download: ASUS USB Drivers Win Setup</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enable-classic-printer-driver-canon-mx870-on-win-xp/"><u>Enable Classic Printer Driver: Canon MX870 on Win XP</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-graphics-speed-windows-10-hp-version/"><u>Enhance Graphics Speed - Windows 10, HP Version</u></a></li>
-<li><a href="https://driver-install.techidaily.com/graphics-reinstallation-for-stable-display/"><u>Graphics Reinstallation for Stable Display</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a79-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo A79 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-envy-driver-setup-for-windows-11-upgrade/"><u>HP Envy Driver Setup for Windows 11 Upgrade</u></a></li>
-<li><a href="https://extra-information.techidaily.com/meme-magic-sprinkle-hilarity-with-simple-steps/"><u>Meme Magic Sprinkle Hilarity with Simple Steps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/modernize-pc-graphics-with-hp-driver-update/"><u>Modernize PC Graphics with HP Driver Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/obtain-mtk-usb-drivers-for-winxp1110/"><u>Obtain MTK USB Drivers for WINXP11/10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streaming-mastery-ioss-no1-freepluspaid-movie-apps-guide/"><u>Streaming Mastery IOS's No.1, FREE+Paid Movie Apps Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/take-your-video-editing-to-the-next-level-adobe-premiere-pro-on-mac/"><u>Take Your Video Editing to the Next Level Adobe Premiere Pro on Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unparalleled-top-5-lightweight-cinematography-devices-for-2024/"><u>Unparalleled Top 5 Lightweight Cinematography Devices for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-huion-h420-seamless-integration-with-windows/"><u>Upgrading Huion H420: Seamless Integration with Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-harnessing-the-power-of-channels-boosting-telegram-presence/"><u>[New] Harnessing the Power of Channels Boosting Telegram Presence</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eep-up-to-date-with-youtube-community-guidelines/"><u>[New] Keep Up-to-Date With YouTube Community Guidelines</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-budget-friendly-interactive-face-to-face-games/"><u>[Updated] 2024 Approved Budget-Friendly Interactive Face-to-Face Games</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-leveraging-youtubes-algorithm-maximizing-reach-through-featured-channels/"><u>[Updated] In 2024, Leveraging YouTube's Algorithm Maximizing Reach Through Featured Channels</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-motorola-moto-g14-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Moto G14 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-samsung-galaxy-s23-ultra-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Samsung Galaxy S23 Ultra, is it possible?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-gpu-firmware-upgrade-amd/"><u>Swift GPU Firmware Upgrade, AMD</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshoot-epson-scan-pro-in-windows-11/"><u>Troubleshoot Epson Scan Pro in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-hp-graphics-driver-in-windows-11/"><u>Update HP Graphics Driver in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-functionality-latest-drivers-release-by-dell/"><u>Upgraded Functionality: Latest Drivers Release by Dell</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-1aturboleta-de-la-victoria-english-the-victory-kite-a-poem-by-the-mexican-poet-and-revolutionary-figure-francisco-gabilondo-y-artia-better-known-und642/"><u>Windows 1Aturboleta De La Victoria''' (English: The Victory-Kite), a Poem by the Mexican Poet and Revolutionary Figure Francisco Gabilondo Y Artía, Better Known Under His Pseudonym as El Dúo U𝓦</u></a></li>
 </ul></div>
 

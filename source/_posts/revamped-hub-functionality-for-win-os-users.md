@@ -1,7 +1,7 @@
 ---
 title: Revamped Hub Functionality for WIN OS Users
-date: 2024-11-19T16:30:28.744Z
-updated: 2024-11-24T16:06:17.549Z
+date: 2024-12-03T07:40:11.579Z
+updated: 2024-12-10T03:08:43.465Z
 tags:
   - win11
   - win10
@@ -22,16 +22,16 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
  If you want to download or update your Generic USB hub driver for your USB Hub device, you can update the driver to fix your problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update Generic USB Hub driver
 
 1. [Update Generic USB Hub driver manually](#M1)
 2. [Update Generic USB Hub driver automatically](#M2)
 
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update Generic USB Hub driver manually
 
@@ -40,15 +40,11 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and**R** at the same time to invoke the**Run** box.
 2. Type**devmgmt.msc** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
@@ -60,10 +56,14 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 2: Update Generic USB Hub driver automatically
@@ -79,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5be1edc38.jpg)
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance
 
@@ -107,20 +107,16 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-top-strategies-to-locate-and-use-a-missing-iphone-x/"><u>[New] Top Strategies to Locate and Use a Missing iPhone X</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-prime-position-predictor-highest-charting-videos/"><u>[Updated] In 2024, Prime Position Predictor Highest Charting Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-resolving-partially-silenced-facebook-media/"><u>[Updated] Resolving Partially Silenced Facebook Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-synergy-of-social-media-embedding-linktree-in-your-tiktok-bio-for-2024/"><u>[Updated] Synergy of Social Media Embedding Linktree in Your TikTok Bio for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc/"><u>2024 Approved Unveiling WinTV Magic Compre Written Guide to Capturing Live on Windows PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/budget-breakdown-funding-the-art-of-song-capture-for-2024/"><u>Budget Breakdown Funding The Art of Song Capture for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/downloadinstall-amd-rx-5700-gpu-updates/"><u>Download/Install AMD RX 5700 GPU Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-startech-drivers-on-any-windows-version/"><u>Effortless StarTech Drivers on Any Windows Version</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-hp-printer-performance-windows-10/"><u>Enhance HP Printer Performance Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonized-performance-hp-printer-driver-upgrade-to-win11/"><u>Harmonized Performance: HP Printer Driver Upgrade to Win11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-se-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone SE when Phone is Broken?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-releases-latest-gtx-970-drivers-for-w10/"><u>Nvidia Releases Latest GTX 970 Drivers for W10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722961322142-unlock-professional-sound-with-free-behringer-driver-software/"><u>Unlock Professional Sound with Free Behringer Driver Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-top-free-video-editing-tools-for-gamers/"><u>Updated In 2024, Best Top Free Video Editing Tools for Gamers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-to-latest-windows-driver-gtx-1650/"><u>Upgrade to Latest Windows Driver: GTX 1650</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-nurturing-discussions-strategies-to-connect-with-followers/"><u>[Updated] Nurturing Discussions Strategies to Connect With Followers</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-friend-in-disguise-ending-fb-ties/"><u>A Friend in Disguise: Ending FB Ties</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-gaming-performance-my-decision-for-the-steam-deck-vs-the-mighty-rog-ally-x/"><u>Comparing Gaming Performance: My Decision for the Steam Deck Vs. The Mighty Rog Ally X</u></a></li>
+<li><a href="https://driver-install.techidaily.com/creative-labs-flagship-in-review-the-sound-blaster-zxr-and-its-place-among-audio-innovations/"><u>Creative Labs' Flagship in Review: The Sound Blaster ZxR and Its Place Among Audio Innovations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-top-10-websites-for-no-fee-images-for-2024/"><u>Explore the Top 10 Websites for No-Fee Images for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/initial-delivery-of-acemagic-tailored-minicomputers-found-to-have-factory-integrated-spying-tools-reports-company/"><u>Initial Delivery of AceMagic Tailored Minicomputers Found to Have Factory-Integrated Spying Tools, Reports Company</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-for-opening-windows-11s-component-services/"><u>Quick Tips for Opening Windows 11'S Component Services</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reviving-usb-connectivity-on-vintage-os-versions/"><u>Reviving USB Connectivity on Vintage OS Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/taming-the-wild-stabilized-hp-1020-in-win-os/"><u>Taming the Wild: Stabilized HP 1020 in Win OS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-talkative-youtube-threads-for-2024/"><u>Track Talkative YouTube Threads for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/windows-11-gamers-guide-to-excellent-game-capturing/"><u>Windows 11 Gamers' Guide to Excellent Game Capturing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Tom's Ultimate Guide to Computer Components - Your One-Stop Tech Resource
-date: 2024-11-27T06:42:00.072Z
-updated: 2024-12-03T00:04:49.625Z
+date: 2024-12-06T11:25:32.038Z
+updated: 2024-12-10T07:27:47.024Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,19 +66,22 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-virtual-realms-in-retroperusia-facebooks-image-inversion/"><u>[New] In 2024, Navigating Virtual Realms in Retroperusia Facebook's Image Inversion</u></a></li>
-<li><a href="https://driver-install.techidaily.com/addressing-inkjet-print-problems-on-pc-10-edition/"><u>Addressing InkJet Print Problems on PC 10 Edition</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-latest-hp-elitebook-problem/"><u>Download & Install Latest HP EliteBook # Problem</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-entertainment-a-revealing-look-at-the-picture-perfection-of-the-lg-oled-c9-65-television/"><u>Elevate Your Entertainment - A Revealing Look at the Picture Perfection of the LG OLED C9 65 Television.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-your-pcs-display-navigating-the-new-hdmi-driver-in-win10-11/"><u>Elevate Your PC's Display - Navigating the New HDMI Driver in Win10, 11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/ending-your-insta-saga-a-comprehensive-guide-to-deactivation-for-2024/"><u>Ending Your Insta Saga A Comprehensive Guide to Deactivation for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-dealing-with-a-solitary-speaker/"><u>In 2024, Dealing with a Solitary Speaker</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidias-gtx-760-now-updating-is-simple/"><u>Nvidia's GTX 760 Now Updating Is Simple</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-logitech-mouse-updates-on-win-7/"><u>Streamline Logitech Mouse Updates on Win 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-to-high-performance-camera-software-with-c270-drivers/"><u>Upgrade to High-Performance Camera Software with C270 Drivers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/vr-in-education-a-new-paradigm-shift-for-2024/"><u>VR in Education A New Paradigm Shift for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-performance-boost-aoc-update-1659fwv/"><u>Windows Performance Boost: AOC Update 1659FWV</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-ripper-prodvdisodvd/"><u>「MacX DVD Ripper Pro」でDVDやISOイメージの圧縮から最適なDVD作成までの完全手引き！</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-harmonizing-soundscape-and-unboxing-footage/"><u>2024 Approved Harmonizing Soundscape and Unboxing Footage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-iphone-lights-mastery-guide/"><u>2024 Approved IPhone Lights Mastery Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/3-ways-to-update-huion-h420-driver-for-windows-easily/"><u>3 Ways to Update Huion H420 Driver for Windows [Easily]</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/behind-the-scenes-10-successful-movies-that-owe-their-success-to-final-cut-pro/"><u>Behind the Scenes 10 Successful Movies That Owe Their Success to Final Cut Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-performance-with-hp-drivers-for-win11/"><u>Boost Performance with HP Drivers for Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-performance-with-msi-upgrades-in-older-windows-platforms/"><u>Boost Performance with MSI Upgrades in Older Windows Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensive-steps-clean-driver-installation-for-graphic-hardware/"><u>Comprehensive Steps: Clean Driver Installation for Graphic Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-download-rtx-3090-high-end-experience/"><u>Direct Download - RTX 3090, High-End Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drivers-reboot-graphics-in-windows-os/"><u>Drivers Reboot: Graphics in Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficiently-download-and-enhance-your-d-link-drivers-on-windows-pcs/"><u>Efficiently Download and Enhance Your D-Link Drivers on Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-pc-capabilities-install-asus-software-windows/"><u>Enhance PC Capabilities: Install ASUS Software (Windows)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-continuous-freezing-problems-on-football-manager-2021-for-windows-users/"><u>Fixing Continuous Freezing Problems on Football Manager 2021 for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guiding-users-through-dell-realtek-driver-renewal/"><u>Guiding Users Through Dell Realtek Driver Renewal</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-first-person-shooter-key-settings/"><u>Mastering Your First-Person Shooter: Key Settings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-the-net-top-tags-for-eye-catching-gamer-content/"><u>Navigating the Net Top Tags for Eye-Catching Gamer Content</u></a></li>
 </ul></div>
 

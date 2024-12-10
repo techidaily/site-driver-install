@@ -1,7 +1,7 @@
 ---
 title: Reinstating USB Communication on Older Windows Models
-date: 2024-09-08T00:06:15.234Z
-updated: 2024-09-15T07:49:30.471Z
+date: 2024-12-05T23:57:53.521Z
+updated: 2024-12-10T11:29:41.357Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to reinstall USB drivers
 
  There’re two ways you can reinstall your USB drivers on Windows 11, 10, 8 and 7\. You may not try them; just choose your preferred one.
@@ -32,6 +36,11 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then, type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
@@ -40,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
 
@@ -51,8 +64,17 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -75,18 +97,24 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>[Updated] The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-10-gear-for-next-gen-musical-video-production-quality/"><u>[Updated] Top 10 Gear for Next-Gen Musical Video Production Quality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-current-compendium-of-questions-for-captivating-audio-clips/"><u>2024 Approved Current Compendium of Questions for Captivating Audio Clips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-ogv/"><u>網路上免費提供的Movavi OGV格式變頻</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-canon-mx870-driver-installation-for-win-11-and-older-versions/"><u>Configure Canon MX870 Driver Installation for WIN 11 & Older Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-link-to-download-gaomon-s620-drivers/"><u>Direct Link to Download Gaomon S620 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-brother-mfp-precision-on-windows-11/"><u>Elevate Brother MFP Precision on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-display-quality-using-latest-windows-drivers/"><u>Enhance Display Quality Using Latest Windows Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-dayz-crashes-instantly-a-simple-guide/"><u>Fix DayZ Crashes Instantly: A Simple Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-driver-issue-eliminated-in-windows-security-patch/"><u>HD Driver Issue Eliminated in Windows Security Patch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-hp-deskjet-connectivity-on-windows-11/"><u>Improve HP Deskjet Connectivity on Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-identifying-10-leading-vr-devices-for-your-pc/"><u>In 2024, Identifying 10 Leading VR Devices for Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-seed-supply-companies-ranked-find-the-best-options-today/"><u>Leading Seed Supply Companies Ranked: Find the Best Options Today!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rx-570-drivers-enhance-gaming-experience-in-windows-71011/"><u>RX 570 Drivers: Enhance Gaming Experience in Windows 7/10/11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/streamers-playbook-broadcasting-to-facebook-network-for-2024/"><u>Streamer's Playbook Broadcasting to Facebook Network for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-ie-driver-integration-for-old-and-new-windows/"><u>Streamlined IE Driver Integration for Old & New Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-steps-addressing-missing-d3dx9n41dll-files/"><u>The Ultimate Troubleshooting Steps: Addressing Missing d3dx9_n41.dll Files</u></a></li>
+</ul></div>
 

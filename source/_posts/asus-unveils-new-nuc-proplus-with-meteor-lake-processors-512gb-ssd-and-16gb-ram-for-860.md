@@ -1,7 +1,7 @@
 ---
 title: Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860
-date: 2024-11-29T08:06:15.172Z
-updated: 2024-12-02T22:16:14.210Z
+date: 2024-12-03T17:28:26.008Z
+updated: 2024-12-10T09:59:42.982Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,19 +76,22 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unique-channels-generating-top-notch-video-naming/"><u>[Updated] 2024 Approved Unique Channels Generating Top-Notch Video Naming</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ar-merging-physical-and-fictional-worlds/"><u>[Updated] In 2024, AR Merging Physical and Fictional Worlds</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-flipbook-of-facebook-feeds/"><u>2024 Approved Flipbook of Facebook Feeds</u></a></li>
-<li><a href="https://driver-install.techidaily.com/compatibility-boost-new-aoc-fwu-update/"><u>Compatibility Boost: New AOC FWU Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-hp-graphics-on-windows-11-with-new-driver-updates/"><u>Enhance HP Graphics on Windows 11 with New Driver Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-envy-usb-driver-installation-on-windows-11/"><u>HP Envy USB Driver Installation on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experts-picks-the-top-5-professional-drone-brands/"><u>In 2024, Expert's Picks The Top 5 Professional Drone Brands</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-swift-seize-video-with-soundtracking/"><u>In 2024, Swift Seize Video with Soundtracking</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-improve-sound-quality-with-new-drivers-on-hyperx-devices/"><u>Instantly Improve Sound Quality with New Drivers on HyperX Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-document-analysis-and-interaction-through-powerful-chatgpt-integrated-tools/"><u>Master Document Analysis and Interaction Through Powerful ChatGPT Integrated Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-a15-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy A15 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackle-disruptive-sound-on-windows-10-with-new-driver-install/"><u>Tackle Disruptive Sound on Windows 10 with New Driver Install</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/transitioning-photos-from-physical-to-digital-storage-for-2024/"><u>Transitioning Photos From Physical to Digital Storage for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-108-relaunching-efficiently-for-wi-fi-support/"><u>Win 10/8: Relaunching Efficiently for Wi-Fi Support</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-enrich-your-videos-expert-recommended-players-guide/"><u>[New] Enrich Your Videos Expert-Recommended Players' Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-amplify-your-influence-an-instagram-guide/"><u>[New] In 2024, Amplify Your Influence An Instagram Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-in-game-audio-capture-in-overwatch/"><u>[New] Mastering In-Game Audio Capture in Overwatch</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-deciphering-the-divergent-aspects-of-youtubes-and-dailymentions-for-2024/"><u>[Updated] Deciphering the Divergent Aspects of YouTubes & DailyMentions for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigating-gopro-livestreams-to-popular-channels-facebook-and-periscope/"><u>[Updated] In 2024, Navigating GoPro Livestreams to Popular Channels (Facebook & Periscope)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook-for-2024/"><u>[Updated] Social Media Savvy Unlock the Secrets of Crafting Winning Bios on Facebook for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-mic-and-speaker-problems-in-sea-of-thieves-for-enhanced-pc-gaming-experience/"><u>Fix Mic & Speaker Problems in 'Sea of Thieves' For Enhanced PC Gaming Experience</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-check-graphics-card-and-operating-system-matchup-tips-from-yl-software-experts/"><u>How To Check Graphics Card & Operating System Matchup - Tips From YL Software Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-g580-simplified-driver-changes/"><u>Lenovo G580: Simplified Driver Changes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/masterful-device-management-via-installed-hardware-drivers/"><u>Masterful Device Management via Installed Hardware Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-privacy-how-to-thoroughly-erase-files-and-directories-with-stellar-file-eraser-v5-for-windows-users/"><u>Mastering Privacy: How to Thoroughly Erase Files & Directories with Stellar File Eraser v5 for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-fps-hp-graphics-in-windows-10/"><u>Maximize FPS: HP Graphics in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/patch-perfection-win95-win11-driver-flawlessness-for-startech/"><u>Patch Perfection: Win95-Win11 Driver Flawlessness for StarTech</u></a></li>
+<li><a href="https://driver-install.techidaily.com/power-up-your-dell-latest-driver-update-release-notes/"><u>Power Up Your Dell: Latest Driver Update Release Notes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/purchase-hp-officejet-pro-8710-usb-drivers-for-windows/"><u>Purchase: HP OfficeJet Pro 8710 USB Drivers for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-setup-guide-for-windows-10-printer/"><u>Quick Setup Guide for Windows 10 Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-with-the-black-friday-blowout-gigabytes-a5-k1-gaming-laptop-at-an-exclusive-40-off-insider-tips/"><u>Score Big Savings with the Black Friday Blowout: Gigabyte's A5 K1 Gaming Laptop at an Exclusive 40% Off Insider Tips</u></a></li>
 </ul></div>
 

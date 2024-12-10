@@ -1,7 +1,7 @@
 ---
 title: Streamline User Preferences for Windows 10 Printing
-date: 2024-09-24T16:57:27.032Z
-updated: 2024-10-01T19:29:26.534Z
+date: 2024-12-08T02:14:26.612Z
+updated: 2024-12-10T09:52:08.157Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/8ad1313081653043389b0ec9ab2777fbe6983525a
 
 **[Way 3: Update your printer driver automatically](#way3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Way 1: Update your printer driver manually**
 
  You can go to your printer manufacturer’s website to check if your printer model supports Windows 10\. If yes, you can download and install the Windows 10 driver for your printer  . If not, you can download the latest version that the manufacturer has released like Windows 8 version or Windows 7 version  . They may be compatible with Windows 10\.  The driver download can be normally found in Support section. After you download the driver, you can always double-click on the installer file to install the driver.
@@ -41,6 +45,10 @@ For some printers, you need to update the drivers manually step by step.
  2) View by Small icons. Click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597056d6e290b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Device Manager window, locate the printer device that you wish to update the driver for. For problem device, you can see a yellow mark next to the device name.
 
@@ -57,10 +65,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Way 2: Use Windows Update for new drivers**
@@ -70,6 +75,10 @@ For some printers, you need to update the drivers manually step by step.
  1) Click**Start** menu and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In Settings window, click **Update & security.**
 
@@ -81,23 +90,9 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
 
@@ -113,18 +108,15 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -143,18 +135,21 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-toolkit-facebook-live-recording-conversion/"><u>[New] In 2024, The Ultimate Toolkit Facebook Live Recording Conversion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-action-cameras-for-waterproof-recording-1-7/"><u>[Updated] Action Cameras for Waterproof Recording #1-7</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-leading-brands-for-budget-friendly-high-definition-projectors-for-2024/"><u>[Updated] Leading Brands for Budget-Friendly, High-Definition Projectors for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-your-online-influence-for-earnings-through-brand-collaborations-on-youtube/"><u>2024 Approved Maximizing Your Online Influence for Earnings Through Brand Collaborations on YouTube</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-setup-intel-optane-drivers-installed-a-complete-windows-troubleshooting-solution/"><u>Effortless Setup: Intel Optane Drivers Installed - A Complete Windows Troubleshooting Solution</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gaomon-s620-drivers-installation-made-simple/"><u>Gaomon S620 Drivers Installation Made Simple</u></a></li>
-<li><a href="https://driver-install.techidaily.com/high-speed-update-radeons-hd-4800-drivers/"><u>High-Speed Update: Radeon's HD 4800 Drivers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/macxdvd-by-digiarty/"><u>MacXDVD by Digiarty: お問い合わせ手順と支援リンク</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mend-hp-laserjet-pro-400-drivers-windows-sync-issues/"><u>Mend: HP LaserJet Pro 400 Drivers, Windows Sync Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-graphics-driver-enhancement-gtx-1060/"><u>Nvidia Graphics Driver Enhancement: GTX 1060</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windriver-troubleshooting-installation-glitches/"><u>WinDriver: Troubleshooting Installation Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wsappx-overview-solutions-for-managing-elevated-memory-cpu-use/"><u>WSAPPX Overview: Solutions for Managing Elevated Memory, CPU Use</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-navigating-the-social-sphere-instaplustiktok/"><u>[Updated] In 2024, Navigating the Social Sphere Insta+TikTok</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-swiftly-address-iphone-photography-blur/"><u>[Updated] Swiftly Address iPhone Photography Blur</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-pc-lag-and-crashes-in-cyberpunk-2077-proven-strategies-for-smooth-gaming/"><u>Banish PC Lag and Crashes in Cyberpunk 2077: Proven Strategies for Smooth Gaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xiaomi-14-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xiaomi 14 Pro.</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficient-file-removal-on-macos-using-stellars-standard-edition-schedule-based-file-purging-tool/"><u>Efficient File Removal on macOS Using Stellar's Standard Edition - Schedule-Based File Purging Tool</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-modernizing-msi-boards-on-legacy-windows/"><u>Essential Tips for Modernizing MSI Boards on Legacy Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-roblox-needs-to-quit-error-on-windows/"><u>How to Fix the “Roblox Needs to Quit” Error on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/implement-canon-printer-drivers-for-win-xp-to-8-oss/"><u>Implement Canon Printer Drivers for Win XP to 8 OSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/multiplatform-gaming-xboxone-plus-windows-11/"><u>Multiplatform Gaming: XboxOne + Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/non-vimeo-powerhouses-for-video-content-creation/"><u>Non-Vimeo Powerhouses for Video Content Creation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-studio-25-review-2023/"><u>Pinnacle Studio 25 Review 2023</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-acer-interface-software-in-windows-11/"><u>Refresh Acer Interface Software in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-inkjet-print-issues-in-win-10-pc/"><u>Resolving InkJet Print Issues in Win 10 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-value-packages-for-starting-your-movie-experience-at-home/"><u>The Ultimate Value Packages for Starting Your Movie Experience at Home</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wincare-conquering-startechs-windows-7-811-drives/"><u>WinCare: Conquering StarTech's Windows 7, 8/11 Drives</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-audiophile-experience-integrate-conexant-hd-drivers/"><u>Windows 11 Audiophile Experience: Integrate Conexant HD Drivers</u></a></li>
 </ul></div>
 

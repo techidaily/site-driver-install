@@ -1,7 +1,7 @@
 ---
 title: "Rebooting Graphics Support: Step-by-Step DDU Guide"
-date: 2024-09-24T17:27:44.122Z
-updated: 2024-10-01T17:02:25.406Z
+date: 2024-12-08T03:57:48.986Z
+updated: 2024-12-10T12:37:50.609Z
 tags:
   - win11
   - win10
@@ -35,6 +35,11 @@ Here’s how to do a clean reinstallation of your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-1.jpg)
 2. Once downloaded, unzip the file to your Desktop. Then open the folder and double click**DDU.exe** to extract the files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-2.jpg)
 
  Next you need to boot your PC into Safe Mode. And here’s how to do that on both Windows 10 and 11.
@@ -59,12 +64,22 @@ Here’s how to do a clean reinstallation of your graphics driver:
 1. Click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
 2. Click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
 3. Click **Startup Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Startup-settings.jpg)
 4. Click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/restart-1.jpg)
 5. You will see a list of different startup options. On your keyboard, press the**number 4 key** to enter**Safe Mode without internet access** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/safe-mode-startup-settings.jpg)
 
  Once you’re in Safe Mode, follow these instructions to reinstall with DDU.
@@ -74,16 +89,14 @@ Here’s how to do a clean reinstallation of your graphics driver:
 2. In the pop-up**Option** window, choose your preferences. If you’re not sure, simply close the window  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-option.jpg)
 3. On the right, select**your device type** and**your GPU manufacturer** . Then click**Clean and restart** .![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once DDU purged the graphics driver, your PC should restart. You can now check if the graphics issue persists.
 
 So you’ve reinstalled the graphics driver, what next?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to prevent graphics issues
 
@@ -101,20 +114,14 @@ So you’ve reinstalled the graphics driver, what next?
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -142,17 +149,19 @@ So you’ve reinstalled the graphics driver, what next?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-unveiling-the-hidden-potential-of-twitter-archives/"><u>[New] In 2024, Unveiling the Hidden Potential of Twitter Archives</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-insider-tips-selecting-the-best-ig-video-editors-for-success/"><u>[New] Insider Tips Selecting the Best IG Video Editors for Success</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-sketching-the-perfect-end-credits-scene-for-your-tiktok-for-2024/"><u>[New] Sketching the Perfect End-Credits Scene for Your TikTok for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers/"><u>[Updated] Integrating Virtual Boards Into Remote Discussions IPhone/iPad/Android and Computers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/combine-hp-envy-5530-drivers-in-your-win10-pcs/"><u>Combine HP Envy 5530 Drivers in Your Win10 PCs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/experience-reality-redefined-with-htc-vive/"><u>Experience Reality Redefined with HTC Vive</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-connection-boost-with-quick-adb-driver-access/"><u>Instant Connection Boost with Quick ADB Driver Access</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-improve-connectivity-with-win1110-mtk-support/"><u>Instantly Improve Connectivity with Win11/10 MTK Support</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-brother-mfp-print-queues-in-win11/"><u>Optimize Brother MFP Print Queues in Win11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/snapchats-star-highlight-utilization-guide/"><u>Snapchat's Star Highlight Utilization Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-deep-dive-into-using-googles-speech-technology-for-document-editing-for-2024/"><u>[New] Deep Dive Into Using Google's Speech Technology for Document Editing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-into-the-game-starting-an-apple-powered-sports-network-for-2024/"><u>[New] Get Into the Game Starting an Apple-Powered Sports Network for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-x-racing-olympics-the-top-sections-of-22/"><u>[Updated] 2024 Approved X-Racing Olympics The Top Sections of '22</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visual-storytelling-adding-captions-to-images-in-oses-for-2024/"><u>[Updated] Visual Storytelling Adding Captions to Images in OSes for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-perfecting-your-personal-palette-a-guide-to-whatsapp-alerts-on-phones/"><u>2024 Approved Perfecting Your Personal Palette A Guide to WhatsApp Alerts on Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-2023-recap-top-innovations-and-breakthroughs-from-the-first-day-tech-insights/"><u>CES 2023 Recap: Top Innovations and Breakthroughs From the First Day | Tech Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/debunking-the-myths-surrounding-av1-and-vp9-for-2024/"><u>Debunking the Myths Surrounding AV1 and VP9 for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drivers-back-better-the-2024-ddu-blueprint/"><u>Drivers Back, Better: The 2024 DDU Blueprint</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-steps-to-universal-adb-driver-downloads/"><u>Easy Steps to Universal ADB Driver Downloads!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-update-your-hp-graphics-win7-tips/"><u>Efficiently Update Your HP Graphics - Win7 Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-mx870-with-windows-vintage-models/"><u>Integrate MX870 with Windows Vintage Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-day-with-chatgpt-four-effective-methods-for-better-planning/"><u>Master Your Day with ChatGPT: Four Effective Methods for Better Planning</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-path-for-nvidia-driver-recollection/"><u>Quick Path for NVIDIA Driver Recollection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-hidden-potential-essential-edits-for-starters/"><u>Unlock Hidden Potential Essential Edits for Starters</u></a></li>
 </ul></div>
 

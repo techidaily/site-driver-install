@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Epson Scan Pro in Windows 11
-date: 2024-11-27T05:34:16.769Z
-updated: 2024-12-03T12:24:48.935Z
+date: 2024-12-02T18:39:52.206Z
+updated: 2024-12-10T07:07:45.992Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 **[Way 3: Update your printer driver automatically](#way3)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Way 1: Update your printer driver manually**
@@ -45,6 +45,10 @@ For some printers, you need to update the drivers manually step by step.
  2) View by Small icons. Click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597056d6e290b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Device Manager window, locate the printer device that you wish to update the driver for. For problem device, you can see a yellow mark next to the device name.
 
@@ -60,14 +64,6 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -75,6 +71,10 @@ For some printers, you need to update the drivers manually step by step.
  1) Click**Start** menu and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In Settings window, click **Update & security.**
 
@@ -91,7 +91,7 @@ For some printers, you need to update the drivers manually step by step.
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
@@ -108,15 +108,15 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -135,22 +135,14 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/oost-engagement-with-custom-images-for-your-videos/"><u>[New] Boost Engagement with Custom Images for Your Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-golden-nuggets-revealing-the-hottest-reddit-topics-10/"><u>[New] Golden Nuggets Revealing the Hottest Reddit Topics (10)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-5-timelapse-recording-software-for-2024/"><u>[New] Top 5 Timelapse Recording Software for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/urn-your-videos-into-a-revenue-stream-with-these-tips-for-2024/"><u>[New] Turn Your Videos Into a Revenue Stream with These Tips for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-laughlineart-memogallery/"><u>2024 Approved LaughLineArt MemoGallery</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/beginners-guide-to-kids-waterproof-photography-tools/"><u>Beginner's Guide to Kids Waterproof Photography Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-steps-for-msi-bios-updates-across-windows-platforms/"><u>Essential Steps for MSI BIOS Updates Across Windows Platforms</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-upgrade-xp-hardware-drivers-without-software/"><u>How to Upgrade XP Hardware Drivers Without Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>In 2024, Streamlining Script Conversion From Text Formats to Engaging SRT</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-canon-mx870-with-windows-versions/"><u>Integrate Canon MX870 with Windows Versions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-thinkpad-driver-update-guide-windows-10/"><u>Lenovo Thinkpad Driver Update Guide - Windows 10</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/master-audio-recording-the-micless-methodology/"><u>Master Audio Recording The Micless Methodology</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcoming-common-ssd-issues-in-windows-environment/"><u>Overcoming Common SSD Issues in Windows Environment</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-windows-1011-easy-bluetooth-driver-reinstalls/"><u>Quick Windows 10/11: Easy Bluetooth Driver Reinstalls</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resetting-your-print-experience-reinstalling-windrivers/"><u>Resetting Your Print Experience: Reinstalling WINDrivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-full-potential-get-amds-chain-ready-drivers-for-windows-pcs/"><u>Unleash Full Potential: Get AMD's Chain-Ready Drivers for Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206246918-warframes-latest-update-hiccup-heres-how-you-can-fix-it-easily/"><u>Warframe's Latest Update Hiccup? Here's How You Can Fix It Easily!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-crucial-steps-to-preserve-your-youtube-live-video-for-2024/"><u>[New] Crucial Steps to Preserve Your Youtube LIVE Video for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/las-aplicaciones-mas-avanzadas-y-populares-para-mejorar-tus-fotos-en-tu-album-digital/"><u>Las Aplicaciones Más Avanzadas Y Populares Para Mejorar Tus Fotos en Tu Álbum Digital</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-time-management-7-apps-for-busy-families-sharing-a-calendar/"><u>Mastering Time Management: 7 Apps for Busy Families Sharing a Calendar</u></a></li>
+<li><a href="https://driver-install.techidaily.com/release-announcement-amds-new-graphics-drivers/"><u>Release Announcement: AMD's New Graphics Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/restore-functionality-with-reinstalled-atheros-drivers/"><u>Restore Functionality with Reinstalled Atheros Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/routine-for-updating-and-keeping-your-amd-drivers-current/"><u>Routine for Updating & Keeping Your AMD Drivers Current</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-severe-js-issue-within-discord-app-solutions-for-w10w11-pcs/"><u>Unraveling Severe JS Issue Within Discord App: Solutions for W10/W11 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-sound-drivers-on-windows-11/"><u>Updating Sound Drivers on Windows 11</u></a></li>
 </ul></div>
 

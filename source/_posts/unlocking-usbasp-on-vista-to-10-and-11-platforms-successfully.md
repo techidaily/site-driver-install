@@ -1,7 +1,7 @@
 ---
 title: Unlocking USBasp on Vista to 10 & 11 Platforms Successfully
-date: 2024-12-01T03:40:56.681Z
-updated: 2024-12-03T06:15:58.460Z
+date: 2024-12-05T03:21:08.242Z
+updated: 2024-12-10T00:04:47.951Z
 tags:
   - win11
   - win10
@@ -41,20 +41,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc737a002.jpg)
 3. Click the driver package in the**Drivers** section, and download the driver with the instructions.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc9287d92.png)
 4. Run the downloaded file and follow the on-screen instructions to finish it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should have the latest USBasp driver installed in your Windows computer.
 
  If this method doesn’t work for you, don’t worry. There is something else to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Download and update USBasp driver automatically
 
@@ -70,7 +66,7 @@ To do so:
 3. Click the**Update** button next to the device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -78,7 +74,7 @@ To do so:
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](mailto:support@drivereasy.com) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -100,11 +96,15 @@ Here’s what you need to do:
 4. Choose**Search automatically for updated driver software** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -124,22 +124,22 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-essential-web-portals-delivering-impeccable-text-effects/"><u>2024 Approved Explore Essential Web Portals Delivering Impeccable Text Effects</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-enhancement-achieved-successful-driver-installation/"><u>Audio Enhancement Achieved: Successful Driver Installation</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-enhanced-enhance-your-sites-performance-and-engagement/"><u>Cookiebot-Enhanced: Enhance Your Site's Performance and Engagement</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/free-guide-to-navigating-and-hosting-google-meet-sessions-effectively/"><u>Free Guide to Navigating and Hosting Google Meet Sessions Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-online-webm-converter-para-mp4-mov-e-wmv-pelo-movavi/"><u>Grátis Online Webm Converter Para Mp4, Mov E Wmv Pelo Movavi</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-memory-management-crash-error-in-windows-11/"><u>How to Fix the 'Memory Management' Crash Error in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-reinstall-amd-drivers-on-windows-111087/"><u>How to Reinstall AMD Drivers on Windows 11/10/8/7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-pro-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Pro Max Without a Passcode</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-new-m2-storage-with-windows/"><u>Integrate New M.2 Storage with Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcome-drivers-woes-with-ease-m-audio/"><u>Overcome Drivers' Woes with Ease (M-Audio)</u></a></li>
-<li><a href="https://games-able.techidaily.com/post-gtx-world-do-you-need-an-rtx-right-away/"><u>Post-GTX World: Do You Need an RTX Right Away?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-driver-release-notes/"><u>Quadro RTX 6000 Driver Release Notes</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-the-feature-update-failure-in-windows-11-build-1803/"><u>Resolved: Troubleshooting the Feature Update Failure in Windows 11 Build 1803</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revise-intel-windodrivers-guide/"><u>Revise Intel WindoDrivers Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ssential-guide-to-zero-cost-webinars-on-youtube-for-2024/"><u>The Essential Guide to Zero-Cost Webinars on YouTube for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-printer-potential-with-canon-win-driver/"><u>Unlock Printer Potential with Canon Win Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win7-guide-streamline-hp-graphics-drives/"><u>Win7 Guide: Streamline HP Graphics Drives</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-degrees-matter-rotating-videos-for-social-glory/"><u>[New] In 2024, Degrees Matter Rotating Videos for Social Glory</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-guide-to-saving-switch-gameplay-videos/"><u>[New] In 2024, Quick Guide to Saving Switch Gameplay Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-high-quality-drones-that-accommodate-gopro-cameras/"><u>[Updated] High-Quality Drones That Accommodate GoPro Cameras</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-multimedia-a-detailed-review-of-video-editors/"><u>2024 Approved Mastering Multimedia A Detailed Review of Video Editors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/apex-legends-quiet-zone-heres-how-to-get-game-sounds-back/"><u>Apex Legends Quiet Zone? Here's How to Get Game Sounds Back!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-guide-to-io-screen-capture-capabilities/"><u>Comprehensive Guide to IO Screen Capture Capabilities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/diagnosing-and-repairing-steady-crashing-issues-with-metro-exodus-gold-edition/"><u>Diagnosing and Repairing Steady Crashing Issues with Metro Exodus: Gold Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-steps-for-downloading-films-directly-onto-your-ipad-a-comprehensive-tutorial/"><u>Easy Steps for Downloading Films Directly Onto Your iPad: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-spark-10-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Spark 10 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/relaunching-nvidia-software-on-pcs/"><u>Relaunching NVIDIA Software on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-methods-to-keep-your-nvidia-up-to-date/"><u>Seamless Methods to Keep Your Nvidia Up-to-Date</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-steps-to-restore-windows-1011s-bluetooth-functionality/"><u>Simple Steps to Restore Windows 10/11'S Bluetooth Functionality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tech-enhancement-latest-intel-chipset-drivers/"><u>Tech Enhancement: Latest Intel Chipset Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-15-advanced-techniques-in-sports-broadcasting-for-2024/"><u>Unveiling 15 Advanced Techniques in Sports Broadcasting for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-wi-fi-controller-support-in-win11-release/"><u>Upgrade Wi-Fi Controller Support in Win11 Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-graphics-with-latest-nvidia-driver-win10-and-gtx-970/"><u>Upgraded Graphics with Latest Nvidia Driver - Win10 & GTX 970</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
 </ul></div>
 

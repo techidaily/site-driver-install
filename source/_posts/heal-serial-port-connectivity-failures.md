@@ -1,7 +1,7 @@
 ---
 title: Heal Serial Port Connectivity Failures
-date: 2024-09-19T16:04:42.491Z
-updated: 2024-09-20T16:05:37.490Z
+date: 2024-12-07T04:39:52.835Z
+updated: 2024-12-10T09:20:54.664Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
 
  You can download the latest FTDI driver from FTDI official website. Following steps are for your reference how to download and install the driver from FTDI manufacturer. Note the steps will be different if their website is redesigned.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Update the FTDI USB to serial driver manually  
 
  1\. Go to the [FTDI official website](https://www.ftdichip.com/Drivers/VCP.htm) .
@@ -38,9 +42,17 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-98.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-96.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
@@ -58,11 +70,19 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
 
@@ -84,12 +104,24 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-ordinary-to-outstanding-making-effortless-slow-motion-videos-in-android/"><u>[New] From Ordinary to Outstanding Making Effortless Slow-Motion Videos in Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screen-capture-showdown-obs-vs-shadow-for-2024/"><u>[New] Screen Capture Showdown OBS vs Shadow for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-construct-chuckles-adobe-meme-creation/"><u>[Updated] 2024 Approved Construct Chuckles Adobe Meme Creation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-journey-to-metaverse-leading-vr-headsets-reviewed-for-2024/"><u>[Updated] Journey to Metaverse Leading VR Headsets Reviewed for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-reels-harnessing-tiktok-secrets-for-popularity-surge/"><u>2024 Approved Instagram Reels Harnessing TikTok Secrets for Popularity Surge</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amplify-systems-visual-capabilities/"><u>Amplify System's Visual Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/can-the-tp-link-archer-ax60-grower-outperform-the-nighthawk-ax12-find-out-in-our-review/"><u>Can the TP-Link Archer AX60 Grower Outperform the Nighthawk AX12? Find Out in Our Review!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-contacter-avec-ease-chez-digiarty/"><u>Comment Contacter Avec Ease Chez Digiarty ?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/cross-platform-usbethernet-adapter-setup-manual/"><u>Cross-Platform USB/Ethernet Adapter Setup Manual</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-upgrade-conexant-hd-compatible-with-win11/"><u>Drive Upgrade: Conexant HD Compatible with Win11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-recordings-doing-without-a-microphone/"><u>Elevate Your Recordings Doing Without a Microphone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-downloading-and-installing-officejet-8620-drivers-on-pcs/"><u>Guide to Downloading and Installing OfficeJet 8620 Drivers on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-your-hp-laserjet-with-latest-windows-11-drivers/"><u>Harmonize Your HP Laserjet with Latest Windows 11 Drivers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-a-comparative-study-pre-and-post-vegaspro-19/"><u>In 2024, A Comparative Study Pre and Post-VegasPro '19</u></a></li>
+<li><a href="https://driver-install.techidaily.com/in-depth-guide-starting-anew-with-graphics-drivers/"><u>In-Depth Guide: Starting Anew with Graphics Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solve-udp-ftdi-link-problems/"><u>Solve UDP-FTDI Link Problems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveil-clearer-windows-10-sounds-audio-driver-reinstallation/"><u>Unveil Clearer Windows 10 Sounds: Audio Driver Reinstallation</u></a></li>
+</ul></div>
 

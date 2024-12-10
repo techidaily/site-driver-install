@@ -1,7 +1,7 @@
 ---
 title: How To Update Lenovo USB-C Dock Drivers. Quickly & Easily!
-date: 2024-09-10T03:12:34.546Z
-updated: 2024-09-15T05:02:12.270Z
+date: 2024-12-04T11:53:26.713Z
+updated: 2024-12-10T06:01:28.907Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update**Lenovo USB-C Dock driver** s manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -43,7 +47,15 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
 
@@ -56,8 +68,18 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 1. Go to [**Lenovo official website**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2F) , then click**SUPPORT** in the top navigation section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/support.png)
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
@@ -89,12 +111,16 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-join-in-fun-this-weeks-top-10-challenges/"><u>[Updated] Join in Fun This Week's Top 10 Challenges</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-insightful-approaches-to-recognizing-genuine-facebook-advocates/"><u>2024 Approved Insightful Approaches to Recognizing Genuine Facebook Advocates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-giants-unveiling-an-exceptional-audio-experience-that-beats-bose-and-sonos/"><u>Beyond the Giants: Unveiling an Exceptional Audio Experience That Beats Bose and Sonos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcast-your-games-with-professional-skill-for-2024/"><u>Broadcast Your Games with Professional Skill for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-pc-troubleshooting-why-does-it-keep-crashing/"><u>Fortnite PC Troubleshooting: Why Does It Keep Crashing ?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/methodical-update-for-modern-windows-and-intell-drivers/"><u>Methodical Update for Modern Windows & Intell Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-graphics-radeon-vega-3-gpu-upgrade-download/"><u>Optimize Graphics - Radeon Vega 3 GPU Upgrade Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-realtek-audio-support-with-driver-updates/"><u>Revamp Realtek Audio Support with Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-lenovo-y470-driver-bundle/"><u>Windows 7 Lenovo Y470 Driver Bundle</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Smooth Update of Windows 11 Device Drivers Guide
-date: 2024-09-11T02:42:52.004Z
-updated: 2024-09-15T05:14:18.555Z
+date: 2024-12-07T00:55:59.796Z
+updated: 2024-12-10T01:29:11.604Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 **Pro Tip:** If you’re not tech-savvy, or you’re short on time and patience, you can try updating all your drivers on Windows 11 with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  in one click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update drivers on Windows 11
 
  Whether you want to do it manually or automatically, below you will find two different step-by-step installation guides.
@@ -43,14 +47,28 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 2. Right-click the Start menu ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-1.png) and click**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager.jpg)
 3. In the**Device Manager** window, expand the category and the device that you wish to update the driver for. If you need to update Realtek PCIe GBE Family Controller, you’ll find this device under the**Network adapters** category. You can right-click on the device name and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/update-driver.jpg)
 4. Click**Browse my computer for drivers** , and select the downloaded file.  
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
 5. Browse to the folder where your driver file is saved.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-path.jpg)
 6. It will install the drivers automatically for you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/download-location.jpg)
 7. Once complete, you now have the latest driver installed. You can restart your PC for it to take full effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2\. Update all drivers automatically
 
@@ -68,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -90,18 +112,24 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-superficial-shares-spell-social-deterioration/"><u>[New] 2024 Approved How Superficial Shares Spell Social Deterioration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-full-hd-cameras-for-stunts-and-sports/"><u>[New] Affordable Full HD Cameras for Stunts and Sports</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-winning-collaboration-plans-on-youtube-for-2024/"><u>[New] Crafting Winning Collaboration Plans on YouTube for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-cutting-edge-speedy-frame-compiler/"><u>[New] In 2024, Cutting Edge Speedy Frame Compiler</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-impact-video-marketing-on-youtube/"><u>[New] In 2024, Maximizing Impact Video Marketing on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-navigating-the-nuances-of-spotify-advertising/"><u>[Updated] 2024 Approved Navigating the Nuances of Spotify Advertising</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-top-10-yoga-youtube-channels-to-follow-keep-fit/"><u>[Updated] In 2024, Top 10 Yoga YouTube Channels to Follow - Keep Fit</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-ways-to-transform-mdf-into-an-iso-image-free-techniques-revealed/"><u>Effortless Ways to Transform MDF Into an ISO Image: Free Techniques Revealed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-pc-with-amd-chain-drivers-windows-steps/"><u>Enhance PC with AMD Chain Drivers - Windows Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-performance-boost-drivers-update-for-win-11/"><u>GTX 970 Performance Boost - Drivers Update for Win 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-quality-and-performance-with-logitech-c270-driver-update/"><u>Improve Quality & Performance with Logitech C270 Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximizing-audio-potential-streamlined-processes-for-hyperx-driver-changes/"><u>Maximizing Audio Potential: Streamlined Processes for HyperX Driver Changes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pave-the-way-for-secure-transactions-with-amd-on-windows/"><u>Pave the Way for Secure Transactions with AMD on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/razer-wireless-mouse-compatibility-with-windows/"><u>Razer Wireless Mouse Compatibility with Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-after-updating-to-windows-11-fast-fixes/"><u>Restoring Audio Functionality After Updating to Windows 11 – Fast Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-hardware-compatibility-with-drivers/"><u>Unlocking Hardware Compatibility with Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-usb-hub-glitches-now-overcome/"><u>Win-USB Hub Glitches, Now Overcome</u></a></li>
+</ul></div>
 

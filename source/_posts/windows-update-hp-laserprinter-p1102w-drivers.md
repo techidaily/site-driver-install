@@ -1,7 +1,7 @@
 ---
 title: "Windows Update: HP LaserPrinter P1102w Drivers"
-date: 2024-10-18T09:25:12.713Z
-updated: 2024-10-24T09:38:35.043Z
+date: 2024-12-06T10:12:15.558Z
+updated: 2024-12-10T08:50:34.284Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 1. [Download HP LaserJet Pro P1102w printer driver from HP Support](#option1)
 2. [Download & Update HP LaserJet Pro P1102w printer driver automatically](#option2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Download HP LaserJet Pro P1102w printer driver from HP Support
 
 **NOTE** : The printer driver for LaserJet Pro P1102w is also adaptable to P1560 and P1600 series of HP LaserJet printers.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
  1) First, type**HP Printer Support** into the search box of the preferred searching engine. Then go to the support webpage of HP Printers.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96658ae2b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) You can either type the model of your printer in the search box here, or use the navigation here so it can lead you to the correct web page for your printer driver. We go with the later option here. Choose**Laser Jet Printers** .
   
@@ -51,15 +59,17 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd9a3f80551.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) When the download finishes, run the setup file as instructed to update your printer driver.
   
 **NOTE** : You might need to refer to the instruction documentation if you have an problems during the driver installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Download & Update HP LaserJet Pro P1102w printer driver automatically
@@ -81,16 +91,7 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd7369cc2f3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [HP](https://tools.techidaily.com/drivereasy/download/)
@@ -111,16 +112,16 @@ thumbnail: https://thmb.techidaily.com/bfb2d1c98fb54d4eedeecb18b7b3e8e4bf5cc5347
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-10-must-see-vr-videos-on-youtube-for-deep-immersion/"><u>[Updated] 10 Must-See VR Videos on YouTube for Deep Immersion</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-realteks-usb-wifi-gbe-controller-for-win11/"><u>Enhance Realtek's USB-WiFi GBE Controller for Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/graphics-growth-in-windows-7-with-updated-hp-drivers/"><u>Graphics Growth in Windows 7 with Updated HP Drivers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-x-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone X Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-tecno-camon-30-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-5-leading-digital-audio-workstation-options-for-professional-guitarists-updated/"><u>New In 2024, 5 Leading Digital Audio Workstation Options for Professional Guitarists, Updated</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-210-new-driver-releases-to-improve-graphics-and-compatibility-for-windows-10-systems/"><u>NVIDIA GeForce 210: New Driver Releases to Improve Graphics and Compatibility for Windows 10 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-alterations-of-display-drivers-in-win7/"><u>Speedy Alterations of Display Drivers in Win7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-your-experience-update-hp-omen-15s-software-efficiency/"><u>Streamline Your Experience: Update HP Omen 15'S Software Efficiency</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-assessing-used-ipads-key-points-for-smart-shopping/"><u>The Ultimate Guide to Assessing Used iPads - Key Points for Smart Shopping</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-precise-process-installing-snapchat-on-a-mac-os/"><u>[New] In 2024, Precise Process Installing Snapchat on a Mac OS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-scrutinizing-hero5s-performance-throughout-day/"><u>[Updated] In 2024, Scrutinizing Hero5's Performance Throughout Day</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/hp-victus-15l-desktop-laptops-price-slashed-by-almost-40-now-available-for-520-exclusive-deal-alert/"><u>HP Victus 15L Desktop Laptop's Price Slashed by Almost 40%, Now Available for $520 - Exclusive Deal Alert</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-current-lenovo-thinks-on-win10-pcs/"><u>Install Current Lenovo Thinks on Win10 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-productivity-upgrade-your-hp-printer/"><u>Maximize Productivity: Upgrade Your HP Printer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-windows-11-and-hp-laserjet-with-updated-drivers/"><u>Maximize Windows 11 & HP Laserjet with Updated Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-firmware-downloads/"><u>Quadro RTX 6000 Firmware Downloads</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/romer-flashlight-assessment-exceptional-brightness-reusable-battery-feature-and-more/"><u>Romer Flashlight Assessment: Exceptional Brightness, Reusable Battery Feature & More</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space-for-2024/"><u>The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-computers-webcam-functionality-with-c270/"><u>Upgrade Your Computer's Webcam Functionality with C270</u></a></li>
 </ul></div>
 

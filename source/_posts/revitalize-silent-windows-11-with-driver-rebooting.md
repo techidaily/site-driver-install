@@ -1,7 +1,7 @@
 ---
 title: Revitalize Silent Windows 11 with Driver Rebooting
-date: 2024-09-08T22:49:28.912Z
-updated: 2024-09-15T07:19:41.679Z
+date: 2024-12-03T20:45:57.966Z
+updated: 2024-12-10T00:53:32.593Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 
  First, you need to uninstall the audio driver from Device Manager. After uninstalling the driver, you can simply restart your PC to allow Windows to reinstall the audio driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 ways to reinstall your audio driver
 
 [**Option 1 – Manually**](#method1)
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 [**Option 2 – Automatically (Recommended)**](#method2)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Reinstall audio driver manually
 
@@ -40,13 +48,27 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 2. Type**devmgmt.msc i** n the Run box and click OK to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffffd514aa.png)
 3. Expand the category**Sound,video and game controllers** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffff4272b1.jpg)
 4. **Right-click on the sound device** and click**Uninstall device** (in some cases, this could be just Uninstall). In the below example, the sound device is Realtek High Definition Audio.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0027dd7b67.jpg)
 5. On the Uninstall confirm dialog box, select the**Delete the driver software for this device** option, then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be003fba7ed5.png)  
  The option**Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information you can visit [Driver Store](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) in Microsoft. If you don’t see this option on the**Uninstall confirm dialog** box, the driver package may have been removed. In this case, just click**Uninstall** to uninstall the driver.
 6. **Restart** your computer. Usually, Windows will install an audio driver automatically when your computer is connected to the internet. (It may not give you the latest drivers — so if you found the issue persists, you can take the following methods to automatically check for driver issues or updates.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reinstall audio driver automatically (Recommended)
 
@@ -84,12 +106,16 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/about-htc-u23-frp-bypass-by-drfone-android/"><u>About HTC U23 FRP Bypass</u></a></li>
+<li><a href="https://solve-info.techidaily.com/descubre-el-mejor-programa-gratuito-para-duplicar-tu-disco-m2-ssd-en-sistemas-windows-y-mac/"><u>Descubre El Mejor Programa Gratuito Para Duplicar Tu Disco M.2 SSD en Sistemas Windows Y Mac</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-13-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 13 Pro 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970672290-insignia-gaming-consoles-ultimate-toolkit-hdmi-to-lan-adapter-driver-for-xbox-available-now/"><u>Insignia Gaming Console's Ultimate Toolkit: HDMI to LAN Adapter Driver for Xbox - Available Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fixes-for-amd-hardware-efficient-driver-updates-on-wins/"><u>Quick Fixes for AMD Hardware - Efficient Driver Updates on Wins</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-acuity-inkjet-issues-on-windows-11/"><u>Rectify Acuity Inkjet Issues on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/securing-and-enhancing-msi-modules-for-outdated-windows/"><u>Securing & Enhancing MSI Modules for Outdated Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-connection-windows-driver-for-tp-link-device/"><u>Streamline Your Connection: Windows Driver for TP Link Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-11-strategies-for-boosting-your-youtube-videos-visibility-for-2024/"><u>Top 11 Strategies for Boosting Your YouTube Videos' Visibility for 2024</u></a></li>
+</ul></div>
 

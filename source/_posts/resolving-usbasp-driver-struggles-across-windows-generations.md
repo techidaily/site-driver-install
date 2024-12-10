@@ -1,7 +1,7 @@
 ---
 title: Resolving USBasp Driver Struggles Across Windows Generations
-date: 2024-09-17T16:00:17.801Z
-updated: 2024-09-20T16:17:49.602Z
+date: 2024-12-03T07:00:41.239Z
+updated: 2024-12-10T02:46:44.014Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Download and update USBasp driver manually
 
  USBasp is a USB programmer for Atmel AVR controllers, and you can download the USBasp driver from the manufacturer website.
@@ -42,6 +46,10 @@ To do so:
 3. Click the driver package in the**Drivers** section, and download the driver with the instructions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc9287d92.png)
 4. Run the downloaded file and follow the on-screen instructions to finish it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should have the latest USBasp driver installed in your Windows computer.
 
@@ -67,6 +75,10 @@ To do so:
 
 Tada, now you should have updated the USBasp driver easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Download and update USBasp driver via Device Manager
 
  You can also update the USBasp driver via Device Manager, where you can view and manage the hardware information and software driver in your computer.
@@ -78,25 +90,19 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dcf3157ac.jpg)
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
 4. Choose**Search automatically for updated driver software** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -114,5 +120,18 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-djis-mavic-pro-visual-goggles-performance-review/"><u>[New] DJi's Mavic Pro Visual Goggles Performance Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlocking-potential-advanced-techniques-for-slug-line-creation/"><u>[New] Unlocking Potential Advanced Techniques for Slug Line Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-polar-pinnacles-beijing-2022-olympic-spotlight/"><u>2024 Approved Polar Pinnacles Beijing 2022 Olympic Spotlight</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s23-fe-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy S23 FE support MKV video files?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-drivers-update-game-in-windows-10-81-and-7/"><u>Elevate Your Drivers Update Game in Windows 10, 8.1 & 7</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-secure-and-quick-screen-captures-on-android-devices/"><u>In 2024, Secure & Quick Screen Captures on Android Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-the-art-of-intel-82579lm-driver-patches-for-windows/"><u>Master the Art of Intel 82579LM Driver Patches for Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203524814-resolving-overwatch-voice-chat-failures-fast-effective-solutions-at-hand/"><u>Resolving Overwatch Voice Chat Failures Fast – Effective Solutions at Hand</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063001015-smoothen-windows-11-display-update-your-hdmi-drivers-now/"><u>Smoothen Windows 11 Display: Update Your HDMI Drivers Now!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-drivers-startech-support-on-winxp-811/"><u>Streamlined Drivers: StarTech Support on WinXP, 8/11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-tool-for-deleting-captions-from-mkv-avi-and-mp4-videos/"><u>Ultimate Tool for Deleting Captions From MKV, AVI & MP4 Videos</u></a></li>
+</ul></div>
 

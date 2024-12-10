@@ -1,7 +1,7 @@
 ---
 title: Unleash Potential - New GPU Driver for GTX 1050 Ti
-date: 2024-09-15T16:06:27.697Z
-updated: 2024-09-20T16:18:35.246Z
+date: 2024-12-06T00:07:28.955Z
+updated: 2024-12-09T22:00:57.343Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ problems, you’re not alone.
 
  And chances are, it’s time to update your driver for your**GTX 1050 Ti**  graphics card in order to smooth these problems away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 ways to update GTX 1050 Ti driver
 
 [**Option 1 – Automatically (Recommended)**](#M1) – This is the quickest and easiest option. It’s all done with just a few mouse clicks – super easy even if you’re a computer newbie.
@@ -49,8 +53,18 @@ problems, you’re not alone.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594695d7c27.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -69,8 +83,18 @@ problems, you’re not alone.
 3. You’ll see a list of results pop up right under. Click**the first result** to make sure you download the latest driver release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b067305a1425.jpg)
 4. Click**DOWNLOAD** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0634e809b76.jpg)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -93,12 +117,22 @@ problems, you’re not alone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-exploring-the-world-of-animated-image-design/"><u>[New] In 2024, Exploring the World of Animated Image Design</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-future-of-home-entertainment-tv-or-projection-for-4k-for-2024/"><u>[New] The Future of Home Entertainment TV or Projection for 4K for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-sharing-guide-for-tiktok-content/"><u>[Updated] Twitter Sharing Guide for TikTok Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unlock-game-changing-potential-try-our-top-ranked-free-voice-alteration-tool/"><u>2024 Approved Unlock Game-Changing Potential Try Our Top-Ranked Free Voice Alteration Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024and14/"><u>無料ビデオエディットツール：2024年版、マック&ウインド推奨の最高14選</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-windows-7-sound-output-with-updated-drivers/"><u>Boost Windows 7 Sound Output with Updated Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hasten-updates-lenovo-z50-70-speeds-up/"><u>Hasten Updates: Lenovo Z50-70 Speeds Up</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-10t-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme 10T 5G Bootloader Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-pc-install-microsoft-pro-4-drivers/"><u>Optimize Your PC: Install Microsoft Pro 4 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-obstacles-installing-drivers-on-windows/"><u>Overcoming Obstacles: Installing Drivers on Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/reclaiming-iphone-hdr-footage-premiere-pros-fixes-for-overexposure-for-2024/"><u>Reclaiming iPhone HDR Footage Premiere Pro's Fixes for Overexposure for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-airpods-connection-issues-no-more-unwanted-switching-between-apple-products/"><u>Resolve AirPods Connection Issues: No More Unwanted Switching Between Apple Products</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshooting-and-upgrading-nvidia-audio-in-windows-10/"><u>Troubleshooting & Upgrading NVIDIA Audio in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ultra-easy-lenovo-drivers-for-yoga-900/"><u>Ultra Easy Lenovo Drivers for Yoga 900</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-adb-drivers-effortless-connectivity-comes-first/"><u>Universal ADB Drivers: Effortless Connectivity Comes First!</u></a></li>
+</ul></div>
 

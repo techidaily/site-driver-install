@@ -1,7 +1,7 @@
 ---
 title: "Full Recolour: Installer's Handbook for GPU Drivers"
-date: 2024-09-13T16:50:55.373Z
-updated: 2024-09-15T00:19:30.374Z
+date: 2024-12-05T18:04:56.741Z
+updated: 2024-12-10T05:27:31.349Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 Now use the following procedure to clean install your graphics drivers:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Download the driver you need
 
  First and foremost, you should download the driver you need. There’re mainly two options for you to do this:
@@ -31,6 +35,10 @@ Now use the following procedure to clean install your graphics drivers:
 OR
 
 **[Option 2 – Manually](#option2)** – You’ll need some computer skills and patience to download your driver this way, because you need to find exactly the right driver online and then download it yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Automatically download the driver
 
@@ -61,10 +69,7 @@ OK, enough intro. Let’s see what you should do:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Create a system restore point
@@ -76,6 +81,10 @@ OK, enough intro. Let’s see what you should do:
  After creating a restore point, you should move on to the next step, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Uninstall your current graphics drivers
 
@@ -99,19 +108,6 @@ OK, enough intro. Let’s see what you should do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-21.png)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) There are three options in the upper left:
 
 **Clean and restart** – if you decide to keep your current graphics card or just do some sort of troubleshooting, this is the one you should click.
@@ -125,6 +121,10 @@ OK, enough intro. Let’s see what you should do:
  Select the option based on your actual situation and then wait for the uninstallation process to complete. No matter which one you choose, you’ll need to**reboot** your computer in order to move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 4: Install the downloaded driver
 
@@ -145,13 +145,6 @@ Finally, the last step is to install your driver.
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the graphics driver, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-21_18-10-47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -180,5 +173,20 @@ Finally, the last step is to install your driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-speeding-up-snapchat-media-video/"><u>[New] Step-by-Step Speeding Up Snapchat Media (Video)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-pcs-display-output-in-windows-10/"><u>Boost PC's Display Output in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-access-surface-pro-6-driver-packages/"><u>Easy Access: Surface Pro 6 Driver Packages</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enrich-your-pc-with-fresh-graphics-drive/"><u>Enrich Your PC with Fresh Graphics Drive</u></a></li>
+<li><a href="https://win-web.techidaily.com/funf-methoden-zur-reparatur-von-raw-partitionen-unter-windows-10/"><u>Fünf Methoden Zur Reparatur Von RAW-Partitionen Unter Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-play-40c-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Play 40C</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/one-airpod-not-working-how-to-fix-it/"><u>One Airpod Not Working How to Fix It</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/secure-your-gaming-memories-5-essential-vr-recording-methods-for-2024/"><u>Secure Your Gaming Memories 5 Essential VR Recording Methods for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/techkey-bluetooth-adapter-installation-files-compatible-with-windows-1078/"><u>Techkey Bluetooth Adapter Installation Files – Compatible with Windows 10/7/8</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unify-print-environment-harmonize-jetpro400-with-os-drivers/"><u>Unify Print Environment: Harmonize JetPro400 with OS Drivers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unleashing-creativity-full-scale-review-of-toolwizs-photography-app/"><u>Unleashing Creativity Full-Scale Review of Toolwiz's Photography App</u></a></li>
+</ul></div>
 

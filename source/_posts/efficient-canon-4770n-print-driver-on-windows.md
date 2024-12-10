@@ -1,7 +1,7 @@
 ---
 title: Efficient Canon 4770N Print Driver on Windows
-date: 2024-09-07T23:16:07.129Z
-updated: 2024-09-14T18:45:53.410Z
+date: 2024-12-05T05:19:40.998Z
+updated: 2024-12-09T21:58:06.317Z
 tags:
   - win11
   - win10
@@ -35,7 +35,16 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3dfb7f029.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c7e148fdf8.jpg) You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -47,8 +56,23 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 1. Go to **[Canon’s official website](https://www.usa.canon.com/internet/portal/us/home)**  , type **Canon MF4770n** in the box, and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03f1a0cf44c.png)
 2. Under **imageCLASS MF4770n** , click**Drivers & Downloads** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db4a0d862.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Scroll down the new page to the bottom and a list of printer drivers compatible with your operating system will be listed (**Windows 10** ,**x64** in my case). Click**the first result** to make sure you download the latest driver release. Then click**DOWNLOAD** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03db3044199.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Double-click on the downloaded file and follow the on-screen instructions to finish the installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect even if you’re not asked to.
 6. Skip this step if you can scan over a network/with a USB connection in your Windows system. But if you fail to do in either of them, you might need to go back to the download page to download & install a patch for it. Follow the prompts to so that the patch can solve the issue for you.
 
@@ -72,12 +96,24 @@ If you’re not confident playing around with drivers manually, you can do it au
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/urning-viewers-into-valuables-a-creators-guide-to-youtube-monetization-for-2024/"><u>[New] Turning Viewers Into Valuables A Creator’s Guide to YouTube Monetization for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-breakdown-the-broadcasting-barrier-easy-windows-pc-guide-to-live-tv-recording-for-2024/"><u>[Updated] Breakdown the Broadcasting Barrier Easy Windows PC Guide to Live TV Recording for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-digging-through-youtube-conversations/"><u>2024 Approved Digging Through YouTube Conversations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/advanced-drivers-for-w11-and-xone-game-controllers/"><u>Advanced Drivers for W11 & Xone Game Controllers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-your-gadgetrances-with-easy-driver-downloads/"><u>Bridge Your Gadget'rances with Easy Driver Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-performance-install-canon-10drivers/"><u>Enhanced Performance: Install Canon 10Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-google-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Google? Try These Fixes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-spyro-reignited-trilogy-offers-mega-entertainment-for-minimal-cost/"><u>In-Depth Analysis: Spyro Reignited Trilogy Offers Mega Entertainment for Minimal Cost</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-hp-envy-5530-with-win10-os/"><u>Integrate HP Envy 5530 with Win10 OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/laser-printer-p1102w-software-for-windows-users/"><u>Laser Printer P1102w Software for Windows Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-durecorder-complete-breakdown-for-2024/"><u>Mastering DuRecorder Complete Breakdown for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-mf4770n-drivers-for-w11w8w7/"><u>Navigating MF4770n Drivers for W11/W8/W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-scansnap-s1500-performance-with-new-software/"><u>Optimize ScanSnap S1500 Performance with New Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/supercharge-your-system-with-gb-mb-drivers/"><u>Supercharge Your System with GB MB Drivers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-tones-techniques-in-free-fire-for-2024/"><u>Transforming Tones Techniques in Free Fire for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tips-for-securing-your-chats-as-pinned-posts-on-instagram/"><u>Ultimate Tips for Securing Your Chats as Pinned Posts on Instagram</u></a></li>
+</ul></div>
 

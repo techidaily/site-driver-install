@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Uninstall & Reinstall Wacom Drivers on WIN Platforms"
-date: 2024-09-11T06:54:56.221Z
-updated: 2024-09-15T00:28:02.132Z
+date: 2024-12-05T11:08:35.513Z
+updated: 2024-12-10T11:48:58.981Z
 tags:
   - win11
   - win10
@@ -39,8 +39,17 @@ To uninstall and reinstall your Wacom drivers, simply follow these steps:
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run dialog. Type or paste**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/run-box-appwiz-cpl.jpg)
 2. One at a time, select any**Tablet, Wacom Tablet or Bamboo** entries from the list and click**Uninstall** . Make sure everything related to Wacom Tablet has been uninstalled.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/uninstall-wacom-driver-1.jpg)
 3. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can choose to**purge the leftover files** as well. Or jump to [install the latest Wacom drivers](#step2) .
 
@@ -49,8 +58,18 @@ To uninstall and reinstall your Wacom drivers, simply follow these steps:
 1. On your keyboard, press the**Win+R** (the Windows logo key and the r key) to open the Run box. Type or paste**control.exe folders** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/run-open-folders-settings-unhide-1.jpg)
 2. In the pop-up window, navigate to the**View** tab. In the**Advanced settings** section, click the option button next to**Show hidden files, folders and drivers** . Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/run-open-folders-settings-unhide-2.jpg)
 3. Delete these folders:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * C:\\Program Files\\Tablet  
    * C:\\Users\\<user>\\AppData\\Roaming\\WTablet  
    * C:\\Users\\<user>\\AppData\\Local\\Temp\\wactemp  
@@ -86,6 +105,10 @@ To uninstall and reinstall your Wacom drivers, simply follow these steps:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/de-wacom.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Once you’ve reinstalled the latest Wacom drivers, restart your PC and test your device.
@@ -109,18 +132,19 @@ To uninstall and reinstall your Wacom drivers, simply follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastery-manual-downloading-hd-videos-on-todays-digital-landscapes/"><u>[New] In 2024, Mastery Manual Downloading HD Videos on Today's Digital Landscapes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/irtual-diary-dos-and-donts-for-consistent-content-for-2024/"><u>[New] Virtual Diary Dos & Don'ts for Consistent Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/brushes-and-pixels-our-top-7-choices-for-sketching-on-win10/"><u>Brushes and Pixels: Our Top 7 Choices for Sketching on Win10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficiency-leap-ai-in-dev-workflow/"><u>Efficiency Leap: AI in Dev Workflow</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-realme-gt-5-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Realme GT 5 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-manually-update-drivers-in-windows-vista/"><u>How to Manually Update Drivers in Windows Vista</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/infusing-life-into-ppt-with-professional-voiceovers/"><u>Infusing Life Into PPT with Professional Voiceovers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-lenovo-thinks-with-updated-driver-set/"><u>Revitalize Lenovo Thinks with Updated Driver Set</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-wireless-connections-with-updated-rtl8723d-drivers/"><u>Streamline Wireless Connections with Updated RTL8723D Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-driver-redo-effective-reinstallation-tactics-for-win-71011/"><u>The Driver Redo: Effective Reinstallation Tactics for Win 7/10/11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-mystique-of-codegpt-writing-software-as-an-ai/"><u>The Mystique of CodeGPT: Writing Software as an AI?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformar-archivos-de-video-avi-en-formato-mkv-guia-detallada-y-paso-a-paso/"><u>Transformar Archivos De Video AVI en Formato MKV: Guía Detallada Y Paso a Paso</u></a></li>
+</ul></div>
 

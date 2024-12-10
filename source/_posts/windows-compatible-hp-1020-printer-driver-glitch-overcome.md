@@ -1,7 +1,7 @@
 ---
 title: "Windows Compatible: HP 1020 Printer Driver Glitch Overcome"
-date: 2024-09-10T03:30:55.542Z
-updated: 2024-09-15T09:38:56.663Z
+date: 2024-12-05T08:36:45.678Z
+updated: 2024-12-10T00:39:44.291Z
 tags:
   - win11
   - win10
@@ -35,12 +35,26 @@ Time needed:  3 minutes.
 1. **Go to the HP support website.**  
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the downloaded file, and follow the wizard to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the printer driver in Device Manager
 
@@ -59,19 +73,17 @@ Time needed:  3 minutes.
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
 
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
 
@@ -87,10 +99,7 @@ After updating, restart your computer.
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
@@ -121,5 +130,19 @@ This is a rather easy method, isn’t it?!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-cyberspace-enhancer-facebook-story-backup-tool-for-2024/"><u>[New] Cyberspace Enhancer Facebook Story Backup Tool for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guffaw-generator-pictorial-editor/"><u>[Updated] Guffaw Generator Pictorial Editor</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-paper-feed-efficiency-on-win10-printers/"><u>Enhance Paper Feed Efficiency on WIN10 Printers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-your-aural-experience-on-win-1011-screens/"><u>Enhancing Your Aural Experience on Win 10/11 Screens</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-your-sounds-easy-guide-to-focusrite-driver-update/"><u>Harmonize Your Sounds: Easy Guide to Focusrite Driver Update</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/italian-journey-speak-mastering-local-dialects/"><u>Italian Journey Speak: Mastering Local Dialects</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-free-video-reversal-software-for-2024/"><u>New Best Free Video Reversal Software for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-driver-updates-rapid-and-simple-approaches/"><u>Nvidia Driver Updates: Rapid & Simple Approaches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207147047-ps4-control-deck-wont-charge-discover-effective-fixes-now/"><u>PS4 Control Deck Won't Charge? Discover Effective FIXES Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-windows-error-image-id-0x80780119/"><u>Remedy for Windows Error: Image ID 0X80780119</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-warzone-not-starting-properly/"><u>Step-by-Step Solutions for 'Warzone Not Starting Properly'</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleashing-potential-winning-over-samsung-and-windows-combination/"><u>Unleashing Potential: Winning Over Samsung & Windows Combination</u></a></li>
+</ul></div>
 

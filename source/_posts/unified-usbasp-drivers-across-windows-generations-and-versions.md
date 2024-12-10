@@ -1,7 +1,7 @@
 ---
 title: Unified USBasp Drivers Across Windows Generations and Versions
-date: 2024-09-18T16:17:04.276Z
-updated: 2024-09-20T16:04:01.493Z
+date: 2024-12-03T17:58:58.482Z
+updated: 2024-12-09T21:07:50.988Z
 tags:
   - win11
   - win10
@@ -40,6 +40,11 @@ To do so:
 2. Click**USBasp – USB programmer for AVRs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc737a002.jpg)
 3. Click the driver package in the**Drivers** section, and download the driver with the instructions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc9287d92.png)
 4. Run the downloaded file and follow the on-screen instructions to finish it.
 
@@ -59,6 +64,11 @@ To do so:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddda67fba.jpg)
 3. Click the**Update** button next to the device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd828e09e9b7.jpg)
 4. Restart your computer to take effect.
@@ -68,10 +78,7 @@ To do so:
 Tada, now you should have updated the USBasp driver easily.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Download and update USBasp driver via Device Manager
@@ -86,14 +93,16 @@ Here’s what you need to do:
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
 4. Choose**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
 
@@ -113,5 +122,24 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone-for-2024/"><u>[Updated] Best 10 YouTube Volume Boosters for Windows, macOS, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-enhancing-youtube-beauty-mastering-video-color-dynamics/"><u>2024 Approved Enhancing YouTube Beauty Mastering Video Color Dynamics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-viewing-with-the-lg-24lh4830-value-meets-innovation/"><u>Budget-Friendly Viewing with the LG 24LH4830: Value Meets Innovation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-and-intuitive-lenovo-u310-update/"><u>Effortless and Intuitive Lenovo U310 Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-connectivity-by-reinstalling-wireless-drivers/"><u>Enhance Connectivity by Reinstalling Wireless Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-guide-to-screen-zooming-on-microsoft-teams/"><u>Expert Guide to Screen Zooming on Microsoft Teams</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-reno-8t-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Reno 8T 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-15-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 15 Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-for-virtual-victory-on-xbox-sx/"><u>Joining Forces for Virtual Victory on Xbox S/X</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-steps-for-printer-drivers-on-windows-systems/"><u>Quick Steps for Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-connected-conexant-hd-drivers-windows-11/"><u>Secure Connected: Conexant HD Drivers Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-netgear-1200-mbps-wi-fi-pcie-adapter-drivers/"><u>Setup NETGEAR 1200 Mbps Wi-Fi PCIe Adapter Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stable-windows-117-install-new-aoc-driver/"><u>Stable Windows 11/7: Install New AOC Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997988597-star-wars-jedi-fallen-order-not-running-smoothly-on-your-computer-fixes-inside/"><u>Star Wars Jedi: Fallen Order Not Running Smoothly on Your Computer? Fixes Inside!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-m-track-fixing-instantly/"><u>Streamline M-Track Fixing Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-error-1152-temporary-file-extract-failure/"><u>Tackling 'Error 1152: Temporary File Extract Failure'</u></a></li>
+<li><a href="https://driver-install.techidaily.com/up-to-date-techniques-for-printer-driver-installation/"><u>Up-to-Date Techniques for Printer Driver Installation</u></a></li>
+</ul></div>
 

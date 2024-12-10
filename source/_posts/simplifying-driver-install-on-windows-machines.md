@@ -1,7 +1,7 @@
 ---
 title: Simplifying Driver Install on Windows Machines
-date: 2024-11-28T07:18:24.123Z
-updated: 2024-12-03T01:13:20.335Z
+date: 2024-12-06T16:31:40.786Z
+updated: 2024-12-09T16:00:37.105Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 1: Uninstall the graphics driver
 
  You can uninstall the driver via Device Manager. Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update, or roll back drivers via Device Manager.
@@ -42,19 +38,20 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8f66b1083.png)
 3. Double-click**Display adapters** , right-click your NVIDIA graphics card, then select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 4. On the Uninstall confirm dialog box, select the**Delete the driver software for this device** check box, then click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
 5. On Windows 11, the message is different, but still, you just need to tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-49.png)
 6. Repeat the same to remove the driver for your other Nvidia display card if you have one.
 
@@ -65,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
  After uninstalling the driver, move on to**[Step 2](#install)** to install a new NVIDIA driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2: Install a new NVIDIA driver
 
@@ -91,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Reinstall the graphics driver with Driver Easy
 
  If you don’t have the time, patience or computer skills to reinstall the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -102,13 +99,17 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/nvidia-graphics.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -135,22 +136,18 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-instantaneous-fortnite-tile-design-guide/"><u>[New] In 2024, Instantaneous Fortnite Tile Design Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-intersection-of-brain-research-and-strategic-business-management/"><u>[New] In 2024, The Intersection of Brain Research and Strategic Business Management</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-the-art-of-digital-image-preservation/"><u>[Updated] Mastering the Art of Digital Image Preservation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015659266-chrome-sound-not-working-heres-how-you-can-get-your-audio-back/"><u>Chrome Sound Not Working? Here's How You Can Get Your Audio Back</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-touch-screen-driver-installation-for-windows-11/"><u>Efficient Touch Screen Driver Installation for Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-hp-officejet-4630-installation-assistance/"><u>Enhanced HP Officejet 4630 Installation Assistance</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-find-your-steam-id/"><u>How to Find Your Steam ID</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>In 2024, The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-nvidia-970-drivers-optimized-for-win-11/"><u>Install Nvidia 970 Drivers - Optimized for Win 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrating-c270-webcam-with-modern-windows-11-system/"><u>Integrating C270 Webcam with Modern Windows 11 System</u></a></li>
-<li><a href="https://driver-install.techidaily.com/m2-drivers-upgrade-your-pc-written-by-a-professional-tech-guru/"><u>M.2 Drivers: Upgrade Your PC' Written by a Professional Tech Guru</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-delays-just-perfect-scsi-driver-installation/"><u>No Delays, Just Perfect SCSI Driver Installation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/0-vr-videos-on-youtube-to-have-immersive-experience-for-2024/"><u>Top 10 VR Videos on YouTube to Have Immersive Experience for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlocking-simple-techniques-for-amd-driver-downloads/"><u>Unlocking Simple Techniques for AMD Driver Downloads</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063378462-update-lenovo-g580-drivers-easily/"><u>Update Lenovo G580 Drivers. Easily!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-complete-strategy-for-embedding-music-into-imovie-footage/"><u>Updated In 2024, The Complete Strategy for Embedding Music Into iMovie Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-premier-picks-the-ultimate-8-tripods-for-4k-photography-for-2024/"><u>[New] Premier Picks The Ultimate 8 Tripods for 4K Photography for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-heaviest-lifting-uavs-the-definitive-top-10/"><u>[Updated] In 2024, Heaviest Lifting UAVs The Definitive Top 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mirrorless-impact-on-professional-video-recording/"><u>[Updated] In 2024, Mirrorless Impact on Professional Video Recording</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/be-energy-independent-harness-the-power-of-solar-to-avert-outages-and-save-hundred-dollars/"><u>Be Energy Independent: Harness the Power of Solar to Avert Outages and Save Hundred Dollars!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-popular-media-outlets-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Popular Media Outlets: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://driver-install.techidaily.com/remedy-hp-deskjet-driver-windows-11-faults/"><u>Remedy HP Deskjet Driver Windows 11 Faults</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-asus-compatibility-enhancers-windows/"><u>Seamless ASUS Compatibility Enhancers (Windows)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-dell-sound-with-updated-realtek-driver-implementation/"><u>Secure Dell Sound with Updated Realtek Driver Implementation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-the-secrets-of-easy-fixes-in-hawkui-vehicles/"><u>Unlocking the Secrets of Easy Fixes in Hawkui Vehicles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-best-10-video-call-apps-for-iphone-and-android-users/"><u>Unveiling the Best 10 Video Call Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-win10s-realtek-gbe-family-for-sound-perfection/"><u>Update Win10's Realtek GBE Family for Sound Perfection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-w10-install-latest-lenovo-drivers/"><u>Upgrading W10: Install Latest Lenovo Drivers</u></a></li>
 </ul></div>
 

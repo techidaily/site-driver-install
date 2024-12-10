@@ -1,7 +1,7 @@
 ---
 title: "WinXP-Win10 USBasp Guide: Fixing Issues Together"
-date: 2024-11-17T18:03:45.165Z
-updated: 2024-11-24T16:53:59.644Z
+date: 2024-12-07T16:13:13.658Z
+updated: 2024-12-10T06:14:27.685Z
 tags:
   - win11
   - win10
@@ -49,7 +49,7 @@ To do so:
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Download and update USBasp driver automatically
@@ -65,20 +65,20 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddda67fba.jpg)
 3. Click the**Update** button next to the device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd828e09e9b7.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](mailto:support@drivereasy.com) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 Tada, now you should have updated the USBasp driver easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Download and update USBasp driver via Device Manager
@@ -92,18 +92,18 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dcf3157ac.jpg)
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
 4. Choose**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -124,15 +124,20 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/1715860357024-new-capturing-screen-content-on-huawei-mate-10-20-and-p-series-phones-via-built-in-recorders/"><u>[New] Capturing Screen Content on Huawei Mate 10, 20 & P-Series Phones via Built-In Recorders.</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-broadcast-brilliance-with-cost-effective-templates/"><u>[New] In 2024, Broadcast Brilliance with Cost-Effective Templates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-latest-drivers-for-hp-printer-4630-model/"><u>Download Latest Drivers for HP Printer 4630 Model</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-reinstalling-hardware-drivers-for-all-windows-editions/"><u>Efficiently Reinstalling Hardware Drivers for All Windows Editions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-windows-security-with-me/"><u>Enhance Windows Security with ME</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-graphics-via-hp-software-windows-10/"><u>Enhanced Graphics via HP Software, Windows 10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-expert-techniques-for-simple-iphone-screenshot-processes/"><u>In 2024, Expert Techniques for Simple IPhone Screenshot Processes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-gt-10-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix GT 10 Pro Device</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/precision-and-power-in-your-hands-the-ultimate-guide-to-the-gamesir-x2s-type-c-review/"><u>Precision and Power in Your Hands: The Ultimate Guide to the GameSir X2s Type-C Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sky-magnificence-in-focus-leading-websites-uncovered/"><u>Sky Magnificence in Focus Leading Websites Uncovered</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-innovate-and-captivate-top-10-video-response-examples/"><u>[New] In 2024, Innovate and Captivate Top 10 Video Response Examples</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-maximize-youtube-presence-11-must-know-seo-strategies-for-success/"><u>2024 Approved Maximize YouTube Presence 11 Must-Know SEO Strategies for Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-the-hype-in-pretend-console-promos/"><u>Debunking the Hype in Pretend Console Promos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/flawless-lenovo-z50-70-driver-improvements/"><u>Flawless Lenovo Z50-70 Driver Improvements</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-high-quality-sound-memos/"><u>In 2024, Expert Tips for High-Quality Sound Memos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/initiate-online-interactions-with-this-guide-to-facebook-registration-for-2024/"><u>Initiate Online Interactions with This Guide to Facebook Registration for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneously-enhance-sound-quality/"><u>Instantaneously Enhance Sound Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-video-editing-on-a-budget-with-free-fcp/"><u>Mastering Video Editing on a Budget with Free FCP</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-make-a-statement-best-free-animated-logo-design-software-plus-tips-from-the-pros-for-2024/"><u>New Make a Statement Best Free Animated Logo Design Software + Tips From the Pros for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-improve-yoga-900s-download-official-windows-10-drivers/"><u>Secure & Improve Yoga 900S: Download Official Windows 10 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-network-card-driver-tweaks-in-win7/"><u>Streamlined Network Card Driver Tweaks in Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftness-in-resolving-m-track-quirks-m-audio/"><u>Swiftness in Resolving M-Track Quirks (M-Audio)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-logitech-mouse-for-optimal-windows-experience/"><u>Update Logitech Mouse for Optimal Windows Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/versatile-driver-package-for-epson-model-2650/"><u>Versatile Driver Package for Epson Model 2650</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Joy-Con Connector Software for Windows
-date: 2024-09-19T16:08:23.136Z
-updated: 2024-09-20T16:02:10.044Z
+date: 2024-12-05T08:07:32.924Z
+updated: 2024-12-10T05:06:44.125Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
  **Way 1:[Update the Driver via Device Manager](#way1)**
  **Way 2:[Update the Driver Using Driver Easy](#way2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Update the Driver via Device Manager
 
  If Windows doesn’t install the driver automatically, you can update the driver manually via Device Manager. Follow these steps:
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
  2) Type**devmgmt.msc** and press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Expand the branch **Microsoft Xbox One Controller** .
 
@@ -43,7 +51,15 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Check to see if you can use the Xbox One Controller properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2: Update the Driver Using Driver Easy
 
@@ -65,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
 
  Hope the tips help you update Xbox One Controller driver on Windows 10 easily. If you have any questions, please leave your comments below. We’d love to hear of any ideas and suggestions.
@@ -85,12 +105,17 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-innovative-rhymes-dominating-tiktok-challenges/"><u>[New] In 2024, Innovative Rhymes Dominating TikTok Challenges</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-realteks-usb-wifi-gbe-controller-for-win11/"><u>Enhance Realtek's USB-WiFi GBE Controller for Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-latest-driver-update-from-amd-radeon-x/"><u>Get the Latest Driver Update From AMD Radeon X</u></a></li>
+<li><a href="https://driver-install.techidaily.com/graphics-growth-in-windows-7-with-updated-hp-drivers/"><u>Graphics Growth in Windows 7 with Updated HP Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-scansnap-driver-installation-on-windows-systems/"><u>Hassle-Free ScanSnap Driver Installation on Windows Systems!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-105-classic-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nokia 105 Classic Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-a-swift-submission-into-apple-catalog/"><u>In 2024, Tips for a Swift Submission Into Apple Catalog</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photoshop-stabilization-technique-utility-perspective/"><u>Photoshop Stabilization Technique Utility Perspective</u></a></li>
+<li><a href="https://facebook.techidaily.com/silicon-valleys-reality-check-americas-new-tech-laws/"><u>Silicon Valley's Reality Check: America's New Tech Laws</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-alterations-of-display-drivers-in-win7/"><u>Speedy Alterations of Display Drivers in Win7</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Smooth Printing: Fixed HP LaserJet on Windows"
-date: 2024-10-17T01:03:47.636Z
-updated: 2024-10-24T13:12:50.401Z
+date: 2024-12-07T09:55:36.891Z
+updated: 2024-12-10T06:37:52.650Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ Time needed:  3 minutes.
 
  Run the downloaded file, and follow the wizard to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update the printer driver in Device Manager
 
  You can also update your printer driver using the Windows built-in solution – Device Manager.
@@ -58,45 +62,30 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
 
@@ -112,16 +101,7 @@ After updating, restart your computer.
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
@@ -155,15 +135,24 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-dji-phantom-3-professional-review-for-2024/"><u>[New] DJI Phantom 3 Professional Review for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-metaverse-persona-design-a-beginners-compreraniary-guide-for-2024/"><u>[New] Metaverse Persona Design A Beginner's Compreraniary Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-skype-soundtrack-hub-finding-the-right-tones-online-for-2024/"><u>[Updated] Skype Soundtrack Hub Finding the Right Tones Online for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-showdown-of-projectors-and-tvs-in-a-4k-setting-for-2024/"><u>[Updated] The Ultimate Showdown of Projectors & TVs in a 4K Setting for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-enhance-and-modernize-dell-audio-systems/"><u>How to Enhance and Modernize Dell Audio Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-v29-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo V29 Pro?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intel-driver-boost-for-win-10781/"><u>Intel Driver Boost for WIN 10/7/8.1</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/professional-recording-apps-faceoff-obs-vs-fraps/"><u>Professional Recording Apps Faceoff – OBS vs Fraps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalizing-your-scanner-update-s1500-drivers-effectively/"><u>Revitalizing Your Scanner: Update S1500 Drivers Effectively</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speed-up-computing-with-intelligent-520/"><u>Speed Up Computing with Intelligent 520</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[New] In 2024, Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-noshadowedit-advanced-background-shadow-elimination/"><u>[Updated] In 2024, NoShadowEdit Advanced Background Shadow Elimination</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-harmonize-your-imovie-projects-with-youtubes-melodies/"><u>2024 Approved Harmonize Your iMovie Projects With YouTube's Melodies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-netgear-80211n-pcie-usb-adapter/"><u>Download Netgear 802.11N PCIe USB Adapter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/harnessing-the-power-of-video-the-most-effective-fb-ad-practices-for-2024/"><u>Harnessing the Power of Video The Most Effective FB Ad Practices for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-sims-3-pc-crash-issues-effectively-and-quickly/"><u>How To Resolve Sims 3 PC Crash Issues Effectively and Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-hd-webcam-c270-win-update-instructions/"><u>Logitech HD Webcam C270 Win Update Instructions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-webcam-driver-uncompromised/"><u>Logitech Webcam Driver - Uncompromised</u></a></li>
+<li><a href="https://driver-install.techidaily.com/manual-driver-changes-for-windows-vista-systems/"><u>Manual Driver Changes for Windows Vista Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/model-specific-aoc-drivers-e1659/"><u>Model-Specific AOC Drivers: E1659</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-realtek-usb-driver-pack-for-enhanced-connectivity-on-win11/"><u>New Realtek USB Driver Pack for Enhanced Connectivity on Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-non-responsive-function-key-problems-on-your-device/"><u>Overcoming Non-Responsive Function Key Problems on Your Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-pova-5-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Pova 5 has been deleted.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-up-technology-windows-10-drivers-for-dell-laptops/"><u>Step-Up Technology: Windows 10 Drivers for Dell Laptops</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-amd-drivers-on-vintage-and-modern-oss/"><u>Streamlining AMD Drivers on Vintage and Modern OSs</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-navigating-the-nuances-of-audio-balancing-a-deep-dive-into-obs-sound-dynamics-for-2024/"><u>Updated Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-11-proplus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme 11 Pro+ Phones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-zte-nubia-z60-ultra-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your ZTE Nubia Z60 Ultra Phone Network-Ready</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winxps-wan-connection-woes-now-a-thing-of-the-past/"><u>WinXP's WAN Connection Woes, Now a Thing of the Past</u></a></li>
 </ul></div>
 

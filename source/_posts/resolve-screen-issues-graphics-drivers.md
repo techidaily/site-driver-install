@@ -1,7 +1,7 @@
 ---
 title: "Resolve Screen Issues: Graphics Drivers"
-date: 2024-09-14T08:07:01.450Z
-updated: 2024-09-14T16:06:26.818Z
+date: 2024-12-04T09:15:59.852Z
+updated: 2024-12-10T04:30:09.858Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
 
  The option **Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information about Driver Store, please see [Driver Store in Microsoft](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) . **If you don’t see this option** on the Uninstall confirm dialog box, the driver package may have been removed. In this case, **just click Uninstall to uninstall only the driver** .
@@ -44,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
 
@@ -60,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
  If you don’t have the time, patience or computer skills to reinstall the driver manually, or if Windows doesn’t provide the latest driver, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -73,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  2) Run**Driver Easy** and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -103,12 +123,17 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/remiere-masterclass-making-your-videos-shine-on-youtube/"><u>[New] Premiere Masterclass Making Your Videos Shine on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-breakdown-of-the-top-9-free-branding-platforms-for-youtube-channels-for-2024/"><u>[Updated] Breakdown of the Top 9 Free Branding Platforms for YouTube Channels for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-logo-genius-10-tips-for-memorable-podcast-imagery/"><u>[Updated] Logo Genius 10 Tips for Memorable Podcast Imagery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/a-beginners-pathway-to-iphone-audio-memos-for-2024/"><u>A Beginner's Pathway to iPhone Audio Memos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-5-most-reliable-iphone-gps-tools-on-the-market/"><u>Discover the 5 Most Reliable iPhone GPS Tools on the Market</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-visuals-install-hp-graphics-on-windows-10/"><u>Elevate Visuals - Install HP Graphics on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-nvidia-audio-for-improved-win7-experience/"><u>Enhanced Nvidia Audio for Improved Win7 Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-behind-the-scenes-creating-10-facebook-videos-for-2024/"><u>From Behind the Scenes Creating #10 Facebook Videos for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063781379-how-to-update-drivers-in-windows-11-81-7-quickly-and-easily/"><u>How to Update Drivers in Windows 11, 8.1, 7. Quickly & Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-11-audio-driver-refresh-guide/"><u>Win 11: Audio Driver Refresh Guide</u></a></li>
+</ul></div>
 

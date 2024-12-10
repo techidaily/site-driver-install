@@ -1,7 +1,7 @@
 ---
 title: Lenovo Dock Adjustment with New Drivers Quickly
-date: 2024-09-16T16:01:55.391Z
-updated: 2024-09-20T16:15:13.886Z
+date: 2024-12-03T17:37:54.665Z
+updated: 2024-12-09T18:55:19.427Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update**Lenovo USB-C Dock driver** s manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,10 +44,19 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
 
@@ -60,10 +73,20 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 3. Select**Browse Product** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Double-click on the execution file and follow the on-screen instructions to install.
 8. Don’t forget to restart your computer for the changes to take effect.
 
@@ -89,12 +112,19 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-video-brand-tips-for-great-youtube-banners/"><u>[New] 2024 Approved Elevating Your Video Brand Tips for Great YouTube Banners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-attract-more-viewers-boosting-your-youtube-following/"><u>[Updated] 2024 Approved Attract More Viewers Boosting Your YouTube Following</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-echoes-of-engagement-the-subtle-aspects-of-story-viewing/"><u>[Updated] In 2024, Echoes of Engagement The Subtle Aspects of Story Viewing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-strategic-approaches-to-share-ppt-powerfully-in-google-meet/"><u>2024 Approved Strategic Approaches to Share PPT Powerfully in Google Meet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-gt-10-pro-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on GT 10 Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-update-journey-for-lenovo-yoga-900/"><u>Effortless Update Journey for Lenovo Yoga 900</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-efficiency-with-jet-pro-8710-official-windows-driver-bundle/"><u>Enhance Efficiency with Jet Pro 8710 - Official Windows Driver Bundle</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-graphics-genesis-radeon-reclaimed/"><u>In 2024, Graphics Genesis Radeon Reclaimed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-video-illumination-techniques/"><u>In 2024, Mastering YouTube Video Illumination Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-laser-printer-operations-in-win11/"><u>Streamline Laser Printer Operations in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-experience-update-hp-omen-15s-software-efficiency/"><u>Streamline Your Experience: Update HP Omen 15'S Software Efficiency</u></a></li>
+</ul></div>
 

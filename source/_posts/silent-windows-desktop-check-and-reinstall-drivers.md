@@ -1,7 +1,7 @@
 ---
 title: Silent Windows Desktop? Check and Reinstall Drivers
-date: 2024-10-17T01:59:58.465Z
-updated: 2024-10-23T22:24:46.495Z
+date: 2024-12-07T10:07:03.078Z
+updated: 2024-12-10T03:16:45.811Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Reinstall audio driver manually
 
  You can follow the steps below to reinstall your audio driver manually. First you’ll need to uninstall the audio driver.
@@ -51,14 +44,15 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 4. **Right-click on the sound device** and click**Uninstall device** (in some cases, this could be just Uninstall). In the below example, the sound device is Realtek High Definition Audio.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0027dd7b67.jpg)
 5. On the Uninstall confirm dialog box, select the**Delete the driver software for this device** option, then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be003fba7ed5.png)  
  The option**Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information you can visit [Driver Store](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) in Microsoft. If you don’t see this option on the**Uninstall confirm dialog** box, the driver package may have been removed. In this case, just click**Uninstall** to uninstall the driver.
@@ -66,10 +60,7 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 6. **Restart** your computer. Usually, Windows will install an audio driver automatically when your computer is connected to the internet. (It may not give you the latest drivers — so if you found the issue persists, you can take the following methods to automatically check for driver issues or updates.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall audio driver automatically (Recommended)
@@ -86,13 +77,14 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 3. Click the **three dots icon** next to an audio driver and select**Uninstall driver** (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) ). Since replacing the old driver with a newer one may solve the audio issues, you can also choose to update all your drivers with one click to keep your PC drivers up-to-date.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/audio-driver-uninstall-driver-easy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -118,20 +110,24 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-beginning-participating-in-and-organizing-group-video-calls-zoom-for-android-devices/"><u>[Updated] 2024 Approved Beginning, Participating in, and Organizing Group Video Calls (Zoom) for Android Devices</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1725285242747-2024dvd/"><u>「2024年最新技術：パソコンでDVD画像ファイルへの変換ガイド！」</u></a></li>
-<li><a href="https://driver-install.techidaily.com/automated-asus-installation-procedure-for-windows/"><u>Automated ASUS Installation Procedure for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-device-performance-download-asus-widders/"><u>Boost Device Performance - Download ASUS WIDDers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/complete-tech-revamp-graphics-driver-overhaul-guide/"><u>Complete Tech Revamp: Graphics Driver Overhaul Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-setup-gaomon-s620-for-maximum-speed/"><u>Download & Setup Gaomon S620 for Maximum Speed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-techniques-for-revamping-your-powerpoint-slides/"><u>Effortless Techniques for Revamping Your PowerPoint Slides</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-gaming-install-updated-gtx-1050-ti-drivers/"><u>Elevate Gaming: Install Updated GTX 1050 Ti Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-the-not-found-ocidll-error-with-easy-solutions/"><u>Fix the 'Not Found: oci.dll' Error with Easy Solutions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-wacom-intuos-4-essential-software-secure/"><u>Get Wacom Intuos 4 Essential Software (Secure)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-xr21-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia XR21</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ideal-starting-point-uncomplicated-gaming-edits-tools/"><u>In 2024, The Ideal Starting Point Uncomplicated Gaming Edits Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722987330334-sketch-out-your-design-on-paper-before-painting-directly-onto-the-tile-this-helps-prevent-mistakes-and-allows-for-planning-of-color-transitions/"><u>Sketch Out Your Design on Paper Before Painting Directly Onto the Tile. This Helps Prevent Mistakes and Allows for Planning of Color Transitions.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062744227-tp-link-compatible-usb-adapter-get-it-fast-and-free/"><u>TP Link Compatible USB Adapter - Get It Fast & Free!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-enhancing-video-visibility-on-youtube-with-imaginative-thumbnails/"><u>[New] Enhancing Video Visibility on YouTube with Imaginative Thumbnails</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-steps-to-clear-the-exterior-of-your-photos-in-affinity/"><u>[New] Quick Steps to Clear the Exterior of Your Photos in Affinity</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-efficient-tiktok-twitter-crossposting-guide/"><u>[Updated] Efficient TikTok-Twitter Crossposting Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-vive-headset-review-your-passport-to-a-new-reality-world/"><u>[Updated] Vive Headset Review Your Passport to a New Reality World</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capture-live-camera-video-using-vlc-media/"><u>2024 Approved Capture Live Camera Video Using VLC Media</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ati-radeon-hd-5450-windows-11-drivers-update-quickly-and-easily/"><u>ATI Radeon HD 5450 Windows 11 Drivers Update Quickly & Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-beats-the-essential-scarlett-6i6-driver-upgrade/"><u>Boost Your Beats: The Essential Scarlett 6I6 Driver Upgrade</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/download-le-kit-de-developpeur-windows-adk-pour-utiliser-avec-aomei-backupper/"><u>Download Le Kit De Développeur Windows ADK Pour Utiliser Avec AOMEI Backupper</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-add-windows-compatible-m2-to-os/"><u>Efficiently Add Windows-Compatible M.2 To OS</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/expert-guide-navigating-the-downloading-of-surface-device-firmware/"><u>Expert Guide: Navigating the Downloading of Surface Device Firmware</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-y27-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y27 5G Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-securely-install-canon-printer-drivers-on-win11/"><u>How to Securely Install Canon Printer Drivers on WIN11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/in-depth-explanatory-tutorial-clean-install-of-gpu-drivers/"><u>In-Depth Explanatory Tutorial: Clean Install of GPU Drivers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ve-viewership-triumphs-youtubes-greatest-hits-for-2024/"><u>Massive Viewership Triumphs YouTube's Greatest Hits for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/professional-suite-drivers-for-windows-compatible-surface-pro/"><u>Professional Suite: Drivers for Windows-Compatible Surface Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-installation-of-acer-drivers-in-win11-os/"><u>Rapid Installation of Acer Drivers in Win11 OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-fixes-for-logitech-sound-devices/"><u>Swift Driver Fixes for Logitech Sound Devices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-free-gif-loop-makers/"><u>Updated 2024 Approved Best Free GIF Loop Makers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-w7-lenovo-y470-driver-support-guide/"><u>Upgrade to W7 - Lenovo Y470 Driver Support Guide</u></a></li>
 </ul></div>
 

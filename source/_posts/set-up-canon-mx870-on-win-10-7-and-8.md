@@ -1,7 +1,7 @@
 ---
 title: Set up Canon MX870 on Win 10, 7, & 8
-date: 2024-09-09T02:35:11.717Z
-updated: 2024-09-15T10:47:07.666Z
+date: 2024-12-03T04:01:42.267Z
+updated: 2024-12-10T03:40:20.494Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 * [**Way 1. Download the latest Canon MX870 driver from Canon website**](#Way1)
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
 
  1) Head to [Canon Driver download center](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers) .
@@ -31,15 +35,27 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click **DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
 
@@ -48,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
  If you are not a tech savvy, or you just want to save much time, way 2 is your choice — Using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to download the latest drivers automatically. Driver Easy is a 100% safe and extremely helpful driver tool. It can help you solve all the drivers problem, including missing, outdated and incompatible drivers. And it supports most Windows versions, from Vista to the newly Windows 10\. Its [Free version](https://tools.techidaily.com/drivereasy/download/) will find the correct drivers for you to install one by one. But if upgrade to [Pro version](https://tools.techidaily.com/drivereasy/download/) , it will update all your drivers with just one click — **Update All** . Of cause including your Canon MX870 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
 
@@ -66,12 +86,22 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-create-impressive-slow-motion-content-a-step-by-step-instagram-reel-masterclass/"><u>[New] How to Create Impressive Slow Motion Content A Step by Step Instagram Reel Masterclass</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-device-functionality-restored-by-os-update/"><u>Audio Device Functionality Restored by OS Update</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile/"><u>Building Your Ultimate YouTube Music List Step-by-Step Guide (Web/Mobile)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-download-of-amds-chain-drivers-for-enhanced-windows-computing/"><u>Direct Download of AMD's Chain Drivers for Enhanced Windows Computing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-updating-lenovo-dock-software/"><u>Essential Tips: Updating Lenovo Dock Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-redmi-note-12-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Redmi Note 12 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-enhanced-windows-11-latest-driver-version/"><u>GTX 970 Enhanced: Windows 11 Latest Driver Version</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-proplus-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 Pro+ 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-computing-with-updated-lenovo-thinks/"><u>Improve Computing with Updated Lenovo Thinks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-ultra-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Ultra PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-your-videos-captions-with-10plus-top-free-converters/"><u>In 2024, Perfect Your Videos' Captions with 10+ Top FREE Converters</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-pcs-volume-problem-in-windows-11-faq/"><u>Solving Your PC's Volume Problem in Windows 11 (FAQ)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-essentials-reinstalling-drivers-in-all-various-windows-versions/"><u>Update Essentials: Reinstalling Drivers in All Various Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-amd-rx-570-driver-download-windows-os-performance-boost/"><u>Upgraded AMD RX 570 Driver Download: Windows OS Performance Boost</u></a></li>
+</ul></div>
 

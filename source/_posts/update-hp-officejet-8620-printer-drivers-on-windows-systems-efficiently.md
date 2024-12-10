@@ -1,7 +1,7 @@
 ---
 title: Update HP OfficeJet 8620 Printer Drivers on Windows Systems Efficiently
-date: 2024-11-27T10:03:54.584Z
-updated: 2024-12-02T21:27:45.209Z
+date: 2024-12-04T08:30:14.664Z
+updated: 2024-12-10T00:36:31.855Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 2. [Update HP OfficeJet Pro 8620 driver in Device Manager](#Fix2)
 3. [Update HP OfficeJet Pro 8620 driver automatically](#Fix3) (Recommended)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Download HP OfficeJet Pro 8620 driver manually
 
  HP support center provides software and drivers for customers to download, so you can manually download the driver you need from the website.
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
  3) Make sure the detected **operating system** is correct, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f2f35ac0c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Run the downloaded file, and follow the wizard to finish.
 
@@ -70,21 +70,17 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  2) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In Device Manager, double click**Printers** or**Print queues** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Right click on your printer (it may display as**Unknown device**), and select**Update driver** .
 
@@ -94,11 +90,19 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Follow the on-screen instructions to finish updating the driver.
 
 8) After updating, restart your computer.
 
 Still no luck? OK. There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
@@ -119,10 +123,6 @@ Still no luck? OK. There’s one more thing to try.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) After updating, restart your computer to take effect.
 
@@ -152,18 +152,22 @@ If you have any questions, feel free to add a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-critical-take-on-sharex-expert-evaluations-and-alternates/"><u>[Updated] In 2024, The Critical Take on ShareX Expert Evaluations & Alternates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/assessing-true-performance-determining-the-right-speed-for-your-computer/"><u>Assessing True Performance: Determining the Right Speed for Your Computer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/crafting-eco-friendly-audio-the-journey-of-creating-speakers-from-reclaimed-ocean-waste/"><u>Crafting Eco-Friendly Audio: The Journey of Creating Speakers From Reclaimed Ocean Waste</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/easy-ways-to-record-gotomeeting-sessions-for-2024/"><u>Easy Ways to Record GoToMeeting Sessions for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062682842-enhance-device-interactions-simple-adb-download/"><u>Enhance Device Interactions – Simple ADB Download!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-8-creative-uses-of-chatgpts-image-recognition/"><u>Exploring 8 Creative Uses of ChatGPT’s Image Recognition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-90-lite-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor 90 Lite? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721460418211-iphone-and-ipad-keyboards-failing-discover-6-fixes/"><u>IPhone & iPad Keyboards Failing? Discover 6 Fixes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-msi-driver-updates-windows-versions-guide/"><u>Mastering MSI Driver Updates: Windows Versions Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-driver-update-simplified-for-maximum-efficiency/"><u>Nvidia Driver Update: Simplified for Maximum Efficiency</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimized-drivers-for-geforce-gtx-1060-model/"><u>Optimized Drivers for GeForce GTX 1060 Model</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-system-graphics-in-win11-via-acer-tech/"><u>Streamline System Graphics in Win11 via Acer Tech</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-tutorial-on-transitioning-from-windows-home-edition-to-the-advanced-pro-variant/"><u>Ultimate Tutorial on Transitioning From Windows Home Edition to the Advanced Pro Variant</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers-for-2024/"><u>[New] The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solved-conexant-hd-audio-drivers-for-windows-11/"><u>[Solved] Conexant HD Audio Drivers for Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-which-live-stream-software-wins-exploring-obs-vs-streamlabs/"><u>[Updated] Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/canon-camera-insights-for-stunning-time-lapse-vids-for-2024/"><u>Canon Camera Insights for Stunning Time-Lapse Vids for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-reviews-leading-17-inch-laptop-models-dominating-2024/"><u>Expert Reviews: Leading 17-Inch Laptop Models Dominating 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/perfecting-speech-recognition-on-google-platforms/"><u>Perfecting Speech Recognition on Google Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-reno-11f-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo Reno 11F 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-concerns-with-ai-is-it-safe-to-discuss-sensitive-info-on-chatgpt/"><u>Privacy Concerns with AI: Is It Safe to Discuss Sensitive Info on ChatGPT?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-old-systems-incorporating-mf4770n-into-wxw8w7/"><u>Revitalize Old Systems: Incorporating MF4770n Into WX/W8/W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-your-tech-life-easy-driver-installation-guide/"><u>Simplify Your Tech Life: Easy Driver Installation Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-for-content-sharing-faceygram-tweetube-youtagram-and-finsta/"><u>Social Media Titans for Content Sharing: Faceygram, TweeTube, Youtagram & Finsta</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-w10-with-updated-thinkpad-drivers/"><u>Streamline W10 with Updated ThinkPad Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-workflows-easy-printer-driver-access-win-10/"><u>Streamline Workflows: Easy Printer Driver Access, Win 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-espnpluss-functionality-an-in-depth-look-at-the-sports-networks-digital-platform/"><u>Understanding ESPN+'s Functionality: An In-Depth Look at the Sports Network's Digital Platform</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-gpu-install-gtx-firmware-update/"><u>Upgrade Your GPU - Install GTX Firmware Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-webcam-download-and-install-logitech-camera-software-c270/"><u>Upgrade Your Webcam: Download & Install Logitech Camera Software (C270)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-xerox-c6515-system/"><u>Upgrading Xerox C6515 System</u></a></li>
 </ul></div>
 

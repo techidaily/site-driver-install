@@ -1,7 +1,7 @@
 ---
 title: Repair USB-Serial Driver Failures
-date: 2024-11-28T02:35:53.777Z
-updated: 2024-12-02T20:04:47.246Z
+date: 2024-12-02T23:33:13.324Z
+updated: 2024-12-09T18:40:32.983Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
  You can download the latest FTDI driver from FTDI official website. Following steps are for your reference how to download and install the driver from FTDI manufacturer. Note the steps will be different if their website is redesigned.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 1: Update the FTDI USB to serial driver manually  
 
  1\. Go to the [FTDI official website](https://www.ftdichip.com/Drivers/VCP.htm) .
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-94.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you click on the version name, you’ll get driver with .inf file which requires you to install the driver step by step through [Device Manager](https://tools.techidaily.com/drivereasy/download/) . We don’t recommend you download this file unless you can’t use the executable file to install the driver successfully.  
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-98.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-96.png)
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
@@ -106,22 +106,20 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-a-review-of-youtubes-integration-with-iphone-and-android-devices/"><u>[Updated] 2024 Approved A Review of YouTube's Integration with iPhone & Android Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-break-free-from-the-ordinary-top-tinder-profiles-that-hook-readers/"><u>[Updated] Break Free From the Ordinary Top Tinder Profiles that Hook Readers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-best-10-yogic-instructional-networks-for-wellness/"><u>[Updated] Unlocking the Best 10 Yogic Instructional Networks for Wellness</u></a></li>
-<li><a href="https://driver-install.techidaily.com/addressing-software-failure-during-windows-driver-rollout/"><u>Addressing Software Failure During Windows Driver Rollout</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dazzling-display-guide-for-android-videos/"><u>Dazzling Display Guide for Android Videos</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhancing-print-operations-by-redoing-driver-installation/"><u>Enhancing Print Operations by Redoing Driver Installation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/graphics-driver-reboot-a-comprehensive-guidebook/"><u>Graphics Driver Reboot: A Comprehensive Guidebook</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-asus-rog-phone-8-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Asus ROG Phone 8 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-characters-made-simple-easy-avatar-crafting-tips/"><u>In 2024, Metaverse Characters Made Simple Easy Avatar Crafting Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/leading-edge-apps-the-ultimate-10-for-real-time-gymnastics-and-hockey-games-for-2024/"><u>Leading Edge Apps The Ultimate 10 for Real-Time Gymnastics and Hockey Games for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-pc-audio-with-newly-installed-realtek-driver/"><u>Revitalize PC Audio with Newly Installed Realtek Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rh5770rtkgraphicsupdatewin/"><u>RH5770RTKGraphicsUpdateWin</u></a></li>
-<li><a href="https://driver-install.techidaily.com/snap-up-issues-with-easy-m-track-fixes/"><u>Snap Up Issues with Easy M-Track Fixes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tiktok-downloading-the-blueprint-for-mass-media-capture-for-2024/"><u>TikTok Downloading The Blueprint for Mass Media Capture for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-amd-radeon-r9-driver-update-guide/"><u>Win AMD Radeon R9 Driver Update Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-compatible-hp-1020-printer-driver-glitch-overcome/"><u>Windows Compatible: HP 1020 Printer Driver Glitch Overcome</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eview-youtube-app-for-iphone-and-android-for-2024/"><u>[New] Review YouTube App for iPhone and Android for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/astropurge-5-for-windows-mastering-configured-cycle-erasure-settings/"><u>AstroPurge 5 for Windows: Mastering Configured Cycle Erasure Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/diving-deep-incorporating-luts-into-your-creative-workflow/"><u>Diving Deep Incorporating LUTs Into Your Creative Workflow</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-update-your-windows-bluetooth-dongle-drivers-a-complete-walkthrough/"><u>Find & Update Your Windows Bluetooth Dongle Drivers - A Complete Walkthrough</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1722990964139-improve-your-naraka-bladepoint-experience-fix-stuttering-and-increase-fps-effectively/"><u>Improve Your Naraka: Bladepoint Experience - Fix Stuttering and Increase FPS Effectively</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-youtube-partnerships-successfully/"><u>In 2024, Navigating YouTube Partnerships Successfully</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-in-depth-analysis-from-toms-hardware-experts/"><u>Mastering Tech: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-r9-series-with-updated-software/"><u>Secure R9 Series with Updated Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/showdown-can-llama-3-outperform-gpt-evolution-the-ultimate-language-model/"><u>Showdown: Can Llama 3 Outperform GPT-Evolution, The Ultimate Language Model?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-display-process-in-win-os/"><u>Streamline Display Process in Win OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-driver-update-strategy-for-windows-8-enthusiasts/"><u>The Ultimate Driver Update Strategy for Windows 8 Enthusiasts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-team-efficiency-the-best-language-learning-apps/"><u>Unlocking Team Efficiency: The Best Language Learning Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveil-simplified-techniques-for-updating-nvidia-graphics-support/"><u>Unveil Simplified Techniques for Updating Nvidia Graphics Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-win10-interactive-drives-fastly/"><u>Update Your Win10 Interactive Drives Fastly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Install Guide: Enhance Your System With S620"
-date: 2024-09-09T08:09:26.254Z
-updated: 2024-09-15T07:37:58.294Z
+date: 2024-12-07T17:41:23.391Z
+updated: 2024-12-10T05:08:23.196Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ OR
 
 **[Option 2 – Automatically (Recommended)](#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  If you want to do the driver update by yourself, simply go to the official Gaomon website and search for the correct driver corresponding with your specific flavor of Windows.
@@ -36,10 +40,23 @@ Here are the steps:
 2. Select**Products** \>**Pen Tablet.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/manual-update-1.jpg)
 3. Scroll down to click**S620** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Navigate to the**Driver download** section and click the**Download** button next to the latest Gaomon Windows Driver.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/manual-update-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, double-click the downloaded file and follow the on-screen instructions to install the driver manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Gaomon S620 drivers
 
@@ -53,6 +70,10 @@ Here are the steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/de-borderless.jpg)
 3. Click the **Update**  button next to_Gaomon HID_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/gaomon-s620-driver.jpg)
@@ -83,12 +104,22 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-budget-friendly-drone-picks-best-bargains-for-less-than-500-for-2024/"><u>[New] Budget-Friendly Drone Picks Best Bargains for Less than $500 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-visual-templates-to-upgrade-your-profile-for-2024/"><u>[New] Free Visual Templates to Upgrade Your Profile for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/astering-youtube-trailer-creation-with-filmora-for-2024/"><u>[New] Mastering YouTube Trailer Creation with Filmora for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-sharing-videos-on-tweet-no-retweets-just-phones-for-2024/"><u>[New] Sharing Videos on Tweet No Retweets, Just Phones for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-enabled-enhance-your-websites-user-experience/"><u>Cookiebot-Enabled: Enhance Your Website's User Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensuring-successful-windows-driver-installation/"><u>Ensuring Successful Windows Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-ftdi-usb-to-serial-driver-issue/"><u>Fix FTDI USB to Serial Driver Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-usb-30-drivers-installed-on-a-windows-pc-free-downloads/"><u>Get Your USB 3.0 Drivers Installed on a Windows PC - Free Downloads!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-marvell-avastar-wireless-ac-network-controller-driver-on-surface/"><u>Install Marvell Avastar Wireless-AC Network Controller Driver on Surface</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-mx870-printers-compatibility-with-windows-8/"><u>Setup MX870 Printers Compatibility with Windows 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-stunning-design-of-samsungs-latest-galaxy-tab-s9-line-beauty-meets-a-steep-price-tag/"><u>The Stunning Design of Samsung's Latest Galaxy Tab S9 Line: Beauty Meets a Steep Price Tag</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-lenovo-g580-drivers-easy/"><u>Upgrade Lenovo G580 Drivers, Easy!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-improvement-upgrade-realtek-drivers/"><u>Windows 10 Improvement: Upgrade Realtek Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-update-support-for-new-m2-devices/"><u>Windows Update: Support for New M.2 Devices</u></a></li>
+</ul></div>
 

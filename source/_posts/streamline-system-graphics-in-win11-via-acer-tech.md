@@ -1,7 +1,7 @@
 ---
 title: Streamline System Graphics in Win11 via Acer Tech
-date: 2024-09-12T03:18:03.520Z
-updated: 2024-09-14T20:43:52.692Z
+date: 2024-12-06T04:39:20.313Z
+updated: 2024-12-10T12:32:55.667Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 ![Update&Security](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a95a1074c91.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Windows Update** \>**Check for updates** . Wait while Windows looks for the latest updates for your computer. (It can take up to 20-30 minutes.)
 
 ![Windows Update](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a95a2b53895.png)
@@ -58,10 +62,19 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2016/04/img_5710616d048c1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View by Small icons. Click **Device Manager** .  
   
 ![Device Manager Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/img_571061b786d94.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand the **Display adapters** branch. Then you can see the specific display card installed on your computer.  
 
 ![Display adapters Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a97af6b272a.jpg)
@@ -80,11 +93,19 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8a7b13f6c9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to all flagged devices to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8a7bb0bf63.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -99,12 +120,26 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-ringtone-transcription-iphone-year-2024-edition/"><u>[New] Ringtone Transcription IPhone, Year 2024 Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-complementary-behaviors-with-audio-tales-playing/"><u>[Updated] Ideal Complementary Behaviors with Audio Tales Playing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>2024 Approved 5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-gaming-with-amd-rx-570-updated-driver-downloads/"><u>Enhance Gaming with AMD RX 570 Updated Driver Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-and-safe-tp-link-wi-fi-driver-win-810-compatible/"><u>Free & Safe TP Link Wi-Fi Driver - Win 8/10 Compatible</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-tecno-by-drfone-android/"><u>How to Show Wi-Fi Password on Tecno</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hurry-up-learn-french-chromatic-sounds/"><u>Hurry Up, Learn French Chromatic Sounds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-20-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 20 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y17s-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y17s Phone without PIN</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-broadcast-mastery-exploring-superior-software-options-beyond-manycams-virtual-camera-technology/"><u>Live Broadcast Mastery: Exploring Superior Software Options Beyond ManyCam's Virtual Camera Technology</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-driver-release-by-aoc-for-windows-oss/"><u>New Driver Release by AOC for Windows OSs</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/protecting-files-in-windows-7-a-guide-to-backup-encryption-and-handling-your-encryption-passwords-effectively/"><u>Protecting Files in Windows 7: A Guide to Backup Encryption and Handling Your Encryption Passwords Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-and-adapt-intels-chipset-software-for-win-11-7-and-81/"><u>Refresh and Adapt Intel's Chipset Software for Win 11, 7 & 8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-driver-update-processes-for-hyperx-headsets/"><u>Seamless Driver Update Processes for HyperX Headsets</u></a></li>
+<li><a href="https://driver-install.techidaily.com/snappy-installation-for-intel-graphics-630/"><u>Snappy Installation for Intel Graphics 630</u></a></li>
+<li><a href="https://driver-install.techidaily.com/straightforward-installation-configure-your-tp-link-usb-adapter/"><u>Straightforward Installation: Configure Your TP Link USB Adapter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-recovery-from-onedrive-operational-fails-in-windows-os/"><u>Swift Recovery From OneDrive Operational Fails in Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-stability-and-me-driver/"><u>System Stability & ME Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-logitech-mouse-drivers-step-by-step-for-win11/"><u>Upgrade Logitech Mouse Drivers - Step-by-Step for Win11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide to AMD Video Drivers: Download/Update Steps"
-date: 2024-09-10T01:27:04.922Z
-updated: 2024-09-14T21:47:51.331Z
+date: 2024-12-05T16:13:13.119Z
+updated: 2024-12-10T00:27:54.849Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 1. [Download your AMD video driver manually](#Fix1)
 2. [Update your AMD video driver automatically](#Fix2)
 3. [Update your AMD video driver in Device Manager](#Fix3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Download your AMD video driver manually
 
@@ -72,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f84eae6ca1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to make it take effect.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -84,43 +92,24 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double click**Display adapters** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f857166088.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right click on your**AMD video card device** , and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) If you have the AMD video driver in a DVD or CD delivered with your graphics card, you can choose**Browse my computer for driver software** , then insert the DVD into your computer.
@@ -130,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
  If you don’t have the AMD video driver stored in the DVD media, you can choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85bdaac43.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Follow the on-screen instructions to finish.
 
@@ -157,5 +150,22 @@ Feel free to add a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-power-of-persuasion-hire-success-stories-1-10/"><u>[New] 2024 Approved The Power of Persuasion Hire Success Stories #1-10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-the-nuances-of-professional-voice-over-workflow-for-2024/"><u>[Updated] Navigating the Nuances of Professional Voice Over Workflow for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/affordable-mp3-recording-skype-calls-saved-for-2024/"><u>Affordable MP3 Recording Skype Calls Saved for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-conversational-ais-compared-can-chatgpt-outshine-huggingchat/"><u>Best Conversational AIs Compared - Can ChatGPT Outshine HuggingChat?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-update-procedure-for-msi-bravo-15-users/"><u>Drive Update Procedure for MSI Bravo 15 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/high-performance-nvidia-3090-driver/"><u>High-Performance NVIDIA 3090 Driver</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-top-eight-for-unparalleled-4k-viewing-for-2024/"><u>Premier Top Eight for Unparalleled 4K Viewing for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/proactive-maintenranance-keep-your-intel-82579lm-updated/"><u>Proactive Maintenranance: Keep Your Intel 82579LM Updated</u></a></li>
+<li><a href="https://driver-install.techidaily.com/protected-webcam-updater-logitech-edition/"><u>Protected Webcam Updater - Logitech Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-kernelbasedll-file-crash-problems-instantly-and-simplified/"><u>Resolve Your KernelBase.dll File Crash Problems Instantly and Simplified</u></a></li>
+<li><a href="https://driver-install.techidaily.com/superior-performance-free-amd-radeon-vega-3-update/"><u>Superior Performance - Free AMD Radeon Vega 3 Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-solutions-when-your-chat-history-isnt-syncing-with-icloud/"><u>Troubleshooting WhatsApp: Solutions When Your Chat History Isn't Syncing with iCloud</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-steps-to-upgrade-intel-centrino-ac-9400-pcie-network-adapter-drivers/"><u>Ultimate Guide: Steps to Upgrade Intel Centrino A/C-9400 PCIe Network Adapter Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-efficiency-printer-driver-updates-in-windows-78/"><u>Unlocking Efficiency: Printer Driver Updates in Windows 7/8</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062481681-wireless-driver-for-windows-7-download-and-install-easily/"><u>Wireless Driver for Windows 7 Download & Install EASILY!</u></a></li>
+</ul></div>
 

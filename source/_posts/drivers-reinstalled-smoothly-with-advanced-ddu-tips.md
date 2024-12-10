@@ -1,7 +1,7 @@
 ---
 title: Drivers Reinstalled Smoothly with Advanced DDU Tips
-date: 2024-09-08T10:24:13.294Z
-updated: 2024-09-15T06:19:59.226Z
+date: 2024-12-04T16:57:53.444Z
+updated: 2024-12-09T21:26:08.621Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
  In this step-by-step guide, we’ll show you how to reinstall drivers with DDU, and what you should do next to prevent the issues from happening again.
 
  If your PC comes with dual GPUs, you might need to connect your monitor to the display ports on the motherboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to reinstall GPU drivers using DDU
 
@@ -59,10 +63,25 @@ Here’s how to do a clean reinstallation of your graphics driver:
 1. Click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
 2. Click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
 3. Click **Startup Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Startup-settings.jpg)
 4. Click **Restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/restart-1.jpg)
 5. You will see a list of different startup options. On your keyboard, press the**number 4 key** to enter**Safe Mode without internet access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/safe-mode-startup-settings.jpg)
@@ -72,6 +91,11 @@ Here’s how to do a clean reinstallation of your graphics driver:
 1. log in as you normally would and open DDU.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-3.jpg)
 2. In the pop-up**Option** window, choose your preferences. If you’re not sure, simply close the window  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-option.jpg)
 3. On the right, select**your device type** and**your GPU manufacturer** . Then click**Clean and restart** .![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-4.jpg)
 4. Once DDU purged the graphics driver, your PC should restart. You can now check if the graphics issue persists.
@@ -92,6 +116,11 @@ So you’ve reinstalled the graphics driver, what next?
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -118,18 +147,24 @@ So you’ve reinstalled the graphics driver, what next?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-quickest-photo-scanner-in-windows-land/"><u>[Updated] 2024 Approved Quickest Photo Scanner in Windows Land</u></a></li>
+<li><a href="https://article-files.techidaily.com/5-tips-for-enhancing-photo-colors-effortlessly/"><u>5 Tips for Enhancing Photo Colors Effortlessly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-your-usb-headset-drivers-logitech/"><u>Accelerate Your USB Headset Drivers, Logitech</u></a></li>
+<li><a href="https://driver-install.techidaily.com/automating-and-customizing-device-drivers-a-windows-8-tutorial/"><u>Automating and Customizing Device Drivers: A Windows 8 Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-review-of-facetunes-latest-updates/"><u>Comprehensive Review of Facetune's Latest Updates</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-11-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-reno-10-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Reno 10 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-se-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone SE 3 Ways To Unlock</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lunapic-basics-for-budding-photographers/"><u>In 2024, LunaPic Basics for Budding Photographers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-your-gameplay-with-updated-logitech-drivers-on-windows-7/"><u>Maximize Your Gameplay with Updated Logitech Drivers on Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-guide-to-update-netgear-a6200-usb/"><u>Step by Step Guide to Update Netgear A6200 USB</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-procedure-to-update-wi-fi-adapter-driver/"><u>Step-by-Step Procedure to Update Wi-Fi Adapter Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-os-with-mf4770n-updates/"><u>Streamline Your OS with MF4770n Updates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013277298-the-mechanism-of-action-involving-transferring-pollutants-from-the-gas-phase-to-the-liquid-phase-followed-by-removal-as-part-of-the-wastewater-stream/"><u>The Mechanism of Action Involving Transferring Pollutants From the Gas Phase to the Liquid Phase, Followed by Removal as Part of the Wastewater Stream.</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tp-link-wifi-usb-drivers-secure-no-cost-downloads/"><u>TP Link WiFi USB Drivers - Secure, No-Cost Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-upgrade-path-for-enhanced-hp-graphical-output/"><u>Windows 7: Upgrade Path for Enhanced HP Graphical Output</u></a></li>
+</ul></div>
 

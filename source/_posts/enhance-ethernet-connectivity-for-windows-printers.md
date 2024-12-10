@@ -1,7 +1,7 @@
 ---
 title: Enhance Ethernet Connectivity for Windows Printers
-date: 2024-09-19T16:00:29.247Z
-updated: 2024-09-20T16:04:35.126Z
+date: 2024-12-07T18:40:00.663Z
+updated: 2024-12-09T18:43:00.384Z
 tags:
   - win11
   - win10
@@ -56,6 +56,10 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -63,6 +67,10 @@ For some printers, you need to update the drivers manually step by step.
  1) Click**Start** menu and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In Settings window, click **Update & security.**
 
@@ -78,6 +86,10 @@ For some printers, you need to update the drivers manually step by step.
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Way 3: Update your printer driver automatically**
 
  If you don’t have time, patience and computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -92,11 +104,19 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -113,12 +133,16 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-install.techidaily.com/complete-guide-revamping-gpu-drivers/"><u>Complete Guide: Revamping GPU Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-conversion-of-m4v-videos-to-3gp-format-online-with-movavi/"><u>Free Conversion of M4V Videos to 3GP Format Online with Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-1650-windows-11-driver-download/"><u>GTX 1650: Windows 11 Driver Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-downloading-and-installing-official-drivers-for-your-xbox-360-controller/"><u>Guide to Downloading and Installing Official Drivers for Your Xbox 360 Controller</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-properly-setup-your-3dconnexion-controller/"><u>How To Properly Setup Your 3Dconnexion Controller</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/il-metodo-ottimo-per-sostituire-rdo-backup-su-windows-scoperte-e-alternative/"><u>Il Metodo Ottimo per Sostituire Rdo Backup Su Windows: Scoperte E Alternative</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-investigating-competitors-to-manycam-better-choices/"><u>In 2024, Investigating Competitors to ManyCam Better Choices?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instruction-for-dell-realteks-latest-soundware-upgrade/"><u>Instruction for Dell Realtek's Latest Soundware Upgrade</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-creativity-best-free-video-effects-apps-for-mobile-devices/"><u>Updated 2024 Approved Unleash Creativity Best Free Video Effects Apps for Mobile Devices</u></a></li>
+</ul></div>
 

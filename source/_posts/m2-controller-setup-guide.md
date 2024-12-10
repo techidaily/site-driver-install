@@ -1,7 +1,7 @@
 ---
 title: M.2 Controller Setup Guide
-date: 2024-09-07T19:11:27.859Z
-updated: 2024-09-15T08:43:24.373Z
+date: 2024-12-05T00:39:51.678Z
+updated: 2024-12-10T11:11:13.206Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 
  If you’re using**M.2 SSD** (Solid-State Drive) on your computer, you’ll need a driver for your M.2 SSD to connect properly. This post will show you how to download and install the**M.2 driver** on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is M.2 SSD?
 
  M.2 was formerly known as the Next Generation Form Factor, and it’s standard for internally mounted computer cards and associated connectors.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 1. [Download and install M.2 driver manually](#M1)
 2. [Download and install M.2 driver automatically](#M2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Download and install M.2 driver manually
 
  To manually install M.2 driver for your drive, you’ll need to download the correct driver from your manufacturer. Since the drive manufacturers vary from brand to brand, so we won’t cover it here.
@@ -41,10 +49,7 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
  This method requires time and computer skills. If it doesn’t work for you, don’t worry. There’s something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and install M.2 driver automatically
@@ -61,14 +66,16 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 3. You can upgrade to the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10aa12c40ce.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer to take effect.
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](mailto:support@drivereasy.com) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -91,5 +98,22 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-logitech-webcam-filming-tips-for-clear-visuals-and-smooth-sessions/"><u>[Updated] 2024 Approved Logitech Webcam Filming Tips for Clear Visuals and Smooth Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-list-free-virtual-meetings-plus-shared-screens/"><u>[Updated] 2024 Approved The Ultimate List FREE Virtual Meetings + Shared Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-conquering-the-top-5-common-instagram-video-issues/"><u>2024 Approved Conquering the Top 5 Common Instagram Video Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-detailed-guide-to-what-aim-was-and-its-impact-on-online-messaging/"><u>A Detailed Guide to What AIM Was and Its Impact on Online Messaging</u></a></li>
+<li><a href="https://driver-install.techidaily.com/corrective-actions-for-hp-printer-in-10-os/"><u>Corrective Actions for HP Printer in 10 OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-strategies-to-update-device-drivers-on-windows-881/"><u>Efficient Strategies to Update Device Drivers on Windows 8/8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-efficiency-update-lenovo-w11-drivers-in-windows-11/"><u>Enhanced Efficiency - Update Lenovo W11 Drivers in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-great-savings-with-hp-victus-15-now-at-a-350-discount-from-best-buy-for-labor-day-promotion/"><u>Experience Great Savings with HP Victus 15 Now at a $350 Discount From Best Buy for Labor Day Promotion!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-upgrade-ie-drivers-in-widely-used-operating-systems/"><u>How to Upgrade IE Drivers in Widely-Used Operating Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/link-hp-laptop-envy-5530-to-windows-10-os/"><u>Link HP Laptop (Envy 5530) to Windows 10 OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-monthly-charge-for-access-to-game-library/"><u>Sony's Monthly Charge for Access to Game Library</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-perfecting-your-vr-recording-skills/"><u>Step-by-Step Perfecting Your VR Recording Skills</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/storage-analysis-videography-on-64128gb-hardware-for-2024/"><u>Storage Analysis Videography on 64/128GB Hardware for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/visual-vibrance-boost-for-windows-users/"><u>Visual Vibrance Boost for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-printing-perfection-new-hp-drivers-available/"><u>Windows 11 Printing Perfection - New HP Drivers Available</u></a></li>
+</ul></div>
 

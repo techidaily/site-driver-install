@@ -1,7 +1,7 @@
 ---
 title: Turbo NVIDIA RTX 3090 - For Windows Users
-date: 2024-10-17T21:40:36.395Z
-updated: 2024-10-24T13:48:08.256Z
+date: 2024-12-09T07:03:52.826Z
+updated: 2024-12-10T04:06:21.582Z
 tags:
   - win11
   - win10
@@ -30,19 +30,25 @@ thumbnail: https://thmb.techidaily.com/c95c5b89385ea5c16d5bf29142574c7f6fa915aba
 2. Choose**GeForce RTX 3090 Ti** from the Product list and select your operating system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-1.jpg)
 3. Choose which type of driver you would like to download. Gamers are suggested to choose**Game Ready Drivers** that provides support for the latest games, patches, and DLCs. And**Studio Drivers** fit content creators that prioritize stability and quality for creative workflows.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-2.jpg)
 4. Click**SEARCH** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-3.jpg)
 5. Click**DOWNLOAD** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/3090-ti-manual-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve downloaded the correct drivers for your system, double-click the file and follow the on-screen instructions to install the driver. If you don’t feel like doing the manual search and installation, there’s a more hassle-free solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the RTX 3090 Ti driver
@@ -59,20 +65,14 @@ thumbnail: https://thmb.techidaily.com/c95c5b89385ea5c16d5bf29142574c7f6fa915aba
 3. Click the**Update** button next to the flagged RTX 3090 Ti driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-update-rtx-3090-ti-driver-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -103,17 +103,21 @@ thumbnail: https://thmb.techidaily.com/c95c5b89385ea5c16d5bf29142574c7f6fa915aba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-elevating-emotion-the-art-of-tiktok-effects/"><u>[Updated] Elevating Emotion The Art of TikTok Effects</u></a></li>
-<li><a href="https://driver-install.techidaily.com/address-tackling-hp-jetprinter-error-in-windows-environment/"><u>Address: Tackling HP JetPrinter Error in Windows Environment</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969269491-arc-blow-is-caused-by-magnetic-fields-that-deflect-the-welding-arc-away-from-its-intended-path/"><u>Arc Blow Is Caused by Magnetic Fields that Deflect the Welding Arc Away From Its Intended Path</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-realtek-wi-fi-chipset-install-updated-drivers-for-os/"><u>Enhance Realtek Wi-Fi Chipset: Install Updated Drivers for OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-system-stability-installing-fwu-e1659-on-win-oses/"><u>Enhanced System Stability: Installing FWU-E1659 on WIN OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ensuring-optimal-functionality-canon-mf4770n-drivers-for-winos/"><u>Ensuring Optimal Functionality: Canon MF4770n Drivers for WINOS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-setup-for-win8plus-pcs-integrate-w11-via-asus-bt-drivers/"><u>Fast Setup for Win8+ PCs: Integrate W11 via Asus BT Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/live-streaming-mastery-with-manycam-top-virtual-camera-and-filming-software/"><u>Live Streaming Mastery with ManyCam: Top Virtual Camera & Filming Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-league-of-legends-expert-tips-to-eliminate-the-games-troublesome-black-screen/"><u>Mastering League of Legends : Expert Tips to Eliminate the Game's Troublesome Black Screen</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/premiere-or-after-effects-choosing-the-right-tool-for-your-video-project/"><u>Premiere or After Effects Choosing the Right Tool for Your Video Project</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/spark-ar-maximizing-realism-with-downloadable-lut-files/"><u>Spark AR Maximizing Realism with Downloadable LUT Files</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/streamlining-post-production-mastering-the-green-screen-process-kinemaster/"><u>Streamlining Post-Production Mastering the Green Screen Process (KineMaster)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-culinary-cinematography-step-by-step-recipe-tutorials/"><u>[Updated] 2024 Approved Culinary Cinematography Step-by-Step Recipe Tutorials</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-outstanding-10-screenshot-and-recording-titles-for-gamers/"><u>[Updated] In 2024, Outstanding 10 Screenshot and Recording Titles for Gamers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/analyzing-the-safety-of-using-googles-credential-vault/"><u>Analyzing the Safety of Using Google's Credential Vault</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-install-tp-link-drivers-fast-and-free-on-pcs/"><u>Download & Install TP Link Drivers Fast & Free on PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-microsoft-wireless-mouse-5000-driver-in-a-snap-easy-steps-inside/"><u>Download the Microsoft Wireless Mouse 5000 Driver in a Snap – Easy Steps Inside!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-amd-driver-management-downloadplusupdate-techniques/"><u>Easy AMD Driver Management: Download+Update Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-update-windows-11-devices-with-fresh-drivers/"><u>Efficiently Update Windows 11 Devices with Fresh Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-assessing-visual-clarity-entering-aurora-hdr-territory/"><u>In 2024, Assessing Visual Clarity Entering Aurora HDR Territory</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/msi-bravo-15-drive-update-strategies-for-efficiency/"><u>MSI Bravo 15 Drive Update Strategies for Efficiency</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamped-acer-drivers-boosting-your-windows-10-performance/"><u>Revamped Acer Drivers, Boosting Your Windows 10 Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/trimmed-tech-tutorial-fast-firmware-fixes-for-amd-in-windows/"><u>Trimmed Tech Tutorial: Fast Firmware Fixes for AMD in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-graphics-software-on-pcs/"><u>Update Graphics Software on PCs</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/western-digital-hdd-initialize-feature-error-resolved/"><u>Western Digital HDD Initialize Feature Error Resolved</u></a></li>
 </ul></div>
 

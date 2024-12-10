@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Quiet Zone? Here's How to Get Game Sounds Back!
-date: 2024-11-26T23:44:51.379Z
-updated: 2024-12-03T02:25:52.820Z
+date: 2024-12-08T09:57:37.882Z
+updated: 2024-12-10T10:20:30.466Z
 tags:
   - win11
   - win10
@@ -30,16 +30,12 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
@@ -57,12 +53,16 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
 If Windows fails to detect your issue, move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
@@ -103,10 +103,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -119,10 +115,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
@@ -130,6 +122,10 @@ OR
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -140,6 +136,10 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -169,19 +169,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-snapchat-integration-for-twitters-visual-content/"><u>[New] Snapchat Integration for Twitter's Visual Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-seamless-photo-editing-incorporating-text-onto-images-on-pcs-and-macs-for-2024/"><u>[Updated] Seamless Photo Editing Incorporating Text Onto Images on PCs & Macs for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/cross-platform-play-connecting-ps4-to-pc-and-mac/"><u>Cross Platform Play: Connecting PS4 to PC & Mac</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-your-windows-7-audience-with-nvidia-update/"><u>Elevate Your Windows 7 Audience with Nvidia Update</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/error-404-unable-to-locate-pages/"><u>Error 404: Unable To Locate Pages</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-xls-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xls files online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-corrections-for-iphone-shot-blur-issues-for-2024/"><u>Quick Corrections for iPhone Shot Blur Issues for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/restore-graphics-settings-on-pcs/"><u>Restore Graphics Settings on PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/securing-windows-integration-with-samsung-ssds-fixed/"><u>Securing Windows Integration with Samsung SSDs [Fixed]</u></a></li>
-<li><a href="https://driver-install.techidaily.com/startech-driver-sync-for-multi-version-windows-enthusiasts/"><u>StarTech Driver Sync for Multi-Version Windows Enthusiasts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-itel-a05s-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Itel A05s IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-logitech-mouse-for-max-performance-on-w11/"><u>Upgrade Your Logitech Mouse for Max Performance on W11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-bliss-on-win-final-fix-applied/"><u>USB Bliss on WIN: Final Fix Applied</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-no-more-interrupted-instagram-videos-heres-how/"><u>[New] In 2024, No More Interrupted Instagram Videos - Here's How</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-leading-platforms-mimicking-twitters-network-for-2024/"><u>[New] Leading Platforms Mimicking Twitter's Network for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sharper-stars-in-iphone-nocturne-photos/"><u>[Updated] Sharper Stars in iPhone Nocturne Photos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restore-audio-in-airpods-when-connected-to-pcs-running-windows-1110/"><u>How to Troubleshoot and Restore Audio in AirPods When Connected to PCs Running Windows 11/10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 5G Phone without PIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-languages-change-navigating-hotkeys-in-windows-11-and-11-pro/"><u>Quick Languages Change: Navigating Hotkeys in Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/razer-mouse-compatibility-and-setup-guide-for-win-users/"><u>Razer Mouse Compatibility & Setup Guide for Win Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-canon-printer-support-for-win-11-and-older-editions/"><u>Setup Canon Printer Support for WIN 11 & Older Editions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-11-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-full-usb-support-on-win-os/"><u>Unlock Full USB Support on WIN OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-wacoms-power-free-secure-driver-for-windows-pc/"><u>Unlock Wacom's Power - Free, Secure Driver for Windows PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11-driver-boost-radeon-hd-5450-upgrade/"><u>Win11 Driver Boost: Radeon HD 5450 Upgrade</u></a></li>
 </ul></div>
 

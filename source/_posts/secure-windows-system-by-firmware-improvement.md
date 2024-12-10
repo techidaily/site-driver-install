@@ -1,7 +1,7 @@
 ---
 title: Secure Windows System by Firmware Improvement
-date: 2024-09-09T18:46:50.430Z
-updated: 2024-09-14T17:40:35.026Z
+date: 2024-12-08T05:44:23.594Z
+updated: 2024-12-10T07:56:54.717Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ problems, you’re not alone.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: **UpdateAMD Radeon R9 200 Series drivers automatically (Recommended)**
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,6 +57,10 @@ problems, you’re not alone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b68332f24249.jpg)
@@ -62,6 +70,10 @@ problems, you’re not alone.
 4) Restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Update **AMD Radeon R9 200 Series drivers** manually
 
@@ -76,6 +88,11 @@ problems, you’re not alone.
 2. In**Radeon Software** , click**DOWNLOAD** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92e2a5e0b.png)
 3. On your keyboard, press**the Windows logo key** and**R** at the same time, then copy & paste **devmgmt.msc** into the box and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 4. Click on**the arrow** left to **Display adapters** (aka.**graphics card** , **video card**) to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92534e0ab.jpg)
@@ -84,6 +101,10 @@ problems, you’re not alone.
 6. Click**Browse my computer for driver software** , follow the on-screen instructions to complete the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9502d9df0.png)
 7. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -104,12 +125,19 @@ problems, you’re not alone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-user-friendly-free-tools-to-create-professional-video-thumbnails/"><u>[New] 2024 Approved 10 User-Friendly Free Tools to Create Professional Video Thumbnails</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-action-cameras-front-faced-views-available/"><u>[New] Leading Action Cameras Front-Faced Views Available</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-achieve-uniqueness-with-character-vocal-changes-in-free-fire-at-zero-price/"><u>[Updated] 2024 Approved Achieve Uniqueness with Character Vocal Changes in Free Fire, at Zero Price</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-love-in-action-top-9-premium-wedding-films-on-youtube-and-vimeo/"><u>[Updated] 2024 Approved Love in Action Top 9 Premium Wedding Films on YouTube and Vimeo</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-installation-netgear-ac1200-driver/"><u>Easy Installation: Netgear AC1200 Driver</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-style-and-gameplay-conquer-with-logitechs-stylish-g-pro-x-60-bluetooth-gaming-keyboard/"><u>Elevate Style & Gameplay: Conquer With Logitech's Stylish G Pro X 60 Bluetooth Gaming Keyboard</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-windows-7-with-new-audio-drivers/"><u>Enhance Windows 7 with New Audio Drivers</u></a></li>
+<li><a href="https://discover-great.techidaily.com/exploring-network-connection-options-a-guide-from-windows-control-panel-unveiled-by-yl-computing/"><u>Exploring Network Connection Options: A Guide From Windows Control Panel - Unveiled by YL Computing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-boost-windows-11-hdmi-output-with-updated-drivers/"><u>How to Boost Windows 11 HDMI Output with Updated Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-s18-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18 Fingerprint Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reboot-and-rollback-a-step-by-step-for-network-drivers/"><u>Reboot & Rollback: A Step-by-Step for Network Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-setup-procedure-for-your-3dconnexion-device/"><u>Stepwise Setup Procedure for Your 3Dconnexion Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Compatible Canon Scanner Software for Windows OS
-date: 2024-09-18T16:02:05.447Z
-updated: 2024-09-20T16:23:24.605Z
+date: 2024-12-05T01:14:29.092Z
+updated: 2024-12-09T20:41:17.328Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
  Note: the screenshots below come from Windows 10, and the methods also work on Windows 11, 8 ,and 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Download Canon scanner driver manually
 
  You can manually download the driver for your Canon scanner from the Canon support center.
@@ -40,6 +44,11 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 2. Search for your scanner model from the search bar. (In my case I search for **CanoScan** LiDE 120.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search.jpg)
 3. On your scanner result page, click**Software & Drivers**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-1.jpg)
 4. Select the OS and version that match with your computer. Then click**DOWNLOAD** there is a driver available for you to download.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-2.jpg)
@@ -65,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Update Canon scanner driver via Device Manager
 
  You can also update the driver for your Canon scanner from Device Manager, where you can view and manage the hardware device and its driver software on your computer.
@@ -72,33 +85,22 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 1. Make sure you’ve connected your Canon scanner to your Windows computer.
 2. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 3. Type**devmgmt.msc** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 4. In Device Manager, double-click**Printers** or**Print queues** to expand it.  Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 5. Choose**Search automatically for updated driver software** .  
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 6. Follow the on-screen instructions to finish updating the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Restart your computer afterward.
 
@@ -121,5 +123,22 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-recording-companion-az-tests-and-alternatives/"><u>[New] 2024 Approved Ultimate Recording Companion - AZ Tests & Alternatives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-cost-conscious-aerial-assistants-top-5-drones/"><u>[Updated] Cost-Conscious Aerial Assistants Top 5 Drones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-seeking-the-best-ps2-games-try-these-5-android-emulators-in-2024/"><u>[Updated] Seeking the Best PS2 Games? Try These 5 Android Emulators, In 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-drivers-access-for-gtx-750-ti/"><u>Direct Drivers Access for GTX 750 Ti</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enhance-windows-11-task-manager-with-a-search-tool/"><u>How to Enhance Windows 11 Task Manager with a Search Tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-motorola-edge-40-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Motorola Edge 40 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-accelerating-or-decelerating-mastering-snapchats-timeline-controls/"><u>In 2024, Accelerating or Decelerating Mastering Snapchat's Timeline Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-path-setting-up-google-maps-on-windows-pcs/"><u>Navigating the Path: Setting up Google Maps on Windows PCs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-avi-editor-for-windows-8-powerful-video-editing-tools/"><u>New In 2024, The Ultimate AVI Editor for Windows 8 Powerful Video Editing Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-easy-guide-to-logitechs-video-capture-software-c270/"><u>Quick & Easy Guide to Logitech's Video Capture Software (C270)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapidly-refresh-nvidia-drivers-with-minimal-hassle/"><u>Rapidly Refresh Nvidia Drivers with Minimal Hassle</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionize-print-management-with-driver-update/"><u>Revolutionize Print Management with Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-manually-update-vista-hardware-drivers/"><u>Step-by-Step: Manually Update Vista Hardware Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/straightforward-lenovo-dock-driver-update-methods/"><u>Straightforward Lenovo Dock Driver Update Methods</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to Stop Dark Souls 3 From Crashing Frequently
-date: 2024-11-28T23:55:28.731Z
-updated: 2024-12-03T00:13:12.934Z
+date: 2024-12-06T00:02:35.182Z
+updated: 2024-12-09T20:07:06.173Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -48,10 +52,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -61,7 +61,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify your game cache
@@ -75,7 +75,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change your save files location
@@ -85,7 +85,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable Steam Overlay
@@ -120,12 +120,12 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -148,20 +148,20 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-creative-tactics-for-medical-ad-success-on-facebook/"><u>[New] In 2024, Creative Tactics for Medical Ad Success on Facebook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-comprehensive-checklist-for-incorporating-srt-in-mp4-files-for-2024/"><u>[Updated] Comprehensive Checklist for Incorporating SRT in MP4 Files for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-viewing-on-facebook-live-for-2024/"><u>[Updated] Mastering Viewing on Facebook Live for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-sync-sound-files-with-ppt-slides/"><u>[Updated] Sync Sound Files with PPT Slides</u></a></li>
-<li><a href="https://driver-install.techidaily.com/breeze-through-updating-logitech-mouse-win-7-edition/"><u>Breeze Through Updating Logitech Mouse, Win 7 Edition</u></a></li>
-<li><a href="https://win-net.techidaily.com/effective-gmail-backup-strategies-discover-the-best-techniques/"><u>Effective Gmail Backup Strategies: Discover the Best Techniques!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-webcam-driver-for-clear-video-capture-logitech-c270/"><u>Essential Webcam Driver for Clear Video Capture: Logitech C270</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/experience-streamlined-interactions-thanks-to-our-integration-with-cookiebot-solutions/"><u>Experience Streamlined Interactions, Thanks to Our Integration with Cookiebot Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-cybersecurity-risks-deciphering-new-twitter-schemes-the-arrival-of-metas-verified-feature-and-demystifying-chatgpt/"><u>Exploring Cybersecurity Risks : Deciphering New Twitter Schemes, The Arrival of Meta’s Verified Feature, and Demystifying ChatGPT-</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-tecno-camon-20-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Tecno Camon 20 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lead-in-tech-quick-scsi-drives-ready/"><u>Lead-In Tech: Quick SCSI Drives Ready</u></a></li>
-<li><a href="https://driver-install.techidaily.com/manual-enhancement-of-windows-vista-devices/"><u>Manual Enhancement of Windows Vista Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-free-imagery-with-photoscape-expert-insights-and-review/"><u>Mastering Free Imagery with PhotoScape – Expert Insights and Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-lenovo-ideapad-u310/"><u>Quick Driver Updates on Lenovo Ideapad U310</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stepwise-reinstallation-of-printer-drivers-on-vintage-pcs/"><u>Stepwise Reinstallation of Printer Drivers on Vintage PCs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-overcome-oversaturated-tiktok-drafters-through-savvy-edits-for-2024/"><u>[New] Overcome Oversaturated TikTok Drafters Through Savvy Edits for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-fb-cover-video-excellence/"><u>[Updated] 2024 Approved The Ultimate Checklist for FB Cover Video Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-upload-longer-video-to-youtube-as-you-wished/"><u>[Updated] 2024 Approved Upload Longer Video to YouTube As You Wished</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-11x-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme 11X 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-unveils-new-nuc-proplus-with-meteor-lake-processors-512gb-ssd-and-16gb-ram-for-860/"><u>Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beyond-zero-emissions-measuring-the-true-sustainability-of-evs/"><u>Beyond Zero Emissions: Measuring the True Sustainability of EVs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/choosing-the-perfect-prefabricated-gaming-rig-top-picks-and-considerations/"><u>Choosing the Perfect Prefabricated Gaming Rig: Top Picks and Considerations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-the-gadget-game-tips-and-tricks-from-toms-hardware-experts/"><u>Master the Gadget Game - Tips & Tricks From Tom's Hardware Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-your-choices-toms-expertise-in-computer-hardware-reviews/"><u>Master Your Choices - Tom's Expertise in Computer Hardware Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snap-up-discounted-top-of-the-line-ipads-for-199-in-amazons-epic-labor-day-deals-cnet/"><u>Snap Up Discounted Top-of-the-Line iPads for $199 in Amazon's Epic Labor Day Deals | CNET</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-to-choosing-a-budget-friendly-sturdy-tablet-support-unpacking-the-omoton-t-1-review/"><u>The Ultimate Guide to Choosing a Budget-Friendly, Sturdy Tablet Support: Unpacking the Omoton T 1 Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/turtle-beachs-atlas-air-earphones-surpassing-audio-expectations/"><u>Turtle Beach's ATLAS Air Earphones: Surpassing Audio Expectations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-gadgets-with-toms-computer-world/"><u>Unveiling Gadgets with Tom's Computer World</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-make-a-heartfelt-slideshow-with-music-a-beginners-guide/"><u>Updated Make a Heartfelt Slideshow with Music A Beginners Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/windows-10-meeting-mastery-with-zoom-tools/"><u>Windows 10 Meeting Mastery with Zoom Tools</u></a></li>
 </ul></div>
 

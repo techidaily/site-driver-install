@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Upgrade Realtek GBE Drivers"
-date: 2024-09-08T22:00:23.916Z
-updated: 2024-09-15T09:08:57.168Z
+date: 2024-12-08T02:13:25.954Z
+updated: 2024-12-10T01:10:41.203Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0225612f41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Realtek PCIe GBE Familly Controller_
 
 ---
@@ -62,6 +66,10 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0236547c83.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ## Method 3\. Update the Driver Manually
@@ -69,6 +77,10 @@ _Realtek PCIe GBE Familly Controller_
  You can go to your PC manufacturer’s website to download the Windows 10 driver for this device. Alternatively, you can visit [Realtek](http://www.realtek.com/downloads/) website to download the Windows 10 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-521.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Usually, the driver can be self-installing. After you download the driver, double-click on the file to begin the installation. If the driver cannot be installed in this way, you might have to install it manually, then follow steps below to install the driver.
 
@@ -86,9 +98,17 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023ca8557c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023f947709.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click on   **Next** button to install the driver.
 
@@ -111,18 +131,22 @@ _Realtek PCIe GBE Familly Controller_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-educational-journey-through-time-with-top-history-yt-channels-for-2024/"><u>[New] Educational Journey Through Time with Top History YT Channels for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtubes-foe-a-guide-to-the-top-5-editing-rivals/"><u>[New] In 2024, YouTube's Foe? A Guide to the Top 5 Editing Rivals</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-in-depth-look-at-auditory-cutting-techniques/"><u>[Updated] 2024 Approved In-Depth Look at Auditory Cutting Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/college-students-guide-to-choosing-the-perfect-laptop-top-4-factors-and-10-recommended-models-insights/"><u>College Students' Guide to Choosing the Perfect Laptop: Top 4 Factors and 10 Recommended Models – Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-1650-updated-driver-downloads/"><u>GTX 1650: Updated Driver Downloads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guidelines-for-accurate-dating-of-digital-pictures/"><u>Guidelines for Accurate Dating of Digital Pictures</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-a-comprehensive-look-at-merging-youtube-content-into-instagrams-story-feature/"><u>In 2024, A Comprehensive Look at Merging YouTube Content Into Instagram's Story Feature</u></a></li>
+<li><a href="https://fox-access.techidaily.com/picture-perfect-displays-choosing-the-best-photo-editing-screens-2024/"><u>Picture Perfect Displays Choosing the Best Photo Editing Screens, 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-miracast-issues-with-graphics-driver-now-compatible/"><u>Resolved Miracast Issues with Graphics Driver - Now Compatible</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-downloading-music-videos-from-official-sources/"><u>Step-by-Step Guide: Downloading Music Videos From Official Sources</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-speed-installing-new-acer-drivers-for-win10-users/"><u>Unleash Speed: Installing New Acer Drivers for Win10 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-printer-functionality-via-drivers-in-windows-platforms/"><u>Upgraded Printer Functionality via Drivers in Windows Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-driver-issues-in-windows-11-7-and-81-solved/"><u>USBasp Driver Issues in Windows 11, 7 and 8.1 [SOLVED]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-sound-loss-time-to-refresh-hardware/"><u>Windows 11 Sound Loss? Time to Refresh Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-tech-tips-refreshing-intel-hardware-drivers/"><u>Windows Tech Tips: Refreshing Intel Hardware Drivers</u></a></li>
+</ul></div>
 

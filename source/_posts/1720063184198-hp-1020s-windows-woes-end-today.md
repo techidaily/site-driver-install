@@ -1,7 +1,7 @@
 ---
 title: HP 1020'S Windows Woes End Today!
-date: 2024-09-10T20:43:08.397Z
-updated: 2024-09-15T03:31:00.575Z
+date: 2024-12-02T18:18:19.848Z
+updated: 2024-12-09T19:58:40.252Z
 tags:
   - win11
   - win10
@@ -38,9 +38,18 @@ Time needed:  3 minutes.
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
  Run the downloaded file, and follow the wizard to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the printer driver in Device Manager
 
@@ -57,27 +66,28 @@ Time needed:  3 minutes.
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
 
@@ -93,19 +103,6 @@ After updating, restart your computer.
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. After updating, restart your computer to take effect.
 
@@ -133,5 +130,22 @@ This is a rather easy method, isn’t it?!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamlining-video-creation-with-windows-movie-maker-on-windows-8/"><u>[Updated] 2024 Approved Streamlining Video Creation with Windows Movie Maker on Windows 8</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-9-tips-to-become-an-instagram-star/"><u>[Updated] 9 Tips to Become an Instagram Star</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-api-explained-getting-started-with-ai-integration-effortlessly/"><u>ChatGPT API Explained: Getting Started with AI Integration Effortlessly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/discovering-the-details-a-guide-to-roblox-closeups-for-2024/"><u>Discovering the Details A Guide to Roblox Closeups for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-pc-graphics-with-hp-updates/"><u>Enhance PC Graphics with HP Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-to-update-nvidia-audio-in-windows-11-environment/"><u>Essential Tips to Update NVIDIA Audio in Windows 11 Environment</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-poco-x6-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Poco X6 FRP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopros-top-5-marine-filter-companions/"><u>In 2024, GoPro's Top 5 Marine Filter Companions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-hot-30i-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Hot 30i Device</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-hp-envy-5530-driver-on-your-windows-11/"><u>Install HP Envy 5530 Driver on Your Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-skype-recording-obs-integration-guide-for-2024/"><u>Mastering Skype Recording OBS Integration Guide for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-windows-7-sound-with-new-audio-drivers/"><u>Optimize Windows 7 Sound with New Audio Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tp-link-usb-wi-fi-adapter-windows-get-it-free-today/"><u>TP Link USB Wi-Fi Adapter: Windows, Get It Free Today</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-rtl8723d-support-secure-wireless-connectivity-in-windows-11/"><u>Update RTL8723D Support: Secure Wireless Connectivity in Windows 11</u></a></li>
+</ul></div>
 

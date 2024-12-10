@@ -1,7 +1,7 @@
 ---
 title: "USB Software Update: Version 4.5 for U-Are-U Reader"
-date: 2024-12-01T05:10:07.110Z
-updated: 2024-12-03T04:03:37.377Z
+date: 2024-12-05T07:23:46.574Z
+updated: 2024-12-10T12:37:07.774Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
  In this article, we’re showing you 2 easy ways to get the latest U.are.U. 4500 fingerprint driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update U. are. U 4500 fingerprint reader driver
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 OR
 
 **[Option 2 – Automatically (Recommended)](#o1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -46,23 +50,31 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Install the driver manually
 
  1) On your keyboard, press the **Windows logo key + R** at the same time, type **devmgmt.msc** , and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device-manager-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double click**Biometric devices** , then right-click**U.are.U 4500 Fingerprint Reader,** and select **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-936.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select the driver file and click**Next** , then wait for the installation process to finish.
 
@@ -71,10 +83,6 @@ OR
 See if your fingerprint reader works properly again.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -90,19 +98,11 @@ See if your fingerprint reader works properly again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
 
  Or click the**Update All** button to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get full support and 30 day money-back guarantee. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your PC after finishing installing.
 
@@ -130,24 +130,14 @@ See if your fingerprint reader works properly again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-quick-guide-capturing-time-lapse-on-your-ipad/"><u>[New] In 2024, Quick Guide Capturing Time Lapse on Your iPad</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>[Updated] 2024 Approved How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-online-methods-to-perfect-vhs-picture-editing/"><u>2024 Approved Mastering Online Methods to Perfect VHS Picture Editing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amend-brother-mfp-driver-in-win11/"><u>Amend Brother MFP Driver in Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-s18-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo S18 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-manually-update-drivers-in-windows-xp/"><u>How to Manually Update Drivers in Windows XP</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-video-player-apps-for-windows-phone/"><u>In 2024, Best Video Player Apps for Windows Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nokia-c300-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nokia C300 Device SIM</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installation-steps-for-new-amd-radeon-x-driver/"><u>Installation Steps for New AMD Radeon X Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-solution-for-dying-bluetooth-in-windows-1111/"><u>Instant Solution for Dying Bluetooth in Windows 11/11</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/loudness-in-the-void-breaking-soundless-twitter-vids/"><u>Loudness in the Void Breaking Soundless Twitter Vids</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-pc-performance-windows-11-thinkpad-drivers/"><u>Revitalize PC Performance - Windows 11 Thinkpad Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revive-mouse-functionality-in-windows-environments/"><u>Revive Mouse Functionality in Windows Environments</u></a></li>
-<li><a href="https://driver-install.techidaily.com/startech-driver-mastery-for-multiple-windows-environments/"><u>StarTech Driver Mastery for Multiple Windows Environments</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-methods-for-fresh-amd-video-drivers/"><u>Step-by-Step Methods for Fresh AMD Video Drivers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-surface-pro-4-performance-via-drivers/"><u>Upgrade Surface Pro 4 Performance via Drivers</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-edge-40-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Edge 40 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-play-fortnite-on-pc-easy-guide-for-beginners/"><u>How to Play Fortnite on PC — Easy Guide for Beginners!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-razr-40-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-2023s-best-free-dvd-players-for-windowsmac-pcs/"><u>In 2024, 2023'S Best Free DVD Players for Windows/Mac PCs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g23-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G23 Phones with/without a PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solve-conflicts-for-windows-and-hp-printer-integration-woes/"><u>Solve Conflicts: For Windows and HP Printer Integration Woes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-sound-for-windows-7-via-nvidia-upgrade/"><u>Streamlined Sound for Windows 7 via Nvidia Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/triumph-over-usbasp-issues-a-guide-for-various-windows-oses/"><u>Triumph Over USBasp Issues: A Guide for Various Windows OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-potential-with-proper-hardware-driver-setup/"><u>Unleash Potential with Proper Hardware Driver Setup</u></a></li>
 </ul></div>
 

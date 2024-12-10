@@ -1,7 +1,7 @@
 ---
 title: Streamline Color Management for WIN10 Printers
-date: 2024-09-10T04:05:38.285Z
-updated: 2024-09-15T02:17:24.420Z
+date: 2024-12-03T04:34:26.705Z
+updated: 2024-12-09T22:07:16.788Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597056d6e290b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In Device Manager window, locate the printer device that you wish to update the driver for. For problem device, you can see a yellow mark next to the device name.
 
  Following screen shot is the problem device with a yellow mark for your reference.
@@ -56,6 +60,10 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -63,6 +71,10 @@ For some printers, you need to update the drivers manually step by step.
  1) Click**Start** menu and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In Settings window, click **Update & security.**
 
@@ -78,6 +90,10 @@ For some printers, you need to update the drivers manually step by step.
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Way 3: Update your printer driver automatically**
 
  If you don’t have time, patience and computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -91,6 +107,10 @@ For some printers, you need to update the drivers manually step by step.
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970588279d8b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the printer driver to automatically download, you can manually install the correct version of this driver (you can do this with the FREE version).
 
@@ -113,12 +133,24 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-crafting-content-that-captivates-and-grows-your-audience/"><u>[New] Crafting Content That Captivates and Grows Your Audience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-asmr-channels-for-auditory-delight/"><u>[Updated] Prime ASMR Channels for Auditory Delight</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-photographers-toolkit-essential-tips-for-cutting-edge-edits/"><u>[Updated] The Photographer's Toolkit Essential Tips for Cutting-Edge Edits</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-recuperation-des-pilotes-supprimes-sur-windows-10-methodes-efficaces/"><u>1. Récupération Des Pilotes Supprimés Sur Windows 10 : Méthodes Efficaces</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y27s-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y27s Device SIM</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-pc-graphics-via-windows-10-updates/"><u>Enhance PC Graphics via Windows 10 Updates</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-lexicon-leaders-fifteen-fifteen/"><u>Global Lexicon Leaders Fifteen-Fifteen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-reinstall-nvidia-drivers-on-windows/"><u>How to Reinstall NVIDIA Drivers on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-intels-inwin-drivers/"><u>How to Update Intel's InWin Drivers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c51withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C51with/without a PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook/"><u>In 2024, Turbocharge FB Video Speed Selective Extensions & Apps Guidebook</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximum-potential-with-winrtx-3090-ti/"><u>Maximum Potential with WinRTX 3090 Ti</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-update-protocol-for-lexmark-printers/"><u>Simplified Update Protocol for Lexmark Printers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723070955380-top-apple-offers-on-prime-day-exclusive-discounts-and-savings/"><u>Top Apple Offers on Prime Day: Exclusive Discounts & Savings!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win1011-mouse-driver-reactivation-a-quick-reference/"><u>Win10/11 Mouse Driver Reactivation: A Quick Reference</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7-pro-tips-for-quick-hp-graphics-fixes/"><u>Win7 Pro Tips for Quick HP Graphics Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-optimizer-intels-latest-drivers/"><u>Windows Optimizer: Intel's Latest Drivers</u></a></li>
+</ul></div>
 

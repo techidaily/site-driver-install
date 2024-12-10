@@ -1,7 +1,7 @@
 ---
 title: Up-to-Date Windows 11 Drivers - How To Do It Fast
-date: 2024-09-09T19:57:51.083Z
-updated: 2024-09-15T01:21:35.114Z
+date: 2024-12-07T19:07:15.548Z
+updated: 2024-12-10T05:47:10.957Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 
 **Pro Tip:** If you’re not tech-savvy, or you’re short on time and patience, you can try updating all your drivers on Windows 11 with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  in one click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update drivers on Windows 11
 
  Whether you want to do it manually or automatically, below you will find two different step-by-step installation guides.
@@ -43,12 +47,27 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 2. Right-click the Start menu ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-1.png) and click**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager.jpg)
 3. In the**Device Manager** window, expand the category and the device that you wish to update the driver for. If you need to update Realtek PCIe GBE Family Controller, you’ll find this device under the**Network adapters** category. You can right-click on the device name and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/update-driver.jpg)
 4. Click**Browse my computer for drivers** , and select the downloaded file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
 5. Browse to the folder where your driver file is saved.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-path.jpg)
 6. It will install the drivers automatically for you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/download-location.jpg)
 7. Once complete, you now have the latest driver installed. You can restart your PC for it to take full effect.
 
@@ -68,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -90,12 +113,26 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-soundscapes-of-apple-in-the-realm-of-vids/"><u>[New] Soundscapes of Apple in the Realm of Vids</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-get-inspired-from-top-10-recruitment-videos-for-2024/"><u>[Updated] Get Inspired From Top 10 Recruitment Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-recording-skills-for-every-lenovo-user/"><u>[Updated] In 2024, Essential Recording Skills for Every Lenovo User</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-vidlens-app-quality-analysis/"><u>[Updated] VidLens App Quality Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/advance-igpu-drivers-for-quadro-gpus/"><u>Advance iGPU Drivers for Quadro GPUs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-wyze-cams-explore-how-the-waterproof-blink-mini-2-security-camera-sets-new-standards-for-home-surveillance-insights-from-zdnet/"><u>Beyond Wyze Cams: Explore How the Waterproof Blink Mini 2 Security Camera Sets New Standards for Home Surveillance | Insights From ZDNET</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-graphics-performance-new-windows-rx-570-drivers-available/"><u>Boost Graphics Performance: New Windows RX 570 Drivers Available</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boosted-blockchain-experience-installer-guide-to-amd-drivers-windows/"><u>Boosted Blockchain Experience: Installer Guide to AMD Drivers, Windows</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhance-windows-11-with-external-savvy-mastering-the-art-of-sd-card-integration/"><u>Enhance Windows 11 with External Savvy: Mastering the Art of SD Card Integration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/full-application-review-with-az-video-loggers/"><u>Full Application Review with AZ Video Loggers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-deskjet-fixer-for-windows-11-glitches/"><u>HP Deskjet Fixer for Windows 11 Glitches</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720061797133-lenovo-z50-70-updated-drivers-quickly-now/"><u>Lenovo Z50-70: Updated Drivers, Quickly Now!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-windows-10-sounds-via-audio-driver-reinstalls/"><u>Resolve Windows 10 Sounds via Audio Driver Reinstalls</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-speed-up-uefi-system/"><u>Secure & Speed-Up UEFI System</u></a></li>
+<li><a href="https://article-posts.techidaily.com/simplifying-the-image-blur-process-for-iphone-enthusiasts/"><u>Simplifying the Image Blur Process for iPhone Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlined-processes-for-exporting-video-assets-as-mp3-on-pinterest/"><u>Streamlined Processes for Exporting Video Assets as MP3 on Pinterest</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-sounds-in-hearthstone/"><u>Troubleshooting Guide: How to Restore Sounds in Hearthstone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tweak-driver-settings-for-optimal-hp-laserjet-pro-400-printing/"><u>Tweak Driver Settings: For Optimal HP LaserJet Pro 400 Printing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063605606-unlock-your-devices-potential-universal-adb-on-demand/"><u>Unlock Your Device's Potential - Universal ADB on Demand!</u></a></li>
+</ul></div>
 
