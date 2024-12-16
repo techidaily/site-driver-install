@@ -1,7 +1,7 @@
 ---
 title: Optimize R9 Series Graphics via Driver Update
-date: 2024-09-15T16:31:30.654Z
-updated: 2024-09-20T16:02:11.787Z
+date: 2024-12-13T16:33:49.890Z
+updated: 2024-12-16T16:26:24.307Z
 tags:
   - win11
   - win10
@@ -74,16 +74,40 @@ problems, you’re not alone.
 1. Go to **[AMD Radeon 200 Series Drivers](https://support.amd.com/en-us/kb-articles/Pages/AMD-Radeon-200-Series-Drivers.aspx)**  , find the download section for**your Windows variant** (in my case, Windows 10, 64-bit), then click on any link that says **AMD Radeon R9** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92c521f92.png)
 2. In**Radeon Software** , click**DOWNLOAD** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92e2a5e0b.png)
 3. On your keyboard, press**the Windows logo key** and**R** at the same time, then copy & paste **devmgmt.msc** into the box and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 4. Click on**the arrow** left to **Display adapters** (aka.**graphics card** , **video card**) to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92534e0ab.jpg)
 5. Right-click on **AMD Radeon R9 200 Series** and click**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afac249bd784.jpg)
 6. Click**Browse my computer for driver software** , follow the on-screen instructions to complete the process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9502d9df0.png)
 7. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -104,12 +128,23 @@ problems, you’re not alone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-accelerated-content-acquisition-with-funimate/"><u>[New] 2024 Approved Accelerated Content Acquisition with Funimate</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-get-your-twitter-video-feed-ready-aspect-ratio-key/"><u>[New] Get Your Twitter Video Feed Ready Aspect Ratio Key</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tailor-made-melodies-your-roadmap-for-playlists/"><u>[New] Tailor-Made Melodies Your Roadmap for Playlists</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-hd-graphics-sdk-update/"><u>Accelerate HD Graphics SDK Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-graphic-output-on-computers/"><u>Boost Graphic Output on Computers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-managing-audio-drivers-in-ws11/"><u>Efficiently Managing Audio Drivers in WS11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-performance-new-drivers-for-win-11/"><u>GTX 970 Performance - New Drivers for Win 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-prevent-thumbnail-absence-in-shorts-uploads-for-2024/"><u>How to Prevent Thumbnail Absence in Shorts Uploads for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-look-at-inshot-video-editing-powerhouse/"><u>In-Depth Look at InShot Video Editing Powerhouse?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lightning-fast-updates-to-windows-10s-acer-drivers-guide/"><u>Lightning-Fast Updates to Windows 10'S Acer Drivers Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastery-of-hdmi-updates-a-compreehsive-guide-for-win-11/"><u>Mastery of HDMI Updates: A Compreehsive Guide for Win 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinventing-wireless-setup-on-multiple-os-platforms/"><u>Reinventing Wireless Setup on Multiple OS Platforms</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/by-step-guide-to-live-stream-your-google-meet-on-youtube-for-2024/"><u>Step-By-Step Guide to Live Stream Your Google Meet on YouTube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strategies-for-troubleshooting-and-resolving-msvcrtdll-errors-on-your-pc/"><u>Strategies for Troubleshooting and Resolving Msvcrt.dll Errors on Your PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-breathtaking-videos-top-1080p-video-editing-software-for-beginners-and-pros/"><u>Updated 2024 Approved Create Breathtaking Videos Top 1080P Video Editing Software for Beginners & Pros</u></a></li>
+</ul></div>
 

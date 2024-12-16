@@ -1,7 +1,7 @@
 ---
 title: "AMD Crypto Drivers: Windows Installer Guide"
-date: 2024-09-17T16:01:56.333Z
-updated: 2024-09-20T16:08:32.532Z
+date: 2024-12-12T16:12:48.944Z
+updated: 2024-12-16T16:26:25.188Z
 tags:
   - win11
   - win10
@@ -18,10 +18,18 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
 
  Want to download and install the**AMD Blockchain Compute driver** in your Windows computer to enhance your mining work? You’ve come to the right place! This post will show you how to download and install the**AMD Blockchain driver in Windows 10 and Windows 7** .  The normal AMD graphics card drivers both support your graphics usage, gaming workload, and your Blockchain Compute workloads, but the AMD Blockchain drivers are enhanced only for Blockchain compute workloads. So if you want to maximize using your AMD graphics card in your mining work, it’s recommended to install the AMD Blockchain drivers for Windows computers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to download and install AMD Blockchain drivers?
 
 1. [Download and install AMD Blockchain drivers manually](#Fix1)
 2. [Bonus Tip: Update your AMD graphics drivers automatically](#Fix2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Download and install AMD Blockchain drivers manually
 
@@ -29,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b57e86dc64d6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) After downloaded, you should uninstall your existing AMD graphics card driver in your computer. You can do this by navigating to**Control Panel** \>**Programs and Features** \>**AMD Installer** \>**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b57e90f4ea53.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After uninstalling the existing AMD graphics driver, run the AMD Blockchain driver that you just downloaded.  5) Follow the on-screen instructions and finish installing your AMD Blockchain driver.  As noted on the AMD website, this Blockchain driver is provided as a beta level and will not be supported with further updates or fixes. So you should look carefully before you download.  Kindly note that the AMD Blockchain drivers are compatible with certain AMD graphics card models, such as  Radeon™ RX 500 Series Graphics, so pay attention to what your AMD graphics card is and make sure it’s compatible with the AMD Blockchain driver.
 
@@ -46,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
  3) Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b57eeb9579fb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -70,12 +90,17 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-updating-driver-software-on-your-acer-nitro-5/"><u>Comprehensive Guide: Updating Driver Software on Your Acer Nitro 5</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-hdmi-update-on-windows-11-with-updated-drivers-guide/"><u>Effortless HDMI Update on Windows 11 with Updated Drivers Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-techniques-to-merge-your-various-fortnite-players-into-a-single-profile/"><u>Effortless Techniques to Merge Your Various Fortnite Players Into a Single Profile</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-officejet-pro-8710-direct-windows-support-pack/"><u>HP OfficeJet Pro 8710 Direct Windows Support Pack</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-not-found-wmvcoredll-errors-step-by-step-solutions/"><u>Overcoming 'Not Found' wmvcore.dll Errors: Step-by-Step Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-solution-for-bluetooth-issues-in-windows-1111/"><u>Swift Solution for Bluetooth Issues in Windows 11/11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-analysis-xbox-one-x-leading-the-charge-in-gaming-consoles/"><u>Ultimate Analysis: Xbox One X - Leading the Charge in Gaming Consoles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-sound-potential-mastering-mac-audio-with-audacity-for-2024/"><u>Unlocking Sound Potential Mastering Mac Audio with Audacity for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-compatibility-uninstallreinstall-guide-for-windows-series/"><u>Wacom Compatibility: Uninstall/Reinstall Guide for Windows Series</u></a></li>
+</ul></div>
 

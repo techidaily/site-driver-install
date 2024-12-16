@@ -1,7 +1,7 @@
 ---
 title: How To Update Lenovo USB-C Dock Drivers. Quickly & Easily
-date: 2024-07-11T15:44:17.114Z
-updated: 2024-07-12T15:44:17.114Z
+date: 2024-12-11T16:18:10.079Z
+updated: 2024-12-16T16:23:42.333Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
  In this tutorial, we’ll guide you through the process of updating the drivers for your Lenovo USB-C Dock, both automatically and manually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To update Lenovo USB-C Dock drivers in Windows
 
 **[Option 1 – Automatically (Recommended)](#O1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 **OR**
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
@@ -43,7 +51,15 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
 
@@ -58,6 +74,11 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
@@ -82,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,6 +110,22 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-expert-strategies-for-choosing-ideal-youtube-banner-dimensions/"><u>[New] 2024 Approved Expert Strategies for Choosing Ideal YouTube Banner Dimensions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flutter-free-your-videos-a-selection-of-excellent-converters/"><u>[New] In 2024, Flutter Free Your Videos A Selection of Excellent Converters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-bring-laughter-to-life-with-adobe-meme-tools/"><u>[Updated] Bring Laughter to Life with Adobe Meme Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-request-info-on-obtaining-full-shared-content-on-messengers/"><u>[Updated] Request Info on Obtaining Full Shared Content on Messengers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/5770hdwinossupportpackage/"><u>5770HDWinOSSupportPackage</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-buyers-guide-to-smart-tv-selection/"><u>A Buyer's Guide to Smart TV Selection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-and-swift-update-process-for-acer-in-windows-10/"><u>Effortless & Swift Update Process for Acer in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-latest-driver-installation-gtx-750-ti/"><u>Effortless Latest Driver Installation: GTX 750 Ti</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-performance-hp-laserjets-latest-driver-upgrades-for-win10/"><u>Maximize Performance: HP Laserjet's Latest Driver Upgrades for WIN10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-1650-optimized-windows-7-driver/"><u>NVIDIA GTX 1650: Optimized Windows 7 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-effective-method-to-update-print-drivers-in-win-systems/"><u>Quick Fix: Effective Method to Update Print Drivers in WIN Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quick-tips-for-silencing-mp4-files-techniques-for-pcs-apple-devices-and-online-tools/"><u>Quick Tips for Silencing MP4 Files: Techniques for PCs, Apple Devices, and Online Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/roccat-mousedeck-installer-where-to-find-and-download-the-latest-version/"><u>Roccat Mousedeck Installer: Where to Find and Download the Latest Version</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211141815-9781644119105-song-of-the-dark-man/"><u>Song of the Dark Man | Free Book</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speedy-sound-solutions-for-smartphone-users-for-2024/"><u>Speedy Sound Solutions for Smartphone Users for 2024</u></a></li>
+</ul></div>
 

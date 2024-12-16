@@ -1,7 +1,7 @@
 ---
 title: Quickly Fresh Windows 11 Drivers - Tips & Tricks
-date: 2024-07-11T15:45:06.218Z
-updated: 2024-07-12T15:45:06.218Z
+date: 2024-12-09T16:00:02.771Z
+updated: 2024-12-16T16:04:30.362Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb8
 
 **Pro Tip:** If you’re not tech-savvy, or you’re short on time and patience, you can try updating all your drivers on Windows 11 with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  in one click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update drivers on Windows 11
 
  Whether you want to do it manually or automatically, below you will find two different step-by-step installation guides.
@@ -47,10 +51,24 @@ thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb8
 4. Click**Browse my computer for drivers** , and select the downloaded file.  
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
 5. Browse to the folder where your driver file is saved.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-path.jpg)
 6. It will install the drivers automatically for you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/download-location.jpg)
 7. Once complete, you now have the latest driver installed. You can restart your PC for it to take full effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2\. Update all drivers automatically
 
@@ -64,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb8
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
@@ -83,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,6 +112,21 @@ thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-streamlining-your-youtube-music-journey/"><u>[New] In 2024, Streamlining Your YouTube Music Journey</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-stellar-instagram-content-for-maximum-influence/"><u>[Updated] Crafting Stellar Instagram Content for Maximum Influence</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-from-content-creator-to-cash-generator-your-facebook-journey/"><u>[Updated] In 2024, From Content Creator to Cash Generator Your Facebook Journey</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-engage-viewers-beyond-individual-watches/"><u>2024 Approved Engage Viewers Beyond Individual Watches</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exclusive-analysis-full-potential-of-bublcams-360-degree-scope/"><u>2024 Approved Exclusive Analysis Full Potential of Bublcam's 360-Degree Scope</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hours-of-videography-expected-gb-usage/"><u>2024 Approved Hours of Videography Expected GB Usage</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-image-quality-with-driver-update-in-win10/"><u>Accelerate Image Quality with Driver Update in Win10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-merging-technology-and-commerce-through-vr-innovation/"><u>In 2024, Merging Technology & Commerce Through VR Innovation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-upgrades-without-struggle/"><u>Lenovo Z50-70: Upgrades Without Struggle</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-driver-sync-for-pro-6/"><u>Seamless Driver Sync for Pro 6</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-input-device-driver-xbox-to-windows/"><u>Streamlined Input Device Driver, Xbox to Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tech-assist-guiding-users-through-realtek-audio-update/"><u>Tech Assist: Guiding Users Through Realtek Audio Update</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-ezvid-for-mac-the-ultimate-slideshow-and-video-making-solution/"><u>Updated 2024 Approved Ezvid for Mac The Ultimate Slideshow and Video Making Solution</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-107811-streamlining-wi-fi-setup-processes/"><u>Win 10/7/8/11: Streamlining Wi-Fi Setup Processes</u></a></li>
+</ul></div>
 

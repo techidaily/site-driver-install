@@ -1,7 +1,7 @@
 ---
 title: Calibrate Compatibility Settings
-date: 2024-07-11T15:47:00.608Z
-updated: 2024-07-12T15:47:00.608Z
+date: 2024-12-15T16:09:08.160Z
+updated: 2024-12-16T16:16:30.812Z
 tags:
   - win11
   - win10
@@ -24,11 +24,19 @@ thumbnail: https://thmb.techidaily.com/e4153afed1e92622400da1f23af00065eea1b192c
 
  But don’t worry. Many users have resolved their problem with the solutions in this article. So check it out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Restart PC and reinstall the application/program**](#Fix1) **[](#Method1)**
 2. [**Automatically update your drivers**](#Fix2)
 3. [**Update your Windows version**](#Fix3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does this problem occur when installing drivers?
 
@@ -41,6 +49,10 @@ As for the reason why it happens while installing drivers:
  However, starting from 2016, Microsoft made changes to its update strategies. The change is in the format of**TargetOSVersion** decoration, an entry in **[INF file](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/inf-manufacturer-section)**  . This format defines the installation information to install the driver package, such as the OS versions and the product types.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0bf47b50435.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Starting with Windows 10, version 1607 (Build 14310 and later), the format adds a new part in the INF file: the**\[BuildNumber\]** part. That means that **it started to define the build number of the Windows version when installing the drivers** . Soon after, **Intel has started to adopt this new technique and also add the \[BuildNumber\] part into the installation information** .
 
@@ -56,9 +68,17 @@ As for the reason why it happens while installing drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type**systeminfo** and press**Enter** . Then you will see your build number as below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0c202e7a2f5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then check the defined build number in the driver package (take Intel graphics driver for Windows 10 64 bit as an example):
 
@@ -110,6 +130,10 @@ Or click **Update All** to automatically download the correct version of _all_  
 
  4) Restart your Windows and you will have the latest and correct drivers in your Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your Windows version
 
  You can update your Windows 10 to the latest version to solve this problem. In doing that, your build number is always the latest. While installing the driver, you don’t need to worry whether your build number is correct or not. Follow these instructions to update:
@@ -141,8 +165,6 @@ Or click **Update All** to automatically download the correct version of _all_  
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,6 +172,24 @@ Or click **Update All** to automatically download the correct version of _all_  
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-apex-equipment-prime-8k-cameras-unmatched/"><u>[New] Apex Equipment Prime 8K Cameras Unmatched</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unleash-creative-potential-for-video-editing-in-windows-photos-for-2024/"><u>[Updated] Unleash Creative Potential for Video Editing in Windows Photos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-estimated-video-monetization-totals/"><u>2024 Approved Estimated Video Monetization Totals</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-steps-to-confirm-video-compliance-before-tiktok-posting/"><u>2024 Approved Steps to Confirm Video Compliance Before TikTok Posting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unmatched-guide-the-ultimate-11-streaming-recorders/"><u>2024 Approved Unmatched Guide The Ultimate 11 Streaming Recorders</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-windows-10-graphics-via-driver-update/"><u>Boost Windows 10 Graphics via Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-enhancement-logitech-earphone-drivers-patches/"><u>Fast Enhancement: Logitech Earphone Drivers Patches</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fine-tune-display-software-in-win-os/"><u>Fine-Tune Display Software in Win OS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-canon-mx870-in-diverse-windows-ecosystems/"><u>Integrate Canon MX870 in Diverse Windows Ecosystems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-system-speed-via-intel-drivers/"><u>Revamp System Speed via Intel Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-integration-fixing-windows-with-samsung-solid-state-drives/"><u>Smooth Integration: Fixing Windows with Samsung Solid State Drives</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operations-hp-officejet-driver/"><u>Smooth Operations: HP Officejet Driver</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stress-management-mastery-harnessing-the-power-of-chatgpt/"><u>Stress Management Mastery: Harnessing the Power of ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triumphant-fixed-explorer-crash/"><u>Triumphant: Fixed Explorer Crash</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-c-steinberg-ymf-driver-for-all-os-versions/"><u>USB-C Steinberg YMF Driver for All OS Versions</u></a></li>
+</ul></div>
 

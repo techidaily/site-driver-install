@@ -1,7 +1,7 @@
 ---
 title: Effortless AMD Driver Rollback for All Windows Versions
-date: 2024-09-17T16:25:43.399Z
-updated: 2024-09-20T16:21:26.751Z
+date: 2024-12-09T16:29:48.166Z
+updated: 2024-12-16T16:09:27.693Z
 tags:
   - win11
   - win10
@@ -35,9 +35,18 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. On Windows 10, 8.1, 8 and 7, the option says**Delete the driver software for this device** , but it works the same. Tick the box and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/1-4-6.jpg)
 
 When it’s done, AMD graphics card will disappear from the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2 – Install new AMD drivers
 
@@ -45,11 +54,19 @@ When it’s done, AMD graphics card will disappear from the list.
 
  However, Windows doesn’t always provide the latest device drivers ([see why](https://tools.techidaily.com/drivereasy/download/) ). In this case, you should try the other two ways to get the correct and up-to-date AMD drivers:**[manually](#option1)** or**[automatically](#option2)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually download and install drivers from AMD
 
  AMD keeps updating its drivers to fix bugs or add features. If you’re familiar with computer hardware, you can go straight to **[AMD’s support website](https://www.amd.com/en/support)**  , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 – Install the AMD drivers automatically (recommended)
 
@@ -62,23 +79,13 @@ When it’s done, AMD graphics card will disappear from the list.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -106,5 +113,23 @@ When it’s done, AMD graphics card will disappear from the list.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-techniques-for-capturing-youtube-live-video/"><u>[New] Best Techniques for Capturing YouTube Live Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-in-making-panzoids/"><u>[New] Masterclass in Making Panzoids</u></a></li>
+<li><a href="https://driver-install.techidaily.com/diagnosing-and-correcting-windows-driver-setup-errors/"><u>Diagnosing and Correcting Windows Driver Setup Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-hd-sound-support-through-software-fix/"><u>Enhanced HD Sound Support Through Software Fix</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-shadowy-realms-of-bloodborne-an-immersive-review/"><u>Exploring the Shadowy Realms of Bloodborne - An Immersive Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-a15-4g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy A15 4G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-driver-installation-enable-your-tp-link-device-in-oswindows/"><u>Intuitive Driver Installation: Enable Your TP Link Device in OS/Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/key-aspects-of-web-based-storytelling/"><u>Key Aspects of Web-Based Storytelling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-samsung-dex-connect-galaxy-and-pc-seamlessly/"><u>Mastering Samsung DeX: Connect Galaxy & PC Seamlessly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionize-audiophile-experience-nvidias-new-win7-driver/"><u>Revolutionize Audiophile Experience: Nvidia's New Win7 Driver</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/seamless-collaboration-the-top-5-video-call-recorder-choices/"><u>Seamless Collaboration The Top 5 Video Call Recorder Choices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-windows-versions-refresh-chipset-integration-with-intel-drivers/"><u>Sync Windows Versions: Refresh Chipset Integration with Intel Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transformative-updates-revamping-logitech-mouse-for-w11/"><u>Transformative Updates: Revamping Logitech Mouse for W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transition-to-improved-dell-realtek-audios/"><u>Transition to Improved Dell Realtek Audios</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-your-creative-potential-with-picsart-2024-edition/"><u>Unlocking Your Creative Potential with PicsArt 2024 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/viewing-guide-arranging-the-hiccup-universe-a-step-by-step-journey-through-how-to-train-your-dragon/"><u>Viewing Guide: Arranging the Hiccup Universe - A Step by Step Journey Through 'How To Train Your Dragon'</u></a></li>
+</ul></div>
 

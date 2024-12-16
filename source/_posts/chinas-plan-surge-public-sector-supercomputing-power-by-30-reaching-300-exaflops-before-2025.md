@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-12-08T06:13:13.791Z
-updated: 2024-12-10T05:10:36.961Z
+date: 2024-12-09T16:37:56.778Z
+updated: 2024-12-16T16:47:16.898Z
 tags:
   - desktop
 categories:
@@ -56,23 +56,22 @@ Today we have one great deal that turns into two when you take up a bundle offer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-guard-your-video-calls-the-ultimate-list-of-free-security-enhanced-applications/"><u>[New] 2024 Approved Guard Your Video Calls The Ultimate List of Free Security-Enhanced Applications</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-no-more-hassle-record-games-like-pros-for-2024/"><u>[New] No More Hassle Record Games Like Pros for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-watch-what-you-liked-no-more-unveiling-yt-deletions-online/"><u>[Updated] Watch What You Liked No More Unveiling YT Deletions Online</u></a></li>
-<li><a href="https://driver-install.techidaily.com/auditory-ascension-mastering-the-art-of-audio-driver-refresh-on-ws11/"><u>Auditory Ascension: Mastering the Art of Audio Driver Refresh on WS11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-driver-modifications-for-win7-systems/"><u>Direct Driver Modifications for Win7 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-download-nvidia-gtx-750-ti-drivers/"><u>Easy Download: NVIDIA GTX 750 Ti Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-thunderbolt-drivers-nvidia/"><u>Efficient Thunderbolt Drivers, NVIDIA</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/engage-enlighten-and-enthrall-with-immersive-facebook-sharing/"><u>Engage, Enlighten and Enthrall with Immersive Facebook Sharing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ensuring-top-performance-win11s-atheros-driver-update-routine/"><u>Ensuring Top Performance: Win11's Atheros Driver Update Routine</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063271158-hawku-drivers-issue-easy-fixes-and-install-guide/"><u>Hawku Drivers Issue - Easy Fixes & Install Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nokia-150-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nokia 150 (2023) Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-overloaded-chatgpt-on-pc/"><u>Solving Overloaded ChatGPT On PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/triumph-over-triviality-amass-a-million-ish-followers-on-ig-for-2024/"><u>Triumph Over Triviality Amass a Million-Ish Followers on IG for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-visual-filmmaking-aids-go-green-no-money/"><u>[New] In 2024, Visual Filmmaking Aids Go Green, No Money</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-strategic-geniuses-unearthing-the-best-7-total-war-masterpieces/"><u>[New] Strategic Geniuses Unearthing the Best 7 Total War Masterpieces</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-boost-engagement-the-art-of-adding-borders-on-insta/"><u>2024 Approved Boost Engagement The Art of Adding Borders on Insta</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-aural-experience-on-windows-11-with-updated-sound-drivers/"><u>Elevate Aural Experience on Windows 11 with Updated Sound Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enhance-copy-paste-efficiency-across-browsers/"><u>How to Enhance Copy-Paste Efficiency Across Browsers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-e13-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto E13 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-airlink-for-w7-computers/"><u>Instant Airlink for W7 Computers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/merge-hp-envy-5530-software-with-win10-pcs/"><u>Merge HP Envy 5530 Software with Win10 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precision-and-speed-automated-driver-update-for-logitech-mouse/"><u>Precision & Speed: Automated Driver Update for Logitech Mouse</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fixes-for-outdated-windows-1011-audio-drivers/"><u>Quick Fixes for Outdated Windows 10/11 Audio Drivers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/reaping-rewards-a-comprehensive-guide-to-7-14-stardew-mods-for-2024/"><u>Reaping Rewards A Comprehensive Guide to #7-14 Stardew Mods for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-guide-to-animated-text-in-video-best-mobile-apps-for-2024/"><u>The Ultimate Guide to Animated Text in Video Best Mobile Apps for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c22-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C22 Device</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

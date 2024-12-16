@@ -1,7 +1,7 @@
 ---
 title: Unlock Full USB Support on WIN OS
-date: 2024-12-04T23:54:56.184Z
-updated: 2024-12-10T00:10:17.698Z
+date: 2024-12-15T16:41:49.475Z
+updated: 2024-12-16T16:32:36.125Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  If you want to download or update your Generic USB hub driver for your USB Hub device, you can update the driver to fix your problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update Generic USB Hub driver
 
 1. [Update Generic USB Hub driver manually](#M1)
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update Generic USB Hub driver manually
@@ -45,21 +41,25 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 2. Type**devmgmt.msc** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -107,21 +107,24 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-android-audio-alchemy-selecting-the-top-free-downloader-apps-from-youtube/"><u>[New] 2024 Approved Android Audio Alchemy Selecting the Top Free Downloader Apps From YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-gear-for-youtube-content-makers/"><u>[New] Ultimate Gear for YouTube Content Makers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-unfollow-a-path-towards-a-lasting-account-discontinuation/"><u>[Updated] 2024 Approved Insta Unfollow A Path Towards a Lasting Account Discontinuation</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-pixel-prodigies-top-10-gaming-ladies-on-yt/"><u>[Updated] 2024 Approved Pixel Prodigies Top 10 Gaming Ladies on YT</u></a></li>
-<li><a href="https://win-special.techidaily.com/comment-restaurer-des-fichiers-avec-aomee-backupper/"><u>Comment Restaurer Des Fichiers Avec AOMEE Backupper</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/converti-file-asf-in-formato-swf-online-e-liberamente-movavi/"><u>Converti File ASF in Formato SWF Online E Liberamente - Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-x9b-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-has-no-sounds-troubleshooting-steps-for-windows-11/"><u>HP Laptop Has No Sounds? Troubleshooting Steps for Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-lenovo-g580-driver-enhancements/"><u>Instant Lenovo G580 Driver Enhancements</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-intels-ie-driver-integration-on-legacy-pcs/"><u>Mastering Intel's IE Driver Integration on Legacy PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-print-on-windows-hp-laserjet-success/"><u>Mastering Print on Windows: HP LaserJet Success</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-graphics-on-win11-with-latest-hp-drivers/"><u>Optimize Graphics on Win11 with Latest HP Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-wi-fi-in-windows-10-efficiently-update-atheros-drivers/"><u>Optimize Wi-Fi in Windows 10: Efficiently Update Atheros Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimized-asus-usb-bt400-for-windows-107-users/"><u>Optimized ASUS USB-BT400 for Windows 10/7 Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/qualcomms-reinstallation-strategy-for-nic-drivers/"><u>Qualcomm's Reinstallation Strategy for NIC Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-s-mode-is-it-right-for-your-pc/"><u>Windows 11 S Mode: Is It Right for Your PC?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-redefine-viewing-premium-platforms-for-videos/"><u>[New] 2024 Approved Redefine Viewing Premium Platforms for Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-discover-review-and-compare-with-az-screenshotter/"><u>[Updated] 2024 Approved Discover, Review & Compare with AZ Screenshotter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-go-global-quickly-optimal-tags-to-escalate-your-youtube-snippets/"><u>[Updated] Go Global Quickly Optimal Tags to Escalate Your YouTube Snippets</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-craft-of-youtubers-music-reaction-videos-essentials/"><u>[Updated] Mastering the Craft of Youtubers Music Reaction Videos Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-technological-trendsetters-exclusive-picks/"><u>[Updated] Technological Trendsetters - Exclusive Picks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-warmth-amidst-cold-selecting-perfect-winter-backdrops/"><u>2024 Approved Warmth Amidst Cold Selecting Perfect Winter Backdrops</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-v27e-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo V27e?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-intels-me-into-oses/"><u>Integrate Intel's ME Into OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-drivers-nvidia-gtx-970-upgrade-for-windows-10-users/"><u>Latest Drivers: Nvidia GTX 970 Upgrade for Windows 10 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-y470-ideapad-w7drivers/"><u>Lenovo Y470 IdeaPad W7Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-usbasp-compatibility-on-windows-from-7-to-11-fixed/"><u>Mastering USBasp Compatibility on Windows From 7 to 11 [FIXED]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigate-effortlessly-downloading-canon-inkjet-drivers-win11/"><u>Navigate Effortlessly: Downloading Canon Inkjet Drivers Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-graphics-set-for-wndows-os/"><u>New Graphics Set for Wndows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-screen-fidelity-windows-710/"><u>Optimize Screen Fidelity (Windows 7/10)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overhauling-non-compatible-installation-package/"><u>Overhauling: Non-Compatible Installation Package</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-revolutionizing-your-nvidia-drivers-update-process/"><u>Quick Fix: Revolutionizing Your Nvidia Drivers Update Process</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/simplifying-the-art-of-advertising-through-structured-content/"><u>Simplifying the Art of Advertising Through Structured Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-guide-to-starting-your-first-successful-youtubes-for-business-for-2024/"><u>The Essential Guide to Starting Your First Successful YouTubes for Business for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-finest-small-tablets-of-2024-as-tested-by-tech-gurus-insights/"><u>Ultimate Guide to Choosing the Finest Small Tablets of 2024, as Tested by Tech Gurus | Insights</u></a></li>
 </ul></div>
 

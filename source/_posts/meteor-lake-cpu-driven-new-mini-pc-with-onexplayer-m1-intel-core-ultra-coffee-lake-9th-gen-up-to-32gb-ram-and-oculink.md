@@ -1,7 +1,7 @@
 ---
 title: Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink
-date: 2024-12-05T18:45:48.840Z
-updated: 2024-12-09T23:35:40.457Z
+date: 2024-12-09T16:31:58.324Z
+updated: 2024-12-16T16:43:25.562Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,19 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/full-guide-how-to-clean-install-graphics-drivers/"><u>[FULL GUIDE] How to Clean Install Graphics Drivers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>[New] Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-gopro-max-360-vs-hero-11-which-takes-the-lead/"><u>[Updated] GoPro Max 360 vs Hero 11 Which Takes the Lead?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-definitive-guide-to-film-gear-buying-tips/"><u>[Updated] The Definitive Guide to Film Gear Buying Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-upgrade-to-iris-gma520-sdk/"><u>Efficient Upgrade to Iris GMA520 SDK</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-hardware-device-adjustments-for-w7-users/"><u>Effortless Hardware Device Adjustments for W7 Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expedite-windows-drivers-with-winos/"><u>Expedite Windows Drivers with WinOS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-your-ink-flowing-install-hp-projeto-8710-printer-drivers-windows/"><u>Get Your Ink Flowing - Install HP Projeto 8710 Printer Drivers (Windows)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-secure-your-online-content-from-automated-openai-crawler-interference/"><u>How to Secure Your Online Content From Automated OpenAI Crawler Interference</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a25-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A25 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/immediate-action-bluetooth-drivers-installed-without-fuss-on-windows/"><u>Immediate Action: Bluetooth Drivers, Installed Without Fuss on Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-y100a-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo Y100A Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-latest-acer-visuals-for-windows-10/"><u>Install Latest Acer Visuals for Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-10-unbeatable-face-editing-tools-for-iphone-and-samsungs/"><u>[New] 10 Unbeatable Face-Editing Tools for iPhone & Samsungs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-solo-stream-triumph-strategies-for-clear-consistent-broadcasts/"><u>[Updated] In 2024, Solo Stream Triumph Strategies for Clear, Consistent Broadcasts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/access-universal-adb-instantly-no-complications/"><u>Access Universal ADB Instantly - No Complications!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/capture-what-you-see-the-complete-guide-to-pc-screenshots/"><u>Capture What You See: The Complete Guide to PC Screenshots</u></a></li>
+<li><a href="https://driver-install.techidaily.com/cross-version-driver-installation-kit-epson-2650-series/"><u>Cross-Version Driver Installation Kit - Epson 2650 Series</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-14-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 14 Pro to PC | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-update-logitech-earphones-software/"><u>Efficiently Update Logitech Earphones Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-troubleshooting-and-repairing-error-ebd-c0fe3897-b4f0-4aa5-a8e1-2dd5d3cbcefa-in-windows/"><u>Effortless Guide: Troubleshooting and Repairing Error Ebd-C0fe3897-B4f0-4aa5-A8e1-2dd5d3cbcefa in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-graphic-rendering-quality-windows/"><u>Elevate Graphic Rendering Quality (Windows)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-xp-with-direct-driver-replacement-techniques/"><u>Enhance XP with Direct Driver Replacement Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-tech-new-drivers-for-hp-laserjet-in-windows-11/"><u>Harmonize Tech: New Drivers for HP Laserjet in Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/resolving-compression-errors-in-youtube-playback-for-2024/"><u>Resolving Compression Errors in YouTube Playback for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trouble-logging-into-microsoft-teams-understanding-the-cause/"><u>Trouble Logging Into Microsoft Teams: Understanding the Cause</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/video-compilation-wizardry-turn-your-footage-into-one-iso-masterpiece/"><u>Video Compilation Wizardry: Turn Your Footage Into One ISO Masterpiece</u></a></li>
 </ul></div>
 

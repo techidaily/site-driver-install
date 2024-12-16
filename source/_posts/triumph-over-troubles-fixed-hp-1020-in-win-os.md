@@ -1,7 +1,7 @@
 ---
 title: "Triumph Over Troubles: Fixed HP 1020 in Win OS"
-date: 2024-12-09T03:25:13.317Z
-updated: 2024-12-09T22:28:24.657Z
+date: 2024-12-10T16:14:58.100Z
+updated: 2024-12-16T16:46:19.020Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/d0cb748bcb0f62a12329bda108fa11c6c1e0878f5
 2. [Update the printer driver in Device Manager](#Fix2)
 3. [Update the printer driver automatically](#Fix3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Update the printer driver manually
 
 Time needed:  3 minutes.
@@ -44,14 +40,14 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
 
  Run the downloaded file, and follow the wizard to finish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update the printer driver in Device Manager
 
@@ -68,20 +64,28 @@ Time needed:  3 minutes.
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After updating, restart your computer.
@@ -103,10 +107,6 @@ After updating, restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. After updating, restart your computer to take effect.
 
@@ -136,18 +136,21 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-free-online-photo-tools-ranked-15/"><u>[Updated] Best Free Online Photo Tools Ranked #15</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparison-guide-ipad-pro-mini-m4-vs-macbook-air-m3-key-features-and-performance/"><u>Comparison Guide: IPad Pro Mini (M4) Vs. MacBook Air (M3) - Key Features & Performance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-sonys-xperia-5-a-tall-order-for-a-small-phone/"><u>Evaluating Sony's Xperia 5 - A Tall Order for a Small Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamped-logitech-drivers-effortlessly-implement-in-windows-11/"><u>Revamped Logitech Drivers - Effortlessly Implement in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-fingerprint-scanner-unsupported-problems/"><u>Steps to Resolve 'Fingerprint Scanner Unsupported' Problems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/streamlining-video-editing-on-windows-11s-movie-maker/"><u>Streamlining Video Editing on Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-driver-switch-for-nvidias-gtx-750-ti/"><u>Swift Driver Switch for NVIDIA's GTX 750 Ti</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-sony-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Sony</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-unsung-heroes-of-canvas-open-source-paintings/"><u>The Unsung Heroes of Canvas Open-Source Paintings</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-thinkpad-software-for-improved-win10-use/"><u>Update ThinkPad Software for Improved Win10 Use</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-software-hp-p1102w-firmware/"><u>Windows Software: HP P1102w Firmware</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-upgrade-for-thinkpad-install-new-drivers/"><u>Windows Upgrade for Thinkpad: Install New Drivers</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/windowsmacword/"><u>[如何]找回Windows和Mac电脑中缺失Word数据的技巧</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-captivating-content-at-your-fingertips-download-youtube-for-ios/"><u>[New] 2024 Approved Captivating Content at Your Fingertips Download YouTube for iOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-civics-challenge-club-leading-political-gaming-series/"><u>[New] 2024 Approved Civics Challenge Club Leading Political Gaming Series</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/phoneipad-top-10-free-youtube-video-editing-apps-for-2024/"><u>[New] IPhone/iPad Top 10 Free YouTube Video Editing Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/re-the-best-and-easiest-youtube-to-mp3-conversion-tech-for-2024/"><u>Explore the Best (and Easiest) YouTube-to-Mp3 Conversion Tech for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-your-focus-how-a-chromebook-can-provide-the-uninterrupted-experience-you-need/"><u>Find Your Focus: How a Chromebook Can Provide the Uninterrupted Experience You Need</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstalling-atheros-wireless-card-drivers-step-by-step/"><u>Reinstalling Atheros Wireless Card Drivers Step-by-Step</u></a></li>
+<li><a href="https://driver-install.techidaily.com/routine-for-updating-and-keeping-your-amd-drivers-current/"><u>Routine for Updating & Keeping Your AMD Drivers Current</u></a></li>
+<li><a href="https://win-help.techidaily.com/simple-guide-mastering-screenshot-captures-on-os-x-mountain-lion/"><u>Simple Guide: Mastering Screenshot Captures on OS X Mountain Lion</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-step-superior-scsi-functionality/"><u>Simple Step, Superior SCSI Functionality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-updates-to-graphics-drivers-in-win7/"><u>Simple Updates to Graphics Drivers in Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/supercharge-your-gameplay-rtx-3090-for-windows/"><u>Supercharge Your Gameplay - RTX 3090 for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turbocharged-windows-10-rapid-acer-drivers-upgrade-guide/"><u>Turbocharged Windows 10: Rapid Acer Drivers Upgrade Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-review-of-twelve-souths-bookbook-v2-for-macbook-smart-and-stylish-protection/"><u>Ultimate Review of Twelve South's BookBook V2 for MacBook: Smart & Stylish Protection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-windows-10-for-enhanced-audio-capabilities/"><u>Upgrade Windows 10 for Enhanced Audio Capabilities</u></a></li>
 </ul></div>
 

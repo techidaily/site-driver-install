@@ -1,7 +1,7 @@
 ---
 title: Universal Xbox One Controller Support for Winsystems
-date: 2024-12-08T17:12:52.827Z
-updated: 2024-12-10T10:20:14.164Z
+date: 2024-12-10T16:04:27.227Z
+updated: 2024-12-16T16:40:42.592Z
 tags:
   - win11
   - win10
@@ -33,28 +33,28 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Expand the branch **Microsoft Xbox One Controller** .
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Check to see if you can use the Xbox One Controller properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 2: Update the Driver Using Driver Easy
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
@@ -107,24 +107,22 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-experience-reality-redefined-with-htc-vive/"><u>[New] In 2024, Experience Reality Redefined with HTC Vive</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-7-must-have-metaverse-devices-you-need-to-prepare/"><u>2024 Approved 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-master-the-art-of-attraction-secrets-to-viral-tiktok-unboxing-content/"><u>2024 Approved Master the Art of Attraction Secrets to Viral TikTok Unboxing Content</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>2024 Approved Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-a05s-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from A05s</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-aerial-mastery-with-husqvarna-h501x4-fpv-analysis/"><u>In 2024, Aerial Mastery with Husqvarna H501X4 FPV Analysis</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-c55-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme C55 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-discovering-top-10-sites-where-pristine-images-are-abundant-and-free/"><u>In 2024, Discovering Top 10 Sites Where Pristine Images Are Abundant and Free</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-essential-blueprint-for-effortless-avatar-creation-in-vr/"><u>In 2024, The Essential Blueprint for Effortless Avatar Creation in VR</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rejuvenate-printer-output-on-win10-systems/"><u>Rejuvenate Printer Output on Win10 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-entry-into-chatgpt-despite-login-hurdles/"><u>Seamless Entry Into ChatGPT Despite Login Hurdles</u></a></li>
-<li><a href="https://driver-install.techidaily.com/signature-void-in-threat-free-third-party-data/"><u>Signature Void in Threat-Free Third-Party Data</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-astro-update-and-reinstallation-for-windows-users/"><u>Step-By-Step Astro Update & Reinstallation for Windows Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-to-updated-windows-11-device-drivers/"><u>Step-by-Step to Updated Windows 11 Device Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-scarlett-6i6-driver-enhancement-guide/"><u>Step-by-Step: Scarlett 6I6 Driver Enhancement Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-to-install-latest-intel-82579lm-windows-driver/"><u>Steps to Install Latest Intel 82579LM Windows Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-wacom-workflow-reinstall-steps-in-win-oss/"><u>Streamlining Wacom Workflow: Reinstall Steps in WIN OSs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xbox-interface-smoothly-integrating-into-windows/"><u>Xbox Interface: Smoothly Integrating Into Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xbox-one-gaming-interface-for-pc/"><u>XBox One Gaming Interface for PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-fbx-game-filming-for-beginners-for-2024/"><u>[New] FBX Game Filming for Beginners for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-infuse-ingenuity-and-fun-make-memes-with-kapwing/"><u>[New] In 2024, Infuse Ingenuity & Fun – Make Memes with Kapwing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-strategy-map-for-skyrocketing-your-fb-page-status/"><u>[New] In 2024, The Ultimate Strategy Map for Skyrocketing Your FB Page Status</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-10-open-source-video-players-for-linux-windows-and-mac-for-2024/"><u>[Updated] 10 Open Source Video Players for Linux, Windows and Mac for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-channel-branding-made-simple-and-free-for-2024/"><u>[Updated] Channel Branding Made Simple & Free for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-guide-to-premium-hd-webcams-and-win-11-tech-for-2024/"><u>[Updated] The Ultimate Guide to Premium HD Webcams & Win 11 Tech for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-apples-tech-revolution-comprehensive-guide-to-ai-enhanced-features-for-next-gen-iphones-macbooks-and-ipads/"><u>Navigating Apple's Tech Revolution: Comprehensive Guide to AI Enhanced Features for Next-Gen iPhones, MacBooks & iPads</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-5-free-mpeg-video-editing-tools-with-joining-feature/"><u>New 2024 Approved Top 5 Free MPEG Video Editing Tools with Joining Feature</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ready-your-pc-for-windows-11s-tactile-interface/"><u>Ready Your PC for Windows 11'S Tactile Interface</u></a></li>
+<li><a href="https://driver-install.techidaily.com/settle-hardware-interfacing-discrepancies/"><u>Settle Hardware Interfacing Discrepancies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-process-downloading-canon-printer-drivers-win11/"><u>Streamlined Process: Downloading Canon Printer Drivers Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-ssd-performance-with-z97-chipset/"><u>Swift SSD Performance with Z97 Chipset</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-hp-envy-5530-drivers-with-win-11/"><u>Sync HP Envy 5530 Drivers with Win 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-essential-guide-to-reviving-dells-audio-software/"><u>The Essential Guide to Reviving Dell's Audio Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshoot-startechs-driver-issues-in-winxp-810/"><u>Troubleshoot: StarTech's Driver Issues in WINXP, 8/10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-direct-network-access-via-usb-cable/"><u>Windows Direct Network Access via USB Cable</u></a></li>
 </ul></div>
 

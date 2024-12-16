@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Fix: Ensures Optimal HD Sound Performance"
-date: 2024-12-04T09:24:34.859Z
-updated: 2024-12-09T16:55:51.489Z
+date: 2024-12-12T16:16:41.943Z
+updated: 2024-12-16T16:17:39.697Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Fix 1: Reinstall the VIA HD audio driver
 
  You can try to uninstall the VIA high definition audio driver, and reinstall it in your computer.
@@ -37,30 +33,34 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a56c24763.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double click**Sound, video and game controllers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a5a189883.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right click your**VIA HD Audio driver** , and click**Uninstall device** . (If you are using Windows 7, click**Uninstall** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a858e6ea2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If you see a popup pane to confirm, check the box next to**Delete the driver software for this device** , then click**Uninstall** to delete. (If you are using Windows 7, click**OK** to confirm.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) After uninstalling, restart your computer and Windows will automatically download and install the audio driver for you at starting. After it’s done, check the audio device to see if it works properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Fix 2: Update the VIA HD audio driver automatically
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a961c7174.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
@@ -113,22 +113,24 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-enhance-pc-listening-experience-install-x-recorder/"><u>[New] 2024 Approved Enhance PC Listening Experience - Install X-Recorder</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/a-compreenas-step-by-step-guide-for-bordered-instagram-images-for-2024/"><u>A Compreenas Step-by-Step Guide for Bordered Instagram Images for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craft-compelling-youtube-titles-faster-than-ever/"><u>Craft Compelling YouTube Titles Faster Than Ever</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fixing-the-fiasco-guide-to-a-smooth-windows-10-installation/"><u>Fixing the Fiasco: Guide to a Smooth Windows 10 Installation</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-microsoft-is-making-artificial-intelligence-seem-familiar-particularly-when-solitary-discover-the-strategy-on-zdnet/"><u>How Microsoft Is Making Artificial Intelligence Seem Familiar, Particularly When Solitary - Discover the Strategy on ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nubia</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-world-of-warcraft-performance-top-tips-to-counteract-low-fps/"><u>Mastering World of Warcraft Performance: Top Tips to Counteract LOW FPS !</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionary-audio-interface-win11-compatible-conexant-hardware/"><u>Revolutionary Audio Interface: Win11-Compatible Conexant Hardware</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-pc-enhancement-windows-11s-touch-features/"><u>Simplify PC Enhancement - Windows 11'S Touch Features</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-printing-with-updated-hp-officejet-8620-drivers-on-windows-pcs/"><u>Smooth Printing with Updated HP OfficeJet 8620 Drivers on Windows PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-gpu-software-update-hd-graphics-710/"><u>Speedy GPU Software Update: HD Graphics 710</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swiftly-update-your-os-drivers-windows-11-81-7/"><u>Swiftly Update Your OS Drivers (Windows 11, 8.1, 7)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-art-of-drives-manual-tweaks-for-xp-users/"><u>The Art of Drives: Manual Tweaks for XP Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-m14-4g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy M14 4G Android SIM Unlock APK</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshooting-astro-with-updated-device-drivers/"><u>Troubleshooting Astro with Updated Device Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unravel-issues-with-hp-printer-in-windows/"><u>Unravel Issues with HP Printer in Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oneplus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For OnePlus Phones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-timeless-tales-for-the-whole-clan-family-movie-guide/"><u>[New] 2024 Approved Timeless Tales for the Whole Clan Family Movie Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-drivers-delight-5-top-race-games/"><u>[New] In 2024, Ultimate Driver's Delight 5 Top Race Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-blending-past-memories-with-instagrams-vivid-filters/"><u>[Updated] In 2024, Blending Past Memories with Instagram's Vivid Filters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-8-social-tools-to-skyrocket-your-likes-on-facebook-for-2024/"><u>[Updated] Top 8 Social Tools to Skyrocket Your Likes on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-boost-visibility-with-a-bespoke-youtube-channel-url/"><u>2024 Approved Boost Visibility with a Bespoke YouTube Channel URL</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-maximizing-roi-adopting-the-power-of-triple-strategies-in-copywriting-for-facebook-advertising/"><u>2024 Approved Maximizing ROI Adopting the Power of Triple Strategies in Copywriting for Facebook Advertising</u></a></li>
+<li><a href="https://driver-install.techidaily.com/a-parents-comprehensive-manual-understanding-and-navigating-chatgpt-and-ai-generation/"><u>A Parent's Comprehensive Manual: Understanding & Navigating ChatGPT & AI Generation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximizing-value-a-comprehvew-of-the-budget-friendly-ar-5-by-arcshell-with-impressive-specs/"><u>Maximizing Value: A Comprehvew of the Budget-Friendly AR-5 by ArcShell with Impressive Specs.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rtx-6000-firmware-update-for-quadro/"><u>RTX 6000 Firmware Update for Quadro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-ie-management-engine-implementation/"><u>Secure IE Management Engine Implementation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/set-up-printer-driver-canon-inkjet-series-for-windows/"><u>Set up Printer Driver: Canon Inkjet Series for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-new-features-in-huion-h420-via-windows/"><u>Unleash New Features in Huion H420 via Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-win11-networking-setup-with-new-atheros-drivers/"><u>Update Your Win11 Networking Setup with New Atheros Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-w10-with-latest-thinkpad-device-drivers/"><u>Upgrade W10 with Latest ThinkPad Device Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-driver-installation-amd-in-windows-editions/"><u>Win Driver Installation: AMD in Windows Editions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/xiaomi-redmi-note-12-4g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi Redmi Note 12 4G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/yamaha-mtrx-driver-windows-and-linux-instructions/"><u>Yamaha MTRX Driver - Windows & Linux Instructions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/1716465331321-youtube-style-essentials-download-for-free/"><u>YouTube Style Essentials - Download for FREE!</u></a></li>
 </ul></div>
 

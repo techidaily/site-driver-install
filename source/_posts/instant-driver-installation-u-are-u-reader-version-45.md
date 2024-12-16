@@ -1,7 +1,7 @@
 ---
 title: "Instant Driver Installation: U-Are-U Reader Version 4.5"
-date: 2024-07-11T15:45:37.317Z
-updated: 2024-07-12T15:45:37.317Z
+date: 2024-12-11T16:22:18.024Z
+updated: 2024-12-16T16:31:45.541Z
 tags:
   - win11
   - win10
@@ -38,9 +38,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-27_15-45-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Or you can obtain the driver from your PC vendor. You’ll need to visit the official website of Lenovo, Dell, or any other vendors, and locate its**Support** section. Then select**Drivers & Software** or**Drivers & Download** to enter the download page of drivers. Search for**U.are.U 4500 fingerprint reader driver** and download the exact driver according to your Windows variant.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2: Install the driver manually
 
@@ -52,9 +60,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-936.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select the driver file and click**Next** , then wait for the installation process to finish.
 
@@ -77,6 +93,10 @@ See if your fingerprint reader works properly again.
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
 
@@ -101,8 +121,6 @@ See if your fingerprint reader works properly again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,6 +128,22 @@ See if your fingerprint reader works properly again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-video-dimensionssize-guide-for-upload-settings/"><u>[Updated] 2024 Approved YouTube Video Dimensions/Size Guide for Upload Settings</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-innovative-game-aids-vrs-top-picks/"><u>[Updated] In 2024, Innovative Game Aids VR's Top Picks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adjust-asus-computer-displays-to-stop-videos-from-playing-upside-down/"><u>Adjust ASUS Computer Displays to Stop Videos From Playing Upside Down</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-driver-pack-installer-windows-edition/"><u>ASUS Driver Pack Installer, Windows Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-yoga-900s-with-latest-windows-10-driver-pack/"><u>Boost Your Yoga 900S with Latest Windows 10 Driver Pack</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/crafting-irresistible-profile-videos/"><u>Crafting Irresistible Profile Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-silent-pauses-in-music-tracks/"><u>Crafting Silent Pauses in Music Tracks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978499661-easy-and-speedy-arduino-mega-25n0-driver-downloads-start-your-project-now/"><u>Easy and Speedy Arduino Mega 25N0 Driver Downloads - Start Your Project Now</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/errori-durante-la-riformatting-di-windows-11-passaggi-per-risolvere-e-completare-correttamente/"><u>Errori Durante La Riformatting Di Windows 11: Passaggi per Risolvere E Completare Correttamente</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-transform-your-imagery-with-these-mobile-montage-leaders/"><u>In 2024, Transform Your Imagery with These Mobile Montage Leaders</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-logitech-earpiece-driver-improvements/"><u>Instant Logitech Earpiece Driver Improvements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-how-to-display-tiktok-clips-directly-on-your-home-screen/"><u>Learn How To Display TikTok Clips Directly On Your Home Screen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-lexmark-driver-updates-quickly/"><u>Simplify Lexmark Driver Updates Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-hdmi-on-windows-11-a-driver-update-tutorial/"><u>Streamlining HDMI on Windows 11: A Driver Update Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-startech-drivers-for-windows-7-10/"><u>Streamlining StarTech Drivers for Windows 7-10</u></a></li>
+</ul></div>
 

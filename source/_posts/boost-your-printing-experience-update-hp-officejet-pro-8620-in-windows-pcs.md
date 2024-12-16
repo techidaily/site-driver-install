@@ -1,7 +1,7 @@
 ---
 title: Boost Your Printing Experience - Update HP OfficeJet Pro 8620 in Windows PCs
-date: 2024-09-16T16:14:24.081Z
-updated: 2024-09-20T16:16:49.022Z
+date: 2024-12-15T16:10:13.676Z
+updated: 2024-12-16T16:35:21.247Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
  This post will show you how to download or update**drivers for HP OfficeJet Pro 8620** e-All-in-One printer series.
 
  If you have issues with your printer, for instance, your printer is offline, your printer is not working properly, you should really consider updating your HP printer drivers to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to download or update HP OfficeJet Pro 8620 driver
 
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f2f35ac0c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Run the downloaded file, and follow the wizard to finish.
 
  Manually downloading the HP OfficeJet Pro 8620 driver requires time and computer skills.
@@ -66,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In Device Manager, double click**Printers** or**Print queues** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
@@ -78,18 +90,15 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Follow the on-screen instructions to finish updating the driver.
 
 8) After updating, restart your computer.
 
 Still no luck? OK. There’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
@@ -112,10 +121,7 @@ Still no luck? OK. There’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) After updating, restart your computer to take effect.
@@ -144,5 +150,26 @@ If you have any questions, feel free to add a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-craft-your-creative-identity-mastering-instagram-photowatermarking/"><u>[New] 2024 Approved Craft Your Creative Identity Mastering Instagram Photowatermarking</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-science-spheres-finest-15-youtube-picks/"><u>[New] In 2024, Science Sphere's Finest 15 YouTube Picks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-artists-companion-a-curated-list-of-8-premier-iphone-drawing-tools/"><u>[Updated] The Artist's Companion A Curated List of 8 Premier iPhone Drawing Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-graphics-device-performance-huion-h420-update-guide/"><u>Boost Graphics Device Performance - Huion H420 Update Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-gaming-rtx-3090-driver-win-edition/"><u>Elevate Gaming: RTX 3090 Driver, Win Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-amd-audio-driver-for-windows/"><u>Enhanced AMD Audio Driver for Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-missing-dbghelpdll-file-errors-easy-solutions-for-windows-users/"><u>Fixing Missing dBghelp.dll File Errors: Easy Solutions for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-latest-nvidia-gtx-960-drivers/"><u>Get the Latest Nvidia GTX 960 Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-windows-discord-search-response-times/"><u>Improving Windows Discord Search Response Times</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nokia-c02-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nokia C02 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-masterful-marketing-top-strategies-to-thrive-in-fb-video-space/"><u>In 2024, Masterful Marketing Top Strategies to Thrive in FB Video Space</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-ways-to-revamp-your-nvidia-graphics-drivers/"><u>Intuitive Ways to Revamp Your Nvidia Graphics Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-tech-update-nvidia-970-for-windows-11-users/"><u>Latest Tech Update: Nvidia 970 for Windows 11 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/successful-conversion-a-step-by-step-guide-to-streaming-your-dvd-collection-onto-your-kindle-fire/"><u>Successful Conversion: A Step-by-Step Guide to Streaming Your DVD Collection Onto Your Kindle Fire</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-definitive-guide-to-hyperx-soundcard-driver-improvements/"><u>The Definitive Guide to HyperX Soundcard Driver Improvements</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-acer-driver-setup-for-optimized-graphics/"><u>Update Acer Driver Setup for Optimized Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-drivers-for-your-hp-officejet-pro-8620-in-windows-os/"><u>Upgraded Drivers for Your HP OfficeJet Pro 8620 in Windows OS</u></a></li>
+</ul></div>
 

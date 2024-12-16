@@ -1,7 +1,7 @@
 ---
 title: S620 Driver Installation Manual - Step by Step
-date: 2024-09-13T16:05:39.638Z
-updated: 2024-09-20T16:07:21.639Z
+date: 2024-12-15T16:31:12.446Z
+updated: 2024-12-16T16:29:26.064Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ OR
 
 **[Option 2 – Automatically (Recommended)](#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  If you want to do the driver update by yourself, simply go to the official Gaomon website and search for the correct driver corresponding with your specific flavor of Windows.
@@ -36,10 +40,23 @@ Here are the steps:
 2. Select**Products** \>**Pen Tablet.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/manual-update-1.jpg)
 3. Scroll down to click**S620** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Navigate to the**Driver download** section and click the**Download** button next to the latest Gaomon Windows Driver.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/manual-update-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, double-click the downloaded file and follow the on-screen instructions to install the driver manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Gaomon S620 drivers
 
@@ -56,6 +73,10 @@ Here are the steps:
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/gaomon-s620-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -83,12 +104,18 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-photographers-ultimate-cloud-companion-infinite-free-and-paid-sky-sanctuaries/"><u>[Updated] Photographer’s Ultimate Cloud Companion Infinite, Free & Paid Sky Sanctuaries</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-guide-to-optimal-screen-casting-via-meet/"><u>[Updated] Step-by-Step Guide to Optimal Screen Casting via Meet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amend-acer-visuals-with-latest-win11-drivers/"><u>Amend Acer Visuals with Latest Win11 Drivers</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/efficient-document-management-how-abbyy-technologies-enhance-productivity-for-public-sector/"><u>Efficient Document Management: How ABBYY Technologies Enhance Productivity for Public Sector</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-visuals-refreshing-your-windows-11-hdmi-drivers/"><u>Enhancing Visuals: Refreshing Your Windows 11 HDMI Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-14-plus-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 14 Plus in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-12-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 12 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/modernize-drivers-for-acer-screens-on-windows-10/"><u>Modernize Drivers for Acer Screens on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-startech-drives-through-windows-versions/"><u>Navigating StarTech Drives Through Windows Versions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/online-audio-video-fusion-platform/"><u>Online Audio Video Fusion Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snag-the-discounted-magic-keyboard-from-apple-save-100-this-black-friday-zdnet/"><u>Snag the Discounted Magic Keyboard From Apple - Save $100 This Black Friday! - ZDNet</u></a></li>
+</ul></div>
 

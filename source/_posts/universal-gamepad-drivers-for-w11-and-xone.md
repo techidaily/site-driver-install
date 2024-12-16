@@ -1,7 +1,7 @@
 ---
 title: Universal Gamepad Drivers for W11 & Xone
-date: 2024-07-11T15:45:19.318Z
-updated: 2024-07-12T15:45:19.318Z
+date: 2024-12-15T16:06:13.174Z
+updated: 2024-12-16T16:19:31.884Z
 tags:
   - win11
   - win10
@@ -33,17 +33,33 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand the branch **Microsoft Xbox One Controller** .
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Check to see if you can use the Xbox One Controller properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2: Update the Driver Using Driver Easy
 
@@ -58,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
 
@@ -78,8 +98,6 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,6 +105,20 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-efficient-setup-ps4-streaming-and-recording-via-obs/"><u>[Updated] In 2024, Efficient Setup PS4 Streaming and Recording via OBS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-bt400-usb-adapter-for-windows-free-installation-guide/"><u>Asus BT400 USB Adapter for Windows: Free Installation Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finding-your-ideal-viewing-experience-with-projection-or-television-for-2024/"><u>Finding Your Ideal Viewing Experience with Projection or Television for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715860371753-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones-for-2024/"><u>Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones. For 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063291212-no-hassle-just-great-audio-quality/"><u>No Hassle, Just Great Audio Quality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/replace-old-audio-drivers-for-w7-support/"><u>Replace Old Audio Drivers for W7 Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-lenovo-thinks-for-w10-with-drivers/"><u>Revamp Lenovo Thinks for W10 with Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsungs-latest-innovation-the-galaxy-z-fold-x-get-inside-info-on-cost-release-window-and-cutting-edge-specs/"><u>Samsung's Latest Innovation - The Galaxy Z Fold X: Get Inside Info on Cost, Release Window & Cutting-Edge Specs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/streamlining-your-creative-process-with-vsco-app/"><u>Streamlining Your Creative Process with VSCO App</u></a></li>
+<li><a href="https://driver-install.techidaily.com/strengthen-w11s-visual-prowess-with-acer-enhancements/"><u>Strengthen W11's Visual Prowess with Acer Enhancements</u></a></li>
+<li><a href="https://driver-install.techidaily.com/supercharge-logitech-mouse-with-windows-11-driver-updates/"><u>Supercharge Logitech Mouse with Windows 11 Driver Updates</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316691-9781401952921-the-sacred-science/"><u>The Sacred Science | Free Book</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-7-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 7 Plus? 5 Tips You Must Know</u></a></li>
+</ul></div>
 

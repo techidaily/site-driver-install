@@ -1,7 +1,7 @@
 ---
 title: All-in-One Ultraportable Computer with AMD Ryzen Performance – Features Foldable Design, Touchscreen Controls, and Built-In Battery
-date: 2024-12-03T16:31:57.917Z
-updated: 2024-12-10T12:02:21.943Z
+date: 2024-12-14T16:31:46.446Z
+updated: 2024-12-16T16:42:50.093Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,17 +56,22 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-share-the-laughs-right-top-gif-saver-for-twitter/"><u>[New] In 2024, Share the Laughs Right Top GIF Saver for Twitter</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-cost-efficient-drone-buying-guide-find-the-best-deals/"><u>[Updated] In 2024, Cost-Efficient Drone Buying Guide Find the Best Deals</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-secrets-of-saving-gameplay-on-windows-10-for-2024/"><u>[Updated] Secrets of Saving Gameplay on Windows 10 for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-amplify-your-influence-the-ultimate-list-of-instagram-apps/"><u>2024 Approved Amplify Your Influence The Ultimate List of Instagram Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/canon-mf4770n-printer-driver-update-windows-guide/"><u>Canon MF4770n Printer Driver Update: Windows Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-setup-guide-asus-bt400/"><u>Download and Setup Guide: Asus BT400</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-steps-to-implement-manual-drivers-updates-on-windows-8os/"><u>Essential Steps to Implement Manual Drivers Updates on Windows 8OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fasten-intel-lan-controller-tuning-effortlessly/"><u>Fasten Intel LAN Controller Tuning Effortlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-securely-transfer-and-share-your-conversations-from-chatgpt-using-software-extensions/"><u>How to Securely Transfer and Share Your Conversations From ChatGPT Using Software Extensions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-ax19-wireless-network-card-in-asus-devices/"><u>Install AX19 Wireless Network Card in ASUS Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-of-9-queries-before-investing-in-an-ev/"><u>The Ultimate Checklist of 9 Queries Before Investing in an EV</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-vivo-y27s-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y27s Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ialing-up-deliverables-a-comprehensive-guide-to-gainful-vlogging-for-2024/"><u>[New] Dialing Up Deliverables A Comprehensive Guide to Gainful Vlogging for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-androids-best-practice-for-saving-gameplay-videos/"><u>[Updated] Android's Best Practice for Saving Gameplay Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-hot-hands-on-10-must-have-vr-peripherals/"><u>[Updated] Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenger-emerges-googles-gemini-rises-against-openais-chatgpt/"><u>Challenger Emerges: Google's Gemini Rises Against OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comment-accelerer-le-traitement-de-lencodage-hevch265-pour-des-temps-dencoding-optimises/"><u>Comment Accélérer Le Traitement De L'Encodage HEVC/H.265 Pour Des Temps D'Encoding Optimisés</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compreehensive-breakdown-clean-installation-for-graphics-drivers/"><u>Compreehensive Breakdown: Clean Installation for Graphics Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-setup-asus-usb-bt400-driver-guide/"><u>Effortless Setup: Asus USB-BT400 Driver Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-optimal-performance-download-logitech-hd-camera-software/"><u>Get Optimal Performance: Download Logitech HD Camera Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-handcrafted-driver-adjustments-for-xp-machines/"><u>Guide to Handcrafted Driver Adjustments for XP Machines</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-acquire-canon-inkjet-drivers-for-win11/"><u>How to Acquire Canon Inkjet Drivers for Win11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y77t-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y77t Phone?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-xerox-printer-connectivity-on-win11/"><u>Improve Xerox Printer Connectivity on Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/innovate-dell-devices-latest-windows-drivers-announcement/"><u>Innovate Dell Devices: Latest Windows Drivers Announcement</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-printing-with-newly-updated-windows-driver-for-hp-officejet-pro-8600/"><u>Seamless Printing with Newly Updated Windows Driver for HP Officejet Pro 8600</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063375396-update-lenovo-audio-drivers-in-windows-10-easily/"><u>Update Lenovo Audio Drivers in Windows 10. Easily!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-split-screen-video-apps-for-ios-and-android/"><u>Updated 2024 Approved Best Split Screen Video Apps for iOS And Android</u></a></li>
 </ul></div>
 

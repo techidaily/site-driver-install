@@ -1,7 +1,7 @@
 ---
 title: Upgrade Windows Graphics with New Driver
-date: 2024-12-05T09:48:05.599Z
-updated: 2024-12-09T18:26:56.811Z
+date: 2024-12-11T16:46:43.774Z
+updated: 2024-12-16T16:11:46.650Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 [**Step 2: Install a new graphics driver**](#step2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Uninstall the graphics driver
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Reinstall the graphics driver with Driver Easy
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -125,18 +125,18 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-sierras-best-top-5-mac-videography-software-insights-for-2024/"><u>[Updated] Sierra's Best Top 5 Mac Videography Software Insights for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-superior-scripting-fx-vaults/"><u>[Updated] Superior Scripting FX Vaults</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722890784886-how-to-repair-and-resolve-msodll-file-missing-error-on-your-pc/"><u>How to Repair and Resolve mso.dll File Missing Error on Your PC</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sprint-through-photo-composition-googles-easy-way/"><u>In 2024, Sprint Through Photo Composition - Google's Easy Way</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/streamline-gaming-setup-secure-official-corsair-icue-app-downloads-for-windows-1110-systems/"><u>Streamline Gaming Setup: Secure Official Corsair iCUE App Downloads for WIndows 11/10 Systems.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-performance-with-r9-firmware-updates/"><u>Streamline Performance with R9 Firmware Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-system-software-enhancements-for-w7/"><u>Streamlined System Software Enhancements for W7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-techniques-for-driver-refresh-on-nvidia-gpus/"><u>Streamlined Techniques for Driver Refresh on Nvidia GPUs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/supercharge-with-new-amd-radeon-vega-3-driver-24/"><u>Supercharge with New AMD Radeon Vega 3 Driver '24</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-f15-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy F15 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-hdmi-experience-a-guide-for-win-11-users/"><u>Upgrade Your HDMI Experience: A Guide for Win 11 Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-installed-hd-audio-drivers/"><u>Windows 10: Installed HD Audio Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/word-basics-uncovered-the-comprehensive-guide-to-line-insertion/"><u>Word Basics Uncovered: The Comprehensive Guide to Line Insertion</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-horizon-zero-dawn-boost-fps-and-increase-performance/"><u>[Fixed] Horizon Zero Dawn BOOST FPS and Increase Performance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-comprehensive-list-of-the-best-10-low-cost-video-production-schools-on-youtube/"><u>[New] A Comprehensive List of the Best 10 Low-Cost Video Production Schools on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-discover-10-secret-followers-on-stories-for-2024/"><u>[New] Discover 10 Secret Followers on Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-practices-for-producing-encouragement-driven-vlogs/"><u>[New] In 2024, Best Practices for Producing Encouragement-Driven Vlogs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-camstudio-live-streaming-and-screen-capturing-review/"><u>[New] In 2024, CamStudio Live Streaming & Screen Capturing Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-vrecorder-guide-downloading-and-setting-up-instantly/"><u>[Updated] VRecorder Guide Downloading & Setting Up Instantly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reset-and-restore-bluetooth-in-windows-11/"><u>Reset and Restore: Bluetooth in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-canon-scanner-driver-access-for-windows-users/"><u>Simplified Canon Scanner Driver Access for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operation-integrate-pro-4-drivers-into-windows-os/"><u>Smooth Operation: Integrate Pro 4 Drivers Into Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-audio-experience-with-latest-windows-fixes/"><u>Streamlined Audio Experience with Latest Windows Fixes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/techniques-for-modifying-voice-on-instagram-profiles/"><u>Techniques for Modifying Voice on Instagram Profiles</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-hp-omen-15-driver-software/"><u>Upgrading HP Omen 15 Driver Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win781-usbasp-driver-stabilization-completed/"><u>Win7/8.1 USBasp Driver Stabilization [Completed]</u></a></li>
 </ul></div>
 

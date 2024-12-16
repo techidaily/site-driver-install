@@ -1,7 +1,7 @@
 ---
 title: Reviving GPUs Effortlessly Using DDU
-date: 2024-07-11T15:47:32.760Z
-updated: 2024-07-12T15:47:32.760Z
+date: 2024-12-15T16:14:57.978Z
+updated: 2024-12-16T16:26:02.004Z
 tags:
   - win11
   - win10
@@ -35,7 +35,16 @@ Here’s how to do a clean reinstallation of your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-1.jpg)
 2. Once downloaded, unzip the file to your Desktop. Then open the folder and double click**DDU.exe** to extract the files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next you need to boot your PC into Safe Mode. And here’s how to do that on both Windows 10 and 11.
 
@@ -44,6 +53,11 @@ Here’s how to do a clean reinstallation of your graphics driver:
 1. Next you need to enter Safe Mode. On your keyboard, press**Win+I** (the Windows logo key and the i key). Select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. In the left pane, select**Recovery** . Under**Advanced startup** , click**Restart now** . (Note that you should now continue this tutorial on your phone/another computer.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
 
 #### Windows 11
@@ -63,6 +77,11 @@ Here’s how to do a clean reinstallation of your graphics driver:
 3. Click **Startup Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Startup-settings.jpg)
 4. Click **Restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/restart-1.jpg)
 5. You will see a list of different startup options. On your keyboard, press the**number 4 key** to enter**Safe Mode without internet access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/safe-mode-startup-settings.jpg)
@@ -74,7 +93,16 @@ Here’s how to do a clean reinstallation of your graphics driver:
 2. In the pop-up**Option** window, choose your preferences. If you’re not sure, simply close the window  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-option.jpg)
 3. On the right, select**your device type** and**your GPU manufacturer** . Then click**Clean and restart** .![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once DDU purged the graphics driver, your PC should restart. You can now check if the graphics issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 So you’ve reinstalled the graphics driver, what next?
 
@@ -111,8 +139,6 @@ So you’ve reinstalled the graphics driver, what next?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,6 +146,22 @@ So you’ve reinstalled the graphics driver, what next?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/discovering-the-basics-of-streaming-via-discord-for-2024/"><u>Discovering the Basics of Streaming via Discord for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-13-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone 13 Safe and Legal</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effective-methods-to-update-atheros-drivers-on-your-windows-system/"><u>Effective Methods to Update Atheros Drivers on Your Windows System</u></a></li>
+<li><a href="https://facebook.techidaily.com/effortlessly-redefine-yourself-in-the-social-media-sphere/"><u>Effortlessly Redefine Yourself in the Social Media Sphere</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-driver-update-new-gaming-mouse/"><u>Fast Driver Update: New Gaming Mouse</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-driver-pack-for-nvidias-rtx-1650-super-optimized-for-windows-11-and-10-systems/"><u>Get the Newest Driver Pack for Nvidia's RTX 1650 Super - Optimized for Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-sonic-social-media-merging-melodies-and-memes-on-instagram/"><u>In 2024, Sonic Social Media Merging Melodies and Memes on Instagram</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-ideapad-u310-drivers-update-easily/"><u>Lenovo Ideapad U310 Drivers Update Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-integration-setup-for-epson-et-2650-driver/"><u>Seamless Integration Setup for Epson ET-2650 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/securing-network-connectivity-in-windows-xp-to-zt/"><u>Securing Network Connectivity in Windows XP to ZT</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-vivo-y100-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo Y100 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-art-of-instagram-covers-your-stepwise-journey-begins-here-for-2024/"><u>The Art of Instagram Covers Your Stepwise Journey Begins Here for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-msi-compatibility-on-windows-10-7-and-8-editions/"><u>Upgrading MSI Compatibility on Windows 10, 7 & 8 Editions</u></a></li>
+</ul></div>
 

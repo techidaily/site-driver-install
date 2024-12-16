@@ -1,7 +1,7 @@
 ---
 title: Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860
-date: 2024-12-03T17:28:26.008Z
-updated: 2024-12-10T09:59:42.982Z
+date: 2024-12-12T16:24:37.950Z
+updated: 2024-12-16T16:45:07.480Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,22 +76,24 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-enrich-your-videos-expert-recommended-players-guide/"><u>[New] Enrich Your Videos Expert-Recommended Players' Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-amplify-your-influence-an-instagram-guide/"><u>[New] In 2024, Amplify Your Influence An Instagram Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-in-game-audio-capture-in-overwatch/"><u>[New] Mastering In-Game Audio Capture in Overwatch</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-deciphering-the-divergent-aspects-of-youtubes-and-dailymentions-for-2024/"><u>[Updated] Deciphering the Divergent Aspects of YouTubes & DailyMentions for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigating-gopro-livestreams-to-popular-channels-facebook-and-periscope/"><u>[Updated] In 2024, Navigating GoPro Livestreams to Popular Channels (Facebook & Periscope)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook-for-2024/"><u>[Updated] Social Media Savvy Unlock the Secrets of Crafting Winning Bios on Facebook for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-mic-and-speaker-problems-in-sea-of-thieves-for-enhanced-pc-gaming-experience/"><u>Fix Mic & Speaker Problems in 'Sea of Thieves' For Enhanced PC Gaming Experience</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-check-graphics-card-and-operating-system-matchup-tips-from-yl-software-experts/"><u>How To Check Graphics Card & Operating System Matchup - Tips From YL Software Experts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-g580-simplified-driver-changes/"><u>Lenovo G580: Simplified Driver Changes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/masterful-device-management-via-installed-hardware-drivers/"><u>Masterful Device Management via Installed Hardware Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-privacy-how-to-thoroughly-erase-files-and-directories-with-stellar-file-eraser-v5-for-windows-users/"><u>Mastering Privacy: How to Thoroughly Erase Files & Directories with Stellar File Eraser v5 for Windows Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-fps-hp-graphics-in-windows-10/"><u>Maximize FPS: HP Graphics in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/patch-perfection-win95-win11-driver-flawlessness-for-startech/"><u>Patch Perfection: Win95-Win11 Driver Flawlessness for StarTech</u></a></li>
-<li><a href="https://driver-install.techidaily.com/power-up-your-dell-latest-driver-update-release-notes/"><u>Power Up Your Dell: Latest Driver Update Release Notes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/purchase-hp-officejet-pro-8710-usb-drivers-for-windows/"><u>Purchase: HP OfficeJet Pro 8710 USB Drivers for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-setup-guide-for-windows-10-printer/"><u>Quick Setup Guide for Windows 10 Printer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-savings-with-the-black-friday-blowout-gigabytes-a5-k1-gaming-laptop-at-an-exclusive-40-off-insider-tips/"><u>Score Big Savings with the Black Friday Blowout: Gigabyte's A5 K1 Gaming Laptop at an Exclusive 40% Off Insider Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-metaverse-tech-the-ultimate-goggles-and-hmds-list/"><u>[New] Best Metaverse Tech The Ultimate Goggles and HMDs List</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-precision-and-panache-advanced-tiktok-editing-skills/"><u>[New] Precision and Panache Advanced TikTok Editing Skills</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-virtual-horizons-exploring-vrs-advancements/"><u>[New] Virtual Horizons Exploring VR’s Advancements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accelerating-learning-on-tiktok-changing-your-profile-number/"><u>[Updated] Accelerating Learning on TikTok Changing Your Profile Number</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-your-photos-a-comprehensive-guide-to-facetune/"><u>[Updated] Mastering Your Photos A Comprehensive Guide to Facetune</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/de-talen-van-vaderland-its-linguistic-roots/"><u>De Talen Van Vaderland: Its Linguistic Roots</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-the-very-best-in-ios-video-playback-tools-for-2024/"><u>Explore the Very Best in iOS Video Playback Tools for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/exploring-various-cryptocurrency-options-an-in-depth-guide-by-yl-computing/"><u>Exploring Various Cryptocurrency Options: An In-Depth Guide by YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instructions-microsoft-pro-4-drivers-in-windows/"><u>Instructions: Microsoft Pro 4 Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/jumpstart-your-device-installing-3dconnexion-technology/"><u>Jumpstart Your Device: Installing 3Dconnexion Technology</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-hawku-cars-simple-solutions/"><u>Navigating Hawku Cars: Simple Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-new-driver-installation-guide/"><u>Nvidia GTX 970 - New Driver Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimal-printing-update-for-latest-hp-officejet-4630-driver/"><u>Optimal Printing: Update for Latest HP Officejet 4630 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-hp-deskjet-printing-windows-11/"><u>Optimize HP Deskjet Printing Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-windows-11-hdmi-via-driver-rejuvenation/"><u>Optimizing Windows 11 HDMI via Driver Rejuvenation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pioneering-windows-11-updates-for-enhanced-acer-drivers/"><u>Pioneering Windows 11 Updates for Enhanced Acer Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-intel-hd520-graphics-update/"><u>Quick Intel HD520 Graphics Update</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-for-seamless-windows-updates-and-downloads-of-sata-drive-drivers/"><u>Step-by-Step Instructions for Seamless Windows Updates & Downloads of SATA Drive Drivers</u></a></li>
 </ul></div>
 

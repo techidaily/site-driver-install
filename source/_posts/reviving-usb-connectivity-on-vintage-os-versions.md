@@ -1,7 +1,7 @@
 ---
 title: Reviving USB Connectivity on Vintage OS Versions
-date: 2024-12-03T10:45:35.963Z
-updated: 2024-12-10T04:12:22.541Z
+date: 2024-12-15T16:14:17.321Z
+updated: 2024-12-16T16:27:32.460Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to reinstall USB drivers
 
  There’re two ways you can reinstall your USB drivers on Windows 11, 10, 8 and 7\. You may not try them; just choose your preferred one.
@@ -30,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Reinstall the drivers using Device Manager
@@ -41,28 +37,28 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
- It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
 
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -101,21 +101,18 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-speech-recording-top-apps-for-your-ipad/"><u>[Updated] 2024 Approved Mastering Speech Recording Top Apps for Your iPad</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-streamline-your-video-capture-with-macbook-cam-settings/"><u>[Updated] 2024 Approved Streamline Your Video Capture with MacBook Cam Settings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-enhance-mobile-conversations-with-unique-whatsapp-alerts-for-ios-and-android/"><u>[Updated] In 2024, Enhance Mobile Conversations with Unique WhatsApp Alerts for iOS & Android</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-sourav-joshis-predictions-on-youtube-profits-in-the-new-year/"><u>[Updated] Sourav Joshi's Predictions on YouTube Profits in the New Year</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-ringtone-revolution-transforming-your-ios-sound/"><u>2024 Approved Ringtone Revolution Transforming Your iOS Sound</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-elite-selection-of-virtual-audio-editing-experts/"><u>2024 Approved The Elite Selection of Virtual Audio Editing Experts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amdradeonupdatewin11xps/"><u>AMDRADEONUpdateWin11XPS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/apex-list-of-10-unmatched-recorders-for-spotify-playbacks-for-2024/"><u>Apex List of 10 Unmatched Recorders for Spotify Playbacks for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-implement-official-canon-windows-10-print-drivers/"><u>Download & Implement: Official Canon Windows 10 Print Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-network-bridge-in-windows-7/"><u>Effortless Network Bridge in Windows 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortlessly-restore-windows-1011s-bluetooth-driver/"><u>Effortlessly Restore Windows 10/11'S Bluetooth Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-laserjet-drivers-optimize-performance-in-win11/"><u>HP Laserjet Drivers: Optimize Performance in Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ideapad-y470-lenovo-laptop-device-drivers-on-windows-7/"><u>IdeaPad-Y470 Lenovo Laptop Device Drivers on Windows 7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-discovering-key-differences-between-ipads-and-generic-tablet-devices/"><u>In-Depth Analysis: Discovering Key Differences Between iPads and Generic Tablet Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-canon-printer-driver-win-versions/"><u>Install Canon Printer Driver Win Versions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/journey-to-joyful-snaps-animated-faces-on-mobile/"><u>Journey to Joyful Snaps Animated Faces on Mobile</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-free-3d-text-psd-goldmine-top-selections/"><u>[New] 2024 Approved Free 3D Text PSD Goldmine - Top Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-blur-a-part-of-a-picture-on-pcmobile/"><u>[New] How to Blur a Part of a Picture on PC/Mobile</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-rescue-absent-watch-thumbnail-icon/"><u>[Updated] 2024 Approved Rescue Absent Watch Thumbnail Icon</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-iphoneandroid-blur-application-guide/"><u>[Updated] Expert iPhone/Android Blur Application Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/auditory-advancement-installing-conexant-hd-drivers-for-win11/"><u>Auditory Advancement: Installing Conexant HD Drivers for Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-magic-vs-2-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor Magic Vs 2</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-nvidia-graphics-driver-gtx-1650/"><u>Download Nvidia Graphics Driver – GTX 1650</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-correcting-directx-problems-in-call-of-duty-mw-ii/"><u>Effective Solutions for Correcting DirectX Problems in Call of Duty: MW II</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-resolve-unable-to-boot-error-on-your-pc/"><u>Fixing the Issue: How to Resolve 'Unable to Boot' Error on Your PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-vega-3-graphics-support-with-latest-2024-driver/"><u>Get Vega 3 Graphics Support with Latest 2024 Driver</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-docx-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .docx </u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-printer-1020-win-fixes-resolved-driver-woes/"><u>HP Printer 1020 Win Fixes: Resolved Driver Woes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unraveling-the-process-of-uploading-360-footage-to-youtube/"><u>In 2024, Unraveling the Process of Uploading 360° Footage to YouTube</u></a></li>
 </ul></div>
 

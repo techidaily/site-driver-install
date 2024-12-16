@@ -1,7 +1,7 @@
 ---
 title: Update Canon MX870 to Work with Windows 8-7
-date: 2024-12-04T16:25:04.123Z
-updated: 2024-12-09T23:45:44.841Z
+date: 2024-12-12T16:27:18.118Z
+updated: 2024-12-16T16:26:15.560Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
@@ -36,25 +36,29 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
  If you are not a tech savvy, or you just want to save much time, way 2 is your choice — Using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to download the latest drivers automatically. Driver Easy is a 100% safe and extremely helpful driver tool. It can help you solve all the drivers problem, including missing, outdated and incompatible drivers. And it supports most Windows versions, from Vista to the newly Windows 10\. Its [Free version](https://tools.techidaily.com/drivereasy/download/) will find the correct drivers for you to install one by one. But if upgrade to [Pro version](https://tools.techidaily.com/drivereasy/download/) , it will update all your drivers with just one click — **Update All** . Of cause including your Canon MX870 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
 
@@ -88,17 +88,15 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-depth-look-at-facetune-complete-app-revision-for-2024/"><u>[New] In-Depth Look at Facetune Complete App Revision for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-customize-your-videos-appeal-youtube-thumbnail-tips-and-tricks-for-2024/"><u>[Updated] Customize Your Video's Appeal YouTube Thumbnail Tips & Tricks for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-premier-10plus-free-video-intro-creators/"><u>[Updated] Premier 10+ Free Video Intro Creators</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>2024 Approved From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-nubia-red-magic-8s-proplus-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effizientes-pc-gaming-optimieren-wie-man-spieledateien-nahezu-perfekt-auslagern/"><u>Effizientes PC-Gaming Optimieren: Wie Man Spieledateien Nahezu Perfekt Auslagern</u></a></li>
-<li><a href="https://driver-install.techidaily.com/introducing-gb-motherboard-driver-easy-windows-install/"><u>Introducing GB Motherboard Driver - Easy Windows Install</u></a></li>
-<li><a href="https://driver-install.techidaily.com/logitech-earbuds-update-made-simple/"><u>Logitech Earbuds: Update Made Simple!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-spooler-service-performance-on-windows-devices/"><u>Optimize Spooler Service Performance on Windows Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-your-gpu-easy-rx-5500xt-updates/"><u>Optimize Your GPU: Easy RX 5500XT Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-to-update-high-performance-pro-6-drivers/"><u>Quick-to-Update, High-Performance Pro 6 Drivers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superlative-picture-based-adventure-builder-for-2024/"><u>Superlative Picture-Based Adventure Builder for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-reverse-video-magic-online-step-by-step-guides-for-2024/"><u>[Updated] Reverse Video Magic Online Step-by-Step Guides for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unpacking-virtual-reality-its-upside-and-downside/"><u>[Updated] Unpacking Virtual Reality Its Upside & Downside</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-expected-video-gb-for-continuous-24-hour-viewing/"><u>2024 Approved Expected Video GB for Continuous 24-Hour Viewing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/beat-batch-downloads-and-review-rhythmical-sounds-for-2024/"><u>Beat Batch Downloads & Review Rhythmical Sounds for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dive-deep-into-powerdirector-comprehensive-guide-2024/"><u>Dive Deep Into PowerDirector Comprehensive Guide - 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/google-drive-datei-zip-verschwinden-erfahre-jetzt-8-wirksame-strategien-zur-wiederherstellung-und-sicherung/"><u>Google Drive-Datei-Zip-Verschwinden? Erfahre Jetzt 8 Wirksame Strategien Zur Wiederherstellung Und Sicherung!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-hd-webcam-c270-driver-download-for-windows-1011/"><u>Logitech HD Webcam C270 Driver Download for Windows 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-performance-windows-10-thinkpad-driver-upgrade/"><u>Maximize Performance: Windows 10 Thinkpad Driver Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinvigorate-your-sound-system-with-windows-7-and-nvidia-update/"><u>Reinvigorate Your Sound System with Windows 7 & Nvidia Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ultimate-performance-driver-nvidias-wintixt/"><u>Ultimate Performance Driver - NVIDIA's WinTiXT</u></a></li>
 </ul></div>
 

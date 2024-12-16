@@ -1,7 +1,7 @@
 ---
 title: Setup Networking with AVSTAR LAN Adapter on Surface Go
-date: 2024-07-11T15:44:30.762Z
-updated: 2024-07-12T15:44:30.762Z
+date: 2024-12-10T16:19:47.438Z
+updated: 2024-12-16T16:14:23.958Z
 tags:
   - win11
   - win10
@@ -22,13 +22,29 @@ OR
 
 **[Option 2 – Automatically (Recommended)](#option2)** – This is the quickest and easiest option. It’s all done with just a few mouse clicks – super easy even if you’re a computer newbie.**IMPORTANT:** Both these two options should be performed with network connection on your Surface. If you cannot access the wireless network, try to connect to network through a wired cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1\. Download latest Avastar Wireless-AC Network Controller driver from Microsoft website
 
 1) Head to [Microsoft Install Wireless Drivers on Surface](https://www.microsoft.com/surface/en-hk/support/networking-and-connectivity/install-wireless-drivers?os=windows-10&=undefined) website. 2) Choose your operating system. Then click**Download the driver package**.![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-7.png) 3) Click the download link of your Surface version.![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-7.png) 4) Click**Download**icon and go on to follow the on-screen instructions to finish downloading.![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 2\. Download & Install the latest Avastar Wireless-AC Network Controller driver via Driver Easy AUTOMATICALLY (Recommended)
 
  **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/06/5-8.png) 3) Click the **Update**  button next to a flagged network controller driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-5.png) **Note:**Driver Easy needs network connection to help you update all the driver with one-click. But without Internet, you still can use its **[Offline Scan](https://tools.techidaily.com/drivereasy/download/)** feature to update your drivers. After installing the new driver on your Surface, please reboot your system to make it take effect. That’s all there is to it. Any confusion please feel free to leave comment below to let us know, thanks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
 * [network adapter](https://tools.techidaily.com/drivereasy/download/)
@@ -39,8 +55,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,6 +62,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-uncomplicated-strategy-for-fish-phonetics-tweaking/"><u>[New] In 2024, Uncomplicated Strategy for Fish Phonetics Tweaking</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-peeling-back-layers-of-xstudio-workshop-a-thorough-overview/"><u>[New] Peeling Back Layers of XStudio Workshop - A Thorough Overview</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-day-jobs-and-digital-passion-striking-a-balance/"><u>[Updated] In 2024, Day Jobs & Digital Passion Striking a Balance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-driver-updates-for-rx-5500xt/"><u>Accelerate Driver Updates for RX 5500XT</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-6-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 6 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-tracking-mouse-driver-installation-in-windows-10/"><u>Fast-Tracking Mouse Driver Installation in Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-6-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intel-driver-boost-for-win-10781/"><u>Intel Driver Boost for WIN 10/7/8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-art-of-mouse-driver-restoration/"><u>Mastering the Art of Mouse Driver Restoration</u></a></li>
+<li><a href="https://facebook.techidaily.com/pushing-boundaries-in-smm-creativity-using-ripl/"><u>Pushing Boundaries in SMM Creativity Using Ripl</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/raise-the-bar-top-8-speed-up-video-apps/"><u>Raise the Bar Top 8 Speed Up Video Apps</u></a></li>
+</ul></div>
 
