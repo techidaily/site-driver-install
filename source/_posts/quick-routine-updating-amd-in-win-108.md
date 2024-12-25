@@ -1,7 +1,7 @@
 ---
 title: "Quick Routine: Updating AMD in Win 10/8"
-date: 2024-07-11T15:40:28.537Z
-updated: 2024-07-12T15:40:28.537Z
+date: 2024-12-18T23:59:37.191Z
+updated: 2024-12-24T20:02:05.059Z
 tags:
   - win11
   - win10
@@ -32,18 +32,36 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. On Windows 10, 8.1, 8 and 7, the option says**Delete the driver software for this device** , but it works the same. Tick the box and click**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/1-4-6.jpg)
 
 When it’s done, AMD graphics card will disappear from the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2 – Install new AMD drivers
 
  After finishing the steps above, restart your computer and Windows will automatically detect the AMD graphics and install the appropriate drivers for you.
 
  However, Windows doesn’t always provide the latest device drivers ([see why](https://tools.techidaily.com/drivereasy/download/) ). In this case, you should try the other two ways to get the correct and up-to-date AMD drivers:**[manually](#option1)** or**[automatically](#option2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Manually download and install drivers from AMD
 
@@ -67,6 +85,10 @@ When it’s done, AMD graphics card will disappear from the list.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -85,8 +107,6 @@ When it’s done, AMD graphics card will disappear from the list.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,6 +114,24 @@ When it’s done, AMD graphics card will disappear from the list.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-skyrocket-mobile-images-flawlessly-free/"><u>[New] Skyrocket Mobile Images Flawlessly, Free</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pixelprobe-criticism-engine-for-2024/"><u>[Updated] PixelProbe Criticism Engine for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-picks-where-to-grab-classical-ringtones/"><u>2024 Approved Premium Picks Where to Grab Classical Ringtones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-graphics-new-vega-3-firmware-update/"><u>Boost Graphics - New Vega 3 Firmware Update</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-video-files-easily-with-movavis-free-offline-and-web-based-mkv-to-m4v-tool/"><u>Convert Video Files Easily with Movavi's FREE Offline and Web-Based MKV to M4V Tool.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easily-upgrade-to-newest-driver-for-a6200-wi-fi-device/"><u>Easily Upgrade to Newest Driver for A6200 Wi-Fi Device</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-on-how-to-fetch-newest-driver-software-for-the-hp-envy-20/"><u>Easy Steps on How to Fetch Newest Driver Software for the HP Envy 20</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensuring-usb-compatibility-across-windows-ages/"><u>Ensuring USB Compatibility Across Windows Ages</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-model-1102w-driver-free-download-for-pcs/"><u>HP Model 1102W Driver - Free Download for PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x100-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X100 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/increase-pc-lifespan-and-efficiency-by-updating-hp-omen-drivers/"><u>Increase PC Lifespan and Efficiency by Updating HP Omen Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/keep-your-devices-up-to-date-install-new-intel-82579lm-driver/"><u>Keep Your Devices Up-to-Date: Install New Intel 82579LM Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-audio-boost-windows-7-driver-update/"><u>Nvidia Audio Boost - Windows 7 Driver Update</u></a></li>
+<li><a href="https://article-tips.techidaily.com/refine-your-remote-sessions-zoom-in-effectively/"><u>Refine Your Remote Sessions Zoom in Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solve-windows-10-sound-problems-reinstall-audio-drivers/"><u>Solve Windows 10 Sound Problems: Reinstall Audio Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-digital-duel-how-jake-paul-triumphed-on-youtube-for-2024/"><u>The Digital Duel How Jake Paul Triumphed on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-spending-over-500-on-a-laptop-may-not-be-necessary-anymore-the-lenovo-chromebook-plus-review/"><u>Why Spending Over $500 on a Laptop May Not Be Necessary Anymore: The Lenovo Chromebook Plus Review</u></a></li>
+</ul></div>
 

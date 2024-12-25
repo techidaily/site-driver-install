@@ -1,7 +1,7 @@
 ---
 title: "Rapid Update: Your Lenovo Dock Drivers"
-date: 2024-07-11T15:41:19.890Z
-updated: 2024-07-12T15:41:19.890Z
+date: 2024-12-18T04:38:19.755Z
+updated: 2024-12-25T03:58:21.881Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
  In this tutorial, we’ll guide you through the process of updating the drivers for your Lenovo USB-C Dock, both automatically and manually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To update Lenovo USB-C Dock drivers in Windows
 
 **[Option 1 – Automatically (Recommended)](#O1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 **OR**
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
@@ -40,10 +48,19 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
 
@@ -62,6 +79,11 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
 7. Double-click on the execution file and follow the on-screen instructions to install.
@@ -82,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,6 +111,18 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-detailed-elucinasion-the-google-podcast-application-explained/"><u>[New] In 2024, Detailed Elucinasion The Google Podcast Application Explained</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/aesthetics-meet-utility-in-our-in-depth-analysis-of-acers-xf2-40/"><u>Aesthetics Meet Utility in Our In-Depth Analysis of Acer's XF2-40</u></a></li>
+<li><a href="https://article-tips.techidaily.com/discovering-top-8-android-videomosaic-creators-for-both-free-and-paid-users/"><u>Discovering Top 8 Android Videomosaic Creators for Both Free & Paid Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortlessly-acquire-adb-toolkit-for-your-device/"><u>Effortlessly Acquire ADB Toolkit for Your Device!</u></a></li>
+<li><a href="https://techidaily.com/exploring-tencentclouds-latest-release-an-exclusive-os-tailored-for-chinese-cpu-chips-including-huawei-kunpeng-and-sugon-hygon/"><u>Exploring TencentCloud’s Latest Release – An Exclusive OS Tailored for Chinese CPU Chips Including Huawei Kunpeng and Sugon Hygon</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gifinstagram/"><u>GIFを使ったInstagramストーリーズアップロードガイド: 完全取材</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-creating-a-positive-interview-environment/"><u>In 2024, Strategies for Creating a Positive Interview Environment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneity-in-updating-pro-6s-drivers/"><u>Instantaneity in Updating Pro 6'S Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-hd-webcam-c270-driver-download-for-windows-1111/"><u>Logitech HD Webcam C270 Driver Download for Windows 11/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-acer-driver-enhancements-for-windows-11-users/"><u>Swift Acer Driver Enhancements for Windows 11 Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-portable-laptop-power-supplies/"><u>Top Rated Portable Laptop Power Supplies</u></a></li>
+</ul></div>
 

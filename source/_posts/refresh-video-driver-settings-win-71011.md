@@ -1,7 +1,7 @@
 ---
 title: Refresh Video Driver Settings (Win 7/10/11)
-date: 2024-07-11T15:39:39.959Z
-updated: 2024-07-12T15:39:39.959Z
+date: 2024-12-23T18:53:20.668Z
+updated: 2024-12-24T19:06:46.231Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
@@ -43,7 +47,15 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
 
@@ -59,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
  This method is very simple. **After uninstalling the driver, you just need to reboot your computer** . Then Windows will install the driver automatically from Windows Update.
 
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
@@ -82,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -96,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,6 +123,17 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-directed-focus-youtubes-easy-ways-for-smoother-borders-for-2024/"><u>[New] Directed Focus YouTube's Easy Ways for Smoother Borders for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-download-youtube-snippets-with-perfection/"><u>[Updated] In 2024, Download YouTube Snippets with Perfection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ultimate-guide-to-easy-youtube-subtitle-and-closed-caption-addition/"><u>[Updated] Ultimate Guide to Easy YouTube Subtitle and Closed Caption Addition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-netgear-80211n-pcie-usb-adapter/"><u>Download Netgear 802.11N PCIe USB Adapter</u></a></li>
+<li><a href="https://driver-install.techidaily.com/manual-driver-changes-for-windows-vista-systems/"><u>Manual Driver Changes for Windows Vista Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-realtek-usb-driver-pack-for-enhanced-connectivity-on-win11/"><u>New Realtek USB Driver Pack for Enhanced Connectivity on Win11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-cost-effective-75-inch-4k-resolution-caixun-smart-tv-on-android-platform/"><u>Review of the Cost-Effective 75-Inch 4K Resolution Caixun Smart TV on Android Platform</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-s18e-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo S18e to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-up-technology-windows-10-drivers-for-dell-laptops/"><u>Step-Up Technology: Windows 10 Drivers for Dell Laptops</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-laugh-share-repeat-the-best-face-swap-apps-for-iphone-and-android/"><u>Updated 2024 Approved Laugh, Share, Repeat The Best Face Swap Apps for iPhone and Android</u></a></li>
+</ul></div>
 

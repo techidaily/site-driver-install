@@ -1,7 +1,7 @@
 ---
 title: "Triumph Over Troubles: Fixed HP 1020 in Win OS"
-date: 2024-12-10T16:14:58.100Z
-updated: 2024-12-16T16:46:19.020Z
+date: 2024-12-22T05:09:50.154Z
+updated: 2024-12-25T08:19:41.937Z
 tags:
   - win11
   - win10
@@ -41,11 +41,15 @@ Time needed:  3 minutes.
 3. **Download the correct driver.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the downloaded file, and follow the wizard to finish.
 
@@ -63,30 +67,22 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After updating, restart your computer.
 
@@ -104,6 +100,10 @@ After updating, restart your computer.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -136,21 +136,21 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-howtos.techidaily.com/windowsmacword/"><u>[如何]找回Windows和Mac电脑中缺失Word数据的技巧</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-captivating-content-at-your-fingertips-download-youtube-for-ios/"><u>[New] 2024 Approved Captivating Content at Your Fingertips Download YouTube for iOS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-civics-challenge-club-leading-political-gaming-series/"><u>[New] 2024 Approved Civics Challenge Club Leading Political Gaming Series</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/phoneipad-top-10-free-youtube-video-editing-apps-for-2024/"><u>[New] IPhone/iPad Top 10 Free YouTube Video Editing Apps for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/re-the-best-and-easiest-youtube-to-mp3-conversion-tech-for-2024/"><u>Explore the Best (and Easiest) YouTube-to-Mp3 Conversion Tech for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-your-focus-how-a-chromebook-can-provide-the-uninterrupted-experience-you-need/"><u>Find Your Focus: How a Chromebook Can Provide the Uninterrupted Experience You Need</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstalling-atheros-wireless-card-drivers-step-by-step/"><u>Reinstalling Atheros Wireless Card Drivers Step-by-Step</u></a></li>
-<li><a href="https://driver-install.techidaily.com/routine-for-updating-and-keeping-your-amd-drivers-current/"><u>Routine for Updating & Keeping Your AMD Drivers Current</u></a></li>
-<li><a href="https://win-help.techidaily.com/simple-guide-mastering-screenshot-captures-on-os-x-mountain-lion/"><u>Simple Guide: Mastering Screenshot Captures on OS X Mountain Lion</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simple-step-superior-scsi-functionality/"><u>Simple Step, Superior SCSI Functionality</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simple-updates-to-graphics-drivers-in-win7/"><u>Simple Updates to Graphics Drivers in Win7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/supercharge-your-gameplay-rtx-3090-for-windows/"><u>Supercharge Your Gameplay - RTX 3090 for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/turbocharged-windows-10-rapid-acer-drivers-upgrade-guide/"><u>Turbocharged Windows 10: Rapid Acer Drivers Upgrade Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-review-of-twelve-souths-bookbook-v2-for-macbook-smart-and-stylish-protection/"><u>Ultimate Review of Twelve South's BookBook V2 for MacBook: Smart & Stylish Protection</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-windows-10-for-enhanced-audio-capabilities/"><u>Upgrade Windows 10 for Enhanced Audio Capabilities</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-adobe-premiere-pro-101-for-youtube-clips-and-edits/"><u>[Updated] In 2024, Adobe Premiere Pro 101 for YouTube Clips and Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-windows-playback-system/"><u>2024 Approved Ultimate Windows Playback System</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-launch-hitches-expert-advice-to-get-it-fixed-today/"><u>Alan Wake 2 Launch Hitches – Expert Advice to Get It Fixed Today!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comprehensive-guide-does-each-windows-release-come-with-built-in-antivirus-protection/"><u>Comprehensive Guide: Does Each Windows Release Come with Built-In Antivirus Protection?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-canon-mx870-driver-installation-for-win-11-and-older-versions/"><u>Configure Canon MX870 Driver Installation for WIN 11 & Older Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-brother-mfp-precision-on-windows-11/"><u>Elevate Brother MFP Precision on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-display-quality-using-latest-windows-drivers/"><u>Enhance Display Quality Using Latest Windows Drivers</u></a></li>
+<li><a href="https://facebook.techidaily.com/framework-for-handling-underage-profile-complaints/"><u>Framework for Handling Underage Profile Complaints</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/get-your-free-hd-video-converter-now-effortlessly-convert-h265-videos-to-h2-cu4-format-without-compromising-on-quality/"><u>Get Your Free HD Video Converter Now: Effortlessly Convert H.265 Videos to H.2 Cu4 Format Without Compromising on Quality!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-driver-issue-eliminated-in-windows-security-patch/"><u>HD Driver Issue Eliminated in Windows Security Patch</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-magic-v2-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi Note 13 Pro+ 5G Phone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/linkedin-advanced-features-examined-worth-or-not/"><u>LinkedIn Advanced Features Examined - Worth or Not?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reactivate-lost-windows-11-sound-with-drivers/"><u>Reactivate Lost Windows 11 Sound with Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steps-to-rectify-a-failed-windows-driver-setup/"><u>Steps to Rectify a Failed Windows Driver Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-ie-driver-integration-for-old-and-new-windows/"><u>Streamlined IE Driver Integration for Old & New Windows</u></a></li>
 </ul></div>
 

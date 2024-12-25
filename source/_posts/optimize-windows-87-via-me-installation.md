@@ -1,7 +1,7 @@
 ---
 title: Optimize Windows 8/7 via ME Installation
-date: 2024-07-11T15:42:44.985Z
-updated: 2024-07-12T15:42:44.985Z
+date: 2024-12-23T02:57:10.122Z
+updated: 2024-12-24T18:53:47.570Z
 tags:
   - win11
   - win10
@@ -45,14 +45,29 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ca2e76e79.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you want to install the drivers and the**ME Security Status application and control panel** , choose to run the setup file in**ME\_SW\_MSI** folder.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cba0066eb.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If you only want to install the drivers, you can choose the setup file in folder**MEI-Only Installer MSI** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ccff509cb.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Folder**WINDOWSDriverPackages** contains the .inf files for IT professionals. Check it if you are interested.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cd9324cad.png)
@@ -71,11 +86,19 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7b1b0f32cf.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7b1d1786b4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **NOTE:**
   
@@ -100,8 +123,6 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,6 +130,19 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitters-viral-video-list-highest-2023-views/"><u>[New] In 2024, Twitter's Viral Video List - Highest 2023 Views</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-free-video-credits-expertise-top-6-maker-guide/"><u>[Updated] 2024 Approved Free Video Credits Expertise - Top 6 Maker Guide!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pinnacle-programs-for-peak-webcam-video-quality/"><u>[Updated] 2024 Approved Pinnacle Programs for Peak Webcam Video Quality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-brightening-up-your-youtube-content/"><u>[Updated] The Ultimate Guide to Brightening Up Your YouTube Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-win10-users-efficiently-using-zoom-video-conferencing-for-2024/"><u>[Updated] Win10 Users Efficiently Using Zoom Video Conferencing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-phantoms-time-reversal-feature/"><u>In 2024, Mastering Phantom's Time-Reversal Feature</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-maximizing-the-impact-the-art-of-using-whiteboards-on-zoom/"><u>In 2024, Maximizing the Impact The Art of Using Whiteboards on Zoom</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-lenovos-yoga-900-system-updates/"><u>Streamline Lenovo's Yoga 900 System Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-great-link-up-laptops-and-headphones-converse-again/"><u>The Great Link-Up: Laptops and Headphones Converse Again</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-experience-optimized-yoga-900s-with-new-win10-drivers/"><u>Transform Your Experience: Optimized Yoga 900S with New Win10 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/triumph-over-troubles-fixed-hp-1020-in-win-os/"><u>Triumph Over Troubles: Fixed HP 1020 in Win OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updated-windows-syncing-hd-audio-with-hardware/"><u>Updated Windows Syncing HD Audio with Hardware</u></a></li>
+</ul></div>
 

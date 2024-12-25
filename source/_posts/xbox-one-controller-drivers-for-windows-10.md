@@ -1,7 +1,7 @@
 ---
 title: Xbox One Controller Drivers for Windows 10
-date: 2024-07-11T15:40:00.874Z
-updated: 2024-07-12T15:40:00.874Z
+date: 2024-12-23T10:00:24.791Z
+updated: 2024-12-24T21:05:50.114Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
  **Way 1:[Update the Driver via Device Manager](#way1)**
  **Way 2:[Update the Driver Using Driver Easy](#way2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Update the Driver via Device Manager
 
  If Windows doesn’t install the driver automatically, you can update the driver manually via Device Manager. Follow these steps:
@@ -33,11 +37,19 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand the branch **Microsoft Xbox One Controller** .
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
@@ -59,11 +71,19 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
 
@@ -78,8 +98,6 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,6 +105,23 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-7-energizing-youtube-exercise-challenges-for-viewers-participation/"><u>[New] 2024 Approved 7 Energizing YouTube Exercise Challenges for Viewers' Participation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44oa44oz44k55oyv44kk5luy44gr6kiy5oa26kgt77ya5yuv55s75yplusn6lui5oqa6kgt44ks5l244gj44gf5pa55rov44cn/"><u>「ダンス振り付け記憶術：動画反転技術を使った方法」</u></a></li>
+<li><a href="https://driver-install.techidaily.com/5770hdamdgpusupportwinxi/"><u>5770HDAMDGPUSupportWinXI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1573162-9781932073706-bridge-between-worlds/"><u>Bridge Between Worlds | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compatible-drivers-u-are-u-reader-450/"><u>Compatible Drivers: U-Are-U Reader 4.50</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-the-diversity-of-european-languages-celebrating-europe-day/"><u>Discovering The Diversity Of European Languages – Celebrating Europe Day</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063656525-easy-adb-downloader-at-your-fingertips/"><u>Easy ADB Downloader at Your Fingertips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-v30-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo V30 Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-meizu-21-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Meizu 21</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-era-of-desktop-interaction-logitech-mouse-drivers-in-win11/"><u>New Era of Desktop Interaction: Logitech Mouse Drivers in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-setup-officejet-pro-8710-printer-software-for-windows-computers/"><u>Simplify Setup: OfficeJet Pro 8710 Printer Software for Windows Computers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-guide-improving-windows-10-wi-fi-via-new-atheros-drivers/"><u>Stepwise Guide: Improving Windows 10 Wi-Fi via New Atheros Drivers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-narzo-n55-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme Narzo N55</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wireless-drivers-installed-in-minutes-for-windows-7/"><u>Wireless Drivers Installed in Minutes for Windows 7</u></a></li>
+</ul></div>
 

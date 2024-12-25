@@ -1,7 +1,7 @@
 ---
 title: Immersive Gaming Experience with the Philips 49 Curved OLED Display
-date: 2024-12-10T16:16:41.415Z
-updated: 2024-12-16T16:39:50.145Z
+date: 2024-12-20T02:45:03.645Z
+updated: 2024-12-25T11:13:17.684Z
 categories:
   - BestProducts
 description: This Article Describes Immersive Gaming Experience with the Philips 49 Curved OLED Display
@@ -14,7 +14,7 @@ thumbnail: https://www.lifewire.com/thmb/7bZjKVYBhG3ZFxwn_FSlNpkNibQ=/400x300/fi
 4
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HP Omen Obelisk
@@ -22,7 +22,7 @@ thumbnail: https://www.lifewire.com/thmb/7bZjKVYBhG3ZFxwn_FSlNpkNibQ=/400x300/fi
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/Szj7RCNucny4rfZ6uBlIf8pdeiE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
@@ -77,10 +77,6 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 ## **Design** : **Nice looks and small footprint, with many reservations**
@@ -106,10 +102,14 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance** :**Great components for gaming and productivity**
 
@@ -118,6 +118,10 @@ Lifewire / Jonno Hill
  The desktop scored an impressive 6,967 in the productivity-focused benchmarking application PCMark 10\. On the gaming front, the Omen managed a score of 10,740 in 3DMark’s Time Spy. In real-world use, this means more than 60fps at 4K in many popular titles like GTA V, but less than 60fps in others like Deus Ex: Mankind Divided. In other words, the Omen is mostly capable of 4K gameplay and is nearly always capable of 60+ fps in most common resolutions shy of 4K.
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -161,10 +165,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
  If you want something even smaller, and even more monolithic, the[Corsair One Pro](https://www.lifewire.com/corsair-one-pro-review-5072820) (see on[Corsair](https://www.corsair.com/us/en/Categories/Products/Systems/CORSAIR-ONE/CORSAIR-ONE-PRO-i180-Compact-Workstation-Grade-PC/p/CS-9040001-NA) ) manages to pack a high-end gaming rig in a minuscule 12-liter case, making even the HP OMEN seem large by comparison. It has a very solid construction and manages to fit water cooling for both the CPU and GPU inside its small frame.
@@ -178,7 +178,7 @@ Lifewire / Jonno Hill
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -215,22 +215,24 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-pilots-toolkit-top-drones-must-have-gear-and-replacements/"><u>[New] 2024 Approved Pilot's Toolkit Top Drones Must-Have Gear and Replacements</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-intersection-of-business-and-immersive-vr-technology/"><u>[New] 2024 Approved The Intersection of Business and Immersive VR Technology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-role-of-non-verbal-communication-in-interviewing/"><u>[New] The Role of Non-Verbal Communication in Interviewing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/asus-bluetooth-usb-adapter-setup-instructions/"><u>Asus Bluetooth USB Adapter Setup Instructions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-hp-envy-drivers-on-windows-10-laptop/"><u>Configure HP Envy Drivers on Windows 10 Laptop</u></a></li>
-<li><a href="https://driver-install.techidaily.com/conquering-usbasp-driver-hurdles-on-widely-spanning-windows-oss/"><u>Conquering USBasp Driver Hurdles on Widely Spanning Windows OSs</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/decoding-visual-glitches-why-are-you-seeing-artifacts-on-your-computer-screen/"><u>Decoding Visual Glitches: Why Are You Seeing Artifacts on Your Computer Screen?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-managing-amd-video-driver-updates/"><u>Efficiently Managing AMD Video Driver Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062446482-effortless-hardware-enhancement-install-now/"><u>Effortless Hardware Enhancement, Install Now!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-video-communication-efficiency-logitech-c270-drivers/"><u>Enhance Video Communication Efficiency - Logitech C270 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-logitech-cam-software/"><u>Essential Logitech Cam Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/free-asus-bt400-driver-and-tutorial-for-pcs/"><u>Free Asus BT400 Driver & Tutorial for PCs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/620290-9780307785879-hunab-ku/"><u>Hunab Ku | Free Book</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/increase-igtv-views-strategic-use-of-hashtags-for-2024/"><u>Increase IGTV Views Strategic Use of Hashtags for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-mx150-graphics-driver-downloads-for-windows-pcs/"><u>Latest NVIDIA GeForce MX150 Graphics Driver Downloads for Windows PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-audio-excellence-discover-these-5-vital-tips-when-shopping-for-stereo-speakers-online/"><u>Unlock Audio Excellence: Discover These 5 Vital Tips When Shopping for Stereo Speakers Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-blur-out-not-into-discovering-photo-clarity-web-tools/"><u>[New] 2024 Approved Blur Out, Not Into! Discovering Photo Clarity Web Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-principles-for-designing-fb-ad-content/"><u>[New] In 2024, Principles for Designing FB Ad Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rewards-and-risks-virtual-reality-unveiled/"><u>2024 Approved Rewards & Risks Virtual Reality Unveiled</u></a></li>
+<li><a href="https://driver-install.techidaily.com/clear-steps-recollecting-nvidia-drivers/"><u>Clear Steps: Recollecting NVIDIA Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062910975-connectivity-made-easy-with-one-click-universal-driver-install/"><u>Connectivity Made Easy with One-Click Universal Driver Install</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-yourself-into-the-future-with-msi-bravo-15s-newest-drivers/"><u>Drive Yourself Into The Future with MSI Bravo 15'S Newest Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-hdmi-update-on-windows-11-with-updated-drivers-guide/"><u>Effortless HDMI Update on Windows 11 with Updated Drivers Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-officejet-pro-8710-direct-windows-support-pack/"><u>HP OfficeJet Pro 8710 Direct Windows Support Pack</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-print-driver-troubleshooting-on-win11/"><u>HP Print Driver Troubleshooting on Win11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-tech-evolution-vr-now-and-beyond/"><u>In 2024, Immersive Tech Evolution VR Now & Beyond</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029596831-pcitunes/"><u>PC上iTunes音樂靜音 - 解決策與反擊方式</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-usb-extenders-for-sony-console-gaming/"><u>Premier USB Extenders for Sony Console Gaming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-software-compatibility-problems-in-windows/"><u>Resolving Software Compatibility Problems in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-solution-for-bluetooth-issues-in-windows-1111/"><u>Swift Solution for Bluetooth Issues in Windows 11/11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-5-tools-for-viewing-insta-stories-unseen/"><u>Top 5 Tools for Viewing Insta Stories Unseen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-compatibility-uninstallreinstall-guide-for-windows-series/"><u>Wacom Compatibility: Uninstall/Reinstall Guide for Windows Series</u></a></li>
 </ul></div>
 

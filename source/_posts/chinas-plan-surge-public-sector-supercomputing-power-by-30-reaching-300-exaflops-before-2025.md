@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2024-12-09T16:37:56.778Z
-updated: 2024-12-16T16:47:16.898Z
+date: 2024-12-20T11:31:17.418Z
+updated: 2024-12-25T01:29:10.987Z
 tags:
   - desktop
 categories:
@@ -56,22 +56,28 @@ Today we have one great deal that turns into two when you take up a bundle offer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-visual-filmmaking-aids-go-green-no-money/"><u>[New] In 2024, Visual Filmmaking Aids Go Green, No Money</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-strategic-geniuses-unearthing-the-best-7-total-war-masterpieces/"><u>[New] Strategic Geniuses Unearthing the Best 7 Total War Masterpieces</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-boost-engagement-the-art-of-adding-borders-on-insta/"><u>2024 Approved Boost Engagement The Art of Adding Borders on Insta</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-aural-experience-on-windows-11-with-updated-sound-drivers/"><u>Elevate Aural Experience on Windows 11 with Updated Sound Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enhance-copy-paste-efficiency-across-browsers/"><u>How to Enhance Copy-Paste Efficiency Across Browsers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-e13-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto E13 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-airlink-for-w7-computers/"><u>Instant Airlink for W7 Computers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/merge-hp-envy-5530-software-with-win10-pcs/"><u>Merge HP Envy 5530 Software with Win10 PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/precision-and-speed-automated-driver-update-for-logitech-mouse/"><u>Precision & Speed: Automated Driver Update for Logitech Mouse</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fixes-for-outdated-windows-1011-audio-drivers/"><u>Quick Fixes for Outdated Windows 10/11 Audio Drivers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/reaping-rewards-a-comprehensive-guide-to-7-14-stardew-mods-for-2024/"><u>Reaping Rewards A Comprehensive Guide to #7-14 Stardew Mods for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-guide-to-animated-text-in-video-best-mobile-apps-for-2024/"><u>The Ultimate Guide to Animated Text in Video Best Mobile Apps for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c22-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C22 Device</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rhythmic-reels-how-to-pick-beats-for-ig-content/"><u>[New] Rhythmic Reels How to Pick Beats for IG Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-tech-for-effective-pc-image-capture-the-5-best/"><u>[Updated] Essential Tech for Effective PC Image Capture, The 5 Best</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-asus-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Asus</u></a></li>
+<li><a href="https://driver-install.techidaily.com/activate-tablet-with-new-marvell-avstar-controller/"><u>Activate Tablet with New Marvell AVSTAR Controller</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-5-web-based-titling-aces-identified-for-2024/"><u>Best 5 Web-Based Titling Aces Identified for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/blending-bits-volume-manipulation-mastery-with-reaper/"><u>Blending Bits Volume Manipulation Mastery with Reaper</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-upgrade-installing-new-lenovo-w11-drivers/"><u>Drive Upgrade: Installing New Lenovo W11 Drivers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-13t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi 13T Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-peculiar-plight-dissecting-goofy-chronicles/"><u>In 2024, The Peculiar Plight Dissecting 'Goofy Chronicles'</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-playbook-for-youtube-shorts-income-boost/"><u>In 2024, The Ultimate Playbook for YouTube Shorts Income Boost</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-upgrade-your-pcs-network-capabilities/"><u>Instantly Upgrade Your PC's Network Capabilities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-canon-printer-software-with-win-1178-oss/"><u>Integrate Canon Printer Software with Win 11/7/8 OSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/opengl-sdk-installation-guide/"><u>OpenGL SDK Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refined-system-functionality-with-latest-dell-updates/"><u>Refined System Functionality with Latest Dell Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-pc-audio-with-newly-installed-realtek-driver/"><u>Revitalize PC Audio with Newly Installed Realtek Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-update-of-windows-11-device-drivers-guide/"><u>Smooth Update of Windows 11 Device Drivers Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-amd-radeon-r9-driver-update-guide/"><u>Win AMD Radeon R9 Driver Update Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

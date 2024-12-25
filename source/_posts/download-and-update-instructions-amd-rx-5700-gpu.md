@@ -1,7 +1,7 @@
 ---
 title: "Download & Update Instructions: AMD RX 5700 GPU"
-date: 2024-07-11T15:39:22.007Z
-updated: 2024-07-12T15:39:22.007Z
+date: 2024-12-20T01:55:22.883Z
+updated: 2024-12-25T07:07:10.882Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ OR
 
  The screenshot below are from Windows 10, but the steps also apply to Windows 7, 8 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  AMD keeps updating its drivers to prevent graphics card issues and glitches. You need to spend some time searching for the correct driver and installing it on your own. Here are the steps:
@@ -36,10 +40,24 @@ OR
 2. Select**Graphics** \>**AMD Radeon 5700 Series** \>**AMD Radeon RX 5700 Series** \>**AMD Radeon RX 5700** . Then, click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-7.jpg)
 3. Choose your operating system. (For my case, I click Windows 10 – 64-Bit Edition).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-10.jpg)
 4. Click the**Download** button next to the driver you want.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-5.jpg)
 5. Double-click the downloaded file and follow the on-screen instruction to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you feel the steps above are a little complicated, try the automatic method below.
 
@@ -55,6 +73,10 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click the **Update**  button next to the flagged **AMD RX 5700 driver** to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
@@ -74,8 +96,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,6 +103,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-comprehensive-insights-for-optimal-iphone-x-animoji-use/"><u>[New] Comprehensive Insights for Optimal iPhone X Animoji Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-rethinking-streaming-new-platforms-challenge-obs/"><u>[New] In 2024, Rethinking Streaming New Platforms Challenge OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-audio-to-video-bridge-easy-3-step-guide-for-mp3-to-youtube-uploads-for-2024/"><u>[Updated] Audio-to-Video Bridge Easy 3-Step Guide for MP3 to YouTube Uploads for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-a-fresh-take-on-samsungs-ultrablade-k850-review/"><u>2024 Approved A Fresh Take on Samsung’s UltraBlade K850 Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-eye-popping-360-cameras-deciding-the-best/"><u>2024 Approved Eye-Popping 360 Cameras Deciding the Best</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-12r-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/3-tablespoons-finely-chopped-fresh-parsley-or-basil-leaves/"><u>3 Tablespoons Finely Chopped Fresh Parsley or Basil Leaves</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-easy-access-to-compatible-canon-printer-drivers/"><u>Free, Easy Access to Compatible Canon Printer Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instructions-to-restore-nvidia-on-windows/"><u>Instructions to Restore NVIDIA on Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reimagine-reality-techniques-for-astonishing-image-distortions/"><u>Reimagine Reality Techniques for Astonishing Image Distortions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionary-drivers-integration-of-new-tech-in-win11/"><u>Revolutionary Drivers: Integration of New Tech in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-pc-efficiency-install-direct-gigabyte-drivers/"><u>Streamline PC Efficiency: Install Direct Gigabyte Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-windows-graphics-with-hp-driver-update/"><u>Streamline Window's Graphics with HP Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-auditory-setup-windows-7-and-nvidia-update/"><u>Transform Your Auditory Setup: Windows 7 and Nvidia Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winrtk5770driversnewrelease/"><u>WinRTK5770DriversNewRelease</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Kotion Each G2000 Mic Not Working
-date: 2024-12-11T16:23:30.876Z
-updated: 2024-12-16T16:36:29.271Z
+date: 2024-12-21T07:00:54.193Z
+updated: 2024-12-25T06:33:09.891Z
 tags:
   - win11
   - win10
@@ -43,25 +43,21 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Disconnect external speakers
 
  Sometimes you can’t hear any sound from your Mac because it sends the audio to its external devices, such as headphones, TV, etc. Unplug all of them and check if you can hear the sound. If no, go with**Fix 3** .
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Check the audio settings
 
  If the volume on your computer is set mute or too low, you won’t be able to hear the sound. To make sure you have turned up the volume:
 
  1) On the dock, click the**System Preferences** icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026d618d4e9.png) , then click on the **Sound** icon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 3) Check if you get sound back on your Mac.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Turn off Bluetooth
 
@@ -89,19 +89,23 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check if the**no sound problem** has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Restart your Mac
 
  A simple restart can fix many minor issues our computer is having, including audio problems. After the restart, you can check again and see if you get the sound back.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reset **NVRAM**
 
@@ -112,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
@@ -137,17 +141,9 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
@@ -165,6 +161,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
  9) Click **System Preferences** \> **Users & Groups** \> the**Lock** icon > the**Minus** icon to delete your testing account.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix **8: Update your Mac OS**
 
@@ -206,18 +206,18 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-expert-tips-for-effective-io-image-capture-use-for-2024/"><u>[New] Expert Tips for Effective IO Image Capture Use for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-scripting-space-and-time-manipulation-for-movies/"><u>[Updated] 2024 Approved Scripting Space & Time Manipulation for Movies</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-from-panoramas-to-pages-uploading-wide-angle-content-online/"><u>[Updated] In 2024, From Panoramas to Pages Uploading Wide Angle Content Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitterscape-archive-the-ultimate-compiler-and-preserver-of-tweets-in-frames/"><u>[Updated] In 2024, Twitterscape Archive The Ultimate Compiler & Preserver of Tweets in Frames</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-approach-to-enhancing-mp4-content-with-srt-captions/"><u>[Updated] Ultimate Approach to Enhancing MP4 Content with SRT Captions</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/convert-your-ogm-videos-to-mp4-at-no-cost-simple-and-effective-with-movavi/"><u>Convert Your OGM Videos to MP4 at No Cost - Simple and Effective with Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oppo-a1x-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo A1x 5G</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-gold-class-selection-of-unseen-video-extractors/"><u>In 2024, Gold-Class Selection of Unseen Video Extractors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-updated-hp-graphics-on-windows-11-pc/"><u>Install Updated HP Graphics on Windows 11 PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/netgear-1200mbps-wi-fi-pcie-usb/"><u>NETGEAR 1200Mbps Wi-Fi PCIe USB</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-nvidia-audio-drivers-in-windows-7-release/"><u>New NVIDIA Audio Drivers in Windows 7 Release</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-your-thinkspad-upgrade-to-latest-win11-drivers/"><u>Optimize Your ThinksPad: Upgrade to Latest Win11 Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-guide-calibrating-your-series-sx-display/"><u>Step-by-Step Guide: Calibrating Your Series S/X Display</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-relive-facebooks-yesteryears-instructions-for-digital-devices/"><u>[New] 2024 Approved How to Relive Facebook's Yesteryears - Instructions for Digital Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screenprime-pro-for-advanced-users-for-2024/"><u>[Updated] ScreenPrime Pro for Advanced Users for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-dungeons-and-dragons-innovative-tips-for-integrating-chatgpt-into-your-campaign/"><u>Boosting Dungeons & Dragons: Innovative Tips for Integrating ChatGPT Into Your Campaign</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-lossless-errors-in-h264-mov-files/"><u>Correcting Lossless Errors in H.264 MOV Files</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-drivers-available-gtx-1060/"><u>Enhanced Drivers Available - GTX 1060</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-galaxy-m54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Galaxy M54 5G? </u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-motorola-g24-power-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola G24 Power Through Google Earth?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-launching-lens-captured-content-examination-and-replacements/"><u>In 2024, Launching Lens Captured Content Examination and Replacements</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-yoga-900s-download-latest-windows-10-drivers/"><u>Lenovo Yoga 900S - Download Latest Windows 10 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062492728-revolutionize-your-gpu-point-by-updating-nvidia-drivers-quickly/"><u>Revolutionize Your GPU' Point by Updating Nvidia Drivers Quickly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-mobile-entertainment-funimates-apk-pathway/"><u>Step Into Mobile Entertainment Funimate's APK Pathway</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-aocs-e1659drivers-for-w10w7/"><u>Upgrade to AOC's E1659Drivers for W10/W7</u></a></li>
 </ul></div>
 

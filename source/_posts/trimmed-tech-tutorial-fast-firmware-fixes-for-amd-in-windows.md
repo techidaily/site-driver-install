@@ -1,7 +1,7 @@
 ---
 title: "Trimmed Tech Tutorial: Fast Firmware Fixes for AMD in Windows"
-date: 2024-07-11T15:42:10.649Z
-updated: 2024-07-12T15:42:10.649Z
+date: 2024-12-20T02:55:20.111Z
+updated: 2024-12-25T07:09:53.468Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
  The screenshots below come from Windows 10, but the method also applies to Windows 7, 8 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1 – Uninstall AMD drivers in Device Manager
 
  First off, you need to remove the AMD drivers completely from your PC. To do this, simply take advantage of Device Manager, a Windows built-in tool for viewing and controlling hardware.
@@ -35,7 +39,16 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. On Windows 10, 8.1, 8 and 7, the option says**Delete the driver software for this device** , but it works the same. Tick the box and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/1-4-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When it’s done, AMD graphics card will disappear from the list.
 
@@ -45,11 +58,19 @@ When it’s done, AMD graphics card will disappear from the list.
 
  However, Windows doesn’t always provide the latest device drivers ([see why](https://tools.techidaily.com/drivereasy/download/) ). In this case, you should try the other two ways to get the correct and up-to-date AMD drivers:**[manually](#option1)** or**[automatically](#option2)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually download and install drivers from AMD
 
  AMD keeps updating its drivers to fix bugs or add features. If you’re familiar with computer hardware, you can go straight to **[AMD’s support website](https://www.amd.com/en/support)**  , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 – Install the AMD drivers automatically (recommended)
 
@@ -85,8 +106,6 @@ When it’s done, AMD graphics card will disappear from the list.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,6 +113,20 @@ When it’s done, AMD graphics card will disappear from the list.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-compiling-chords-and-crafting-a-unique-youtube-playlist-for-2024/"><u>[Updated] Compiling Chords and Crafting a Unique YouTube Playlist for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cultivating-cash-by-critiquing-consumer-commodities-online/"><u>[Updated] In 2024, Cultivating Cash by Critiquing Consumer Commodities Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-find-youtube-collaboration-partners/"><u>[Updated] In 2024, How to Find YouTube Collaboration Partners?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-steps-to-screen-save-your-work-in-windows-8/"><u>Easy Steps to Screen Save Your Work in Windows 8</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/explore-15-exceptional-vr-cam-solutions-like-gopro-for-2024/"><u>Explore 15 Exceptional VR Cam Solutions Like GoPro for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-windows-visuals-graphical-method-3/"><u>Instantly Improve Windows Visuals - Graphical Method 3</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-webcam-driver-download-and-update-for-windows-100-safe/"><u>Logitech Webcam Driver Download & Update for Windows [100% Safe]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-windows-10-sound-quality-via-drivers-update/"><u>Optimize Windows 10 Sound Quality via Drivers Update</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016915050-revive-your-logitech-g933-microphone-troubleshooting-and-fixes/"><u>Revive Your Logitech G933 Microphone: Troubleshooting & Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-7-nft-generators-to-turn-your-artwork-into-nfts-for-2024/"><u>Top 7 NFT Generators to Turn Your Artwork Into NFTs for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshooting-win11-audio-via-new-driver-installation/"><u>Troubleshooting Win11 Audio via New Driver Installation</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-custom-filters-in-vn-app-2024-quick-guide/"><u>Updated How to Add Custom Filters in VN App 2024 Quick Guide</u></a></li>
+</ul></div>
 

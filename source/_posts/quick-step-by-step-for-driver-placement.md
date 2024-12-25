@@ -1,7 +1,7 @@
 ---
 title: Quick Step-by-Step for Driver Placement
-date: 2024-07-11T15:41:18.753Z
-updated: 2024-07-12T15:41:18.753Z
+date: 2024-12-20T04:57:40.492Z
+updated: 2024-12-24T17:37:47.951Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
  To download new drivers, go to the PC manufacturer’s website or the device manufacturer’s website. Driver updates are often available in the Support section of their website. If you are using a branded computer, it is recommended that you go to the PC manufacturer’s website to check for the latest driver first, as they may customize the driver. You are required to use the **PC model** and the **operating system** that you are using to download the correct driver. Usually, the PC model can be found on the machine. See [How to Check Your Operating System Version](https://tools.techidaily.com/drivereasy/download/) . If you need to download the driver from device manufacturer, then you are required to know the device model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install the driver
 
  The downloaded driver file will be an executable file (The file name ends in “.exe”.) or a zip file (The file name ends in “.zip”.).
@@ -35,12 +39,32 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 2. Right-click on the device that needs a driver update and select **Update driver** . (Here we take a video card as an example.)  
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Update-driver.jpg)
 3. Select **Browse my computer for drivers** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse-my-computer-for-drivers-Graphics-card.jpg)
 4. Select **Let me pick from a list of device drivers on my computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Let-me-pick-from-a-list-of-available-drivers-on-my-computer-Graphics-driver.jpg)
 5. Click the **Have Disk…** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Have-disk.jpg)
 6. Click the **Browse…** button. Navigate to the folder where you saved the downloaded driver file and browse the .inf driver file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse.jpg)
 7. Click the**OK** button and then **Next** button to finish the installation. You might be asked for an admin password or to confirm your choice.
 
@@ -67,8 +91,6 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -76,6 +98,22 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-compelling-thumbnails-to-captivate-youtube-viewers-and-encourage-clicks/"><u>[New] In 2024, Crafting Compelling Thumbnails to Captivate YouTube Viewers and Encourage Clicks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-direct-to-digital-webcam-capture-through-vlc-media-player/"><u>[New] In 2024, Direct-to-Digital Webcam Capture Through VLC Media Player</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way-for-2024/"><u>[Updated] How to Minimize Stress in iPad Screen Recordings? Here's a Way for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beginners-blueprint-setting-up-a-live-video-feed/"><u>2024 Approved Beginner's Blueprint Setting Up a Live Video Feed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boosting-audio-quality-nvidias-enhanced-drivers-in-win7/"><u>Boosting Audio Quality: Nvidia's Enhanced Drivers in Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-update-u-are-u-readfinger-v45-download/"><u>Direct Update: U-Are-U ReadFinger v4.5 Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-msi-upgrade-step-by-step-process/"><u>Drive MSI Upgrade: Step-by-Step Process</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fasten-driver-updates-for-logitech-audio-cables/"><u>Fasten Driver Updates for Logitech Audio Cables</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fluid-fusion-combining-videos-for-a-unified-youtube-presence/"><u>In 2024, Fluid Fusion Combining Videos for a Unified Youtube Presence</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-dock-compatibility-boost-with-driver-updates/"><u>Lenovo Dock Compatibility Boost with Driver Updates</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstalling-windows-drivers-with-minimal-hassle/"><u>Reinstalling Windows Drivers with Minimal Hassle</u></a></li>
+<li><a href="https://extra-information.techidaily.com/return-journey-maker-collection/"><u>Return Journey Maker Collection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-enhance-w11w8w7-via-mf4770n-driver-update/"><u>Secure and Enhance W11/W8/W7 via MF4770n Driver Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-harsh-pc-market-season-may-benefit-consumers-insights/"><u>Upcoming Harsh PC Market Season May Benefit Consumers - Insights</u></a></li>
+</ul></div>
 

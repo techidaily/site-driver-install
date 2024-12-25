@@ -1,7 +1,7 @@
 ---
 title: Resolve UART-USB Interface Conflict
-date: 2024-07-11T15:42:50.557Z
-updated: 2024-07-12T15:42:50.557Z
+date: 2024-12-19T05:15:12.603Z
+updated: 2024-12-25T02:14:32.216Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 
  You can download the latest FTDI driver from FTDI official website. Following steps are for your reference how to download and install the driver from FTDI manufacturer. Note the steps will be different if their website is redesigned.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Update the FTDI USB to serial driver manually  
 
  1\. Go to the [FTDI official website](https://www.ftdichip.com/Drivers/VCP.htm) .
@@ -32,15 +36,27 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-94.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you click on the version name, you’ll get driver with .inf file which requires you to install the driver step by step through [Device Manager](https://tools.techidaily.com/drivereasy/download/) . We don’t recommend you download this file unless you can’t use the executable file to install the driver successfully.  
 
  3.**Double-click the downloaded file** then**double-click on the Setup file** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-98.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-96.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
 
@@ -64,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -77,8 +97,6 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,6 +104,17 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-easy-walkthrough-for-old-facebook-stories-on-laptops-and-phones/"><u>[Updated] 2024 Approved Easy Walkthrough for Old Facebook Stories on Laptops & Phones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-digital-splendor-on-youtube-the-hue-harmonization-way-for-2024/"><u>[Updated] Digital Splendor on YouTube The Hue Harmonization Way for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-overseeing-the-upgraded-parrot-ar-drone/"><u>[Updated] Overseeing the Upgraded Parrot AR Drone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/differences-between-kindle-e-readers-and-fire-tablets-unveiled/"><u>Differences Between Kindle E-Readers and Fire Tablets Unveiled</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-crafting-excellent-canon-temp-video-series/"><u>In 2024, Crafting Excellent Canon Temp Video Series</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-users-handbook-effortlessly-deleting-programs-and-apps/"><u>Mac Users' Handbook: Effortlessly Deleting Programs and Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-quickly-for-nvidia-gtx-760/"><u>Update Quickly for Nvidia GTX 760</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-thinkpad-drivers-for-optimal-w10-performance/"><u>Update ThinkPad Drivers for Optimal W10 Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-pc-today-with-windows-11-touch-features/"><u>Upgrade Your PC Today with Windows 11 Touch Features</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-to-the-latest-win-pcs-astro-drivers/"><u>Upgrading to the Latest: Win PC's Astro Drivers</u></a></li>
+</ul></div>
 

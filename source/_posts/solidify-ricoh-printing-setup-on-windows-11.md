@@ -1,7 +1,7 @@
 ---
 title: Solidify Ricoh Printing Setup on Windows 11
-date: 2024-07-11T15:40:34.098Z
-updated: 2024-07-12T15:40:34.098Z
+date: 2024-12-24T04:52:44.453Z
+updated: 2024-12-24T23:07:42.120Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
 **[Way 3: Update your printer driver automatically](#way3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Way 1: Update your printer driver manually**
 
  You can go to your printer manufacturer’s website to check if your printer model supports Windows 10\. If yes, you can download and install the Windows 10 driver for your printer  . If not, you can download the latest version that the manufacturer has released like Windows 8 version or Windows 7 version  . They may be compatible with Windows 10\.  The driver download can be normally found in Support section. After you download the driver, you can always double-click on the installer file to install the driver.
@@ -41,6 +45,10 @@ For some printers, you need to update the drivers manually step by step.
  2) View by Small icons. Click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597056d6e290b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Device Manager window, locate the printer device that you wish to update the driver for. For problem device, you can see a yellow mark next to the device name.
 
@@ -56,6 +64,10 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Way 2: Use Windows Update for new drivers**
 
  Please refer to steps below how to use Windows Update in Windows 10 to update drivers.
@@ -63,6 +75,10 @@ For some printers, you need to update the drivers manually step by step.
  1) Click**Start** menu and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057a9598ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In Settings window, click **Update & security.**
 
@@ -77,6 +93,10 @@ For some printers, you need to update the drivers manually step by step.
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
 
@@ -106,8 +126,6 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,6 +133,16 @@ For some printers, you need to update the drivers manually step by step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-complete-guide-to-implementing-siri-speech-on-tiktok-platforms/"><u>[New] 2024 Approved The Complete Guide to Implementing Siri Speech on TikTok Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-intelligent-gpu-520-driver/"><u>Download: Intelligent GPU 520 Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964925488-elan-smbus-driver-the-ultimate-download-and-update-solution-for-your-windows-device/"><u>ELAN SMBus Driver - The Ultimate Download & Update Solution for Your Windows Device</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensure-smooth-gpu-operations-with-new-driver/"><u>Ensure Smooth GPU Operations with New Driver</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ffmpeg-analysis-maintaining-audio-format-integrity/"><u>In 2024, FFmpeg Analysis Maintaining Audio Format Integrity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-touch-dilemma-discovering-the-7-main-factors-leading-to-screen-unresponsiveness/"><u>IPhone Touch Dilemma: Discovering the 7 Main Factors Leading to Screen Unresponsiveness</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062941587-overcoming-vistas-network-anomalies-the-solution-is-here/"><u>Overcoming Vista's Network Anomalies - The Solution Is Here</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/smart-home-enthusiasts-rejoice-unveiling-the-best-app-integrated-weather-station-by-netatmo/"><u>Smart Home Enthusiasts Rejoice - Unveiling the Best App-Integrated Weather Station by Netatmo</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-os-drivers-windows-11817-guide/"><u>Speedy OS Drivers: Windows 11/8.1/7 Guide</u></a></li>
+</ul></div>
 

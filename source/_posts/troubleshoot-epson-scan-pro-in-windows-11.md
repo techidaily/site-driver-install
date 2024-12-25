@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Epson Scan Pro in Windows 11
-date: 2024-12-09T16:38:03.313Z
-updated: 2024-12-16T16:33:53.911Z
+date: 2024-12-22T08:06:47.662Z
+updated: 2024-12-25T08:24:58.350Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
 **[Way 3: Update your printer driver automatically](#way3)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Way 1: Update your printer driver manually**
 
  You can go to your printer manufacturer’s website to check if your printer model supports Windows 10\. If yes, you can download and install the Windows 10 driver for your printer  . If not, you can download the latest version that the manufacturer has released like Windows 8 version or Windows 7 version  . They may be compatible with Windows 10\.  The driver download can be normally found in Support section. After you download the driver, you can always double-click on the installer file to install the driver.
@@ -47,7 +43,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597056d6e290b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In Device Manager window, locate the printer device that you wish to update the driver for. For problem device, you can see a yellow mark next to the device name.
@@ -65,7 +61,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Way 2: Use Windows Update for new drivers**
@@ -80,19 +76,23 @@ For some printers, you need to update the drivers manually step by step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057ddb9441.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In **UPDATE & SECURITY** , click**Windows Update** in left pane.
 
  Click**Check for updates** , and then wait while Windows looks for the latest updates for your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
 
@@ -115,7 +115,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
@@ -135,20 +135,14 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-club-craft-how-to-download-best-dj-vids/"><u>[New] 2024 Approved Club Craft How to Download Best DJ Vids</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ahead-of-the-curve-professional-360-cams-reviewed-2023-edition/"><u>[Updated] In 2024, Ahead of the Curve Professional 360° Cams Reviewed - 2023 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-persistent-issues-how-to-prevent-nier-automata-from-crashing/"><u>Fixes for Persistent Issues - How to Prevent NieR: Automata From Crashing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-conquering-remote-work-mastering-the-use-of-zoom-and-gmail/"><u>In 2024, Conquering Remote Work Mastering the Use of Zoom and Gmail</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ating-notes-an-introduction-to-youtube-list-making/"><u>Navigating Notes An Introduction to YouTube List Making</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-step-by-step-process-to-fuse-several-audio-tracks-into-one-cohesive-piece/"><u>New Step-by-Step Process to Fuse Several Audio Tracks Into One Cohesive Piece</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refreshing-your-input-device-the-microsoft-mouse-guide/"><u>Refreshing Your Input Device: The Microsoft Mouse Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-children-top-5-secure-chatgpt-activities/"><u>Safeguarding Children: Top 5 Secure ChatGPT Activities</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-device-configuration-by-installing-drivers/"><u>Seamless Device Configuration by Installing Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-thunderbolt-4-enhancement-for-macbooks/"><u>Swift Thunderbolt 4 Enhancement for MacBooks</u></a></li>
-<li><a href="https://common-error.techidaily.com/tech-guide-lowering-high-disk-usage-linked-to-compatibility-telemetry-feature-on-pc-with-windows-10-operating-system/"><u>Tech Guide: Lowering High Disk Usage Linked to Compatibility Telemetry Feature on PC with Windows 10 Operating System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-66-twitter-accounts-for-unbeatable-travel-tips-and-exciting-getaways/"><u>Top 66 Twitter Accounts for Unbeatable Travel Tips and Exciting Getaways</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-creativity-free-wacom-tablet-drivers-and-safe-os/"><u>Unleash Creativity - FREE Wacom Tablet Drivers & Safe OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-windows-sounds-audio-drivers-revamping/"><u>Upgraded Windows Sounds: Audio Drivers Revamping</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-usbethernet-link-setup-instructions/"><u>Windows USB/Ethernet Link Setup Instructions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-simple-steps-for-merging-youtube-media-files/"><u>[Updated] The Simple Steps for Merging YouTube Media Files</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-fabulous-critique-and-diverse-suggestions/"><u>2024 Approved Fabulous Critique & Diverse Suggestions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/epson-2650-driver-guide-for-cross-platform-oss/"><u>Epson 2650 Driver Guide for Cross-Platform OSs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 12?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/netgear-ac1200-wifi-usb-adapter-driver-download/"><u>NETGEAR AC1200 WiFi USB Adapter Driver Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplicity-in-installing-win10s-screen-updates/"><u>Simplicity in Installing Win10's Screen Updates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862827645-snag-your-deal-acer-nitro-24-curved-gaming-display-at-just-81/"><u>Snag Your Deal: Acer Nitro 24 Curved Gaming Display at Just $81!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-performance-in-a-mini-form-factor-the-minisforum-atomman-x7-featuring-ti-touchscreen-and-ultra-9-cpu/"><u>Unleash Performance in a Mini Form Factor: The MinisForum AtomMan X7 Featuring Ti Touchscreen and Ultra 9 CPU</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-friendly-m2-nvme-compatibility/"><u>Win-Friendly M.2 NVMe Compatibility</u></a></li>
 </ul></div>
 

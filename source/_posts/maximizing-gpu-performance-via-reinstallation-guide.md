@@ -1,7 +1,7 @@
 ---
 title: Maximizing GPU Performance via Reinstallation Guide
-date: 2024-07-11T15:39:31.024Z
-updated: 2024-07-12T15:39:31.024Z
+date: 2024-12-19T21:32:03.092Z
+updated: 2024-12-24T20:07:56.661Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/52c7a24defa5210eac1af6ae72d590add87c3a906
 
  If your PC comes with dual GPUs, you might need to connect your monitor to the display ports on the motherboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to reinstall GPU drivers using DDU
 
 Here’s how to do a clean reinstallation of your graphics driver:
@@ -44,6 +48,11 @@ Here’s how to do a clean reinstallation of your graphics driver:
 1. Next you need to enter Safe Mode. On your keyboard, press**Win+I** (the Windows logo key and the i key). Select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. In the left pane, select**Recovery** . Under**Advanced startup** , click**Restart now** . (Note that you should now continue this tutorial on your phone/another computer.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
 
 #### Windows 11
@@ -63,8 +72,18 @@ Here’s how to do a clean reinstallation of your graphics driver:
 3. Click **Startup Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Startup-settings.jpg)
 4. Click **Restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/restart-1.jpg)
 5. You will see a list of different startup options. On your keyboard, press the**number 4 key** to enter**Safe Mode without internet access** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/safe-mode-startup-settings.jpg)
 
  Once you’re in Safe Mode, follow these instructions to reinstall with DDU.
@@ -72,9 +91,18 @@ Here’s how to do a clean reinstallation of your graphics driver:
 1. log in as you normally would and open DDU.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-3.jpg)
 2. In the pop-up**Option** window, choose your preferences. If you’re not sure, simply close the window  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-option.jpg)
 3. On the right, select**your device type** and**your GPU manufacturer** . Then click**Clean and restart** .![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-4.jpg)
 4. Once DDU purged the graphics driver, your PC should restart. You can now check if the graphics issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 So you’ve reinstalled the graphics driver, what next?
 
@@ -111,8 +139,6 @@ So you’ve reinstalled the graphics driver, what next?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,6 +146,21 @@ So you’ve reinstalled the graphics driver, what next?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-from-raw-to-rad-turning-up-the-heat-with-snapchat-filters/"><u>[Updated] In 2024, From Raw to Rad Turning Up the Heat with Snapchat Filters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063275743-access-top-tier-sound-in-minutes/"><u>Access Top-Tier Sound in Minutes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/complete-setup-refreshing-gpu-drivers-from-scratch/"><u>Complete Setup: Refreshing GPU Drivers From Scratch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-your-gifs-into-high-quality-jpeg-images-for-free-by-movavi/"><u>Convert Your GIFs Into High-Quality JPEG Images for Free by Movavi!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/de-inleiding-voor-non-initiaal-disk-fabrication-simpel-maak-het-zelf/"><u>De Inleiding Voor Non-Initiaal Disk Fabrication - Simpel Maak Het Zelf!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easily-stay-connected-use-your-apple-watch-for-quick-check-ins-with-loved-ones/"><u>Easily Stay Connected: Use Your Apple Watch for Quick Check-Ins With Loved Ones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-chromebook-friendly-video-editors-a-2023-comparison/"><u>In 2024, Chromebook-Friendly Video Editors A 2023 Comparison</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-marvell-acwire-for-enhanced-connectivity/"><u>Install Marvell ACWIRE for Enhanced Connectivity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/introducing-the-updated-intel-82579lm-for-superior-device-performance/"><u>Introducing the Updated Intel 82579LM for Superior Device Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigate-to-faster-usb-c-driver-intel/"><u>Navigate to Faster USB-C Driver, Intel</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidias-new-driver-release-for-improved-gtx-970-performance/"><u>Nvidia's New Driver Release for Improved GTX 970 Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-update-woes-top-tips-for-ensuring-successful-downloads/"><u>Steam Update Woes? Top Tips for Ensuring Successful Downloads</u></a></li>
+<li><a href="https://win-unique.techidaily.com/story-3-the-skip-lesions-misconception/"><u>Story 3: The Skip Lesions Misconception</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-why-apples-look-up-feature-may-fail-on-iphones/"><u>Top 6 Causes Why Apple's Look Up Feature May Fail on iPhones</u></a></li>
+</ul></div>
 

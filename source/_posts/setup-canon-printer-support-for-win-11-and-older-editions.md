@@ -1,7 +1,7 @@
 ---
 title: Setup Canon Printer Support for WIN 11 & Older Editions
-date: 2024-12-09T16:44:49.198Z
-updated: 2024-12-16T16:45:31.474Z
+date: 2024-12-24T04:05:26.616Z
+updated: 2024-12-24T18:47:35.611Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 * [**Way 1. Download the latest Canon MX870 driver from Canon website**](#Way1)
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
 
  1) Head to [Canon Driver download center](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers) .
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **DOWNLOAD** .
@@ -48,14 +52,10 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
@@ -88,20 +88,17 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-streamline-your-content-embedding-youtube-media-into-instagrams-story-section-for-2024/"><u>[New] Streamline Your Content Embedding YouTube Media Into Instagram's Story Section for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unlock-the-potential-of-autoplay-vids-on-fb-platform-for-2024/"><u>[New] Unlock the Potential of Autoplay Vids on FB Platform for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-black-friday-sale-up-to-700-off-on-dell-xps-15-top-choice-laptop-of-2e-zdnet/"><u>Exclusive Black Friday Sale! Up to $700 Off on Dell XPS 15 - Top Choice Laptop of 2E | ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-a05s-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Itel A05s Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a18-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A18 To Phone | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-new-drivers-on-windows-vista-manually/"><u>Installing New Drivers on Windows Vista Manually</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intel-82579lm-boosting-speed-with-fresh-drivers-in-windows/"><u>Intel 82579LM: Boosting Speed with Fresh Drivers in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-quadro-rtx-6000-firmware-download/"><u>NVIDIA Quadro RTX 6000 - Firmware Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-acer-display-with-advanced-driver-software-win11/"><u>Optimize Acer Display with Advanced Driver Software, Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fixes-huion-h420-and-windows-driver-pairing/"><u>Quick Fixes: Huion H420 & Windows Driver Pairing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-scsi-drive-setup-guide/"><u>Quick SCSI Drive Setup Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-update-guide-logitech-earbuds-software/"><u>Quick-Update Guide: Logitech Earbuds Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/transforming-mundane-interviews-into-memorable-experienrances/"><u>Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-latest-windows-enhancements-service-pack-details-for-july-2024/"><u>Unveiling the Latest Windows Enhancements - Service Pack Details for July 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-heaviest-airborran-aerial-haulers-ultimate-choices/"><u>[New] Heaviest Airborran Aerial Haulers - Ultimate Choices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-guide-to-capturing-desktop-using-ezvid-software/"><u>[New] Step-by-Step Guide to Capturing Desktop Using Ezvid Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-7-video-recording-devices-for-professional-streaming-artists/"><u>[New] Top 7 Video Recording Devices for Professional Streaming Artists</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-elevate-your-social-media-presence-syncing-srt-uploads-with-platforms-for-2024/"><u>[Updated] Elevate Your Social Media Presence Syncing SRT Uploads with Platforms for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-flexicapture-cloud-services-agreement-comprehensive-tos-and-gdpr-compliance/"><u>ABBYY FlexiCapture Cloud Services Agreement: Comprehensive TOS and GDPR Compliance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-webcam-driver-for-clear-video-capture-logitech-c270/"><u>Essential Webcam Driver for Clear Video Capture: Logitech C270</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hands-off-driver-tweak-experience-on-z50-70/"><u>Hands-Off Driver Tweak Experience on Z50-70</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lead-in-tech-quick-scsi-drives-ready/"><u>Lead-In Tech: Quick SCSI Drives Ready</u></a></li>
+<li><a href="https://driver-install.techidaily.com/manual-enhancement-of-windows-vista-devices/"><u>Manual Enhancement of Windows Vista Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-media-production-magix-video-pro-x-insights/"><u>Mastering Media Production Magix Video Pro X Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-lenovo-ideapad-u310/"><u>Quick Driver Updates on Lenovo Ideapad U310</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-solution-to-a-non-playing-dvd-with-these-10-essential-tips/"><u>Unlock the Solution to a Non-Playing DVD with These 10 Essential Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860
-date: 2024-12-12T16:24:37.950Z
-updated: 2024-12-16T16:45:07.480Z
+date: 2024-12-20T22:58:59.491Z
+updated: 2024-12-25T07:30:50.036Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,24 +76,18 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-metaverse-tech-the-ultimate-goggles-and-hmds-list/"><u>[New] Best Metaverse Tech The Ultimate Goggles and HMDs List</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-precision-and-panache-advanced-tiktok-editing-skills/"><u>[New] Precision and Panache Advanced TikTok Editing Skills</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-virtual-horizons-exploring-vrs-advancements/"><u>[New] Virtual Horizons Exploring VR’s Advancements</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-accelerating-learning-on-tiktok-changing-your-profile-number/"><u>[Updated] Accelerating Learning on TikTok Changing Your Profile Number</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-your-photos-a-comprehensive-guide-to-facetune/"><u>[Updated] Mastering Your Photos A Comprehensive Guide to Facetune</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/de-talen-van-vaderland-its-linguistic-roots/"><u>De Talen Van Vaderland: Its Linguistic Roots</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-the-very-best-in-ios-video-playback-tools-for-2024/"><u>Explore the Very Best in iOS Video Playback Tools for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/exploring-various-cryptocurrency-options-an-in-depth-guide-by-yl-computing/"><u>Exploring Various Cryptocurrency Options: An In-Depth Guide by YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instructions-microsoft-pro-4-drivers-in-windows/"><u>Instructions: Microsoft Pro 4 Drivers in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/jumpstart-your-device-installing-3dconnexion-technology/"><u>Jumpstart Your Device: Installing 3Dconnexion Technology</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-hawku-cars-simple-solutions/"><u>Navigating Hawku Cars: Simple Solutions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-new-driver-installation-guide/"><u>Nvidia GTX 970 - New Driver Installation Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimal-printing-update-for-latest-hp-officejet-4630-driver/"><u>Optimal Printing: Update for Latest HP Officejet 4630 Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-hp-deskjet-printing-windows-11/"><u>Optimize HP Deskjet Printing Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimizing-windows-11-hdmi-via-driver-rejuvenation/"><u>Optimizing Windows 11 HDMI via Driver Rejuvenation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/pioneering-windows-11-updates-for-enhanced-acer-drivers/"><u>Pioneering Windows 11 Updates for Enhanced Acer Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-intel-hd520-graphics-update/"><u>Quick Intel HD520 Graphics Update</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-for-seamless-windows-updates-and-downloads-of-sata-drive-drivers/"><u>Step-by-Step Instructions for Seamless Windows Updates & Downloads of SATA Drive Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovations-in-portraying-chrono-displacement-on-screen/"><u>[Updated] Innovations in Portraying Chrono-Displacement on Screen</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-turbo-speed-photo-browser-for-windows-10/"><u>[Updated] Turbo Speed Photo Browser for Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-techniques-optimal-live-cricket-broadcasting/"><u>2024 Approved Top 10 Techniques Optimal Live Cricket Broadcasting</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-furious-solving-m-audio-problems/"><u>Fast & Furious: Solving M-Audio Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-device-driver-unrecognized-errors-for-a-smoother-pc-experience/"><u>How to Fix 'Device Driver Unrecognized' Errors for a Smoother PC Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrating-m2-nvme-on-pcs/"><u>Integrating M.2 NVMe on PCs</u></a></li>
+<li><a href="https://win-superb.techidaily.com/recognizing-trustworthy-initial-coin-offerings-icos-insights-from-yl-computing-and-yl-software-experts/"><u>Recognizing Trustworthy Initial Coin Offerings (ICOs): Insights From YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-pro-6-driver-installation/"><u>Streamlined Pro 6 Driver Installation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/uncomplicated-blueprint-for-crafting-successful-ads-online-for-2024/"><u>Uncomplicated Blueprint for Crafting Successful Ads Online for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-logitech-drivers-for-seamless-windows-10-use/"><u>Update Logitech Drivers for Seamless Windows 10 Use</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-windows-11-with-a-flick-of-the-wrist/"><u>Upgrade to Windows 11 with a Flick of the Wrist</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-operations-smoothed-across-different-windows-generations/"><u>USBasp Operations Smoothed Across Different Windows Generations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
-date: 2024-12-09T16:11:00.283Z
-updated: 2024-12-16T16:14:56.599Z
+date: 2024-12-18T10:09:48.677Z
+updated: 2024-12-24T23:31:39.890Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
@@ -35,10 +35,6 @@ Lifewire / Kelsey Simon
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
 
 2.7
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## inXile Entertainment Torment: Tides of Numenera
 
@@ -76,6 +72,10 @@ Lifewire / Kelsey Simon
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Gameplay: Dialogue prompts and effort**
 
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
@@ -83,7 +83,7 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -100,6 +100,10 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -108,14 +112,10 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -127,7 +127,7 @@ Lifewire / Kelsey Simon
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
@@ -165,21 +165,19 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-streamline-your-day-multitask-mastery-for-the-podcast-aficionado/"><u>[New] 2024 Approved Streamline Your Day Multitask Mastery for the Podcast Aficionado</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-latest-nvidia-geforce-mx150-graphics-card-drivers-on-windows/"><u>Download & Install Latest Nvidia GeForce MX150 Graphics Card Drivers on Windows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-invisible-enthusiast-of-facebook-episodes/"><u>In 2024, Invisible Enthusiast of Facebook Episodes</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-an-ai-video-editor/"><u>In 2024, What Is an AI Video Editor?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-avastar-ac-wireless-into-windows-10-gaming-laptop/"><u>Integrate Avastar-AC Wireless Into Windows 10 Gaming Laptop</u></a></li>
-<li><a href="https://driver-install.techidaily.com/laserjet-driver-download-and-install-for-hp-p1102w-on-win-os/"><u>LaserJet Driver: Download & Install for HP P1102w on Win OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-g580-simplified-driver-upgrade/"><u>Lenovo G580: Simplified Driver Upgrade</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/must-see-hd-screenshots-for-mac-users-char-limit-156/"><u>Must See HD Screenshots for Mac Users (Char Limit 156)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-graphics-card-enhancement-gtx-1060/"><u>Nvidia Graphics Card Enhancement: GTX 1060</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-rtl8723d-drivers-better-wi-fi-on-windows-11-os/"><u>Optimize RTL8723D Drivers: Better Wi-Fi on Windows 11 OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimized-gaming-with-latest-gtx-970-windows-10-drivers/"><u>Optimized Gaming with Latest GTX 970 Windows 10 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/perfected-performance-new-amd-rx-570-windows-driver-release/"><u>Perfected Performance: New AMD RX 570 Windows Driver Release</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/screenshot-and-recording-masterclass-ios-devices-2023-for-2024/"><u>Screenshot & Recording Masterclass IOS Devices 2023 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-eliminating-error-code-0x800704cf-on-your-pc/"><u>Step-by-Step Tutorial: Eliminating Error Code 0X800704CF on Your PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-instagram-algorithm-update-will-affect-you-for-2024/"><u>[Updated] How Instagram Algorithm Update Will Affect You for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyy-plus-alteryx-seamless-combination-of-data-capture-and-analytics/"><u>ABBYY + Alteryx: Seamless Combination of Data Capture & Analytics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-illimitata-png-a-gif-gratuita-via-web-come-fare-con-movavi/"><u>Conversione Illimitata PNG a GIF Gratuita via Web: Come Fare Con Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/cross-platform-usbasp-win7-to-win10-drivers-made-easy/"><u>Cross-Platform USBasp: Win7 to Win10 Drivers Made Easy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-fading-techniques-in-live-for-2024/"><u>Harmonizing Fading Techniques in Live for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-13-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 13 The Right Way</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063184198-hp-1020s-windows-woes-end-today/"><u>HP 1020'S Windows Woes End Today!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-printer-software-model-1102w-downloader-for-pcs/"><u>HP Printer Software Model 1102W - Downloader for PCs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia C210 FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneous-windows-driver-refresh-techniques-for-10-and-beyond/"><u>Instantaneous Windows Driver Refresh Techniques for 10 & Beyond</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-windows-m2-hardware-support/"><u>Streamline Windows M.2 Hardware Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-secrets-to-device-software-alterations-in-windows-8-os/"><u>Unveiling Secrets to Device Software Alterations in Windows 8 OS</u></a></li>
 </ul></div>
 

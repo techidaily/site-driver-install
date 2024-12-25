@@ -1,7 +1,7 @@
 ---
 title: Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink
-date: 2024-12-09T16:31:58.324Z
-updated: 2024-12-16T16:43:25.562Z
+date: 2024-12-22T23:44:16.706Z
+updated: 2024-12-25T00:51:14.110Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-10-unbeatable-face-editing-tools-for-iphone-and-samsungs/"><u>[New] 10 Unbeatable Face-Editing Tools for iPhone & Samsungs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-solo-stream-triumph-strategies-for-clear-consistent-broadcasts/"><u>[Updated] In 2024, Solo Stream Triumph Strategies for Clear, Consistent Broadcasts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/access-universal-adb-instantly-no-complications/"><u>Access Universal ADB Instantly - No Complications!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/capture-what-you-see-the-complete-guide-to-pc-screenshots/"><u>Capture What You See: The Complete Guide to PC Screenshots</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cross-version-driver-installation-kit-epson-2650-series/"><u>Cross-Version Driver Installation Kit - Epson 2650 Series</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-14-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 14 Pro to PC | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-update-logitech-earphones-software/"><u>Efficiently Update Logitech Earphones Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-troubleshooting-and-repairing-error-ebd-c0fe3897-b4f0-4aa5-a8e1-2dd5d3cbcefa-in-windows/"><u>Effortless Guide: Troubleshooting and Repairing Error Ebd-C0fe3897-B4f0-4aa5-A8e1-2dd5d3cbcefa in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-graphic-rendering-quality-windows/"><u>Elevate Graphic Rendering Quality (Windows)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-xp-with-direct-driver-replacement-techniques/"><u>Enhance XP with Direct Driver Replacement Techniques</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonize-tech-new-drivers-for-hp-laserjet-in-windows-11/"><u>Harmonize Tech: New Drivers for HP Laserjet in Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resolving-compression-errors-in-youtube-playback-for-2024/"><u>Resolving Compression Errors in YouTube Playback for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/trouble-logging-into-microsoft-teams-understanding-the-cause/"><u>Trouble Logging Into Microsoft Teams: Understanding the Cause</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/video-compilation-wizardry-turn-your-footage-into-one-iso-masterpiece/"><u>Video Compilation Wizardry: Turn Your Footage Into One ISO Masterpiece</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-indie-filmmakers-online-youtube-tutorials-for-growth/"><u>[Updated] Indie Filmmakers Online YouTube Tutorials for Growth</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/discover-the-latest-in-hardware-with-toms-gear-guides/"><u>Discover the Latest in Hardware with Tom's Gear Guides</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-quality-on-a-budget-with-paww-series-3-review/"><u>Discovering Quality on a Budget with Paww Series 3 Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-ethernet-connectivity-for-windows-printers/"><u>Enhance Ethernet Connectivity for Windows Printers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-fixes-for-windows-10-tap-interface/"><u>Fast Fixes for Windows 10 Tap Interface</u></a></li>
+<li><a href="https://driver-install.techidaily.com/heal-serial-port-connectivity-failures/"><u>Heal Serial Port Connectivity Failures</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978249341-igfx-module-not-responding-heres-how-to-get-it-running-again/"><u>IGFX Module Not Responding? Here's How to Get It Running Again</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-upgrade-lenovo-yoga-900-software/"><u>Instantly Upgrade Lenovo Yoga 900 Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96176977-9781609611996-mindfulness/"><u>Mindfulness | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-tips-for-securely-acquiring-terrifying-movie-downloads/"><u>Quick Tips for Securely Acquiring Terrifying Movie Downloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-laptops-mouse-wont-respond-a-comprehensive-fix/"><u>Solutions for When Your Laptop's Mouse Won’t Respond: A Comprehensive Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-issues-with-idt-hd-sound-card-driver-in-windows-11/"><u>Step-by-Step Guide: Resolving Issues with IDT HD Sound Card Driver in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-system-with-amd-for-wincrypto-performance/"><u>Streamline Your System with AMD for WinCrypto Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-windows-11-graphics-update-your-hdmi-drivers/"><u>Streamlining Windows 11 Graphics: Update Your HDMI Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063039833-windows-10-canon-driver-get-it-now/"><u>Windows 10 Canon Driver, Get It Now!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-1011-updating-your-hdmi-drivers/"><u>Windows 10/11: Updating Your HDMI Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720061950543-windows-11-touch-screen-driver-download-and-update-easily/"><u>Windows 11 Touch Screen Driver Download & Update. Easily</u></a></li>
 </ul></div>
 

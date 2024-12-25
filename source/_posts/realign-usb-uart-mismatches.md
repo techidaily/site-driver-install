@@ -1,7 +1,7 @@
 ---
 title: Realign USB-UART Mismatches
-date: 2024-07-11T15:41:21.022Z
-updated: 2024-07-12T15:41:21.022Z
+date: 2024-12-22T19:52:41.344Z
+updated: 2024-12-24T21:09:20.192Z
 tags:
   - win11
   - win10
@@ -38,11 +38,23 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-98.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-96.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
 
@@ -58,11 +70,19 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-103.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.  
 
@@ -77,8 +97,6 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,6 +104,22 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-infographic-8-ways-to-make-money-on-youtube-for-beginners/"><u>[Updated] Infographic - 8 Ways to Make Money on YouTube for Beginners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/4-pioneering-ways-ai-elevates-study-habits/"><u>4 Pioneering Ways AI Elevates Study Habits</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-bluetooth-driver-for-w11plus-windows-8plus-release/"><u>ASUS Bluetooth Driver for W11+ Windows 8+ Release</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-prompt-crafting-on-chatgpt-using-our-exclusive-chrome-extension/"><u>Effortless Prompt Crafting on ChatGPT Using Our Exclusive Chrome Extension</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/essential-tips-for-enhancing-posts-on-snapchat-for-2024/"><u>Essential Tips for Enhancing Posts on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-affiliate-acquaintanceships-elevating-budget-channels-with-ease/"><u>In 2024, Affiliate Acquaintanceships Elevating Budget Channels with Ease</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-win-7s-performance-new-gaming-mouse-driver/"><u>Instantly Improve Win 7'S Performance - New Gaming Mouse Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigate-through-windows-11-driver-update-with-ease/"><u>Navigate Through Windows 11 Driver Update With Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-electronics-a-closer-look-by-tom/"><u>Navigating the Latest in Electronics - A Closer Look by Tom</u></a></li>
+<li><a href="https://win-superb.techidaily.com/optimize-your-data-safety-capturing-new-modifications-in-windows-7-incremental-archives/"><u>Optimize Your Data Safety: Capturing New Modifications in Windows 7 Incremental Archives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-the-windows-11-cant-start-issue-a-step-by-step-guide/"><u>Resolving the 'Windows 11 Can't Start' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-printing-with-officejet-7740/"><u>Seamless Printing with Officejet 7740</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-yoga-900s-performance-with-new-windows-10-drivers/"><u>Unlock Yoga 900S Performance with New Windows 10 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7-easier-optimize-hp-graphics-performance/"><u>Win7 Easier: Optimize HP Graphics Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-streamlining-driver-updates-now/"><u>Windows 11: Streamlining Driver Updates Now</u></a></li>
+</ul></div>
 

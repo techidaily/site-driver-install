@@ -1,7 +1,7 @@
 ---
 title: How to Update Drivers on Windows 11 the Easiest Way
-date: 2024-07-11T15:42:38.164Z
-updated: 2024-07-12T15:42:38.164Z
+date: 2024-12-17T17:46:50.463Z
+updated: 2024-12-25T09:48:36.561Z
 tags:
   - win11
   - win10
@@ -42,15 +42,39 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
  If you can’t find the driver online, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (a trusted source for millions of verified drivers) to download the correct driver for you.
 2. Right-click the Start menu ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-1.png) and click**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the**Device Manager** window, expand the category and the device that you wish to update the driver for. If you need to update Realtek PCIe GBE Family Controller, you’ll find this device under the**Network adapters** category. You can right-click on the device name and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/update-driver.jpg)
 4. Click**Browse my computer for drivers** , and select the downloaded file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![browse my device](https://images.drivereasy.com/wp-content/uploads/2022/02/browse.jpg)
 5. Browse to the folder where your driver file is saved.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-path.jpg)
 6. It will install the drivers automatically for you.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/download-location.jpg)
 7. Once complete, you now have the latest driver installed. You can restart your PC for it to take full effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2\. Update all drivers automatically
 
@@ -83,8 +107,6 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,6 +114,22 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-digital-duel-how-jake-paul-triumphed-on-youtube/"><u>[New] The Digital Duel How Jake Paul Triumphed on YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-choosing-a-champion-dslr-or-mirrorless-camera/"><u>[Updated] 2024 Approved Choosing a Champion DSLR or Mirrorless Camera?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-enter-the-world-of-funimate-with-ease/"><u>[Updated] 2024 Approved Enter the World of Funimate with Ease</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-pioneering-top-vr-movies-for-enjoyment-for-2024/"><u>[Updated] Pioneering Top VR Movies for Enjoyment for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-intellectual-property-on-instagram/"><u>Navigating Intellectual Property on Instagram</u></a></li>
+<li><a href="https://driver-install.techidaily.com/repair-usb-serial-driver-failures/"><u>Repair USB-Serial Driver Failures</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-printer-driver-challenges-on-windows-11-hp/"><u>Resolve Printer Driver Challenges on Windows 11 (HP)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-ati-graphics-card-drivers-on-a-pc/"><u>Step-by-Step Guide: Updating Your ATI Graphics Card Drivers on a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-scroll-start-zoom-7-methods-to-tame-wheel-woes/"><u>Stop Scroll, Start Zoom: 7 Methods to Tame Wheel Woes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-graphics-with-latest-hp-drivers-for-win11/"><u>Streamline Graphics with Latest HP Drivers for Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/syncing-usbasp-with-windows-editions-for-smooth-use/"><u>Syncing USBasp with Windows Editions for Smooth Use</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-machine-top-winning-windows-2023-apps/"><u>Transform Your Machine: Top Winning Windows 2023 Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-potential-how-to-update-focusrites-scarlett-drives/"><u>Unleash Potential: How to Update Focusrite's Scarlett Drives</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-20-bridge-to-lan-quick-and-painless-driver-instructions/"><u>USB 2.0 Bridge to LAN - Quick and Painless Driver Instructions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-graphics-upgrade-in-a-minute/"><u>Windows Graphics Upgrade in a Minute!</u></a></li>
+</ul></div>
 
