@@ -1,7 +1,7 @@
 ---
 title: Unlocking USBasp on Vista to 10 & 11 Platforms Successfully
-date: 2024-12-05T03:21:08.242Z
-updated: 2024-12-10T00:04:47.951Z
+date: 2025-01-01T18:20:47.422Z
+updated: 2025-01-03T16:06:27.922Z
 tags:
   - win11
   - win10
@@ -45,7 +45,7 @@ To do so:
 4. Run the downloaded file and follow the on-screen instructions to finish it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should have the latest USBasp driver installed in your Windows computer.
@@ -65,21 +65,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddda67fba.jpg)
 3. Click the**Update** button next to the device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd828e09e9b7.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](mailto:support@drivereasy.com) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 Tada, now you should have updated the USBasp driver easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Download and update USBasp driver via Device Manager
 
@@ -96,14 +96,14 @@ Here’s what you need to do:
 4. Choose**Search automatically for updated driver software** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -124,22 +124,18 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-degrees-matter-rotating-videos-for-social-glory/"><u>[New] In 2024, Degrees Matter Rotating Videos for Social Glory</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-guide-to-saving-switch-gameplay-videos/"><u>[New] In 2024, Quick Guide to Saving Switch Gameplay Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-high-quality-drones-that-accommodate-gopro-cameras/"><u>[Updated] High-Quality Drones That Accommodate GoPro Cameras</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-multimedia-a-detailed-review-of-video-editors/"><u>2024 Approved Mastering Multimedia A Detailed Review of Video Editors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/apex-legends-quiet-zone-heres-how-to-get-game-sounds-back/"><u>Apex Legends Quiet Zone? Here's How to Get Game Sounds Back!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-guide-to-io-screen-capture-capabilities/"><u>Comprehensive Guide to IO Screen Capture Capabilities</u></a></li>
-<li><a href="https://driver-install.techidaily.com/diagnosing-and-repairing-steady-crashing-issues-with-metro-exodus-gold-edition/"><u>Diagnosing and Repairing Steady Crashing Issues with Metro Exodus: Gold Edition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-steps-for-downloading-films-directly-onto-your-ipad-a-comprehensive-tutorial/"><u>Easy Steps for Downloading Films Directly Onto Your iPad: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-spark-10-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Spark 10 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/relaunching-nvidia-software-on-pcs/"><u>Relaunching NVIDIA Software on PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-methods-to-keep-your-nvidia-up-to-date/"><u>Seamless Methods to Keep Your Nvidia Up-to-Date</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simple-steps-to-restore-windows-1011s-bluetooth-functionality/"><u>Simple Steps to Restore Windows 10/11'S Bluetooth Functionality</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tech-enhancement-latest-intel-chipset-drivers/"><u>Tech Enhancement: Latest Intel Chipset Drivers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-15-advanced-techniques-in-sports-broadcasting-for-2024/"><u>Unveiling 15 Advanced Techniques in Sports Broadcasting for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-wi-fi-controller-support-in-win11-release/"><u>Upgrade Wi-Fi Controller Support in Win11 Release</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-graphics-with-latest-nvidia-driver-win10-and-gtx-970/"><u>Upgraded Graphics with Latest Nvidia Driver - Win10 & GTX 970</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-guardians-of-the-screen-the-best-webcam-cover-options/"><u>[Updated] 2024 Approved Guardians of the Screen - The Best Webcam Cover Options</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-turn-off-suggested-posts-on-instagram/"><u>[Updated] How to Turn Off Suggested Posts on Instagram?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-ace-2-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-install-razer-mouse-drivers-on-your-pc/"><u>Efficiently Install Razer Mouse Drivers on Your PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-youtubes-latest-revenue-guidelines/"><u>Exploring YouTube's Latest Revenue Guidelines</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-1650-drivers-upgraded-for-win1110/"><u>GTX 1650 Drivers - Upgraded for Win11/10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-deskjet-driver-improvement-strategy-for-windows-11/"><u>HP Deskjet Driver Improvement Strategy for Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pcie-audio-enhancement-via-realtek-in-windows-10/"><u>PCIe Audio Enhancement via Realtek in Windows 10</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/resolving-graphics-card-issues-comprehensive-guide-by-yl-computing/"><u>Resolving Graphics Card Issues - Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-restoring-functionality-to-a-non-working-xbox-series-x-or-s-audio-device/"><u>Step-by-Step Guide: Restoring Functionality to a Non-Working Xbox Series X or S Audio Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-instructions-on-how-to-combine-cells-using-google-sheets-tools/"><u>Step-by-Step Instructions on How to Combine Cells Using Google Sheets Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-ie-driver-deployment-on-win-oses/"><u>Streamline IE Driver Deployment on Win OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-mice-revival-a-precise-instruction-manual/"><u>Windows Mice Revival: A Precise Instruction Manual</u></a></li>
 </ul></div>
 

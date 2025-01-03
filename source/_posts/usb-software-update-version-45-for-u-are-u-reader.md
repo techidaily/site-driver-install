@@ -1,7 +1,7 @@
 ---
 title: "USB Software Update: Version 4.5 for U-Are-U Reader"
-date: 2024-12-13T16:18:16.443Z
-updated: 2024-12-16T16:30:23.124Z
+date: 2024-12-29T18:45:24.754Z
+updated: 2025-01-03T16:32:32.356Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ OR
 **[Option 2 – Automatically (Recommended)](#o1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Manually
@@ -42,17 +42,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-27_15-45-07.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Or you can obtain the driver from your PC vendor. You’ll need to visit the official website of Lenovo, Dell, or any other vendors, and locate its**Support** section. Then select**Drivers & Software** or**Drivers & Download** to enter the download page of drivers. Search for**U.are.U 4500 fingerprint reader driver** and download the exact driver according to your Windows variant.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-946-1024x224.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 2: Install the driver manually
 
@@ -60,13 +52,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device-manager-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double click**Biometric devices** , then right-click**U.are.U 4500 Fingerprint Reader,** and select **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-936.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select the driver file and click**Next** , then wait for the installation process to finish.
 
@@ -75,10 +79,6 @@ OR
 See if your fingerprint reader works properly again.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -94,15 +94,15 @@ See if your fingerprint reader works properly again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
 
  Or click the**Update All** button to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get full support and 30 day money-back guarantee. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your PC after finishing installing.
 
@@ -130,17 +130,21 @@ See if your fingerprint reader works properly again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-capturing-instagram-content-on-computers-techniques-and-tools/"><u>[Updated] In 2024, Capturing Instagram Content on Computers Techniques and Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-slow-mo-camera-apps-for-iphoneandroid-users/"><u>[Updated] Leading Slow Mo Camera Apps for iPhone/Android Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhance-virtual-interaction-top-techniques-with-zoom-video-editor/"><u>Enhance Virtual Interaction Top Techniques with Zoom Video Editor</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagrams-secret-weapons-for-follower-increase/"><u>In 2024, Instagram's Secret Weapons for Follower Increase</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1728504257731-outlook3/"><u>Outlookコンタクトデータ復元ガイド:バックアップからの3つの有効な方法</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-win-7-setup-update-new-gaming-mouse-quickly/"><u>Revamp Win 7 Setup - Update New Gaming Mouse Quickly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionary-graphics-amds-vega-3-update-firmware/"><u>Revolutionary Graphics - AMD's Vega 3 Update Firmware</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionize-your-laptop-with-latest-win10-drivers-for-yoga-900s/"><u>Revolutionize Your Laptop with Latest Win10 Drivers for Yoga 900S</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-driver-upgrades-on-nvidias-760/"><u>Seamless Driver Upgrades on Nvidia's 760</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-16-from-xiaomi-redmi-a2-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Xiaomi Redmi A2 to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-with-intel-hd520-drivers/"><u>Upgrade with Intel HD520 Drivers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-hdr-quality-evaluating-luminances-performance/"><u>[New] HDR Quality Evaluating Luminance's Performance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-step-up-your-photo-game-with-these-ingenious-pixlr-techniques/"><u>[New] Step Up Your Photo Game with These Ingenious Pixlr Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-the-moment-a-practical-guide-to-google-meetings-screen-recordings/"><u>Capturing the Moment A Practical Guide to GooGle Meetings' Screen Recordings</u></a></li>
+<li><a href="https://driver-install.techidaily.com/chipset-driver-update-for-win-10-8-oses/"><u>Chipset Driver Update for WIN 10-8 OSes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-efficiency-latest-canon-printer-software-for-windows-oses/"><u>Drive Efficiency: Latest Canon Printer Software for Windows OSes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/extend-your-digital-safety-net-with-a-bargain-5-year-vpn-plan-for-only-35-explore-now/"><u>Extend Your Digital Safety Net with a Bargain: 5-Year VPN Plan for Only $35 | Explore Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-13c-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-scan-for-collective-shared-content-on-messenger/"><u>In 2024, Scan for Collective Shared Content on Messenger</u></a></li>
+<li><a href="https://driver-install.techidaily.com/opengl-performance-optimization/"><u>OpenGL Performance Optimization</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-universal-adb-driver-availability-here/"><u>Seamless Universal ADB Driver Availability Here</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-wireless-ac-networking-for-windows-7-desktop/"><u>Setup Wireless-AC Networking for Windows 7 Desktop</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-sailing-regularly-update-your-pcs-astro-software/"><u>Smooth Sailing: Regularly Update Your PC’s Astro Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-invisible-force-behind-non-existent-fb-videos-for-2024/"><u>The Invisible Force Behind Non-Existent FB Videos for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-notch-beesound-earbuds-affordable/"><u>Top-Notch BeeSound Earbuds, Affordable</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-mf4770n-firmware-upgrade-guide/"><u>Windows MF4770n Firmware Upgrade Guide</u></a></li>
 </ul></div>
 

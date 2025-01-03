@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Supports Xbox One Joy-Con
-date: 2024-07-11T15:39:14.456Z
-updated: 2024-07-12T15:39:14.456Z
+date: 2024-12-28T18:27:25.280Z
+updated: 2025-01-03T18:08:54.448Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
  **Way 1:[Update the Driver via Device Manager](#way1)**
  **Way 2:[Update the Driver Using Driver Easy](#way2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Update the Driver via Device Manager
 
  If Windows doesn’t install the driver automatically, you can update the driver manually via Device Manager. Follow these steps:
@@ -33,15 +37,27 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand the branch **Microsoft Xbox One Controller** .
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Check to see if you can use the Xbox One Controller properly.
 
@@ -65,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
 
  Hope the tips help you update Xbox One Controller driver on Windows 10 easily. If you have any questions, please leave your comments below. We’d love to hear of any ideas and suggestions.
@@ -78,8 +98,6 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,6 +105,24 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-focused-frames-eliminating-jitterbugs/"><u>[New] Focused Frames Eliminating Jitterbugs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-how-to-watch-instagram-live-anonymously/"><u>[Updated] 2024 Approved How to Watch Instagram Live Anonymously</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-dissecting-podcasters-income-streams-for-2024/"><u>[Updated] Dissecting Podcasters' Income Streams for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/a-comprehensive-methodology-for-driver-modification-in-windows-8-os/"><u>A Comprehensive Methodology for Driver Modification in Windows 8 OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-linksys-ae2500-wifi-router-software-now/"><u>Download Linksys AE2500 WiFi Router Software Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensuring-successful-windows-driver-installation/"><u>Ensuring Successful Windows Driver Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-new-intel-centrino-wireless-n-6205-drivers-now-free-download/"><u>Get Your New Intel Centrino Wireless-N 6205 Drivers Now – [Free Download]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-essential-audacity-manual-for-mac-audio-capture/"><u>In 2024, The Essential Audacity Manual for Mac Audio Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/leveraging-cookiebot-technology-for-tailored-marketing-strategies-and-seo-optimization/"><u>Leveraging Cookiebot Technology for Tailored Marketing Strategies and SEO Optimization</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pixelpun-factory-for-2024/"><u>PixelPun Factory for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapidly-improve-vr-headset-performance/"><u>Rapidly Improve VR Headset Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstalling-usb-devices-support-on-older-windows-systems/"><u>Reinstalling USB Devices Support on Older Windows Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/superior-pc-sound-and-amd-support/"><u>Superior PC Sound & AMD Support</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-poco-by-drfone-android/"><u>Three Ways to Sim Unlock Poco</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tips-to-tune-your-nvidia-hd-audio-on-w10-pcs/"><u>Tips to Tune Your NVIDIA HD Audio on W10 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-win-11-with-nvidia-gtx-970-drivers-update/"><u>Upgrade Win 11 with Nvidia GTX 970 Drivers Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wireless-proxy-installation-easy-w7-guide/"><u>Wireless Proxy Installation: Easy W7 Guide</u></a></li>
+</ul></div>
 

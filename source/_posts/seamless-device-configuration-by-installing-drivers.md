@@ -1,7 +1,7 @@
 ---
 title: Seamless Device Configuration by Installing Drivers
-date: 2024-12-05T10:14:44.092Z
-updated: 2024-12-10T13:23:47.992Z
+date: 2024-12-29T18:38:51.879Z
+updated: 2025-01-03T18:27:04.253Z
 tags:
   - win11
   - win10
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
  As you know, a driver is software that a device uses to work with your PC. When your device isn’t working properly, you can check if the driver is installed correctly. A faulty driver could always be the cause. To fix the problem, you need to update the driver. For some devices, Windows can update the driver automatically. For some devices especially external devices, you need to install the updated drivers yourself, then you need to download the driver manually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download the driver manually
 
  To download new drivers, go to the PC manufacturer’s website or the device manufacturer’s website. Driver updates are often available in the Support section of their website. If you are using a branded computer, it is recommended that you go to the PC manufacturer’s website to check for the latest driver first, as they may customize the driver. You are required to use the **PC model** and the **operating system** that you are using to download the correct driver. Usually, the PC model can be found on the machine. See [How to Check Your Operating System Version](https://tools.techidaily.com/drivereasy/download/) . If you need to download the driver from device manufacturer, then you are required to know the device model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to install the driver
 
@@ -34,16 +42,8 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 2. Right-click on the device that needs a driver update and select **Update driver** . (Here we take a video card as an example.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Update-driver.jpg)
 3. Select **Browse my computer for drivers** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse-my-computer-for-drivers-Graphics-card.jpg)
 4. Select **Let me pick from a list of device drivers on my computer** .  
@@ -52,18 +52,18 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 5. Click the **Have Disk…** button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Have-disk.jpg)
 6. Click the **Browse…** button. Navigate to the folder where you saved the downloaded driver file and browse the .inf driver file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse.jpg)
 7. Click the**OK** button and then **Next** button to finish the installation. You might be asked for an admin password or to confirm your choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have difficulty downloading and installing drivers manually, or if you want to save more time in updating drivers, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -76,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -101,22 +101,20 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-gif-creation-best-tools-reviewed-and-compared/"><u>[New] 2024 Approved Essential GIF Creation Best Tools Reviewed & Compared</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-inside-hand-tracking-techniques-and-varieties/"><u>[New] 2024 Approved Inside Hand Tracking Techniques & Varieties</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-tier-free-screen-capture-programs-2023-edition/"><u>[New] 2024 Approved Top-Tier Free Screen Capture Programs – 2023 Edition</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-retro-reel-upgrade-converting-photographs-to-videos/"><u>[New] Retro Reel Upgrade Converting Photographs to Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-swift-fixes-for-non-functional-facebook-video-sharing-on-androidios/"><u>[Updated] In 2024, Swift Fixes for Non-Functional Facebook Video Sharing on Android/iOS</u></a></li>
-<li><a href="https://win-updates.techidaily.com/banishing-social-media-spam-effective-strategies-for-blocking-unwanted-ads-on-facebook-and-tailored-marketing-content-in-messenger/"><u>Banishing Social Media Spam: Effective Strategies for Blocking Unwanted Ads on Facebook and Tailored Marketing Content in Messenger</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-down-the-system-behind-highlighted-video-comments-for-2024/"><u>Breaking Down the System Behind Highlighted Video Comments for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-correctly-optimize-jetprinter-performance-in-windows/"><u>Configure Correctly: Optimize JetPrinter Performance in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/convenient-strategies-freshen-and-install-amd-video-drivers/"><u>Convenient Strategies: Freshen & Install AMD Video Drivers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cyberpower-cp685avrg-uninterruptible-power-supply-reliable-backup-solution-overview/"><u>Cyberpower CP685AVRG Uninterruptible Power Supply - Reliable Backup Solution Overview</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-into-the-future-update-your-focusrite-scarlett-6i6/"><u>Drive Into the Future: Update Your Focusrite Scarlett 6I6</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dynamic-dialogues-keys-to-a-loving-podcast-following/"><u>Dynamic Dialogues Keys to a Loving Podcast Following</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-guide-installing-asus-graphics-drivers-on-windows/"><u>Quick Guide: Installing ASUS Graphics Drivers on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-firmware-upgrade-for-s1500-model/"><u>Seamless Firmware Upgrade for S1500 Model</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-your-wireless-network-on-windows-11-with-updated-atheros-drivers/"><u>Streamlining Your Wireless Network on Windows 11 with Updated Atheros Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-lexmark-printer-driver-easily/"><u>Update Lexmark Printer Driver Easily</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win10-now-features-enhanced-hd-audio-capabilities/"><u>Win10 Now Features Enhanced HD Audio Capabilities</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-saving-every-moment-on-mac-with-screen-recording-tutorial/"><u>[New] In 2024, Saving Every Moment on Mac with Screen Recording Tutorial</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-snap-scissor-and-save-how-the-iphone-revolutionizes-image-cropping/"><u>[New] In 2024, Snap, Scissor & Save How the iPhone Revolutionizes Image Cropping</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-compilation-of-ios-compatible-ps2-games-for-2024/"><u>[New] Ultimate Compilation of iOS-Compatible PS2 Games for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-logitech-driver-upgrade-process/"><u>Direct Logitech Driver Upgrade Process</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effective-methods-to-update-atheros-drivers-on-your-windows-system/"><u>Effective Methods to Update Atheros Drivers on Your Windows System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-printer-functionality-newest-model-mf4770n-for-windows-oses/"><u>Elevate Printer Functionality: Newest Model MF4770n for Windows OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-driver-update-new-gaming-mouse/"><u>Fast Driver Update: New Gaming Mouse</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-m34-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy M34 Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-magic-5-lite-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor Magic 5 Lite</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-a59-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo A59 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-note-12-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi Note 12 5G Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-critical-freezes-a-simple-walkthrough-of-cxfreeze-recovery/"><u>Mastering the Fix for Critical Freezes - A Simple Walkthrough of Cx_Freeze Recovery</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-integration-setup-for-epson-et-2650-driver/"><u>Seamless Integration Setup for Epson ET-2650 Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-windows-error-steams-verified-games-issue/"><u>Strategies to Address Windows Error: Steam’s Verified Games Issue</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-msi-compatibility-on-windows-10-7-and-8-editions/"><u>Upgrading MSI Compatibility on Windows 10, 7 & 8 Editions</u></a></li>
 </ul></div>
 

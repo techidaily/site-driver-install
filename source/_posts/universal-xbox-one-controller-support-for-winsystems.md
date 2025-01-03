@@ -1,7 +1,7 @@
 ---
 title: Universal Xbox One Controller Support for Winsystems
-date: 2024-12-17T21:28:37.079Z
-updated: 2024-12-24T18:17:20.267Z
+date: 2024-12-29T18:23:25.376Z
+updated: 2025-01-03T18:50:20.834Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  **Way 1:[Update the Driver via Device Manager](#way1)**
  **Way 2:[Update the Driver Using Driver Easy](#way2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Update the Driver via Device Manager
 
  If Windows doesn’t install the driver automatically, you can update the driver manually via Device Manager. Follow these steps:
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Expand the branch **Microsoft Xbox One Controller** .
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Check to see if you can use the Xbox One Controller properly.
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
@@ -107,18 +107,16 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-building-endorsements-strategically/"><u>[New] Building Endorsements Strategically</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-essential-guide-to-editing-full-degree-videos-with-premiere-pro-for-2024/"><u>[New] Essential Guide to Editing Full Degree Videos with Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-beyond-one-viewpoint-the-ultimate-review-of-best-11-bridge-cams/"><u>[Updated] Beyond One Viewpoint The Ultimate Review of Best 11 Bridge Cams</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-micro-enterprises-guide-to-viral-video-promotion/"><u>[Updated] In 2024, Micro-Enterprises' Guide to Viral Video Promotion</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-xcover-7-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy XCover 7 support AVCHD video?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-lower-wudfhostexes-heavy-resource-utilization-on-windows-11-pcs/"><u>Effective Techniques to Lower wudfhost.exe's Heavy Resource Utilization on Windows 11 PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-swiftly-reinstall-and-configure-printer-drivers-in-windows-oses/"><u>How to Swiftly Reinstall and Configure Printer Drivers in Windows OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-hdmi-in-windows-11-an-updated-drivers-approach/"><u>Mastering HDMI in Windows 11: An Updated Drivers' Approach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-for-error-1053-when-services-fail-to-start-promptly/"><u>Quick Fix Guide for 'Error 1053': When Services Fail to Start Promptly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-guide-to-new-drivers-and-updates-hp-model-4630/"><u>Quick Guide to New Drivers & Updates - HP Model 4630</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-os-easy-touch-screen-driver-installation/"><u>Streamline OS: Easy Touch Screen Driver Installation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-video-producers-route-to-royalty-free-soundtracks-for-2024/"><u>The Video Producer’s Route to Royalty-Free Soundtracks for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-update-perfectly-pairing-amd-hardware/"><u>Windows Update: Perfectly Pairing AMD Hardware</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-syncing-zoom-to-your-calendar/"><u>[New] In 2024, Syncing Zoom to Your Calendar</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-record-every-frame-of-your-android-experience-for-free-for-2024/"><u>[Updated] Record Every Frame of Your Android Experience for FREE for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-seamless-video-tweaks-integrating-story-remix-into-windows-10-photos-for-2024/"><u>[Updated] Seamless Video Tweaks Integrating Story Remix Into Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2023-how-to-check-tiktok-video-copyright-before-uploading/"><u>2023 | How to Check Tiktok Video Copyright Before Uploading?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/el-conclusion-mastery-makers-and-templates-for-best-practices/"><u>Channel Conclusion Mastery - Makers & Templates for Best Practices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hasten-driver-optimization-for-logitech-speakers/"><u>Hasten Driver Optimization for Logitech Speakers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-speedily-upgrade-windows-drivers-in-moments-win10-81/"><u>How to Speedily Upgrade Windows Drivers in Moments (Win10-8.1)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-se-2022-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone SE (2022) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/instagram-snapshot-of-an-enlightening-episode-for-2024/"><u>Instagram Snapshot of an Enlightening Episode for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-intel-windows-compatibility-for-win-11781-systems/"><u>Streamline Intel-Windows Compatibility for Win 11/7/8.1 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-your-device-with-3dconnexion-drivers/"><u>Unlocking Your Device with 3Dconnexion Drivers</u></a></li>
 </ul></div>
 

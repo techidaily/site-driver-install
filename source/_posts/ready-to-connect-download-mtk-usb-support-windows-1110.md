@@ -1,7 +1,7 @@
 ---
 title: Ready to Connect? Download MTK USB Support, Windows 11/10
-date: 2024-07-11T15:38:15.194Z
-updated: 2024-07-12T15:38:15.194Z
+date: 2025-01-01T18:26:11.191Z
+updated: 2025-01-03T18:49:33.593Z
 tags:
   - win11
   - win10
@@ -79,6 +79,10 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery-restart.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
  5) When you see**Startup Settings** , press**number 7** or**F7** on your keyboard to disable Driver Signature Enforcement. This will take about 3 minutes to boot.
@@ -95,21 +99,41 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Action** and select**Add legacy hardware** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the Add Hardware Wizard, click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Show All Devices** and then**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Select**Have Disk** and select the .inf file you extracted before.
 
@@ -163,8 +187,6 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,6 +194,26 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-ever-approved-reddit-threads-a-historical-list/"><u>2024 Approved Top 10 Ever-Approved Reddit Threads A Historical List</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/adobe-photoshop-8-starter-pack-mastering-the-basics-and-streamlined-ordering-system/"><u>Adobe Photoshop 8 Starter Pack: Mastering the Basics and Streamlined Ordering System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensive-guide-on-win810-plus-7-and-xp-startech-fix/"><u>Comprehensive Guide on Win8/10 + 7 & XP: StarTech Fix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-windows-graphics-anew-with-ease/"><u>Drive Windows Graphics Anew with Ease</u></a></li>
+<li><a href="https://driver-install.techidaily.com/express-drivers-update-atis-hd-4800-series/"><u>Express Drivers Update: ATI's HD 4800 Series</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hardware-software-tug-of-war/"><u>Hardware-Software Tug-of-War</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-network-adapter-error-code-31-on-windows/"><u>How to Fix the Network Adapter Error Code 31 on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-quickly-boost-your-atheros-wi-fi-in-windows-with-driver-updates/"><u>How to Quickly Boost Your Atheros Wi-Fi in Windows with Driver Updates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung Galaxy M34 5G.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-printer-1020-bid-adieu-to-windows-driver-troubles/"><u>HP Printer 1020: Bid Adieu to Windows Driver Troubles</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-play-40c-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor Play 40C to Another | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/optimizing-your-video-images-for-instagram-highlights-for-2024/"><u>Optimizing Your Video Images for Instagram Highlights for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reviving-gpu-performance-master-the-newest-ddu-tactics/"><u>Reviving GPU Performance - Master the Newest DDU Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-ai-dialogues-with-elite-instructional-series/"><u>Revolutionize AI Dialogues with Elite Instructional Series</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-keeping-calculator-as-windowtop-focus/"><u>Steps for Keeping Calculator as Windowtop Focus</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-usbasp-operation-on-xp-7-and-modern-windows/"><u>Streamlining USBasp Operation on XP, 7, & Modern Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swifter-sata-controller-tuning-intel/"><u>Swifter SATA Controller Tuning, Intel</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/viral-beats-top-tiktok-hits-for-a-dance-off/"><u>Viral Beats Top TikTok Hits for a Dance Off</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Secure Boot & MEDD on Windows
-date: 2024-12-07T06:38:05.953Z
-updated: 2024-12-10T00:24:25.078Z
+date: 2025-01-01T16:09:22.082Z
+updated: 2025-01-03T18:13:44.494Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 **Note** : The screen shots below are shown in Windows 10, but all the fixes apply to Windows 7 and Windows 8.1 as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Step 1: Download Intel Management Driver**
 
  Just download it directly from Intel web page:
@@ -50,26 +46,30 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ca2e76e79.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you want to install the drivers and the**ME Security Status application and control panel** , choose to run the setup file in**ME\_SW\_MSI** folder.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cba0066eb.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) If you only want to install the drivers, you can choose the setup file in folder**MEI-Only Installer MSI** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ccff509cb.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Folder**WINDOWSDriverPackages** contains the .inf files for IT professionals. Check it if you are interested.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cd9324cad.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **PRO TIP:**
@@ -92,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7b1d1786b4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **NOTE:**
   
  1) If you are running a Windows 7 operating system, please make sure that you have installed [**Kernel-Mode Driver Framework version 1.11**](https://www.microsoft.com/en-us/download/details.aspx?id=38423) first.  
@@ -104,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) If the Intel Management Engine driver is not successfully installed, you may see an error notification in**Device Manager > PCI Simple Communications Controller** .
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 [**Intel Management Engine Interface: This device cannot start on Windows**](https://tools.techidaily.com/drivereasy/download/)
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/intel-r-management-engine-interface-imei.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Intel](https://tools.techidaily.com/drivereasy/download/)
 
@@ -134,19 +134,24 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-flip-photo-trail-on-fb-3-techniques-explored-for-2024/"><u>[New] Flip Photo Trail on FB - 3 Techniques Explored for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-picks-for-online-classical-tone-downloads/"><u>[New] Top Picks for Online Classical Tone Downloads</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-decoding-facebooks-automatic-video-advancements/"><u>[Updated] Decoding Facebook's Automatic Video Advancements</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-9-zero-price-editors-for-youtube-content/"><u>[Updated] Exploring 9 Zero Price Editors for YouTube Content</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-iphones-audio-mystery-ringtone-adjustments/"><u>2024 Approved Unraveling iPhone's Audio Mystery Ringtone Adjustments</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-win1011-screen-output-guide-to-new-hdmi-driver/"><u>Enhance Win10/11 Screen Output - Guide to New HDMI Driver</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-virtual-worlds-worth-playing-for-2024/"><u>Essential Virtual Worlds Worth Playing for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-digital-illustration-turning-your-favorite-vimeo-videos-into-gifs/"><u>In 2024, Digital Illustration Turning Your Favorite Vimeo Videos Into GIFs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-dive-into-screen-recording-expert-insights-on-top-obs-software/"><u>In 2024, Dive Into Screen Recording Expert Insights on Top OBS Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/logitech-mouse-driver-update-made-simple-for-windows/"><u>Logitech Mouse Driver Update Made Simple for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimized-operations-installing-firmware-update-for-win-oses/"><u>Optimized Operations: Installing Firmware Update for WIN OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-pcie-controller-for-better-audio/"><u>Update PCIe Controller for Better Audio</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xbox-one-steering-system-on-windows-10/"><u>Xbox One Steering System on Windows 10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-for-free-how-to-convert-twitter-videos-to-gifs-in-2024/"><u>[New] For Free! How to Convert Twitter Videos to GIFS, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unparalleled-screenplay-craftsmanship-across-varied-fields/"><u>[New] In 2024, Unparalleled Screenplay Craftsmanship Across Varied Fields</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/s-it-legal-to-screen-record-youtube-videos-for-2024/"><u>[New] Is It Legal to Screen Record YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-content-insights-7-premier-free-tag-extraction-tools/"><u>[New] Unlock Content Insights 7 Premier Free Tag Extraction Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-next-gen-sound-and-vision-leading-devices-of-24/"><u>[Updated] Next-Gen Sound and Vision Leading Devices of '24</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-seamless-youtube-integration-transform-your-vlc-experience-with-our-top-video-converter/"><u>1. Seamless YouTube Integration: Transform Your VLC Experience with Our Top Video Converter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrate-soundtracks-with-ppt-visuals/"><u>2024 Approved Integrate Soundtracks with PPT Visuals</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-furious-solving-m-audio-problems/"><u>Fast & Furious: Solving M-Audio Problems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrating-m2-nvme-on-pcs/"><u>Integrating M.2 NVMe on PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-driver-release-notes/"><u>Quadro RTX 6000 Driver Release Notes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-to-upgraded-audio-drivers-for-win1111/"><u>Quick Guide to Upgraded Audio Drivers for Win11/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-lexmark-driver-installation-steps/"><u>Seamless Lexmark Driver Installation Steps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/select-vhs-magic-transforming-video-editing-today-for-2024/"><u>Select VHS Magic Transforming Video Editing Today for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sound-upgrade-essentials-focusrites-updated-drivers-walkthrough/"><u>Sound Upgrade Essentials: Focusrite's Updated Drivers Walkthrough</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-pro-6-driver-installation/"><u>Streamlined Pro 6 Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-printer-potential-with-canon-win-driver/"><u>Unlock Printer Potential with Canon Win Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-operations-smoothed-across-different-windows-generations/"><u>USBasp Operations Smoothed Across Different Windows Generations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Update Guide for AMD's RX 5700 Drivers
-date: 2024-12-04T23:49:32.334Z
-updated: 2024-12-10T06:26:12.229Z
+date: 2025-01-01T18:06:16.868Z
+updated: 2025-01-03T17:13:25.692Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ OR
 
  The screenshot below are from Windows 10, but the steps also apply to Windows 7, 8 and 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1 – Download and install the driver manually
 
  AMD keeps updating its drivers to prevent graphics card issues and glitches. You need to spend some time searching for the correct driver and installing it on your own. Here are the steps:
@@ -42,20 +38,28 @@ OR
 3. Choose your operating system. (For my case, I click Windows 10 – 64-Bit Edition).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-10.jpg)
 4. Click the**Download** button next to the driver you want.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-5.jpg)
 5. Double-click the downloaded file and follow the on-screen instruction to install the driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you feel the steps above are a little complicated, try the automatic method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the AMD 5700 drivers (Recommended)
 
@@ -71,15 +75,11 @@ OR
 3. Click the **Update**  button next to the flagged **AMD RX 5700 driver** to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -105,16 +105,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-save-time-money-on-passport-photos-with-our-free-generator-apps/"><u>[New] 2024 Approved Save Time, Money on Passport Photos with Our Free Generator Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-perfectly-positioned-cards-youtube-embedding-techniques-for-2024/"><u>[Updated] Perfectly Positioned Cards YouTube Embedding Techniques for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-destiny-2-resolving-the-centipede-bug-effectively/"><u>Fixing Destiny 2: Resolving the Centipede Bug Effectively</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oppo-k11x-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Oppo K11x</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y27-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y27 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-win7/"><u>Quick Driver Updates on Win7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-mouse-driver-installation-guide-for-win10/"><u>Quick Mouse Driver Installation Guide for Win10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reestablish-visual-support-software/"><u>Reestablish Visual Support Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-asus-rog-phone-7-ultimate-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Asus ROG Phone 7 Ultimate Android SIM Unlock APK</u></a></li>
-<li><a href="https://driver-install.techidaily.com/winsolutions-for-startech-driver-problems-windows-xp-11/"><u>WinSolutions for StarTech Driver Problems (Windows XP-11)</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728484949901-windows-10/"><u>パーティションを簡単にクローニングする方法 Windows 10で</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-exceptional-mobile-screen-capture-with-mobizen/"><u>[New] 2024 Approved Comprehensive Guide to Exceptional Mobile Screen Capture with Mobizen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-performance-drives-top-10-srt-enhancements-for-pc-and-mac/"><u>[New] Optimal Performance Drives Top 10 SRT Enhancements for PC and Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-srgb-standardization-the-next-step-beyond-traditional-rgb/"><u>[Updated] 2024 Approved Srgb Standardization The Next Step Beyond Traditional Rgb</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-decoding-aspect-ratios-for-effective-youtube-videos/"><u>[Updated] Decoding Aspect Ratios for Effective YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-m4r/"><u>線上靈活音樂格式轉換 - Movavi M4R自由版本</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressed-remote-network-driver-flaw-in-windows-vista/"><u>Addressed: Remote Network Driver Flaw in Windows Vista</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amplify-acer-vision-in-windows-11-graphics-upgrade/"><u>Amplify Acer Vision in Windows 11 Graphics Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-inkjet-functionality-on-windows-11/"><u>Enhance Inkjet Functionality on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/heal-uart-to-usb-data-link-errors/"><u>Heal UART to USB Data Link Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-download-and-update-amd-video-drivers-easily/"><u>How to Download and Update AMD Video Drivers Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-through-the-process-of-updating-mice-drivers-in-windows/"><u>Navigating Through the Process of Updating Mice Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-easy-installation-hp-projector-8710-drivers-windows-download/"><u>Quick & Easy Installation: HP Projector 8710 Drivers (Windows) Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/revamping-acer-audio-experience-seamless-driver-update-tutorial/"><u>Revamping Acer Audio Experience: Seamless Driver Update Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rewire-your-gpus-software-a-modern-ddu-approach/"><u>Rewire Your GPU's Software: A Modern DDU Approach</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210184584-9781734574180-saving-seventeen/"><u>Saving Seventeen | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-fast-internet-with-updated-intel-ax200-wi-fi-driver-for-windows-11-and-windows-10/"><u>Secure Fast Internet with Updated Intel AX200 Wi-Fi Driver for Windows 11 & Windows 10</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/sprint-through-your-vimeo-media/"><u>Sprint Through Your Vimeo Media</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-atheros-wi-fi-enhancement-for-your-windows-environment/"><u>Step-by-Step Atheros Wi-Fi Enhancement for Your Windows Environment</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sh-creative-filmmaking-youtube-guides-and-extras/"><u>Unleash Creative Filmmaking YouTube Guides & Extras</u></a></li>
 </ul></div>
 

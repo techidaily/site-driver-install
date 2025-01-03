@@ -1,7 +1,7 @@
 ---
 title: "Taming the Wild: Stabilized HP 1020 in Win OS"
-date: 2024-12-22T04:44:34.241Z
-updated: 2024-12-25T10:56:42.417Z
+date: 2024-12-29T17:45:24.611Z
+updated: 2025-01-03T16:49:16.531Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 2. [Update the printer driver in Device Manager](#Fix2)
 3. [Update the printer driver automatically](#Fix3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Update the printer driver manually
 
 Time needed:  3 minutes.
@@ -40,18 +36,26 @@ Time needed:  3 minutes.
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the downloaded file, and follow the wizard to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the printer driver in Device Manager
 
@@ -67,22 +71,18 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After updating, restart your computer.
 
@@ -102,7 +102,7 @@ After updating, restart your computer.
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
@@ -136,18 +136,18 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-why-are-my-videos-flipped-on-instagram-for-2024/"><u>[Updated] Why Are My Videos Flipped On Instagram for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/c6515-firmware-version-released/"><u>C6515 Firmware Version Released</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-fueled-personalization-enhancing-user-experience/"><u>Cookiebot-Fueled Personalization: Enhancing User Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/descargar-e-instalar-la-herramienta-online-de-conversion-de-archivo-m4a-a-aac-sin-coste/"><u>Descargar E Instalar La Herramienta Online De Conversión De Archivo M4A a AAC Sin Coste</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expedite-process-efficient-canon-inkjet-drivers-download-win11-style/"><u>Expedite Process: Efficient Canon Inkjet Drivers Download, Win11 Style</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-asus-rog-phone-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-enhancing-video-content-iphoneipad-screen-capture-basics/"><u>In 2024, Enhancing Video Content IPhone/iPad Screen Capture Basics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-drivers-update-easily/"><u>Lenovo Z50-70 Drivers Update Easily</u></a></li>
-<li><a href="https://driver-install.techidaily.com/m2-controller-setup-guide/"><u>M.2 Controller Setup Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-x100-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo X100 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tailoring-soundtracks-the-art-of-editing-in-garageband-for-2024/"><u>Tailoring Soundtracks The Art of Editing in GarageBand for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-hassle-free-handbook-to-addressing-your-hazki-car-problems/"><u>The Hassle-Free Handbook to Addressing Your Hazki Car Problems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-and-integrate-asus-drivers-with-windows/"><u>Upgrade & Integrate ASUS Drivers with Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-revolutionizing-content-creation-the-future-of-live-video-on-facebook/"><u>[New] 2024 Approved Revolutionizing Content Creation The Future of Live Video on Facebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-redefining-mobile-gaming-mastery-an-examination-of-kinemaster/"><u>[Updated] Redefining Mobile Gaming Mastery An Examination of KineMaster</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-study-aids-top-10-educational-history-channels/"><u>2024 Approved Study Aids Top 10 Educational History Channels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3s-recent-update-includes-edit-tools-yet-performance-and-usability-call-for-improvement/"><u>DALL-E 3'S Recent Update Includes Edit Tools: Yet Performance and Usability Call for Improvement</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-and-swift-methods-to-amplify-graphics-power-with-nvidia-drivers/"><u>Easy & Swift Methods to Amplify Graphics Power with Nvidia Drivers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/flip-your-pdfs-with-this-free-tool-seamlessly-convert-and-rotate-pdf-files-today/"><u>Flip Your PDFs With This Free Tool - Seamlessly Convert and Rotate PDF Files Today!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/implement-intels-hardware-features/"><u>Implement Intel's Hardware Features</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-engaging-and-eye-catching-tiktok-videos-made-simple/"><u>In 2024, Engaging and Eye-Catching TikTok Videos Made Simple</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-release-nvidia-drivers-update-gtx-970-and-windows-11/"><u>New Release: Nvidia Drivers Update - GTX 970 & Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-installation-of-intel-igpu64/"><u>Quick Installation of Intel iGPU64</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/screenshare-catcher-fb-groups/"><u>ScreenShare Catcher - Fb Groups</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-chipset-functionality-with-updated-drivers-for-win-11781/"><u>Streamline Chipset Functionality with Updated Drivers for Win 11/7/8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-windows-10-wi-fi-with-updated-advanced-atheros-drivers/"><u>Streamlining Windows 10 Wi-Fi with Updated, Advanced Atheros Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Seamless WIN11/10 Integration Through MTK USB Support
-date: 2024-12-02T20:06:24.601Z
-updated: 2024-12-10T12:13:10.717Z
+date: 2024-12-29T18:25:29.711Z
+updated: 2025-01-03T17:51:17.404Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
  In this post, we’ll show you 2 easy ways to get the latest MediaTek drivers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
 There are two methods for you to download and install MediaTek drivers.
@@ -34,7 +30,7 @@ There are two methods for you to download and install MediaTek drivers.
 * Option 2 –**[Automatically](#m2)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 Manually
@@ -67,6 +63,10 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, select the**Recovery** tab. Under**Advanced startup** , click**Restart now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
@@ -83,13 +83,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the Restart now button.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery-restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
@@ -107,17 +107,21 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Action** and select**Add legacy hardware** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the Add Hardware Wizard, click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
 
@@ -127,23 +131,19 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Select**Have Disk** and select the .inf file you extracted before.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Select **MTK\_Driver\_ext > SP\_Drivers\_v2.0 > Android > android\_winusb** inf.
 
  9) Once selected, click**OK** . Then select the model you want and click**Next** to install. You can install all MediaTek drivers on your computer.
 
 10) Restart your PC and connect your MediaTek device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 Automatically
 
@@ -196,18 +196,20 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-path-to-cross-media-popularity-via-television-and-fb-live/"><u>[New] 2024 Approved The Path to Cross-Media Popularity via Television and FB Live</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-tools-for-cinematic-creation-top-ten-picks/"><u>[Updated] Prime Tools for Cinematic Creation Top Ten Picks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/experience-great-listening-on-a-budget-with-amazon-basic-soundbar/"><u>Experience Great Listening on a Budget with Amazon Basic Soundbar</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-installing-latest-drivers-for-intel-hd-graphics-5500/"><u>Guide: Installing Latest Drivers for Intel HD Graphics 5500</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-t2-5g-phone-by-drfone-android/"><u>How to Reset a Locked Vivo T2 5G Phone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/identifying-lack-of-engagement-in-snapsphere/"><u>Identifying Lack of Engagement in Snapsphere</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1723262408287-innovation-hub-the-inside-scoop-from-toms-hardware-for-gadget-lovers/"><u>Innovation Hub: The Inside Scoop From Tom's Hardware for Gadget Lovers.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/inside-toms-gadget-guide-reliable-assessments-of-hardware-products/"><u>Inside Tom's Gadget Guide: Reliable Assessments of Hardware Products</u></a></li>
-<li><a href="https://driver-install.techidaily.com/meteor-lake-cpu-driven-new-mini-pc-with-onexplayer-m1-intel-core-ultra-coffee-lake-9th-gen-up-to-32gb-ram-and-oculink/"><u>Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-lexmark-printer-driver-integration/"><u>Speedy Lexmark Printer Driver Integration</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-f34-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy F34 5G Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ultra-mini-desktop-that-mirrors-laptop-aesthetics-houses-beefy-core-i9-cpu-and-nvidias-mobile-gaming-power/"><u>Ultra Mini Desktop That Mirrors Laptop Aesthetics - Houses Beefy Core I9 CPU and NVIDIA's Mobile Gaming Power</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-holding-off-full-charges-on-your-iphone-15-may-not-be-ideal/"><u>Why Holding Off Full Charges on Your iPhone 15 May Not Be Ideal</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-hearing-heroism-essential-online-picks-for-tts-files/"><u>[Updated] 2024 Approved Hearing Heroism Essential Online Picks for TTS Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/5m-investment-in-journalists-focused-venture-by-global-social-media-leader/"><u>$5M Investment in Journalists-Focused Venture by Global Social Media Leader</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-real-time-streaming-made-easy-discover-manycam-the-ultimate-virtual-camera-solution/"><u>1. Real-Time Streaming Made Easy: Discover ManyCam - The Ultimate Virtual Camera Solution!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-performance-on-pc-install-canon-printer-software-for-windows/"><u>Boost Performance on PC: Install Canon Printer Software for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-windows-11-display-learn-how-to-update-your-hdmi-driver/"><u>Elevate Your Windows 11 Display: Learn How to Update Your HDMI Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-device-functionality-simply-upload/"><u>Enhance Device Functionality, Simply Upload</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonizing-usbasp-driver-functionality-across-generations-windows/"><u>Harmonizing USBasp Driver Functionality Across Generations (Windows)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-tecno-spark-10-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Tecno Spark 10 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-play-8t-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor Play 8T Easily?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-razer-blade-pro-17-the-epitome-of-portability-and-strength/"><u>In-Depth Analysis of the Razer Blade Pro 17: The Epitome of Portability and Strength</u></a></li>
+<li><a href="https://driver-install.techidaily.com/remedying-printer-complications-in-windows-10/"><u>Remedying Printer Complications in Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solve-macbooks-power-management-issues-save-battery-with-this-essential-tool/"><u>Solve MacBook's Power Management Issues: Save Battery with This Essential Tool</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-graphics-with-three-easy-methods/"><u>Streamline Graphics with Three Easy Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackling-deskjet-driver-failures-os-fixes/"><u>Tackling Deskjet Driver Failures, OS Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/taming-the-ai-beast-proficient-techniques-in-directing-your-chatgpt-exchange-through-folder-strategies/"><u>Taming the AI Beast: Proficient Techniques in Directing Your ChatGPT Exchange Through Folder Strategies</u></a></li>
 </ul></div>
 

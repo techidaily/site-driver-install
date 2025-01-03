@@ -1,7 +1,7 @@
 ---
 title: Restoring USB Essentials in Legacy Windows Systems
-date: 2024-07-11T15:34:14.153Z
-updated: 2024-07-12T15:34:14.153Z
+date: 2024-12-31T16:21:23.280Z
+updated: 2025-01-03T16:47:43.047Z
 tags:
   - win11
   - win10
@@ -18,12 +18,20 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to reinstall USB drivers
 
  There’re two ways you can reinstall your USB drivers on Windows 11, 10, 8 and 7\. You may not try them; just choose your preferred one.
 
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 1 – Reinstall the drivers using Device Manager
 
@@ -32,14 +40,28 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then, type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
 
@@ -68,8 +90,6 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,6 +97,21 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-innovative-lecture-title-composing-system/"><u>[New] Innovative Lecture Title Composing System</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-gaming-with-style-perfecting-your-steam-footage-for-2024/"><u>[Updated] Gaming with Style - Perfecting Your Steam Footage for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-pulse-pounding-perfection-create-compelling-tiktok-videos-with-templates/"><u>[Updated] In 2024, Pulse-Pounding Perfection Create Compelling TikTok Videos with Templates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressing-hp-print-driver-errors-win-10/"><u>Addressing HP Print Driver Errors Win 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amd-sound-interface-package-win-os/"><u>AMD Sound Interface Package (Win OS)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-new-quadro-rtx-graphics-driver/"><u>Get the New Quadro RTX Graphics Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-unifying-hp-jetprinter-driver-with-windows/"><u>Harmonize: Unifying HP JetPrinter Driver with Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-narzo-n53-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-lenovo-drivers-in-windows-10/"><u>Install Latest Lenovo Drivers in Windows 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-techniques-to-free-up-space-by-uninstalling-apps-on-your-mac/"><u>Simple Techniques to Free Up Space by Uninstalling Apps on Your Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-tactics-for-scrolling-through-popular-youtube-reactions/"><u>Streamlined Tactics for Scrolling Through Popular YouTube Reactions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063745927-universal-adb-drivers-effortless-connectivity-comes-first/"><u>Universal ADB Drivers: Effortless Connectivity Comes First</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-video-editors-for-mac-vn-video-editor-and-beyond/"><u>Updated In 2024, Top Video Editors for Mac VN Video Editor and Beyond</u></a></li>
+</ul></div>
 

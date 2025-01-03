@@ -1,7 +1,7 @@
 ---
 title: Revive USB Support on Classic Windows Operating Systems
-date: 2024-12-07T13:01:04.586Z
-updated: 2024-12-10T00:46:42.372Z
+date: 2025-01-01T16:34:49.611Z
+updated: 2025-01-03T18:48:36.110Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reinstall USB drivers
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Reinstall the drivers using Device Manager
@@ -47,11 +47,15 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
@@ -67,15 +71,11 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -101,19 +101,24 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-hand-in-the-wind-understanding-its-types/"><u>[New] Hand-In-The-Wind Understanding Its Types</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-effortless-techniques-to-craft-professional-time-lapses-on-galaxy/"><u>[Updated] In 2024, Effortless Techniques to Craft Professional Time-Lapses on Galaxy</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-viral-fame-boosting-your-videos-popularity-on-youtube/"><u>[Updated] Mastering Viral Fame Boosting Your Video's Popularity on YouTube</u></a></li>
-<li><a href="https://discover-great.techidaily.com/2024kissanime/"><u>【2024】基本的なステップで、KissAnimeからのアニメファイルをダウンロードする方法</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/boosting-bilingualism-3-mind-stimulating-language-drills/"><u>Boosting Bilingualism: 3 Mind-Stimulating Language Drills</u></a></li>
-<li><a href="https://games-able.techidaily.com/converting-game-pads-for-classics-on-pc/"><u>Converting Game Pads for Classics on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-ai-conversations-with-9-key-pluses-advantages/"><u>Elevate AI Conversations with 9 Key Pluses Advantages</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-lenovo-thinkspad-with-win11-driver-improvements/"><u>Elevate Lenovo ThinksPad with Win11 Driver Improvements</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-your-gaming-on-hp-omen-15-via-software-improvements/"><u>Elevate Your Gaming on HP Omen 15 via Software Improvements</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/manually-enhancing-xp-systems-performance-with-drivers/"><u>Manually Enhancing Xp System’s Performance with Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/next-gen-driver-amd-hd-audio-compatible/"><u>Next-Gen Driver: AMD HD Audio Compatible</u></a></li>
-<li><a href="https://driver-install.techidaily.com/operational-boundary-testing/"><u>Operational Boundary Testing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refresh-graphics-drivers-for-better-windows-10-viewing/"><u>Refresh Graphics Drivers for Better Windows 10 Viewing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-hidden-treasures-10-newest-coolest-fb-meme-pages-for-2024/"><u>[New] Hidden Treasures 10 Newest, Coolest FB Meme Pages for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ancient-aesthetics-public-domain-pieces/"><u>[Updated] Ancient Aesthetics Public Domain Pieces</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-quickly-master-iphones-screencasting-feature/"><u>2024 Approved Quickly Master iPhone's Screencasting Feature</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-implement-gtx-driver-update/"><u>Download & Implement GTX Driver Update</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-tips-for-successfully-factory-restoring-your-acer-nitro-5-running-windows-11/"><u>Expert Tips for Successfully Factory Restoring Your Acer Nitro 5 Running Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/freesync-fidelity-meets-4k-bliss-with-samsung-ue590-for-2024/"><u>FreeSync Fidelity Meets 4K Bliss with Samsung UE590 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-concept-to-creation-making-a-dynamic-podcast-teaser/"><u>In 2024, From Concept to Creation Making a Dynamic Podcast Teaser</u></a></li>
+<li><a href="https://driver-install.techidaily.com/initiate-hp-envy-5530-compatibility-for-win10/"><u>Initiate HP Envy 5530 Compatibility for Win10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/keep-it-under-wraps-the-risks-of-using-ai-like-chatgpt-for-private-matters/"><u>Keep It Under Wraps: The Risks of Using AI Like ChatGPT for Private Matters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-to-new-drivers-and-updates-hp-model-4630/"><u>Quick Guide to New Drivers & Updates - HP Model 4630</u></a></li>
+<li><a href="https://driver-install.techidaily.com/raise-game-quality-with-amd-vega-3-software-24/"><u>Raise Game Quality with AMD Vega 3 Software '24</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-updated-pro-6-system-drivers/"><u>Seamlessly Updated Pro 6 System Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-blunders-in-systems-pc/"><u>Stop Screen Blunders in Systems (PC)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-connections-reinstall-bluetooth-in-win11/"><u>Streamline Your Connections: Reinstall Bluetooth in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turbo-xpress-optimized-nvidia-3090-driver/"><u>Turbo Xpress - Optimized NVIDIA 3090 Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-artistic-potential-with-top-7-win-11-tools/"><u>Unleash Your Artistic Potential with Top 7 Win 11 Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-facebook-stories-a-curated-list-of-download-methods-for-2024/"><u>Unlocking Facebook Stories A Curated List of Download Methods for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-essentials-free-secure-digital-pen-software-install/"><u>Wacom Essentials: Free, Secure Digital Pen Software Install</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-ace-up-swift-driver-update-guide/"><u>Windows 10 Ace Up: Swift Driver Update Guide</u></a></li>
 </ul></div>
 

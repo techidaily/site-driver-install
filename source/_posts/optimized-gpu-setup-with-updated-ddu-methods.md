@@ -1,7 +1,7 @@
 ---
 title: Optimized GPU Setup with Updated DDU Methods
-date: 2024-07-11T15:38:10.526Z
-updated: 2024-07-12T15:38:10.526Z
+date: 2024-12-31T17:59:51.853Z
+updated: 2025-01-03T16:23:14.822Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 
  If your PC comes with dual GPUs, you might need to connect your monitor to the display ports on the motherboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to reinstall GPU drivers using DDU
 
 Here’s how to do a clean reinstallation of your graphics driver:
@@ -36,6 +40,10 @@ Here’s how to do a clean reinstallation of your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-1.jpg)
 2. Once downloaded, unzip the file to your Desktop. Then open the folder and double click**DDU.exe** to extract the files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next you need to boot your PC into Safe Mode. And here’s how to do that on both Windows 10 and 11.
 
@@ -63,15 +71,29 @@ Here’s how to do a clean reinstallation of your graphics driver:
 3. Click **Startup Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Startup-settings.jpg)
 4. Click **Restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/restart-1.jpg)
 5. You will see a list of different startup options. On your keyboard, press the**number 4 key** to enter**Safe Mode without internet access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/safe-mode-startup-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’re in Safe Mode, follow these instructions to reinstall with DDU.
 
 1. log in as you normally would and open DDU.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-3.jpg)
 2. In the pop-up**Option** window, choose your preferences. If you’re not sure, simply close the window  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-option.jpg)
 3. On the right, select**your device type** and**your GPU manufacturer** . Then click**Clean and restart** .![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-4.jpg)
 4. Once DDU purged the graphics driver, your PC should restart. You can now check if the graphics issue persists.
@@ -95,6 +117,10 @@ So you’ve reinstalled the graphics driver, what next?
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your drivers, restart your PC for the changes to take full effect.
@@ -111,8 +137,6 @@ So you’ve reinstalled the graphics driver, what next?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,6 +144,20 @@ So you’ve reinstalled the graphics driver, what next?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-build-diy-virtual-reality-google-cardboard-hack/"><u>[New] 2024 Approved Build DIY Virtual Reality Google Cardboard Hack</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-giggle-graph-meme-trends-by-occasion-type/"><u>[New] 2024 Approved Giggle Graph Meme Trends by Occasion Type</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/it-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques-for-2024/"><u>[New] Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-prevent-unwanted-recordings-quit-time-tricks/"><u>[New] Prevent Unwanted Recordings Quit Time Tricks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/driving-engagement-and-visibility-effective-strategies-for-fb-video-marketing-for-2024/"><u>Driving Engagement and Visibility Effective Strategies for FB Video Marketing for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-gaming-with-amd-rx-570-updated-driver-downloads/"><u>Enhance Gaming with AMD RX 570 Updated Driver Downloads</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>In 2024, Crafting a Harmonic Narrative Adding YouTube Music to Vids</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-z3t-pro-motherboard-driver-package-free-download-to-optimize-system-speed/"><u>MSI Z3t Pro Motherboard Driver Package – Free Download to Optimize System Speed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-and-adapt-intels-chipset-software-for-win-11-7-and-81/"><u>Refresh and Adapt Intel's Chipset Software for Win 11, 7 & 8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-driver-update-processes-for-hyperx-headsets/"><u>Seamless Driver Update Processes for HyperX Headsets</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-update-scansnap-s1500-drivers/"><u>Step-by-Step: Update Scansnap S1500 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-windows-via-me-driver/"><u>Upgrade Windows via ME Driver</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/windows-server-20083/"><u>Windows Server 2008における3種類のファイル復元手段</u></a></li>
+</ul></div>
 

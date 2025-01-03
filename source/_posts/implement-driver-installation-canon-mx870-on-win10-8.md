@@ -1,7 +1,7 @@
 ---
 title: "Implement Driver Installation: Canon MX870 on Win10-8"
-date: 2024-07-11T15:36:24.272Z
-updated: 2024-07-12T15:36:24.272Z
+date: 2024-12-29T16:46:16.950Z
+updated: 2025-01-03T16:13:50.525Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 * [**Way 1. Download the latest Canon MX870 driver from Canon website**](#Way1)
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
 
  1) Head to [Canon Driver download center](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers) .
@@ -31,13 +35,25 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
@@ -49,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
 
 * [Canon](https://tools.techidaily.com/drivereasy/download/)
@@ -59,8 +79,6 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -68,6 +86,24 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-crafting-compact-comforts-essential-mc-abodes-for-beginners-for-2024/"><u>[New] Crafting Compact Comforts Essential MC Abodes for Beginners for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlock-likes-by-perfecting-your-square-video-presentation/"><u>[New] In 2024, Unlock Likes by Perfecting Your Square Video Presentation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-leading-tools-to-elevate-webcam-video-quality/"><u>[New] Leading Tools to Elevate Webcam Video Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-addressing-iphone-lens-failures-a-step-by-step-approach/"><u>[Updated] Addressing iPhone Lens Failures A Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-navigating-timecodes-and-text-in-srt-with-macos/"><u>[Updated] In 2024, Navigating Timecodes and Text in SRT with macOS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-making-the-most-of-your-phones-camera-in-video-production/"><u>[Updated] Making the Most of Your Phone's Camera in Video Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028409186-9/"><u>9人気ファイルコンバータ転送ツールリスト - 動画、オーディオファイルの簡単な変換方法</u></a></li>
+<li><a href="https://driver-install.techidaily.com/combine-hp-envy-5530-drivers-in-your-win10-pcs/"><u>Combine HP Envy 5530 Drivers in Your Win10 PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fully-functional-laptop-gpu-in-windows-11/"><u>Fully Functional: Laptop GPU in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gaomon-s620-drivers-installation-made-simple/"><u>Gaomon S620 Drivers Installation Made Simple</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962720174-get-your-arduino-mega-2560-drivers-instantly-free-and-fast/"><u>Get Your Arduino Mega 2560 Drivers Instantly – Free and Fast!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gpu-driver-restart-made-simple-with-ddu/"><u>GPU Driver Restart Made Simple with DDU</u></a></li>
+<li><a href="https://driver-install.techidaily.com/high-speed-update-radeons-hd-4800-drivers/"><u>High-Speed Update: Radeon's HD 4800 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-connection-boost-with-quick-adb-driver-access/"><u>Instant Connection Boost with Quick ADB Driver Access</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-connectivity-with-win1110-mtk-support/"><u>Instantly Improve Connectivity with Win11/10 MTK Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/methodical-approach-to-renewing-wacom-support-in-windows-versions/"><u>Methodical Approach to Renewing Wacom Support in Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-brother-mfp-print-queues-in-win11/"><u>Optimize Brother MFP Print Queues in Win11</u></a></li>
+</ul></div>
 

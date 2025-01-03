@@ -1,7 +1,7 @@
 ---
 title: Update Process for AMD Graphics Cards - RX 5700X
-date: 2024-12-04T03:02:13.136Z
-updated: 2024-12-09T17:14:40.535Z
+date: 2024-12-31T17:10:09.922Z
+updated: 2025-01-03T16:09:44.729Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ OR
  The screenshot below are from Windows 10, but the steps also apply to Windows 7, 8 and 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Download and install the driver manually
@@ -42,23 +42,23 @@ OR
 3. Choose your operating system. (For my case, I click Windows 10 – 64-Bit Edition).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-10.jpg)
 4. Click the**Download** button next to the driver you want.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-5.jpg)
 5. Double-click the downloaded file and follow the on-screen instruction to install the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you feel the steps above are a little complicated, try the automatic method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the AMD 5700 drivers (Recommended)
@@ -74,12 +74,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click the **Update**  button next to the flagged **AMD RX 5700 driver** to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -105,14 +105,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-making-simple-text-pop-in-videos-without-costs/"><u>[New] 2024 Approved Making Simple Text Pop in Videos without Costs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-steps-for-controlling-video-comment-settings-in-youtube/"><u>[New] In 2024, Steps for Controlling Video Comment Settings in YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-the-art-of-shortening-videos-for-instagram-mac/"><u>[Updated] 2024 Approved Mastering the Art of Shortening Videos for Instagram (Mac)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enable-canon-mx870-in-win-765-systems/"><u>Enable Canon MX870 in WIN 7/6/5 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expedite-bios-flash-for-dell-latitude/"><u>Expedite BIOS Flash for Dell Latitude</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-amateurs-to-pros-transformative-steps-in-gopro-timelapses/"><u>From Amateurs to Pros Transformative Steps in GoPro Timelapses</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-gaomon-s620-running-fast-installation-tips-and-tricks/"><u>Get Gaomon S620 Running Fast: Installation Tips and Tricks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installation-guide-gaomon-s620-upgrade/"><u>Installation Guide: Gaomon S620 Upgrade</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-strategies-to-fix-assassins-creed-odyssey-launch-hiccups-expert-advice/"><u>Top Strategies to Fix Assassin's Creed Odyssey Launch Hiccups - Expert Advice</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-thorough-examination-gopro-silver-hero4-feature-test-for-2024/"><u>[New] Thorough Examination GoPro Silver HERO4 Feature Test for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-webcam-driver-for-clear-video-capture-logitech-c270/"><u>Essential Webcam Driver for Clear Video Capture: Logitech C270</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hands-off-driver-tweak-experience-on-z50-70/"><u>Hands-Off Driver Tweak Experience on Z50-70</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-a-comprehensive-look-at-decelerating-youtube-video-speed-50-chars/"><u>In 2024, A Comprehensive Look at Decelerating YouTube Video Speed (50 Chars)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lightrooms-most-wanted-grading-aids-the-best-10-luts-listed-here/"><u>In 2024, LightRoom's Most Wanted Grading Aids – The Best 10 LUTs Listed Here</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lead-in-tech-quick-scsi-drives-ready/"><u>Lead-In Tech: Quick SCSI Drives Ready</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-video-watermark-editor-top-rated-options-for-2024/"><u>New Free Video Watermark Editor Top Rated Options for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-horizons-installing-latest-sound-drivers-on-windows-11/"><u>New Horizons: Installing Latest Sound Drivers on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-lenovo-ideapad-u310/"><u>Quick Driver Updates on Lenovo Ideapad U310</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unfolding-the-digital-canvas-vr-evolution/"><u>Unfolding the Digital Canvas VR Evolution</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-mastering-custom-key-combos-for-fixed-text-insertions/"><u>Win11: Mastering Custom Key Combos for Fixed Text Insertions</u></a></li>
 </ul></div>
 

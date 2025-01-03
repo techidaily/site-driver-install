@@ -1,7 +1,7 @@
 ---
 title: "Smooth Printing: Fixed HP LaserJet on Windows"
-date: 2024-12-07T09:55:36.891Z
-updated: 2024-12-10T06:37:52.650Z
+date: 2024-12-30T18:12:40.325Z
+updated: 2025-01-03T18:41:50.065Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c62418c69c62e99541352f65884cd2a2f240cc4bb
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-8.png)
 
  If your HP LaserJet 1020 printer series are not working properly, for instance, you see certain error when trying to print, or your printer’s status is off, don’t panic. You can update your**HP LaserJet 1020 printer driver** to the latest version to fix the issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Update HP LaserJet 1020 Driver
 
@@ -39,13 +43,17 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
 
  Run the downloaded file, and follow the wizard to finish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update the printer driver in Device Manager
@@ -62,16 +70,8 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
@@ -79,13 +79,13 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
 
@@ -101,7 +101,7 @@ After updating, restart your computer.
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
@@ -135,24 +135,18 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[New] In 2024, Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-noshadowedit-advanced-background-shadow-elimination/"><u>[Updated] In 2024, NoShadowEdit Advanced Background Shadow Elimination</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-harmonize-your-imovie-projects-with-youtubes-melodies/"><u>2024 Approved Harmonize Your iMovie Projects With YouTube's Melodies</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-netgear-80211n-pcie-usb-adapter/"><u>Download Netgear 802.11N PCIe USB Adapter</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/harnessing-the-power-of-video-the-most-effective-fb-ad-practices-for-2024/"><u>Harnessing the Power of Video The Most Effective FB Ad Practices for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-sims-3-pc-crash-issues-effectively-and-quickly/"><u>How To Resolve Sims 3 PC Crash Issues Effectively and Quickly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/logitech-hd-webcam-c270-win-update-instructions/"><u>Logitech HD Webcam C270 Win Update Instructions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/logitech-webcam-driver-uncompromised/"><u>Logitech Webcam Driver - Uncompromised</u></a></li>
-<li><a href="https://driver-install.techidaily.com/manual-driver-changes-for-windows-vista-systems/"><u>Manual Driver Changes for Windows Vista Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/model-specific-aoc-drivers-e1659/"><u>Model-Specific AOC Drivers: E1659</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-realtek-usb-driver-pack-for-enhanced-connectivity-on-win11/"><u>New Realtek USB Driver Pack for Enhanced Connectivity on Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-non-responsive-function-key-problems-on-your-device/"><u>Overcoming Non-Responsive Function Key Problems on Your Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-pova-5-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Pova 5 has been deleted.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-up-technology-windows-10-drivers-for-dell-laptops/"><u>Step-Up Technology: Windows 10 Drivers for Dell Laptops</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-amd-drivers-on-vintage-and-modern-oss/"><u>Streamlining AMD Drivers on Vintage and Modern OSs</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-navigating-the-nuances-of-audio-balancing-a-deep-dive-into-obs-sound-dynamics-for-2024/"><u>Updated Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-11-proplus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme 11 Pro+ Phones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-zte-nubia-z60-ultra-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your ZTE Nubia Z60 Ultra Phone Network-Ready</u></a></li>
-<li><a href="https://driver-install.techidaily.com/winxps-wan-connection-woes-now-a-thing-of-the-past/"><u>WinXP's WAN Connection Woes, Now a Thing of the Past</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-immortalize-instants-with-ease-dive-into-gratis-cloud-services-and-paid-alternatives/"><u>[New] In 2024, Immortalize Instants with Ease Dive Into Gratis Cloud Services & Paid Alternatives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unifying-platforms-the-art-of-incorporating-linktree-in-tiktok-biographies/"><u>[Updated] Unifying Platforms The Art of Incorporating Linktree in TikTok Biographies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-conquer-the-clouds-recording-and-preserving-streaming-radios/"><u>2024 Approved Conquer the Clouds Recording and Preserving Streaming Radios</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-video-expertise-elevated-streamline-your-edits-with-these-vimeo-shortening-techniques/"><u>2024 Approved Video Expertise Elevated Streamline Your Edits with These Vimeo Shortening Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-inclusive-guide-handling-batch-selections-of-emails-within-your-gmail-inbox/"><u>All-Inclusive Guide: Handling Batch Selections of Emails Within Your Gmail Inbox</u></a></li>
+<li><a href="https://win-superb.techidaily.com/come-ripristinare-i-propri-dati-iphone-metodi-di-recupero-con-e-senza-backup/"><u>Come Ripristinare I Propri Dati iPhone: Metodi Di Recupero Con E Senza Backup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-760-upgrades-now-simpler-than-ever/"><u>GTX 760 Upgrades Now Simpler Than Ever</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-itel-p55plus-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Itel P55+ Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-visual-enchantment-top-14-text-animation-highlights/"><u>In 2024, Visual Enchantment Top 14 Text Animation Highlights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinvigorate-windows-710-introducing-driver-update-e1659/"><u>Reinvigorate Windows 7/10: Introducing Driver Update E1659</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-assertion-of-an-unempty-directory-error-x80070091/"><u>Remedying Windows' Assertion of an Unempty Directory (Error X80070091)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-changes-gtx-760-style/"><u>Swift Driver Changes, GTX 760 Style</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-sound-on-dell-devices-with-realtek/"><u>Updating Sound on Dell Devices with Realtek</u></a></li>
 </ul></div>
 

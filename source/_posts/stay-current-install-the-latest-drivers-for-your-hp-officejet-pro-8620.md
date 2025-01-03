@@ -1,7 +1,7 @@
 ---
 title: "Stay Current: Install the Latest Drivers for Your HP OfficeJet Pro 8620"
-date: 2024-07-11T15:32:52.310Z
-updated: 2024-07-12T15:32:52.310Z
+date: 2025-01-02T17:39:56.455Z
+updated: 2025-01-03T17:42:49.999Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 2. [Update HP OfficeJet Pro 8620 driver in Device Manager](#Fix2)
 3. [Update HP OfficeJet Pro 8620 driver automatically](#Fix3) (Recommended)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Download HP OfficeJet Pro 8620 driver manually
 
  HP support center provides software and drivers for customers to download, so you can manually download the driver you need from the website.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f337c3865.png)
@@ -45,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  3) Make sure the detected **operating system** is correct, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f2f35ac0c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Run the downloaded file, and follow the wizard to finish.
 
@@ -78,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Follow the on-screen instructions to finish updating the driver.
 
 8) After updating, restart your computer.
@@ -104,6 +120,10 @@ Still no luck? OK. There’s one more thing to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) After updating, restart your computer to take effect.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -123,8 +143,6 @@ If you have any questions, feel free to add a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,6 +150,21 @@ If you have any questions, feel free to add a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ssential-hash-strategies-for-optimizing-youtube-gameplay-videos-for-2024/"><u>[New] Essential Hash Strategies for Optimizing YouTube Gameplay Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-practices-for-filming-screen-captures/"><u>[New] In 2024, Best Practices for Filming Screen Captures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-expert-tips-choosing-the-ideal-screen-recorder-software/"><u>[Updated] In 2024, Expert Tips Choosing the Ideal Screen Recorder Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mac-professionals-recommendations-the-best-of-screenflow/"><u>[Updated] In 2024, Mac Professionals Recommendations – The Best of ScreenFlow</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-facilidade-e-velocidade-como-virar-seu-filme-no-computador-com-metodos-simples-ajuda-de-movavi/"><u>1. 'Facilidade E Velocidade: Como Virar Seu Filme No Computador Com Métodos Simples - Ajuda De Movavi'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-stuck-or-defective-keys-for-windows-10-and-11-users/"><u>Diagnosing and Repairing Stuck or Defective Keys for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-update-lenovo-g580-drivers/"><u>Instantly Update Lenovo G580 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-1650-installer-download/"><u>Nvidia GTX 1650: Installer Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-software-upgrade-gtx-1060-edition/"><u>Nvidia Software Upgrade: GTX 1060 Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pinning-down-usb-support-in-yesteryears-windows/"><u>Pinning Down USB Support in Yesteryear's Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-simple-win10-touch-driver-upgrade/"><u>Quick & Simple Win10 Touch Driver Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-driver-updates-on-lenovo-ideapad/"><u>Quick Fix Driver Updates on Lenovo Ideapad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/relying-on-ai-discover-8-content-creators-worries/"><u>Relying on AI? Discover 8 Content Creator's Worries</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-chatgpt-app-malfunctions-on-ios-devices-a-guide-to-9-essential-fixes/"><u>Resolve ChatGPT App Malfunctions on iOS Devices: A Guide to 9 Essential Fixes</u></a></li>
+</ul></div>
 

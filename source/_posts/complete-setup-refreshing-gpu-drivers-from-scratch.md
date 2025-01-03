@@ -1,7 +1,7 @@
 ---
 title: "Complete Setup: Refreshing GPU Drivers From Scratch"
-date: 2024-07-11T15:34:41.764Z
-updated: 2024-07-12T15:34:41.764Z
+date: 2024-12-30T18:24:34.960Z
+updated: 2025-01-03T16:09:33.618Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 Now use the following procedure to clean install your graphics drivers:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Download the driver you need
 
  First and foremost, you should download the driver you need. There’re mainly two options for you to do this:
@@ -31,6 +35,10 @@ Now use the following procedure to clean install your graphics drivers:
 OR
 
 **[Option 2 – Manually](#option2)** – You’ll need some computer skills and patience to download your driver this way, because you need to find exactly the right driver online and then download it yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Automatically download the driver
 
@@ -60,6 +68,10 @@ OK, enough intro. Let’s see what you should do:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Create a system restore point
 
  This step is actually not imperative, but I strongly suggest you create a restore point as a precaution before proceeding to the next step. The restore point allows you to revert your system to a previous state when it’s still functioning well (especially before any problems come up). But don’t panic – you’ll rarely have serious issues during the clean installation.
@@ -69,6 +81,10 @@ OK, enough intro. Let’s see what you should do:
  After creating a restore point, you should move on to the next step, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Uninstall your current graphics drivers
 
@@ -87,6 +103,10 @@ OK, enough intro. Let’s see what you should do:
 4) Click**Select device type** and choose**GPU** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, click**Select device** and choose your graphics card type, such as NVIDIA.
 
@@ -146,8 +166,6 @@ Finally, the last step is to install your driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,6 +173,17 @@ Finally, the last step is to install your driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-artistry-at-heart-best-10-free-easy-mac-drawers/"><u>[New] In 2024, Artistry at Heart Best 10 Free, Easy Mac Drawers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-inside-scoop-on-sharex-scrutiny-and-comparisons/"><u>[Updated] 2024 Approved Inside Scoop on ShareX Scrutiny & Comparisons</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unlock-potential-a-101-step-guide-to-crafting-exceptional-bios-on-facebook/"><u>[Updated] 2024 Approved Unlock Potential A 101-Step Guide to Crafting Exceptional Bios on Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-file-funneling-transfer-techniques-for-your-computer/"><u>[Updated] File Funneling Transfer Techniques for Your Computer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-update-journey-for-lenovo-yoga-900/"><u>Effortless Update Journey for Lenovo Yoga 900</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-efficiency-with-jet-pro-8710-official-windows-driver-bundle/"><u>Enhance Efficiency with Jet Pro 8710 - Official Windows Driver Bundle</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-digital-engagement-through-tighter-zoomed-scenes/"><u>Enhancing Digital Engagement Through Tighter Zoomed Scenes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premium-uav-selection-in-stock-for-2024/"><u>Premium UAV Selection in Stock for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-laser-printer-operations-in-win11/"><u>Streamline Laser Printer Operations in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-experience-update-hp-omen-15s-software-efficiency/"><u>Streamline Your Experience: Update HP Omen 15'S Software Efficiency</u></a></li>
+</ul></div>
 

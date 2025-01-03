@@ -1,7 +1,7 @@
 ---
 title: Get the Newer Version of AMD's GPU Driver
-date: 2024-07-11T15:33:55.890Z
-updated: 2024-07-12T15:33:55.890Z
+date: 2024-12-29T17:37:10.225Z
+updated: 2025-01-03T18:41:01.664Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ OR
 
  The screenshot below are from Windows 10, but the steps also apply to Windows 7, 8 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  AMD keeps updating its drivers to prevent graphics card issues and glitches. You need to spend some time searching for the correct driver and installing it on your own. Here are the steps:
@@ -36,8 +40,18 @@ OR
 2. Select**Graphics** \>**AMD Radeon 5700 Series** \>**AMD Radeon RX 5700 Series** \>**AMD Radeon RX 5700** . Then, click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-7.jpg)
 3. Choose your operating system. (For my case, I click Windows 10 – 64-Bit Edition).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-10.jpg)
 4. Click the**Download** button next to the driver you want.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-5.jpg)
 5. Double-click the downloaded file and follow the on-screen instruction to install the driver.
 
@@ -56,8 +70,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click the **Update**  button next to the flagged **AMD RX 5700 driver** to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -74,8 +96,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,6 +103,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-sonys-vision-for-immersive-video-exploring-xperia-xz-premium/"><u>[New] 2024 Approved Sony's Vision for Immersive Video Exploring Xperia XZ Premium</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-a-step-by-step-roadmap-for-lasting-tiktok-account-loss-for-2024/"><u>[New] A Step-by-Step Roadmap for Lasting TikTok Account Loss for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ideal-top-3ip-apps-for-clear-audio-recordings-for-2024/"><u>[New] Ideal Top 3iP Apps for Clear Audio Recordings for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-streamline-your-sound-key-audio-interfaces-for-podcasters/"><u>[New] Streamline Your Sound Key Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/activate-mx870-driver-for-classic-win-oss-versions-7-8/"><u>Activate MX870 Driver for Classic Win OSs (Versions 7-8)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/better-graphics-just-install-gtx-1050-ti-drivers/"><u>Better Graphics, Just Install GTX 1050 Ti Drivers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/breezy-video-capture-testimony-for-2024/"><u>Breezy Video Capture Testimony for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-win-11-experience-the-ultimate-guide-for-updating-hdmi-drivers/"><u>Elevate Your Win 11 Experience: The Ultimate Guide for Updating HDMI Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-vision-quality-with-driver-update/"><u>Enhance Vision Quality with Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enrich-your-yoga-900-fast-driver-revamp/"><u>Enrich Your Yoga 900: Fast Driver Revamp</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-drivers-upgrade-on-windows-881/"><u>Essential Tips for Drivers Upgrade on Windows 8/8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gaomon-s620-free-download-and-easy-setup/"><u>Gaomon S620: Free Download & Easy Setup</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/guide-to-rapid-or-slowdown-youtubes-playback-adjustments/"><u>Guide to Rapid or Slowdown YouTube's Playback Adjustments</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-verify-your-youtube-account-a-simple-guide-for-2024/"><u>How to Verify Your YouTube Account - a Simple Guide for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/immediate-remedy-tracer-track-fails-m-audio/"><u>Immediate Remedy: Tracer Track Fails (M-Audio)</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/navigating-notification-settings-a-comprehensive-guide-for-windows-11-users-tips-from-yl-computing/"><u>Navigating Notification Settings: A Comprehensive Guide for Windows 11 Users - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-view-count-boosters-top-8-thumbnails-tactics-for-2024/"><u>Video View Count Boosters Top 8 Thumbnails Tactics for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Restoring GPU Efficiency: The Latest DDU Guide"
-date: 2024-12-05T10:53:31.145Z
-updated: 2024-12-09T21:41:35.883Z
+date: 2024-12-28T17:48:07.240Z
+updated: 2025-01-03T17:25:30.603Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/58db6060726575b8629c11f7c48875e22b705d59d
  If your PC comes with dual GPUs, you might need to connect your monitor to the display ports on the motherboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reinstall GPU drivers using DDU
@@ -40,11 +40,11 @@ Here’s how to do a clean reinstallation of your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-1.jpg)
 2. Once downloaded, unzip the file to your Desktop. Then open the folder and double click**DDU.exe** to extract the files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next you need to boot your PC into Safe Mode. And here’s how to do that on both Windows 10 and 11.
 
@@ -69,31 +69,23 @@ Here’s how to do a clean reinstallation of your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
 2. Click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
 3. Click **Startup Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Startup-settings.jpg)
 4. Click **Restart** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/restart-1.jpg)
 5. You will see a list of different startup options. On your keyboard, press the**number 4 key** to enter**Safe Mode without internet access** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/safe-mode-startup-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’re in Safe Mode, follow these instructions to reinstall with DDU.
@@ -101,6 +93,10 @@ Here’s how to do a clean reinstallation of your graphics driver:
 1. log in as you normally would and open DDU.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-3.jpg)
 2. In the pop-up**Option** window, choose your preferences. If you’re not sure, simply close the window  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-option.jpg)
 3. On the right, select**your device type** and**your GPU manufacturer** . Then click**Clean and restart** .![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-4.jpg)
@@ -123,6 +119,10 @@ So you’ve reinstalled the graphics driver, what next?
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
@@ -152,17 +152,20 @@ So you’ve reinstalled the graphics driver, what next?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-mememagic-app-unleash-your-comedic-genius-online/"><u>[New] MemeMagic App - Unleash Your Comedic Genius Online</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolved-issues-with-conexant-audio-on-win10/"><u>[Resolved]: Issues with Conexant Audio on Win10</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-discovering-where-youtube-video-management-happens/"><u>[Updated] 2024 Approved Discovering Where YouTube Video Management Happens</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-tips-for-operating-ez-grabber/"><u>2024 Approved Essential Tips for Operating EZ Grabber</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comment-resoudre-les-problemes-de-distorsion-video-apres-lextraction-dun-dvd-avec-handbrake-sur-windows-10/"><u>Comment Résoudre Les Problèmes De Distorsion Vidéo Après L’Extraction D’un DVD Avec HandBrake Sur Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-2024-how-to-overcome-and-resolve-game-launch-failures-quickly-and-easily/"><u>PUBG 2024 - How to Overcome and Resolve Game Launch Failures Quickly & Easily</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstalling-and-setting-printer-drivers-correctly/"><u>Reinstalling and Setting Printer Drivers Correctly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silence-the-screen-expert-solutions-for-cursor-stabilization-issues/"><u>Silence the Screen: Expert Solutions for Cursor Stabilization Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-h420-driver-with-windows-update/"><u>Streamline H420 Driver with Windows Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-lexmarks-printer-driver-rollouts/"><u>Streamline Lexmark's Printer Driver Rollouts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/tune-into-your-instagram-feed-music-integration-essentials/"><u>Tune Into Your Instagram Feed Music Integration Essentials</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-driver-reinstallation-usb-focus-for-legacy-machines/"><u>Windows Driver Reinstallation: USB Focus for Legacy Machines</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-short-form-script-template/"><u>[New] 2024 Approved Short-Form Script Template</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-guide-to-using-youtube-on-iosandroid-devices/"><u>[New] 2024 Approved The Ultimate Guide to Using YouTube on iOS/Android Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capturing-android-sounds-without-root-access-guide/"><u>[Updated] Capturing Android Sounds Without Root Access [Guide]</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-a05-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy A05 FRP</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amd-crypto-drivers-windows-installer-guide/"><u>AMD Crypto Drivers: Windows Installer Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-win10-tactile-features-upgrade/"><u>Effortless Win10 Tactile Features Upgrade</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-handbook-of-gopro-time-lapse-photography-excellence/"><u>In 2024, The Complete Handbook of GoPro Time-Lapse Photography Excellence</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-j5-tactical-v1-pro-high-performance-and-compact-night-illumination/"><u>In-Depth Look at the J5 Tactical V1-Pro: High Performance & Compact Night Illumination</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-intel-hd520-software-access/"><u>Instant Intel HD520 Software Access</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resource-management-optimization/"><u>Resource Management Optimization</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/streamline-strategies-softwares-versus-hardware-harmony/"><u>Streamline Strategies Softwares Versus Hardware Harmony?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-implementation-for-new-lexmark-printer-drivers/"><u>Swift Implementation for New Lexmark Printer Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-convert-srt-to-txt-in-minutes-2023-for-2024/"><u>Ultimate Guide to Convert SRT to TXT in Minutes 2023 for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-vista-how-to-change-device-drivers-by-hands/"><u>Windows Vista: How to Change Device Drivers by Hands</u></a></li>
 </ul></div>
 

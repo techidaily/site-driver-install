@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Sound Problems in Halo Infinite: Expert Advice for Smooth Gaming Experience"
-date: 2024-12-07T08:53:22.659Z
-updated: 2024-12-09T23:32:19.636Z
+date: 2024-12-29T19:11:17.235Z
+updated: 2025-01-03T16:23:34.458Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -60,10 +64,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -84,14 +84,10 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
@@ -135,10 +131,14 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -155,13 +155,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -179,7 +179,7 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
@@ -206,18 +206,24 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-elevate-your-gaming-experience-with-smart-use-of-xbox-zoom/"><u>[New] 2024 Approved Elevate Your Gaming Experience with Smart Use of Xbox Zoom</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-yis-actioncam-the-innovation-leader-in-high-res-footage/"><u>2024 Approved Yi's ActionCam The Innovation Leader in High-Res Footage</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-guide-to-choosing-your-perfect-playstation-or-nintendo-switch/"><u>Essential Guide to Choosing Your Perfect PlayStation or Nintendo Switch</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/expand-your-instagram-skills-advanced-use-of-queries/"><u>Expand Your Instagram Skills Advanced Use of Queries</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-does-yl-software-shield-your-digital-assets-from-risks-in-the-cryptoverse/"><u>How Does YL Software Shield Your Digital Assets From Risks in the Cryptoverse?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/in-depth-guide-by-tom-understanding-cutting-edge-technology/"><u>In-Depth Guide by Tom: Understanding Cutting-Edge Technology</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/introducing-gnome-geb-elevate-your-desktop-experience-with-advanced-enhancements-and-accelerated-file-operations/"><u>Introducing GNOME Geb: Elevate Your Desktop Experience with Advanced Enhancements & Accelerated File Operations!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-driver-verifier-and-iomgr-policy-compliance/"><u>Resolved: Driver Verifier and IOmgr Policy Compliance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplifying-the-update-process-for-wacom-drivers-in-win-oss/"><u>Simplifying the Update Process for Wacom Drivers in WIN OSs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-stones-from-youtube-ads-to-monetary-success-for-2024/"><u>Stepping Stones From YouTube Ads to Monetary Success for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshooting-sound-on-windows-via-driver-update/"><u>Troubleshooting Sound on Windows via Driver Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-drivers-resetting-back-to-usb-roots/"><u>Windows Drivers: Resetting Back to USB Roots</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-how-to-retrieve-flawless-copyright-free-images/"><u>[New] 2024 Approved How to Retrieve Flawless, Copyright-Free Images</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-step-by-step-process-for-free-youtube-video-texting/"><u>[Updated] 2024 Approved Step-by-Step Process for FREE YouTube Video Texting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-essential-android-ad-blocking-the-top-7-app-list/"><u>[Updated] In 2024, Essential Android Ad Blocking The Top 7 App List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-stabilizer-unmatched-smartphone-tracking/"><u>[Updated] The Ultimate Stabilizer Unmatched Smartphone Tracking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/400-bargain-hp-latest-laptop-compatible-mouse-and-all-access-to-ms-365-exclusive-offer/"><u>$400 Bargain: HP Latest Laptop, Compatible Mouse, and All-Access to MS 365 - Exclusive Offer !</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinematic-clarity-premium-handheld-stabilizers-selection-for-2024/"><u>Cinematic Clarity Premium Handheld Stabilizers Selection for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/cross-platform-usbasp-win7-to-win10-drivers-made-easy/"><u>Cross-Platform USBasp: Win7 to Win10 Drivers Made Easy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-8-exceptional-and-free-html-editors-tailored-for-windows-devices/"><u>Explore 8 Exceptional and Free HTML Editors Tailored for Windows Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-1650-graphics-update-download-nvidia-drivers/"><u>GTX 1650 Graphics Update - Download Nvidia Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-driver-latest-win-11-release/"><u>GTX 970 Driver Latest: Win 11 Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/happy-updates-revamp-your-win7-hp-graphics/"><u>Happy Updates! Revamp Your Win7 HP Graphics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-top-10-list-free-image-layering-progs-iosandroid/"><u>In 2024, Exclusive Top 10 List Free Image Layering Progs iOS/Android</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-f25-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo F25 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-total-insight-navigating-through-googles-podcast-app/"><u>In 2024, Total Insight Navigating Through Google's Podcast App</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-amd-graphics-drivers-for-windows-pc/"><u>Install Latest AMD Graphics Drivers for Windows PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-3d-connexion-trackir-a-step-by-step-guide/"><u>Installing 3D Connexion TrackIR: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rendering-pipeline-overview-opengl/"><u>Rendering Pipeline Overview - OpenGL</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-windows-m2-hardware-support/"><u>Streamline Windows M.2 Hardware Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-windows-hdmi-drivers-for-enhanced-connectivity-and-output/"><u>Upgrading Windows' HDMI Drivers for Enhanced Connectivity & Output</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficiently Reconfigure GPU Software - Modern DDU Guide
-date: 2024-07-11T15:35:30.456Z
-updated: 2024-07-12T15:35:30.456Z
+date: 2024-12-27T16:58:52.323Z
+updated: 2025-01-03T17:52:21.813Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
  If your PC comes with dual GPUs, you might need to connect your monitor to the display ports on the motherboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to reinstall GPU drivers using DDU
 
 Here’s how to do a clean reinstallation of your graphics driver:
@@ -44,7 +48,16 @@ Here’s how to do a clean reinstallation of your graphics driver:
 1. Next you need to enter Safe Mode. On your keyboard, press**Win+I** (the Windows logo key and the i key). Select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. In the left pane, select**Recovery** . Under**Advanced startup** , click**Restart now** . (Note that you should now continue this tutorial on your phone/another computer.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Windows 11
 
@@ -53,6 +66,10 @@ Here’s how to do a clean reinstallation of your graphics driver:
 3. Then click**Recovery** .
 4. Under **Recovery options** , next to **Advanced startup** , select **Restart now** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/windows-11-advanced-restart-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then you will see a**Choose an option** screen.
 
@@ -72,11 +89,20 @@ Here’s how to do a clean reinstallation of your graphics driver:
 1. log in as you normally would and open DDU.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-3.jpg)
 2. In the pop-up**Option** window, choose your preferences. If you’re not sure, simply close the window  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-option.jpg)
 3. On the right, select**your device type** and**your GPU manufacturer** . Then click**Clean and restart** .![](https://images.drivereasy.com/wp-content/uploads/2021/11/ddu-4.jpg)
 4. Once DDU purged the graphics driver, your PC should restart. You can now check if the graphics issue persists.
 
 So you’ve reinstalled the graphics driver, what next?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to prevent graphics issues
 
@@ -111,8 +137,6 @@ So you’ve reinstalled the graphics driver, what next?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,6 +144,16 @@ So you’ve reinstalled the graphics driver, what next?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevate-your-youtube-presence-featuring-essential-channels-tutorial/"><u>[Updated] In 2024, Elevate Your Youtube Presence Featuring Essential Channels Tutorial</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-expert-picks-for-mp4-audio-gear/"><u>2024 Approved Expert Picks for MP4 Audio Gear</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-reno-11-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo Reno 11 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-system-speed-new-update-for-dell-and-os-drivers/"><u>Accelerate System Speed: New Update for Dell and OS Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-microsoft-pro-4-drivers-on-windows-os/"><u>Installing Microsoft Pro 4 Drivers on Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-art-of-printer-driver-installation/"><u>Mastering the Art of Printer Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-msi-drivers-in-classic-oss-a-stepwise-approach/"><u>Navigating MSI Drivers in Classic OSs: A Stepwise Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-drone-selection-guide-top-5/"><u>Professional Drone Selection Guide (Top 5)</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-bing-and-google-exploring-distinct-goals-in-search-dominance-a-deep-dive-by-zdnet/"><u>Understanding Bing and Google: Exploring Distinct Goals in Search Dominance - A Deep Dive by ZDNet</u></a></li>
+</ul></div>
 

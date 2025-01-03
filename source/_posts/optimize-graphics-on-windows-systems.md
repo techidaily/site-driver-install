@@ -1,7 +1,7 @@
 ---
 title: Optimize Graphics on Windows Systems
-date: 2024-07-11T15:29:30.248Z
-updated: 2024-07-12T15:29:30.248Z
+date: 2024-12-29T17:33:02.410Z
+updated: 2025-01-03T18:45:52.579Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/3d3919e525f4363ae8c9a19d25cba574e77e7ac05
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -37,13 +41,25 @@ thumbnail: https://thmb.techidaily.com/3d3919e525f4363ae8c9a19d25cba574e77e7ac05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
 
  The option **Delete the driver software for this device** allows you to delete the driver package from the Driver Store (For more information about Driver Store, please see [Driver Store in Microsoft](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/driver-store) . **If you don’t see this option** on the Uninstall confirm dialog box, the driver package may have been removed. In this case, **just click Uninstall to uninstall only the driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
 
@@ -74,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/3d3919e525f4363ae8c9a19d25cba574e77e7ac05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
@@ -96,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/3d3919e525f4363ae8c9a19d25cba574e77e7ac05
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,6 +123,21 @@ thumbnail: https://thmb.techidaily.com/3d3919e525f4363ae8c9a19d25cba574e77e7ac05
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-10-best-online-photo-background-changers-filmora-for-2024/"><u>[Updated] 10 Best Online Photo Background Changers - Filmora for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-vloggers-solution-excellent-camera-stabilization/"><u>[Updated] 2024 Approved Vloggers' Solution Excellent Camera Stabilization</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensive-guide-unpacking-the-capabilities-of-the-samsung-galaxy-tab-s6-with-s-pen-and-dex/"><u>Comprehensive Guide: Unpacking the Capabilities of the Samsung Galaxy Tab S6 with S Pen and DeX</u></a></li>
+<li><a href="https://driver-install.techidaily.com/decoding-the-latest-in-digital-innovation-your-guide-to-toms-hardware-analysis/"><u>Decoding the Latest in Digital Innovation - Your Guide to Tom's Hardware Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/discover-toms-ultimate-guide-to-computer-components-your-one-stop-tech-resource/"><u>Discover Tom's Ultimate Guide to Computer Components - Your One-Stop Tech Resource</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-s17-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo S17 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a79-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo A79 5G Phone without PIN</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-startup-stability-strategies-to-shield-against-the-perils-of-an-atomic-heart-collapse/"><u>Mastering Startup Stability: Strategies to Shield Against the Perils of an 'Atomic Heart Collapse'</u></a></li>
+<li><a href="https://driver-install.techidaily.com/surface-pro-speed-boosters-download-microsofts-drivers/"><u>Surface Pro Speed Boosters: Download Microsoft's Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/toms-tech-review-in-depth-analysis-and-reviews/"><u>Tom's Tech Review - In-Depth Analysis and Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-windows-10-power-management-a-guide-to-reading-your-devices-battery-status/"><u>Understanding the Windows 10 Power Management: A Guide to Reading Your Device's Battery Status</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-s17e-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo S17e Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-hp-printer-p1102w-driver/"><u>Windows HP Printer P1102w Driver</u></a></li>
+</ul></div>
 

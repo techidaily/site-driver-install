@@ -1,7 +1,7 @@
 ---
 title: All-in-One Ultraportable Computer with AMD Ryzen Performance – Features Foldable Design, Touchscreen Controls, and Built-In Battery
-date: 2024-12-20T22:57:11.017Z
-updated: 2024-12-24T20:24:54.737Z
+date: 2025-01-01T18:05:28.807Z
+updated: 2025-01-03T19:15:03.780Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,19 +56,17 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-leading-choices-elite-android-call-alerts/"><u>[New] Leading Choices Elite Android Call Alerts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-epic-browser-recording-tools-for-the-ultimate-surfers-dream/"><u>[Updated] 2024 Approved Epic Browser Recording Tools for the Ultimate Surfer's Dream</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-list-of-15-youtube-openers/"><u>[Updated] The Ultimate List of 15 YouTube Openers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-graphic-performance-on-windows-11-w-new-driver/"><u>Boost Graphic Performance on Windows 11 W/ New Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-hp-officejet-4630-installation-assistance/"><u>Enhanced HP Officejet 4630 Installation Assistance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-track-updates-revolutionized-windows-10-acer-drivers/"><u>Fast Track Updates: Revolutionized Windows 10 Acer Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-dreamlight-valley-crashes-on-a-pc-in-just-6-steps/"><u>How to Resolve Dreamlight Valley Crashes on a PC in Just 6 Steps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/m2-drivers-upgrade-your-pc-written-by-a-professional-tech-guru/"><u>M.2 Drivers: Upgrade Your PC' Written by a Professional Tech Guru</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-delays-just-perfect-scsi-driver-installation/"><u>No Delays, Just Perfect SCSI Driver Installation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pituitary-adenomas-are-classified-based-on-the-type-of-hormone-they-excessively-secrete/"><u>Pituitary Adenomas Are Classified Based on the Type of Hormone They Excessively Secrete.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-windows-11-experience-through-tactile-upgrades/"><u>Seamless Windows 11 Experience Through Tactile Upgrades</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ey-to-successful-collaborations-in-the-digital-age-for-2024/"><u>The Key to Successful Collaborations in the Digital Age for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uninterrupted-streaming-now-post-win10s-revamp/"><u>Uninterrupted Streaming Now, Post Win10's Revamp</u></a></li>
-<li><a href="https://video-capture.techidaily.com/44oh44kj44k544kz44o844oj44gn5l244gi44kl44oz44k544oi44gq6yyy6zplusz44ki44ox44oq44o744k944ov44oi77yu5o6o6jam/"><u>ディスコードで使えるベストな録音アプリ・ソフト４推薦</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-crafting-engaging-youtube-video-layouts/"><u>[Updated] In 2024, Crafting Engaging YouTube Video Layouts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ultimate-list-of-highest-rated-free-video-editing-apps-for-idevices/"><u>[Updated] In 2024, Ultimate List of Highest-Rated Free Video Editing Apps for iDevices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-pc-performance-get-scsi-drivers-now/"><u>Accelerate PC Performance: Get SCSI Drivers Now</u></a></li>
+<li><a href="https://win11.techidaily.com/devising-schemes-to-skirt-sign-in-requests-in-windows/"><u>Devising Schemes to Skirt Sign-In Requests in Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-dealing-with-persistent-ntdlldll-crashes-on-windows-operating-systems-11-and-10/"><u>Effective Solutions for Dealing with Persistent ntdll.dll Crashes on Windows Operating Systems (11 and 10)</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output-for-2024/"><u>Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-techniques-for-ethically-following-a-phones-digital-trail/"><u>Free Techniques for Ethically Following a Phone's Digital Trail</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-your-lead-generation-top-3-strategies-for-crafting-high-converting-opt-in-email-lists-with-massmail/"><u>Optimizing Your Lead Generation: Top 3 Strategies for Crafting High-Converting Opt-In Email Lists with MassMail</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-usb-serial-signaling-glitches/"><u>Rectify USB-Serial Signaling Glitches</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steps-for-resolving-driver-setup-issues-in-windows/"><u>Steps for Resolving Driver Setup Issues in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/synchronize-package-with-hardware/"><u>Synchronize Package with Hardware</u></a></li>
 </ul></div>
 

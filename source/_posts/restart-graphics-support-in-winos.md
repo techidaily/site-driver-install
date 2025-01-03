@@ -1,7 +1,7 @@
 ---
 title: Restart Graphics Support in WinOS
-date: 2024-07-11T15:30:25.661Z
-updated: 2024-07-12T15:30:25.661Z
+date: 2024-12-30T17:45:33.444Z
+updated: 2025-01-03T19:00:51.589Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -33,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
 
@@ -43,7 +55,15 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
 
@@ -96,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,6 +123,22 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-experts-top-picks-for-creating-art-on-windows/"><u>[New] In 2024, Expert's Top Picks for Creating Art on Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tips-for-recording-and-saving-google-voice-interactions/"><u>[New] Tips for Recording and Saving Google Voice Interactions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-broad-overview-delving-into-google-podcasts-application/"><u>[Updated] Broad Overview Delving Into Google Podcasts Application</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-increase-screen-brightness-on-lenovo-laptops/"><u>How to Increase Screen Brightness on Lenovo Laptops</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ideal-choice-12-superior-clicking-adventures-on-your-pc-for-2024/"><u>Ideal Choice 12 Superior Clicking Adventures on Your PC for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/mastering-mouse-preferences-adjust-settings-with-ease-through-the-windows-control-panel-digitalpro-tips/"><u>Mastering Mouse Preferences: Adjust Settings with Ease Through the Windows Control Panel - DigitalPro Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-release-of-gma630-sdk/"><u>Rapid Release of GMA630 SDK</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-how-to-download-and-update-nvidia-graphics-card-drivers-gtx-940mx/"><u>Step-by-Step Guide: How To Download and Update Nvidia Graphics Card Drivers (GTX 940MX)</u></a></li>
+<li><a href="https://games-able.techidaily.com/ten-hilarious-word-puzzles-that-break-the-ice-in-chats/"><u>Ten Hilarious Word Puzzles That Break The Ice in Chats</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-process-for-amd-graphics-cards-rx-5700x/"><u>Update Process for AMD Graphics Cards - RX 5700X</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-c270-driver-for-enhanced-hd-performance-on-windows-11/"><u>Upgrade C270 Driver for Enhanced HD Performance on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-bamboo-firmware-simple-access/"><u>Wacom Bamboo Firmware Simple Access</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-enhanced-new-drivers-for-your-hp-printer/"><u>Windows 11 Enhanced: New Drivers for Your HP Printer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-mouse-reset-a-step-by-step-tutorial/"><u>Windows Mouse Reset: A Step-by-Step Tutorial</u></a></li>
+</ul></div>
 

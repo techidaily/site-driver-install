@@ -1,7 +1,7 @@
 ---
 title: Patch Unsupported Installer
-date: 2024-07-11T15:29:33.624Z
-updated: 2024-07-12T15:29:33.624Z
+date: 2024-12-27T19:20:25.798Z
+updated: 2025-01-03T16:33:42.797Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ As for the reason why it happens while installing drivers:
 
  That is to say, If the build number of your Windows version doesn’t fit with the defined \[BuildNumber\] part of the package by the driver manufacturers, you will fail to install the driver package, despite the correct Windows version and processor type.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **How to Check the Build Number in your Windows**
 
 **Tips:** If you want to check whether the build number in your Windows fits with the one defined by the driver manufacturer, follow these instructions:
@@ -56,9 +60,17 @@ As for the reason why it happens while installing drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type**systeminfo** and press**Enter** . Then you will see your build number as below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0c202e7a2f5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then check the defined build number in the driver package (take Intel graphics driver for Windows 10 64 bit as an example):
 
@@ -78,11 +90,19 @@ As for the reason why it happens while installing drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0c1b58eebf9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the build number of your Windows is not 14393 and later, you can’t install this graphics driver in your computer.
 
 ### Fix 1: Restart your PC and reinstall the application/program
 
  If you run into the error when you are downloading or installing a program in your computer, there may be something wrong with the installation file or parsing the file, so you can try to restart your PC, and download the installation file again to reinstall it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Automatically update your drivers
 
@@ -107,6 +127,10 @@ As for the reason why it happens while installing drivers:
 Or click **Update All** to automatically download the correct version of _all_  the drivers that are missing or outdated on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0bf3e95e05a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your Windows and you will have the latest and correct drivers in your Windows.
 
@@ -141,8 +165,6 @@ Or click **Update All** to automatically download the correct version of _all_  
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,6 +172,18 @@ Or click **Update All** to automatically download the correct version of _all_  
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-cutting-edge-6-urban-designs-in-mc/"><u>[Updated] Cutting-Edge 6 Urban Designs in MC</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-media-subtitles-transformation/"><u>2024 Approved Mastering Media Subtitles Transformation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-blueprint-for-subtitle-distribution-on-tiktok-and-twitch-for-2024/"><u>Comprehensive Blueprint for Subtitle Distribution on TikTok and Twitch for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/experience-cutting-edge-gaming-get-a-discount-of-250-on-our-mighty-rtx-4090-powered-computer-system-today/"><u>Experience Cutting-Edge Gaming: Get a Discount of $250 on Our Mighty RTX 4090 Powered Computer System Today</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-ready-for-a-galactic-celebration-on-may-warty-acemagic-introduces-the-x-wing-shaped-mini-gaming-pc/"><u>Get Ready for a Galactic Celebration on May Warty – AceMagic Introduces the X-Wing Shaped Mini Gaming PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/introducing-the-asus-nuc-n14-pc-ultra9-fusion-and-ampere-rtx-4070-for-next-level-gaming-and-workflows/"><u>Introducing the Asus NUC N14 PC — Ultra9 Fusion & Ampere RTX 4070 for Next-Level Gaming & Workflows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-your-computer-needs-the-ultimate-toms-hardware-compilation/"><u>Mastering Your Computer Needs: The Ultimate Tom's Hardware Compilation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-wont-play-on-my-motorola-edge-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Motorola Edge 2023</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/perfect-your-party-with-these-home-theater-setup-strategies-for-the-super-bowl/"><u>Perfect Your Party with These Home Theater Setup Strategies for the Super Bowl</u></a></li>
+<li><a href="https://win-guides.techidaily.com/regaining-your-powerpoint-data-for-free-tips-and-tricks-on-file-restoration/"><u>Regaining Your PowerPoint Data for Free - Tips and Tricks on File Restoration</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-s23-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy S23 ? Fix It Easily | Dr.fone</u></a></li>
+</ul></div>
 

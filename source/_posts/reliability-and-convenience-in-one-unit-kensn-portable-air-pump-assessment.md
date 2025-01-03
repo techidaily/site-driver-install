@@ -1,7 +1,7 @@
 ---
 title: "Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
-date: 2024-12-18T10:09:48.677Z
-updated: 2024-12-24T23:31:39.890Z
+date: 2024-12-30T16:36:43.595Z
+updated: 2025-01-03T16:14:14.570Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 ## Crafting a New Reality in Torment: A Comprehensive Guide to Science Fiction RPG and Its Unique Setting in Numenera
 
 2.7
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## inXile Entertainment Torment: Tides of Numenera
 
@@ -58,11 +62,19 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -73,7 +85,7 @@ Lifewire / Kelsey Simon
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
@@ -81,10 +93,6 @@ Lifewire / Kelsey Simon
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -100,10 +108,6 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -114,10 +118,6 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Only worth it if you’re keen on the story**
 
  Torment: Tides of Numenera is still an expensive game, costing $50 on[Steam](https://www.lifewire.com/best-free-steam-games-4176308) when it’s not on sale. It’s a game created with a very specific type of player in mind―and I suspect most people are not going to like it.
@@ -125,10 +125,6 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -141,6 +137,10 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -165,19 +165,24 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-instagram-algorithm-update-will-affect-you-for-2024/"><u>[Updated] How Instagram Algorithm Update Will Affect You for 2024</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyy-plus-alteryx-seamless-combination-of-data-capture-and-analytics/"><u>ABBYY + Alteryx: Seamless Combination of Data Capture & Analytics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversione-illimitata-png-a-gif-gratuita-via-web-come-fare-con-movavi/"><u>Conversione Illimitata PNG a GIF Gratuita via Web: Come Fare Con Movavi</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cross-platform-usbasp-win7-to-win10-drivers-made-easy/"><u>Cross-Platform USBasp: Win7 to Win10 Drivers Made Easy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-fading-techniques-in-live-for-2024/"><u>Harmonizing Fading Techniques in Live for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-13-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 13 The Right Way</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063184198-hp-1020s-windows-woes-end-today/"><u>HP 1020'S Windows Woes End Today!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-printer-software-model-1102w-downloader-for-pcs/"><u>HP Printer Software Model 1102W - Downloader for PCs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia C210 FRP</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantaneous-windows-driver-refresh-techniques-for-10-and-beyond/"><u>Instantaneous Windows Driver Refresh Techniques for 10 & Beyond</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-windows-m2-hardware-support/"><u>Streamline Windows M.2 Hardware Support</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveiling-secrets-to-device-software-alterations-in-windows-8-os/"><u>Unveiling Secrets to Device Software Alterations in Windows 8 OS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-comprehensible-guide-to-updating-usernames-in-google-meet-for-2024/"><u>[New] Comprehensible Guide to Updating Usernames in Google Meet for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-11-techniques-for-perfecting-hue-balance-for-2024/"><u>[Updated] Top 11 Techniques for Perfecting Hue Balance for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-investment-needs-on-youtube-for-2024/"><u>[Updated] Understanding Investment Needs on YouTube for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/a-practical-approach-resetting-printer-drivers-in-win-oses/"><u>A Practical Approach: Resetting Printer Drivers in WIN OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/beat-the-blues-troubleshoot-m-track-issues/"><u>Beat the Blues: Troubleshoot M-Track Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-digital-masterpieces-with-ease-the-ultimate-guide-to-using-chatgpt-for-ai-generated-imagery/"><u>Crafting Digital Masterpieces with Ease: The Ultimate Guide to Using ChatGPT for AI-Generated Imagery</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-access-to-intel-hd520-drivers/"><u>Easy Access to Intel HD520 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-huion-h420-interactions-windows-driver-tweaks/"><u>Enhance Huion H420 Interactions: Windows Driver Tweaks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-input-controls-how-to-streamline-your-mouse-on-windows/"><u>Enhanced Input Controls: How to Streamline Your Mouse on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-downloads-for-optimized-performance-on-gaomon-s620/"><u>Free Downloads for Optimized Performance on Gaomon S620</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-motorola-moto-g24-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Motorola Moto G24 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-influence-unleashed-the-ultimate-guide-to-power-players-strategies-for-2024/"><u>Insta Influence Unleashed The Ultimate Guide to Power Players' Strategies for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/optimizing-vimeo-video-speed-rates/"><u>Optimizing Vimeo Video Speed Rates</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-obstacles-a-fixed-nvidia-error/"><u>Overcoming Obstacles: A Fixed NVIDIA Error</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-50-unbeatable-christmas-offers-on-electronics-and-more-at-newegg-features-by-zdnet/"><u>Top 50 Unbeatable Christmas Offers on Electronics & More at Newegg - Features by ZDNet</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/troubleshooting-continuous-crashes-why-specific-applications-fail-on-your-pc-insights-by-yl-computing-and-software-solutions/"><u>Troubleshooting Continuous Crashes: Why Specific Applications Fail on Your PC - Insights by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ultimate-printer-software-epson-et-2650-usb/"><u>Ultimate Printer Software: Epson ET-2650 USB</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-digital-pen-driver-safe-and-free-windows-edition/"><u>Wacom Digital Pen Driver - Safe & FREE Windows Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-canon-printer-software-installation-guide/"><u>Windows 11 Canon Printer Software Installation Guide</u></a></li>
 </ul></div>
 

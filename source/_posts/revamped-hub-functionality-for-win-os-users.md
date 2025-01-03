@@ -1,7 +1,7 @@
 ---
 title: Revamped Hub Functionality for WIN OS Users
-date: 2024-12-03T07:40:11.579Z
-updated: 2024-12-10T03:08:43.465Z
+date: 2024-12-29T16:56:59.507Z
+updated: 2025-01-03T17:37:22.843Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Update Generic USB Hub driver manually
 
  As Microsoft provides drivers for most of the USB devices, you can directly download the Generic USB Hub driver from Windows to update. To do so:
@@ -40,12 +36,12 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and**R** at the same time to invoke the**Run** box.
 2. Type**devmgmt.msc** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
@@ -53,17 +49,21 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 2: Update Generic USB Hub driver automatically
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -107,16 +107,15 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-nurturing-discussions-strategies-to-connect-with-followers/"><u>[Updated] Nurturing Discussions Strategies to Connect With Followers</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-friend-in-disguise-ending-fb-ties/"><u>A Friend in Disguise: Ending FB Ties</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comparing-gaming-performance-my-decision-for-the-steam-deck-vs-the-mighty-rog-ally-x/"><u>Comparing Gaming Performance: My Decision for the Steam Deck Vs. The Mighty Rog Ally X</u></a></li>
-<li><a href="https://driver-install.techidaily.com/creative-labs-flagship-in-review-the-sound-blaster-zxr-and-its-place-among-audio-innovations/"><u>Creative Labs' Flagship in Review: The Sound Blaster ZxR and Its Place Among Audio Innovations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-top-10-websites-for-no-fee-images-for-2024/"><u>Explore the Top 10 Websites for No-Fee Images for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/initial-delivery-of-acemagic-tailored-minicomputers-found-to-have-factory-integrated-spying-tools-reports-company/"><u>Initial Delivery of AceMagic Tailored Minicomputers Found to Have Factory-Integrated Spying Tools, Reports Company</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-for-opening-windows-11s-component-services/"><u>Quick Tips for Opening Windows 11'S Component Services</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reviving-usb-connectivity-on-vintage-os-versions/"><u>Reviving USB Connectivity on Vintage OS Versions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/taming-the-wild-stabilized-hp-1020-in-win-os/"><u>Taming the Wild: Stabilized HP 1020 in Win OS</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-talkative-youtube-threads-for-2024/"><u>Track Talkative YouTube Threads for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/windows-11-gamers-guide-to-excellent-game-capturing/"><u>Windows 11 Gamers' Guide to Excellent Game Capturing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-giggle-grove-memetic-magic-for-all-ages/"><u>[New] In 2024, Giggle Grove Memetic Magic for All Ages</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-step-by-step-manual-kickstart-your-bite-sized-gadget-reviews-channel/"><u>[New] In 2024, Step-by-Step Manual Kickstart Your Bite-Sized Gadget Reviews Channel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-secrets-of-effective-free-youtube-video-transcriptions-revealed/"><u>[Updated] The Secrets of Effective, FREE YouTube Video Transcriptions Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2023s-best-amazon-fire-hd-8-gen-8-a-low-cost-tablet-that-exceeds-expectations/"><u>2023'S Best Amazon Fire HD 8 (Gen 8): A Low-Cost Tablet That Exceeds Expectations</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-sea-of-thieves-prolonged-boot-up-delay/"><u>Effective Solutions for 'Sea of Thieves' Prolonged Boot-Up Delay</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063184198-hp-1020s-windows-woes-end-today/"><u>HP 1020'S Windows Woes End Today!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-printer-software-model-1102w-downloader-for-pcs/"><u>HP Printer Software Model 1102W - Downloader for PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantaneous-windows-driver-refresh-techniques-for-10-and-beyond/"><u>Instantaneous Windows Driver Refresh Techniques for 10 & Beyond</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-secrets-to-device-software-alterations-in-windows-8-os/"><u>Unveiling Secrets to Device Software Alterations in Windows 8 OS</u></a></li>
 </ul></div>
 

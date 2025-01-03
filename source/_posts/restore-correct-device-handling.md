@@ -1,7 +1,7 @@
 ---
 title: Restore Correct Device Handling
-date: 2024-12-03T22:30:35.459Z
-updated: 2024-12-09T23:56:01.191Z
+date: 2025-01-01T16:23:23.234Z
+updated: 2025-01-03T18:12:13.023Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
  You can download the latest FTDI driver from FTDI official website. Following steps are for your reference how to download and install the driver from FTDI manufacturer. Note the steps will be different if their website is redesigned.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 1: Update the FTDI USB to serial driver manually  
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-94.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you click on the version name, you’ll get driver with .inf file which requires you to install the driver step by step through [Device Manager](https://tools.techidaily.com/drivereasy/download/) . We don’t recommend you download this file unless you can’t use the executable file to install the driver successfully.  
@@ -46,19 +46,19 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-98.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Extract** then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-96.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. After installing the driver, restart your computer and check to see if the FTDI USB to serial driver issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 2: Update the FTDI USB to serial driver manually
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-99.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the Update button next to the flagged USB Serial Port device to automatically download the correct version of the driver, then you can manually install the driver (you can do this with the FREE version).
@@ -106,20 +106,16 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-laughter-legends-unwrapping-goofy-odyssey/"><u>[New] 'Laughter Legends' - Unwrapping 'Goofy Odyssey'</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-perfecting-your-podcast-entry-in-apples-catalog/"><u>[New] In 2024, Perfecting Your Podcast Entry in Apple's Catalog</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-live-pro-tips-outfitting-with-excellent-webcams/"><u>[New] YouTube Live Pro Tips Outfitting with Excellent Webcams</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-optimizing-video-meetings-with-tighter-focus-areas/"><u>[Updated] 2024 Approved Optimizing Video Meetings with Tighter Focus Areas</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-expert-guide-to-overcoming-instagrams-video-obstacles/"><u>[Updated] Expert Guide to Overcoming Instagram's Video Obstacles</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-updates-to-internal-components-of-w7/"><u>Effortless Updates to Internal Components of W7</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/re-and-compare-20plus-best-free-video-editors-for-ios/"><u>Explore and Compare 20+ Best Free Video Editors for iOS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-samurai-warriors-5-from-crashing-on-your-windows-computer/"><u>How to Prevent Samurai Warriors 5 From Crashing on Your Windows Computer?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>In 2024, Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lightning-fast-drivers-maximum-yoga-capability/"><u>Lightning-Fast Drivers, Maximum Yoga Capability</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-windows-10-with-advanced-driver-software/"><u>Optimize Windows 10 with Advanced Driver Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalizing-your-system-a-stepwise-guide-to-msi-bios-updates/"><u>Revitalizing Your System: A Stepwise Guide to MSI BIOS Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-safe-download-tp-links-usb-wi-fi-driver/"><u>Secure & Safe: Download TP Link's USB Wi-Fi Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-pc-enhancements-download-windows-11s-touch/"><u>Streamline PC Enhancements - Download Windows 11'S Touch</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-gopro-4k-editing-basics-for-2024/"><u>[Updated] Step-by-Step GoPro 4K Editing Basics for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/activate-and-install-canon-mx870-win108-drivers/"><u>Activate and Install Canon MX870 WIN10/8 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/aoc-e1659fwu-driver-update-for-windows-117/"><u>AOC E1659FWU Driver Update for Windows 11/7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-chatbot-add-ons-for-blockchain-engagement-the-ultimate-list/"><u>Discover the Leading Chatbot Add-Ons for Blockchain Engagement: The Ultimate List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-guide-installing-your-xbox-360-controller-driver/"><u>Download Guide: Installing Your Xbox 360 Controller Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-update-your-pcs-hdmi-driver-on-windows/"><u>Efficiently Update Your PC's HDMI Driver on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063424571-enhance-huion-h420-for-windows-easy-steps-ahead/"><u>Enhance Huion H420 for Windows - Easy Steps Ahead</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-economical-enhancement-tweets-to-animated-gifs-guide/"><u>In 2024, Economical Enhancement Tweets to Animated GIFs Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-update-path-windows-11-haptic-interface/"><u>Intuitive Update Path: Windows 11 Haptic Interface</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210685491-9781644117088-psychedelic-cults-and-outlaw-churches/"><u>Psychedelic Cults and Outlaw Churches | Free Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-buyers-guide-choosing-the-right-external-usb-dvd-drive-for-your-mac-in-202-instruction-same-difficultyformatlength/"><u>Ultimate Buyer's Guide: Choosing the Right External USB DVD Drive for Your Mac in 202# Instruction (Same Difficulty/Format/Length)</u></a></li>
 </ul></div>
 

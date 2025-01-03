@@ -1,7 +1,7 @@
 ---
 title: Refresh Graphics Drivers in Win11/7
-date: 2024-12-20T21:40:58.170Z
-updated: 2024-12-25T01:03:45.600Z
+date: 2025-01-01T17:58:53.936Z
+updated: 2025-01-03T17:45:00.866Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 [**Step 2: Install a new graphics driver**](#step2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Uninstall the graphics driver
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
 
@@ -52,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -125,24 +125,21 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-browsing-bygone-tales-in-the-facebook-universe-with-devices/"><u>[New] 2024 Approved Browsing Bygone Tales in the Facebook Universe with Devices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-essential-guide-to-boosting-your-tiktok-reach-via-hashes/"><u>[Updated] 2024 Approved The Essential Guide to Boosting Your TikTok Reach via Hashes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unveiling-aerial-shots-the-full-potential-of-mi-drone/"><u>[Updated] 2024 Approved Unveiling Aerial Shots The Full Potential of MI Drone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-craft-engaging-titlescaptions-with-microsofts-photos-app-win-11/"><u>[Updated] Craft Engaging Titles/Captions with Microsoft's Photos App (Win 11)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/acers-optimal-performance-with-updated-win11-drivers/"><u>Acer's Optimal Performance with Updated Win11 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiency-unleashed-startech-drives-fix-for-winxp-11-os/"><u>Efficiency Unleashed: StarTech Drives Fix for WINXP-11 OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ensuring-peak-performance-with-updated-realtek-dell/"><u>Ensuring Peak Performance with Updated Realtek Dell</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-dell-realtek-audio-driver/"><u>How To Update Dell Realtek Audio Driver</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-live-action-top-9-gaming-portals/"><u>In 2024, Live Action Top 9 Gaming Portals</u></a></li>
-<li><a href="https://driver-install.techidaily.com/inf-secured-no-third-party-signature-found/"><u>Inf Secured: No Third-Party Signature Found</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-latest-atheros-drivers-on-windows-11/"><u>Installing Latest Atheros Drivers on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-graphics-rendering-on-your-pc-upgrade-to-new-drivers-for-hp-omen-15/"><u>Maximize Graphics Rendering on Your PC – Upgrade to New Drivers for HP Omen 15</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-ways-to-retain-live-chat-transcripts/"><u>Quick Ways to Retain Live Chat Transcripts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resetting-network-hardware-on-a-budget-operating-system/"><u>Resetting Network Hardware on a Budget Operating System</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-into-computer-hardware/"><u>Tom's Tech Reviews: Expert Insights Into Computer Hardware</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-oneplus-nord-ce-3-lite-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 OnePlus Nord CE 3 Lite 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-mac-vpn-services-comprehensive-expert-reviews-and-comparisons/"><u>Top Rated Mac VPN Services: Comprehensive Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updating-your-razer-blackwidows-drivers-a-step-by-step-guide/"><u>Updating Your Razer BlackWidow's Drivers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-yoga-900s-accessible-win10-drivers-download/"><u>Upgrade Your Yoga 900S: Accessible Win10 Drivers Download</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/emystifying-youtubes-keyword-power-play-for-2024/"><u>[New] Demystifying YouTube's Keyword Power Play for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-influence-of-luts-on-digital-imagery-quality/"><u>[Updated] Exploring the Influence of LUTs on Digital Imagery Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-horizon-haven-the-leading-5-cloud-platforms-to-consider/"><u>[Updated] Horizon Haven The Leading 5 Cloud Platforms to Consider</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-picks-top-macpc-bd-players-and-codecs/"><u>[Updated] Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-secrecy-in-images-with-photoshop-for-2024/"><u>Crafting Secrecy in Images with Photoshop for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/customize-win-11-7-and-81-experience-with-newest-intel-driver-features/"><u>Customize Win 11, 7 & 8.1 Experience with Newest Intel Driver Features</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-link-intel-hd-graphics-520/"><u>Direct Link: Intel HD Graphics 520</u></a></li>
+<li><a href="https://driver-install.techidaily.com/downloadable-canon-printer-support-tools-for-win11/"><u>Downloadable Canon Printer Support Tools for Win11</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/effective-strategies-to-bypass-windows-defender-alerts-and-enhance-system-performance/"><u>Effective Strategies to Bypass Windows Defender Alerts and Enhance System Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-easy-installs-canon-printer-drivers-on-pcs/"><u>Free, Easy Installs: Canon Printer Drivers on PCs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-instructions-easy-setup-of-the-logitech-c270-camera/"><u>Installation Instructions: Easy Setup of the Logitech C270 Camera</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/racing-cameras-face-off-is-gopro-the-ultimate-champion-for-2024/"><u>Racing Cameras Face Off Is GoPro the Ultimate Champion for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-transition-for-pro-6-drivers/"><u>Smooth Transition for Pro 6 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/strategies-to-mitigate-software-problems-in-windows-drivers/"><u>Strategies to Mitigate Software Problems in Windows Drivers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-visuals-on-the-social-media-giant-fb-for-2024/"><u>Twitters' Visuals on the Social Media Giant FB for 2024</u></a></li>
 </ul></div>
 

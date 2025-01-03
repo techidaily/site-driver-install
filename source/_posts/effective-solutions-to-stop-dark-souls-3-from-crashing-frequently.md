@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to Stop Dark Souls 3 From Crashing Frequently
-date: 2024-12-06T00:02:35.182Z
-updated: 2024-12-09T20:07:06.173Z
+date: 2024-12-30T18:57:13.405Z
+updated: 2025-01-03T18:25:03.073Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -52,6 +48,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -61,7 +61,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify your game cache
@@ -75,7 +75,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change your save files location
@@ -85,7 +85,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable Steam Overlay
@@ -96,6 +96,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your driver
 
@@ -119,10 +123,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
@@ -148,20 +148,24 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-overcome-oversaturated-tiktok-drafters-through-savvy-edits-for-2024/"><u>[New] Overcome Oversaturated TikTok Drafters Through Savvy Edits for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-fb-cover-video-excellence/"><u>[Updated] 2024 Approved The Ultimate Checklist for FB Cover Video Excellence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-upload-longer-video-to-youtube-as-you-wished/"><u>[Updated] 2024 Approved Upload Longer Video to YouTube As You Wished</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-11x-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme 11X 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/asus-unveils-new-nuc-proplus-with-meteor-lake-processors-512gb-ssd-and-16gb-ram-for-860/"><u>Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beyond-zero-emissions-measuring-the-true-sustainability-of-evs/"><u>Beyond Zero Emissions: Measuring the True Sustainability of EVs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/choosing-the-perfect-prefabricated-gaming-rig-top-picks-and-considerations/"><u>Choosing the Perfect Prefabricated Gaming Rig: Top Picks and Considerations</u></a></li>
-<li><a href="https://driver-install.techidaily.com/master-the-gadget-game-tips-and-tricks-from-toms-hardware-experts/"><u>Master the Gadget Game - Tips & Tricks From Tom's Hardware Experts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/master-your-choices-toms-expertise-in-computer-hardware-reviews/"><u>Master Your Choices - Tom's Expertise in Computer Hardware Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/snap-up-discounted-top-of-the-line-ipads-for-199-in-amazons-epic-labor-day-deals-cnet/"><u>Snap Up Discounted Top-of-the-Line iPads for $199 in Amazon's Epic Labor Day Deals | CNET</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-to-choosing-a-budget-friendly-sturdy-tablet-support-unpacking-the-omoton-t-1-review/"><u>The Ultimate Guide to Choosing a Budget-Friendly, Sturdy Tablet Support: Unpacking the Omoton T 1 Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turtle-beachs-atlas-air-earphones-surpassing-audio-expectations/"><u>Turtle Beach's ATLAS Air Earphones: Surpassing Audio Expectations</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveiling-gadgets-with-toms-computer-world/"><u>Unveiling Gadgets with Tom's Computer World</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-make-a-heartfelt-slideshow-with-music-a-beginners-guide/"><u>Updated Make a Heartfelt Slideshow with Music A Beginners Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/windows-10-meeting-mastery-with-zoom-tools/"><u>Windows 10 Meeting Mastery with Zoom Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-iphone-markers-choosing-the-best-image-watermarks-for-2024/"><u>[Updated] Top iPhone Markers Choosing the Best Image Watermarks for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-dji-quadcopters-groups-fundamentals-advanced-configurations-hd-experts/"><u>2024 Approved DJI Quadcopters Groups Fundamentals, Advanced Configurations, HD Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-xeon-driver-efficiency-immediately/"><u>Boost Xeon Driver Efficiency Immediately</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-gpt4alls-complex-processes/"><u>Demystifying GPT4All's Complex Processes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-canon-4770n-print-driver-on-windows/"><u>Efficient Canon 4770N Print Driver on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-y28-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo Y28 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nokia-c12-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nokia C12 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidias-gtx-760-updated-effortlessly/"><u>Nvidia's GTX 760: Updated Effortlessly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-windows-system-by-firmware-improvement/"><u>Secure Windows System by Firmware Improvement</u></a></li>
+<li><a href="https://driver-install.techidaily.com/set-up-canon-mx870-on-win-10-7-and-8/"><u>Set up Canon MX870 on Win 10, 7, & 8</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-print-setup-effective-guide-to-updating-printer-drivers-on-win-systems/"><u>Simplify Print Setup: Effective Guide to Updating Printer Drivers on WIN Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steinberg-mxp-driver-windows-compatible/"><u>Steinberg MXP Driver - Windows Compatible</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723053628603-top-rated-f5-model-by-pruveeo-1080p-dash-cam-review-saving-you-big-on-safety-gear/"><u>Top Rated F5 Model by Pruveeo: 1080P Dash Cam Review - Saving You Big on Safety Gear</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-free-online-subtitles-sites-ranking-the-top-20-choices-for-movies-and-series-downloads-updated/"><u>Ultimate Guide to Free Online Subtitles Sites - Ranking the Top 20 Choices for Movies & Series Downloads Updated !</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-discover-the-new-apple-iphone-release-event/"><u>Unveiling the Latest: Discover the New Apple iPhone Release Event</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-graphics-overhaul-simple-upgrades-guide/"><u>Win Graphics Overhaul: Simple Upgrades Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win8vista-to-modern-systems-overcoming-startech-issues/"><u>Win8/Vista to Modern Systems: Overcoming StarTech Issues</u></a></li>
 </ul></div>
 

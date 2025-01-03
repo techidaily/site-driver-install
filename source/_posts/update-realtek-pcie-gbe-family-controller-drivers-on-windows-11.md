@@ -1,7 +1,7 @@
 ---
 title: Update Realtek PCIe GBE Family Controller Drivers on Windows 11
-date: 2024-12-04T12:09:39.291Z
-updated: 2024-12-09T21:38:49.007Z
+date: 2024-12-27T18:01:29.921Z
+updated: 2025-01-03T17:47:56.415Z
 tags:
   - win11
   - win10
@@ -56,24 +56,16 @@ _Realtek PCIe GBE Familly Controller_
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Use Windows Update
 
  You can use [Windows Update](https://tools.techidaily.com/drivereasy/download/) to check for the updates in Windows 10\. It may help install the driver for your Realtek PCIe GbE Family Controller. If this feature in your Window 10 has been set to install updates automatically, you can skip this way.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0236547c83.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3\. Update the Driver Manually
@@ -95,7 +87,7 @@ _Realtek PCIe GBE Familly Controller_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023a099bb2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **Browse my Computer for driver software.**
@@ -103,16 +95,24 @@ _Realtek PCIe GBE Familly Controller_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023ca8557c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023f947709.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click on   **Next** button to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0244b633c8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Check to see if the driver is installed successfully.
 
@@ -133,20 +133,21 @@ _Realtek PCIe GBE Familly Controller_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-quick-guide-enhancing-youtube-clips-using-windows-movie-maker/"><u>[New] 2024 Approved Quick Guide Enhancing YouTube Clips Using Windows Movie Maker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-initiate-your-virtual-presence-with-ease-live-streaming-101/"><u>[New] Initiate Your Virtual Presence with Ease Live Streaming 101</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-insight-into-lgs-360-camera-updates-and-features-for-todays-photographers-for-2024/"><u>[Updated] Insight Into LG's 360 Camera Updates and Features for Today's Photographers for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-revenue-a-complete-playbook/"><u>2024 Approved Mastering Youtube Revenue A Complete Playbook</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhancing-system-stability-update-intel-82579lm-windows-driver/"><u>Enhancing System Stability: Update Intel 82579LM Windows Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fix-distorted-sound-in-windows-10-with-driver-reinstall/"><u>Fix Distorted Sound in Windows 10 with Driver Reinstall</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hardware-checkup-verify-if-your-cpu-supports-vanguards-performance-criteria/"><u>Hardware Checkup: Verify if Your CPU Supports Vanguard’s Performance Criteria</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-poco-c65-by-drfone-android/"><u>How to Bypass FRP from Poco C65?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-13c-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi 13C for Free? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/instagram-video-orientation-whats-the-flip-in-2024/"><u>Instagram Video Orientation - What's the Flip, In 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/propel-your-mouse-update-logitech-and-windows-11-harmony/"><u>Propel Your Mouse Update: Logitech & Windows 11 Harmony</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rtx-3090-supercharge-windows-compatible-driver/"><u>RTX 3090 Supercharge - Windows Compatible Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplified-guide-to-revamping-windows-mouse-interface/"><u>Simplified Guide to Revamping Windows' Mouse Interface</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-vivid-graphics-on-your-windows-machine/"><u>Unleash Vivid Graphics on Your Windows Machine</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-hp-laserjet-printer-drivers-for-windows-11/"><u>Update HP Laserjet Printer Drivers for Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-a-stepwise-approach-to-twitter-archive-utilization-for-2024/"><u>[New] A Stepwise Approach to Twitter Archive Utilization for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/harting-new-heights-with-popular-youtube-content/"><u>[New] Charting New Heights with Popular YouTube Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-optimal-steps-livestream-and-preserve-real-time-sports-events/"><u>[New] In 2024, Optimal Steps Livestream and Preserve Real-Time Sports Events</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-reign-over-the-market-selecting-the-best-7-nft-enabling-services-for-2024/"><u>[New] Reign Over the Market Selecting the Best 7 NFT-Enabling Services for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-sources-to-harvest-enhanced-text-files/"><u>[Updated] Top Sources to Harvest Enhanced Text Files</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-way-to-reset-printer-drivers-for-optimal-performance-in-win10117/"><u>Effortless Way to Reset Printer Drivers for Optimal Performance in Win10/11/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/from-box-to-controller-installing-3dconnexion-drivers/"><u>From Box to Controller: Installing 3Dconnexion Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-760-simplified-driver-updates/"><u>GTX 760: Simplified Driver Updates</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-11-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-keep-atheros-wireless-efficient-with-regular-driver-updates/"><u>How to Keep Atheros Wireless Efficient with Regular Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-accessible-hardware-driver-updates-for-w7-systems/"><u>Quick Accessible Hardware Driver Updates for W7 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/relaunch-graphics-software-on-windows/"><u>Relaunch Graphics Software on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-distinction-a-comprehensive-guide-to-mp3-versus-mp4-formats/"><u>Understanding the Distinction: A Comprehensive Guide to MP3 versus MP4 Formats</u></a></li>
+<li><a href="https://discover-help.techidaily.com/unlocking-global-cinema-three-techniques-to-enjoy-any-regions-dvd-without-limits/"><u>Unlocking Global Cinema: Three Techniques to Enjoy Any Region's DVD Without Limits</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-latest-features-of-your-computers-primary-input-device/"><u>Unlocking Latest Features of Your Computer's Primary Input Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-screen-mirroring-for-pc-and-tv-mastering-the-use-of-chromecast/"><u>Wireless Screen Mirroring for PC and TV: Mastering the Use of Chromecast</u></a></li>
 </ul></div>
 

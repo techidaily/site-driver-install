@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide to Resolve Constant Crashes in Tower of Fantasy Game on PC
-date: 2024-12-07T10:13:32.771Z
-updated: 2024-12-10T11:21:52.236Z
+date: 2024-12-28T16:27:14.679Z
+updated: 2025-01-03T18:38:44.037Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 
 If this method doesn’t help, check out your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -70,13 +70,17 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Run the game as an administrator
 
@@ -92,15 +96,7 @@ If this method doesn’t help, check out your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -113,14 +109,10 @@ If this method doesn’t help, check out your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
@@ -133,6 +125,10 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
@@ -140,6 +136,10 @@ If this method doesn’t help, check out your graphics driver.
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
@@ -167,15 +167,17 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-tactics-for-elevating-your-videos-popularity-at-vimeo-for-2024/"><u>[New] Tactics for Elevating Your Video's Popularity at Vimeo for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>[Updated] 2024 Approved From Novice to Expert Mastering Video Identity on YouTube</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-navigating-the-nuances-of-twitters-video-policies/"><u>[Updated] In 2024, Navigating the Nuances of Twitter's Video Policies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/catch-every-dribble-top-ranking-stations-for-mens-college-basketball-and-the-big-dance/"><u>Catch Every Dribble: Top Ranking Stations for Men's College Basketball & The Big Dance!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-driver-updates-ideapad-y470-win7/"><u>Essential Driver Updates - IdeaPad-Y470 Win7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-top-notch-performance-samsungs-990-evo-2tb-ssd-at-just-129-unbeatable-discounted-price/"><u>Experience Top-Notch Performance: Samsung's 990 EVO 2TB SSD at Just $129 - Unbeatable Discounted Price</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-gadgets-the-art-of-correct-driver-installer/"><u>Optimize Gadgets: The Art of Correct Driver Installer</u></a></li>
-<li><a href="https://driver-install.techidaily.com/perfecting-system-integration-through-drivers/"><u>Perfecting System Integration Through Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-pcs-motherboard-drivers-in-windows/"><u>Step-by-Step Guide: Updating Your PC's Motherboard Drivers in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win7plusie-management-guide-installation-made-simple/"><u>Win7+IE Management Guide: Installation Made Simple</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-from-capture-to-share-expert-insights-into-screen-recording-software/"><u>[New] In 2024, From Capture to Share Expert Insights Into Screen Recording Software</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-omega-series-high-definition-full-touch-workstations/"><u>[New] In 2024, Omega Series High Definition Full Touch Workstations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-download-twitters-livestreams-and-save-as-mp3/"><u>[Updated] Download Twitter's Livestreams and Save as MP3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-facile-des-photos-raw-vers-jpeg-avec-le-convertisseur-gratuit-de-movavi/"><u>Conversion Facile Des Photos RAW Vers JPEG Avec Le Convertisseur Gratuit De Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063339956-effortlessly-acquire-adb-toolkit-for-your-device/"><u>Effortlessly Acquire ADB Toolkit for Your Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-hp-envy-5530-driver-on-your-windows-10/"><u>Install HP Envy 5530 Driver on Your Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-acer-display-software-on-win11/"><u>Install Latest Acer Display Software on Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-windows-reinstallation-of-amd-firmware/"><u>Mastering Windows' Reinstallation of AMD Firmware</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/silent-scribes-selection-top-choices-in-offline-recognition-tech-for-2024/"><u>Silent Scribes' Selection Top Choices in Offline Recognition Tech for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/whats-hugging-face-an-in-depth-look-at-this-cutting-edge-ai-tool/"><u>What's Hugging Face? An In-Depth Look at This Cutting-Edge AI Tool</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/yl-computing-tutorial-install-or-uninstall-software-using-the-control-panel/"><u>YL Computing Tutorial: Install or Uninstall Software Using the Control Panel</u></a></li>
 </ul></div>
 

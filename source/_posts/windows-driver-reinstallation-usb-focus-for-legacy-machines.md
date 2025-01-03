@@ -1,7 +1,7 @@
 ---
 title: "Windows Driver Reinstallation: USB Focus for Legacy Machines"
-date: 2024-12-05T11:44:06.709Z
-updated: 2024-12-10T05:11:40.786Z
+date: 2024-12-29T18:51:24.475Z
+updated: 2025-01-03T16:27:48.177Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reinstall USB drivers
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Reinstall the drivers using Device Manager
 
  Device Manager is a Windows built-in tool that allows you to view and control the hardware attached to your computer and update the device drivers. To reinstall the USB drivers in Device Manager, follow the steps below:
@@ -37,26 +41,22 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
@@ -71,12 +71,12 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -101,24 +101,22 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-capture-twitter-gifs-on-your-computer-quickly/"><u>[New] Capture Twitter Gifs on Your Computer Quickly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-insta-twist-techniques-for-tailoring-your-photos-on-the-fly/"><u>2024 Approved Insta-Twist Techniques for Tailoring Your Photos on the Fly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/achieve-peak-graphics-quality-with-amd-drivers-on-your-windows-10-pc/"><u>Achieve Peak Graphics Quality with AMD Drivers on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-worldwide-an-insight-into-facebook-twitter-instagram-and-youtube-usage/"><u>Connecting Worldwide: An Insight Into Facebook, Twitter, Instagram and Youtube Usage</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-update-lenovo-y900-system-drivers-for-windows-11-comprehensive-guide/"><u>Download & Update Lenovo Y900 System Drivers for Windows 11: Comprehensive Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-asus-mb168b-drivers-compatible-with-windows-1178-complete-guide/"><u>Download ASUS MB168B Drivers Compatible with Windows 11/7/8: Complete Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-asus-minibook-b168b-drivers-compatible-with-windows-1178/"><u>Download ASUS MiniBook B168B Drivers Compatible with Windows 11/7/8</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-geforce-gtx-980-drivers-quick-and-simple-guide/"><u>Download GeForce GTX 980 Drivers: Quick & Simple Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-hp-pro-3500-mt-drivers-in-a-twin-pronged-approach-for-optimal-performance/"><u>Download HP Pro 3500 MT Drivers in a Twin-Pronged Approach for Optimal Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-latest-lenovo-thinkpad-edge-driver-for-enhanced-performance-on-windows-11/"><u>Download Latest Lenovo ThinkPad Edge Driver for Enhanced Performance on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-installation-of-amd-radeon-hd-7770-drivers-for-optimal-performance/"><u>Effortless Installation of AMD Radeon HD 7770 Drivers for Optimal Performance</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/free-online-converter-transform-flv-files-into-editable-gifs-with-ease/"><u>Free Online Converter: Transform FLV Files Into Editable GIFs with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-assess-quality-a-buyers-guide-to-secondhand-computers/"><u>How to Assess Quality: A Buyer's Guide to Secondhand Computers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-metaverse-meme-landscape/"><u>In 2024, Exploring the Metaverse Meme Landscape</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-12-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 12 mini Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-and-speed-up-your-connection-acers-bluetooth-driver-download-for-immediate-use/"><u>Secure & Speed Up Your Connection: Acer's Bluetooth Driver Download for Immediate Use</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/shaping-letters-in-visual-content-for-2024/"><u>Shaping Letters in Visual Content for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-your-workflow-new-hp-printer-software/"><u>Streamline Your Workflow: New HP Printer Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-assistance-no-more-trouble/"><u>Tech Assistance: No More Trouble</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssential-travel-vloggers-the-ultimate-10-list/"><u>[New] Essential Travel Vloggers The Ultimate 10 List</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-simplifying-the-process-of-video-integration-on-instagram/"><u>[Updated] In 2024, Simplifying the Process of Video Integration on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-leading-microphones-selection-for-uncompromised-4k-clarity/"><u>[Updated] Leading Microphones Selection for Uncompromised 4K Clarity</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-retweets-and-re-tweets-just-semantic-variations-a-look-into-twitter-language/"><u>Are 'Retweets' And 'Re-Tweets' Just Semantic Variations? A Look Into Twitter Language.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-system-stability-with-latest-driver-updates-for-hp-omen-15/"><u>Enhance System Stability with Latest Driver Updates for HP Omen 15</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/t-insights-into-youtube-thumbnail-design-for-2024/"><u>Expert Insights Into YouTube Thumbnail Design for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/immediate-windows-10-tactile-improvement/"><u>Immediate Windows 10 Tactile Improvement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mellow-mixdowns-lowlighting-with-ease-in-garageband/"><u>In 2024, Mellow Mixdowns Lowlighting with Ease in Garageband</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-ways-to-record-youtube-live-stream/"><u>In 2024, Top 5 Ways to Record YouTube Live Stream</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-canon-mx870-driver-for-windows-10-7-and-8/"><u>Install Canon MX870 Driver for Windows 10, 7 & 8</u></a></li>
+<li><a href="https://driver-install.techidaily.com/make-universal-adb-download-a-breeze-today/"><u>Make Universal ADB Download a Breeze Today!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-msi-driver-updates-windows-versions-guide/"><u>Mastering MSI Driver Updates: Windows Versions Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-mouse-functionality-upgrade-logitech-drivers-in-win11/"><u>Revitalize Mouse Functionality - Upgrade Logitech Drivers in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-the-process-how-to-reinstall-bluetooth-on-win11/"><u>Simplify the Process: How to Reinstall Bluetooth on Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ubuntu-gpt-integration-from-start-to-finish/"><u>Ubuntu GPT Integration: From Start to Finish</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xerox-workcentre-copier-software-fixes/"><u>Xerox WorkCentre Copier Software Fixes</u></a></li>
 </ul></div>
 

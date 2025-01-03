@@ -1,7 +1,7 @@
 ---
 title: Update PC's Graphics Capabilities with New Drivers
-date: 2024-07-11T15:33:40.235Z
-updated: 2024-07-12T15:33:40.235Z
+date: 2024-12-28T18:06:48.271Z
+updated: 2025-01-03T16:24:18.257Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ If your computer is experiencing any of the following:
 problems, you’re not alone.
 
  And chances are, it’s time to update your driver for your**AMD Radeon R9 200 Series**  graphics card in order to smooth these problems away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 options to update **AMD Radeon R9 200 Series driver**
 
@@ -63,6 +67,10 @@ problems, you’re not alone.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Update **AMD Radeon R9 200 Series drivers** manually
 
  AMD keeps updating drivers. To get them, you need to go to AMD’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -74,14 +82,29 @@ problems, you’re not alone.
 1. Go to **[AMD Radeon 200 Series Drivers](https://support.amd.com/en-us/kb-articles/Pages/AMD-Radeon-200-Series-Drivers.aspx)**  , find the download section for**your Windows variant** (in my case, Windows 10, 64-bit), then click on any link that says **AMD Radeon R9** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92c521f92.png)
 2. In**Radeon Software** , click**DOWNLOAD** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92e2a5e0b.png)
 3. On your keyboard, press**the Windows logo key** and**R** at the same time, then copy & paste **devmgmt.msc** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 4. Click on**the arrow** left to **Display adapters** (aka.**graphics card** , **video card**) to expand it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb92534e0ab.jpg)
 5. Right-click on **AMD Radeon R9 200 Series** and click**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afac249bd784.jpg)
 6. Click**Browse my computer for driver software** , follow the on-screen instructions to complete the process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9502d9df0.png)
 7. Restart your computer for the changes to take effect.
 
@@ -97,8 +120,6 @@ problems, you’re not alone.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,6 +127,17 @@ problems, you’re not alone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-content-for-specific-youtube-subsets/"><u>[New] 2024 Approved Crafting Content for Specific Youtube Subsets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-crafting-the-perfect-voice-and-vision-for-docs/"><u>[New] 2024 Approved Crafting the Perfect Voice and Vision for Docs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-pocketful-skies-affordable-large-file-allocator/"><u>[New] In 2024, Pocketful Skies - Affordable Large File Allocator</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-hack-top-underrated-tips-and-tricks/"><u>[Updated] In 2024, Insta-Hack Top Underrated Tips and Tricks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-list-of-sandbox-treasures-for-2024/"><u>[Updated] The Ultimate List of Sandbox Treasures for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-how-to-take-advantage-of-itunes-for-video-capture/"><u>2024 Approved How to Take Advantage of iTunes for Video Capture</u></a></li>
+<li><a href="https://driver-install.techidaily.com/access-universal-adb-instantly-no-complications/"><u>Access Universal ADB Instantly - No Complications!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-graphic-rendering-quality-windows/"><u>Elevate Graphic Rendering Quality (Windows)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-xp-with-direct-driver-replacement-techniques/"><u>Enhance XP with Direct Driver Replacement Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gpu-renewal-made-easy-with-latest-ddu-techniques/"><u>GPU Renewal Made Easy with Latest DDU Techniques</u></a></li>
+</ul></div>
 

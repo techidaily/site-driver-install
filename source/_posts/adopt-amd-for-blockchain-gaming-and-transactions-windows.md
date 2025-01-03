@@ -1,7 +1,7 @@
 ---
 title: Adopt AMD for Blockchain Gaming and Transactions (Windows)
-date: 2024-07-11T15:29:56.850Z
-updated: 2024-07-12T15:29:56.850Z
+date: 2025-01-01T16:57:18.774Z
+updated: 2025-01-03T17:14:00.094Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
 1. [Download and install AMD Blockchain drivers manually](#Fix1)
 2. [Bonus Tip: Update your AMD graphics drivers automatically](#Fix2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Download and install AMD Blockchain drivers manually
 
  AMD provides the AMD Blockchain drivers for you to download and install, so you can manually search for the AMD Blockchain drivers, select the proper one and install it in your computer. Here’s how to do it:  1) Open [Radeon Software Crimson Relive Edition Beta for Blockchain Compute Release Notes](https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-Crimson-ReLive-Edition-Beta-for-Blockchain-Compute-Release-Notes.aspx) .  2) Read the notes and EndUser License Agreement carefully, then download the AMD Blockchain driver that is compatible with your**Windows operating system** (in may case I select Radeon Software Crimson Relive Edition Best for Blockchain Compute Driver for Windows 10 64 bit).
@@ -33,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b57e90f4ea53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After uninstalling the existing AMD graphics driver, run the AMD Blockchain driver that you just downloaded.  5) Follow the on-screen instructions and finish installing your AMD Blockchain driver.  As noted on the AMD website, this Blockchain driver is provided as a beta level and will not be supported with further updates or fixes. So you should look carefully before you download.  Kindly note that the AMD Blockchain drivers are compatible with certain AMD graphics card models, such as  Radeon™ RX 500 Series Graphics, so pay attention to what your AMD graphics card is and make sure it’s compatible with the AMD Blockchain driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b57e9625e990.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Bonus Tip: Update AMD graphics drivers automatically
 
@@ -43,9 +55,17 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b57edf4f099b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b57eeb9579fb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -63,8 +83,6 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,6 +90,16 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-streamers-financial-compliance-check/"><u>[New] Streamer's Financial Compliance Check</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buy-launches-epic-gaming-audio-experience-top-ranked-speakers-go-on-sale-insights-from-zdnet/"><u>Best Buy Launches Epic Gaming Audio Experience: Top-Ranked Speakers Go On Sale - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-issue-of-silent-iphones-and-missed-alarms/"><u>Fixing the Issue of Silent iPhones and Missed Alarms</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/network-adapter-problem-solving-step-by-step-guide-by-yl-computing/"><u>Network Adapter Problem-Solving: Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rebooting-graphics-support-step-by-step-ddu-guide/"><u>Rebooting Graphics Support: Step-by-Step DDU Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-canon-printer-driver-for-multiple-os-versions/"><u>Setup Canon Printer Driver for Multiple OS Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-and-swift-graphics-card-drivers-update/"><u>Smooth & Swift Graphics Card Drivers Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-enhance-your-system-windows-10-new-acer-drivers/"><u>Swiftly Enhance Your System - Windows 10 New Acer Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo Find X6? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Destiny 2 Receives Critical Patch: Say Goodbye to the Notorious 'Broccoli Bug' Before 2024 Hits"
-date: 2024-12-07T00:17:01.585Z
-updated: 2024-12-10T02:26:59.102Z
+date: 2024-12-29T16:09:38.396Z
+updated: 2025-01-03T17:18:06.489Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -65,13 +65,17 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -80,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -104,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -117,16 +125,8 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -151,24 +151,24 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-extensive-investigation-into-gecatas-recorder-tech/"><u>[New] In 2024, Extensive Investigation Into Gecata's Recorder Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovation-unveiled-the-leading-video-cams-of-2024/"><u>[New] Innovation Unveiled The Leading Video Cams of 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-role-in-todays-misinformation-landscape/"><u>AI's Role in Today's Misinformation Landscape</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-driver-implementation-for-hp-omen-15-devices/"><u>Efficient Driver Implementation for HP Omen 15 Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effortlessly-posting-ultra-hd-gopro-videoclips-on-facebook-with-hevc-compression/"><u>Effortlessly Posting Ultra HD GoPro Videoclips on Facebook with HEVC Compression</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-redmi-note-12-4g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Redmi Note 12 4G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>In 2024, Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installation-software-windows-version-of-model-1102w/"><u>Installation Software: Windows Version of Model 1102W</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-latest-mouse-drivers-for-windows-10/"><u>Installing Latest Mouse Drivers for Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/one-click-lenovo-g580-driver-updates/"><u>One-Click Lenovo G580 Driver Updates</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/redirecting-noise-free-tweets-back-to-audio-for-2024/"><u>Redirecting Noise-Free Tweets Back to Audio for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolve-deskjet-hp-print-driver-in-win11/"><u>Resolve Deskjet HP Print Driver in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-lost-d3dx939dll-in-modern-windows-11/"><u>Resolving Lost D3DX9_39.dll in Modern Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/restoring-usb-essentials-in-legacy-windows-systems/"><u>Restoring USB Essentials in Legacy Windows Systems</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/slipping-into-the-social-scene-of-online-tiktok-gigs/"><u>Slipping Into the Social Scene of Online TikTok Gigs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/solve-windows-10-deskjet-printer-problems/"><u>Solve Windows 10 Deskjet Printer Problems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-updating-your-epson-tm-t88v-driver-on-windows/"><u>Step-by-Step Guide to Downloading & Updating Your EPSON TM-T88v Driver on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-solutions-for-startech-on-all-windows-systems/"><u>Streamlined Solutions for StarTech on All Windows Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/system-compatibility-audit/"><u>System Compatibility Audit</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-efficient-broadcast-techniques-incorporating-youtube-loops-on-tv/"><u>[New] 2024 Approved Efficient Broadcast Techniques Incorporating YouTube Loops on TV</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>[New] 2024 Approved Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boost-youtube-video-performance-with-rapid-rendering-methods/"><u>[New] In 2024, Boost YouTube Video Performance with Rapid Rendering Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-gameplay-with-best-gadgets/"><u>[New] In 2024, Mastering Gameplay with Best Gadgets</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-synergizing-brands-on-video-platforms-for-2024/"><u>[Updated] Synergizing Brands on Video Platforms for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-step-by-step-guide-to-easy-video-cuts-on-windows-phones/"><u>2024 Approved A Step-by-Step Guide to Easy Video Cuts on Windows Phones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-manycam-substitutes-premium-live-video-tools-with-virtual-cam-options-for-broadcasting/"><u>Best ManyCam Substitutes: Premium Live Video Tools with Virtual Cam Options for Broadcasting</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-way-to-bluetooth-driver-fixes-on-windows-1011/"><u>Direct Way to Bluetooth Driver Fixes on Windows 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-windows-10-8-7-installation-of-mwav-driver/"><u>Efficient Windows 10-8-7 Installation of MWAV Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intelligent-device-management-refresh-intel-82579lm-drivers/"><u>Intelligent Device Management: Refresh Intel 82579LM Drivers</u></a></li>
+<li><a href="https://win-popular.techidaily.com/most-effective-methods-to-overcome-iphone-the-activation-barrier-of-the-new-iphone-14-model/"><u>Most Effective Methods to Overcome iPhone The Activation Barrier of the New iPhone 14 Model</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-amd-audio-for-windows-systems/"><u>Optimized AMD Audio for Windows Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fixes-when-your-windows-encounters-driver-errors/"><u>Quick Fixes When Your Windows Encounters Driver Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-windows-10-audio-quality-issues-through-drivers-fix/"><u>Resolve Windows 10 Audio Quality Issues Through Drivers' Fix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reviving-old-hardware-updating-msi-motherboard-drivers-for-classics/"><u>Reviving Old Hardware: Updating MSI Motherboard Drivers for Classics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-installation-of-intels-ie-management/"><u>Stepwise Installation of Intel's IE Management</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-entry-editor-for-diverse-tech-landscape-of-2023-for-2024/"><u>The Ultimate Entry Editor for Diverse Tech Landscape of 2023 for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unlock-endless-entertainment-with-tiktok-on-your-macbook-for-2024/"><u>Unlock Endless Entertainment with TikTok on Your MacBook for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-fast-track-for-better-hp-graphics/"><u>Windows 7: Fast-Track for Better HP Graphics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink
-date: 2024-12-22T23:44:16.706Z
-updated: 2024-12-25T00:51:14.110Z
+date: 2024-12-27T17:30:24.208Z
+updated: 2025-01-03T17:36:17.186Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,24 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-indie-filmmakers-online-youtube-tutorials-for-growth/"><u>[Updated] Indie Filmmakers Online YouTube Tutorials for Growth</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/discover-the-latest-in-hardware-with-toms-gear-guides/"><u>Discover the Latest in Hardware with Tom's Gear Guides</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-quality-on-a-budget-with-paww-series-3-review/"><u>Discovering Quality on a Budget with Paww Series 3 Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-ethernet-connectivity-for-windows-printers/"><u>Enhance Ethernet Connectivity for Windows Printers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-fixes-for-windows-10-tap-interface/"><u>Fast Fixes for Windows 10 Tap Interface</u></a></li>
-<li><a href="https://driver-install.techidaily.com/heal-serial-port-connectivity-failures/"><u>Heal Serial Port Connectivity Failures</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978249341-igfx-module-not-responding-heres-how-to-get-it-running-again/"><u>IGFX Module Not Responding? Here's How to Get It Running Again</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-upgrade-lenovo-yoga-900-software/"><u>Instantly Upgrade Lenovo Yoga 900 Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96176977-9781609611996-mindfulness/"><u>Mindfulness | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-tips-for-securely-acquiring-terrifying-movie-downloads/"><u>Quick Tips for Securely Acquiring Terrifying Movie Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-when-your-laptops-mouse-wont-respond-a-comprehensive-fix/"><u>Solutions for When Your Laptop's Mouse Won’t Respond: A Comprehensive Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-issues-with-idt-hd-sound-card-driver-in-windows-11/"><u>Step-by-Step Guide: Resolving Issues with IDT HD Sound Card Driver in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-your-system-with-amd-for-wincrypto-performance/"><u>Streamline Your System with AMD for WinCrypto Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-windows-11-graphics-update-your-hdmi-drivers/"><u>Streamlining Windows 11 Graphics: Update Your HDMI Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063039833-windows-10-canon-driver-get-it-now/"><u>Windows 10 Canon Driver, Get It Now!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-1011-updating-your-hdmi-drivers/"><u>Windows 10/11: Updating Your HDMI Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720061950543-windows-11-touch-screen-driver-download-and-update-easily/"><u>Windows 11 Touch Screen Driver Download & Update. Easily</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-finest-global-virtual-learning-hubs-outside-udemy-for-2024/"><u>[New] The Finest Global Virtual Learning Hubs Outside Udemy for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-bluetooth-driver-for-w11plus-windows-8plus-release/"><u>ASUS Bluetooth Driver for W11+ Windows 8+ Release</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-graphics-in-win11-with-hp-drivers/"><u>Improve Graphics in Win11 with HP Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hype-generator-chief-architect/"><u>In 2024, Hype Generator Chief Architect</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-telegram-marketing-made-simple-for-those-just-starting-out/"><u>In 2024, Telegram Marketing Made Simple For Those Just Starting Out</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-win-7s-performance-new-gaming-mouse-driver/"><u>Instantly Improve Win 7'S Performance - New Gaming Mouse Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reimagine-computing-power-with-new-laptop-drivers/"><u>Reimagine Computing Power with New Laptop Drivers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-motorola-razr-40-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Motorola Razr 40 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-drivers-windows-and-hp-printer-jetpro400-compatibility/"><u>Sync Drivers: Windows and HP Printer JetPro400 Compatibility</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/troubleshooting-guide-why-diablo-ii-resurrected-wont-start-up/"><u>Troubleshooting Guide: Why Diablo II Resurrected Won't Start Up</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-intel-chipset-drivers-for-windows-11-7-and-81/"><u>Update Intel Chipset Drivers for Windows 11, 7 & 8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-streamlining-driver-updates-now/"><u>Windows 11: Streamlining Driver Updates Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows Drivers: Resetting Back to USB Roots"
-date: 2024-12-20T04:06:21.805Z
-updated: 2024-12-25T03:02:15.127Z
+date: 2024-12-30T19:03:34.083Z
+updated: 2025-01-03T18:33:24.873Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ## Windows Drivers: Resetting Back to USB Roots
 
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to reinstall USB drivers
 
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 4. Click**Uninstall** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
@@ -72,11 +68,15 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -101,17 +101,20 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-maximize-your-virtual-engagements-using-obs-and-zoom/"><u>[Updated] How to Maximize Your Virtual Engagements Using OBS & Zoom</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-seamless-transitions-the-top-6-mac-apps-to-cut-videos-in-big-sur/"><u>[Updated] In 2024, Seamless Transitions The Top 6 Mac Apps to Cut Videos in Big Sur</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-method-for-reinstalling-and-configuring-printer-drivers-in-winoss/"><u>Efficient Method for Reinstalling and Configuring Printer Drivers in WinOSs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-scsi-driver-installation/"><u>Effortless SCSI Driver Installation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-strategies-to-increase-views-via-thumbnails/"><u>In 2024, Strategies to Increase Views via Thumbnails</u></a></li>
-<li><a href="https://driver-install.techidaily.com/m2-ssd-compatibility-tips/"><u>M.2 SSD Compatibility Tips</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209661105-9781547578504-mindfulness-atraves-do-guia-diario-da-meditacao/"><u>Mindfulness Através do guia Diário da Meditação | Free Book</u></a></li>
-<li><a href="https://article-posts.techidaily.com/perfect-5-monitors-to-boost-your-ps5/"><u>Perfect 5 Monitors to Boost Your PS5</u></a></li>
-<li><a href="https://driver-install.techidaily.com/startech-driver-mastery-for-multiple-windows-environments/"><u>StarTech Driver Mastery for Multiple Windows Environments</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-monetary-outcomes-of-podcast-engagement/"><u>The Monetary Outcomes of Podcast Engagement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trouble-free-methods-to-successfully-duplicate-a-scratched-disk-on-your-mac-device/"><u>Trouble-Free Methods to Successfully Duplicate a Scratched Disk on Your Mac Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-intel-graphics-stack-fastly/"><u>Update Intel Graphics Stack Fastly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-non-vimeo-showstoppers-for-online-content-creators/"><u>[New] 2024 Approved Non-Vimeo Showstoppers for Online Content Creators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-gaming-spectacle-cut-to-best-7-shooters/"><u>[Updated] Elite Gaming Spectacle Cut to Best 7 Shooters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-explosive-entertainment-for-little-ones-for-2024/"><u>[Updated] Explosive Entertainment for Little Ones for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-making-the-most-out-of-creative-commons-licenses/"><u>2024 Approved Making the Most Out of Creative Commons Licenses</u></a></li>
+<li><a href="https://driver-install.techidaily.com/cutting-edge-audio-upgrading-to-latest-scarlett-drivers-guide/"><u>Cutting-Edge Audio: Upgrading to Latest Scarlett Drivers Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-access-obtaining-canon-printer-support-for-win11-systems/"><u>Direct Access: Obtaining Canon Printer Support for WIN11 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-the-perks-of-apple-music-in-videos/"><u>Discover the Perks of Apple Music in Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/game-changing-gadget-unveiled-in-depth-look-at-the-ultimate-handheld-device-nintendo-switch/"><u>Game-Changing Gadget Unveiled - In Depth Look at the Ultimate Handheld Device, Nintendo Switch</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-up-your-photo-game-basic-snapseed-skills-guide/"><u>In 2024, Step Up Your Photo Game Basic Snapseed Skills Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-startech-integration-across-older-and-newer-oses/"><u>Mastering StarTech Integration Across Older & Newer OSes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-3d-animation-with-elite-design-applications-for-2024/"><u>Mastering the Art of 3D Animation with Elite Design Applications for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-speed-up-printer-f4770n-with-new-driver/"><u>Secure & Speed Up Printer F4770N with New Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-logitech-devices-performance/"><u>Streamline Your Logitech Device's Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/yamaha-steinberg-universal-audio-drivers-download/"><u>Yamaha Steinberg Universal Audio Drivers Download</u></a></li>
 </ul></div>
 

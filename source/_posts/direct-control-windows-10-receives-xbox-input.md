@@ -1,7 +1,7 @@
 ---
 title: "Direct Control: Windows 10 Receives XBox Input"
-date: 2024-07-11T15:33:03.608Z
-updated: 2024-07-12T15:33:03.608Z
+date: 2024-12-28T18:52:09.132Z
+updated: 2025-01-03T16:57:33.468Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
  **Way 1:[Update the Driver via Device Manager](#way1)**
  **Way 2:[Update the Driver Using Driver Easy](#way2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Update the Driver via Device Manager
 
  If Windows doesn’t install the driver automatically, you can update the driver manually via Device Manager. Follow these steps:
@@ -39,11 +43,23 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Check to see if you can use the Xbox One Controller properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2: Update the Driver Using Driver Easy
 
@@ -58,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
 
@@ -78,8 +98,6 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,6 +105,19 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-strategic-planning-for-virtual-teams-mastering-slack-and-filmora-coordination/"><u>[New] Strategic Planning for Virtual Teams Mastering Slack & Filmora Coordination</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-record-audio-from-youtube/"><u>[Updated] 2024 Approved How to Record Audio From YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-virtual-reality-potential/"><u>2024 Approved Maximizing Virtual Reality Potential</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-way-to-update-mouse-drivers-in-windows/"><u>Effortless Way to Update Mouse Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-marvell-avstar-ax19-wireless-lan-support-on-pc/"><u>Enable Marvell AVSTAR AX19 Wireless LAN Support on PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fwu-e1659-drivers-enhance-os-win-functions/"><u>FWU-E1659 Drivers Enhance OS WIN Functions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Itel P40 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-money-smart-sports-photography-innovation-on-a-dime/"><u>In 2024, Money-Smart Sports Photography - Innovation on a Dime</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/inside-stardust-a-complete-exploration-of-stardew-and-its-hidden-gem-ginger-isle-for-2024/"><u>Inside Stardust A Complete Exploration of Stardew and Its Hidden Gem, Ginger Isle for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-hp-officejet-printer-tools/"><u>Install HP Officejet Printer Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726226020901-m4a-3gp-movavi/"><u>M4A 및 3GP 형식으로의 바인딩: Movavi는 원격 영상 전환에 가장 나을지 - 비용 없음</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-10-strategies-for-crafting-engaging-podcast-graphics/"><u>Top 10 Strategies for Crafting Engaging Podcast Graphics</u></a></li>
+</ul></div>
 

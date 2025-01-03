@@ -1,7 +1,7 @@
 ---
 title: Understanding Hardware Support Through Drivers
-date: 2024-07-11T15:32:05.969Z
-updated: 2024-07-12T15:32:05.969Z
+date: 2024-12-27T17:01:57.775Z
+updated: 2025-01-03T16:06:26.069Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
  To download new drivers, go to the PC manufacturer’s website or the device manufacturer’s website. Driver updates are often available in the Support section of their website. If you are using a branded computer, it is recommended that you go to the PC manufacturer’s website to check for the latest driver first, as they may customize the driver. You are required to use the **PC model** and the **operating system** that you are using to download the correct driver. Usually, the PC model can be found on the machine. See [How to Check Your Operating System Version](https://tools.techidaily.com/drivereasy/download/) . If you need to download the driver from device manufacturer, then you are required to know the device model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install the driver
 
  The downloaded driver file will be an executable file (The file name ends in “.exe”.) or a zip file (The file name ends in “.zip”.).
@@ -33,8 +37,18 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Then type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 2. Right-click on the device that needs a driver update and select **Update driver** . (Here we take a video card as an example.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Update-driver.jpg)
 3. Select **Browse my computer for drivers** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update drivers from the Device Manager](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse-my-computer-for-drivers-Graphics-card.jpg)
 4. Select **Let me pick from a list of device drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Let-me-pick-from-a-list-of-available-drivers-on-my-computer-Graphics-driver.jpg)
@@ -43,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 6. Click the **Browse…** button. Navigate to the folder where you saved the downloaded driver file and browse the .inf driver file.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Browse.jpg)
 7. Click the**OK** button and then **Next** button to finish the installation. You might be asked for an admin password or to confirm your choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have difficulty downloading and installing drivers manually, or if you want to save more time in updating drivers, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -59,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
 <ins class="adsbygoogle"
@@ -67,8 +89,6 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -76,6 +96,20 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-gamings-finest-top-12-tycoon-games-ensuring-hours-of-fun/"><u>[Updated] 2024 Approved Gaming's Finest - Top 12 Tycoon Games Ensuring Hours of Fun</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-charting-a-path-to-profit-calculating-video-view-requirements/"><u>[Updated] In 2024, Charting a Path to Profit Calculating Video View Requirements</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-590-windows-driver-installation-guide/"><u>Amd Radeon Rx 590 Windows Driver Installation Guide</u></a></li>
+<li><a href="https://win-docs.techidaily.com/embracing-modern-motherhood-in-the-late-noughties-a-guide-to-infant-care-and-online-journaling-via-massmail-software/"><u>Embracing Modern Motherhood in the Late Noughties: A Guide to Infant Care and Online Journaling via MassMail Software</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-the-faulty-game-tracking-of-discord-for-microsoft-os/"><u>Improving the Faulty Game Tracking of Discord for Microsoft OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-time-display-a-comprehensive-walkthrough-for-amazon-kindle-paperwhite/"><u>Resetting Time Display: A Comprehensive Walkthrough for Amazon Kindle Paperwhite</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-sound-driver-conflicts-with-os-update/"><u>Resolving Sound Driver Conflicts with OS Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-installation-new-windows-10-acer-drivers-guide/"><u>Seamless Installation: New Windows 10 Acer Drivers Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stay-ahead-regularly-update-your-msi-bravos-drivers/"><u>Stay Ahead: Regularly Update Your MSI Bravo's Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-surveillance-with-logitech-hd-webcam-c270-driver/"><u>Streamline Your Surveillance with Logitech HD Webcam C270 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-hawku-car-tune-up-manual/"><u>The Ultimate Hawku Car Tune-Up Manual</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-potential-with-latest-lenovo-w11-drivers-for-windows-11/"><u>Unlock Potential with Latest Lenovo W11 Drivers for Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Update HP OfficeJet 8620 Printer Drivers on Windows Systems Efficiently
-date: 2024-12-04T08:30:14.664Z
-updated: 2024-12-10T00:36:31.855Z
+date: 2024-12-29T17:39:20.694Z
+updated: 2025-01-03T18:54:45.476Z
 tags:
   - win11
   - win10
@@ -22,11 +22,19 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  If you have issues with your printer, for instance, your printer is offline, your printer is not working properly, you should really consider updating your HP printer drivers to fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to download or update HP OfficeJet Pro 8620 driver
 
 1. [Download HP OfficeJet Pro 8620 driver manually](#Fix1)
 2. [Update HP OfficeJet Pro 8620 driver in Device Manager](#Fix2)
 3. [Update HP OfficeJet Pro 8620 driver automatically](#Fix3) (Recommended)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Download HP OfficeJet Pro 8620 driver manually
 
@@ -38,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f337c3865.png)
@@ -50,15 +54,15 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f2f35ac0c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Run the downloaded file, and follow the wizard to finish.
 
  Manually downloading the HP OfficeJet Pro 8620 driver requires time and computer skills.
 
  If this method doesn’t work for you, don’t worry. We have other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update HP OfficeJet Pro 8620 driver in Device Manager
 
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
  2) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .
@@ -86,23 +90,19 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Follow the on-screen instructions to finish updating the driver.
 
 8) After updating, restart your computer.
 
 Still no luck? OK. There’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
@@ -152,22 +152,18 @@ If you have any questions, feel free to add a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers-for-2024/"><u>[New] The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/solved-conexant-hd-audio-drivers-for-windows-11/"><u>[Solved] Conexant HD Audio Drivers for Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-which-live-stream-software-wins-exploring-obs-vs-streamlabs/"><u>[Updated] Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/canon-camera-insights-for-stunning-time-lapse-vids-for-2024/"><u>Canon Camera Insights for Stunning Time-Lapse Vids for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-reviews-leading-17-inch-laptop-models-dominating-2024/"><u>Expert Reviews: Leading 17-Inch Laptop Models Dominating 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/perfecting-speech-recognition-on-google-platforms/"><u>Perfecting Speech Recognition on Google Platforms</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-reno-11f-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo Reno 11F 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/privacy-concerns-with-ai-is-it-safe-to-discuss-sensitive-info-on-chatgpt/"><u>Privacy Concerns with AI: Is It Safe to Discuss Sensitive Info on ChatGPT?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-old-systems-incorporating-mf4770n-into-wxw8w7/"><u>Revitalize Old Systems: Incorporating MF4770n Into WX/W8/W7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-your-tech-life-easy-driver-installation-guide/"><u>Simplify Your Tech Life: Easy Driver Installation Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-for-content-sharing-faceygram-tweetube-youtagram-and-finsta/"><u>Social Media Titans for Content Sharing: Faceygram, TweeTube, Youtagram & Finsta</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-w10-with-updated-thinkpad-drivers/"><u>Streamline W10 with Updated ThinkPad Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-workflows-easy-printer-driver-access-win-10/"><u>Streamline Workflows: Easy Printer Driver Access, Win 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-espnpluss-functionality-an-in-depth-look-at-the-sports-networks-digital-platform/"><u>Understanding ESPN+'s Functionality: An In-Depth Look at the Sports Network's Digital Platform</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-gpu-install-gtx-firmware-update/"><u>Upgrade Your GPU - Install GTX Firmware Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-webcam-download-and-install-logitech-camera-software-c270/"><u>Upgrade Your Webcam: Download & Install Logitech Camera Software (C270)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-xerox-c6515-system/"><u>Upgrading Xerox C6515 System</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-dominate-discussion-how-to-trend-on-social-media-platforms/"><u>[New] 2024 Approved Dominate Discussion How to Trend on Social Media Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-get-more-out-of-your-browsing-select-these-5-chrome-extensions-for-fb-vids/"><u>[New] 2024 Approved Get More Out of Your Browsing Select These 5 Chrome Extensions for FB Vids</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhance-engagement-with-effective-yt-summary-writing/"><u>[Updated] Enhance Engagement with Effective YT Summary Writing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-immediate-insta-friendship-status-check-for-2024/"><u>[Updated] Immediate Insta Friendship Status Check for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-pro-tips-for-efficient-message-reactions-on-discord/"><u>[Updated] In 2024, Pro Tips for Efficient Message Reactions on Discord</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-avoiding-the-ignored-making-your-video-a-staff-pick-on-vimeo/"><u>2024 Approved Avoiding the Ignored Making Your Video a Staff Pick on Vimeo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quickening-your-live-feed-on-periscope-platform/"><u>2024 Approved Quickening Your Live Feed on Periscope Platform</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-driver-intervention-in-vista-operating-system/"><u>Direct Driver Intervention in Vista Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-windows-11-app-accessibility/"><u>Fast-Track to Windows 11 App Accessibility</u></a></li>
+<li><a href="https://driver-install.techidaily.com/one-step-driver-download-for-gtx-750-ti/"><u>One-Step Driver Download: For GTX 750 Ti</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-conflict-diagnostics/"><u>System Conflict Diagnostics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-list-10-relaxing-game-hits/"><u>Ultimate List 10 Relaxing Game Hits</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unraveling-network-miniport-headaches-on-windows-95/"><u>Unraveling Network Miniport Headaches on Windows 95</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Swift Dock Driver Improvement Guide
-date: 2024-12-04T21:07:31.444Z
-updated: 2024-12-10T01:36:51.912Z
+date: 2024-12-29T18:26:04.757Z
+updated: 2025-01-03T16:00:51.936Z
 tags:
   - win11
   - win10
@@ -41,21 +41,13 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
@@ -70,11 +62,15 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/support.png)
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
@@ -82,11 +78,15 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Double-click on the execution file and follow the on-screen instructions to install.
@@ -116,20 +116,18 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-peak-palette-manager-suite/"><u>[New] 2024 Approved Peak Palette Manager Suite</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-iphones-best-video-editor-pick-cameo-vs-filmorago-analysis/"><u>[Updated] 2024 Approved IPhone's Best Video Editor Pick Cameo Vs. FilmoraGo Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-perfect-your-content-with-top-tier-title-tactics-for-2024/"><u>[Updated] Perfect Your Content with Top-Tier Title Tactics for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-manipulate-iphone-pics-flip-tilt-and-more/"><u>2024 Approved How to Manipulate iPhone Pics Flip, Tilt & More</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-collage-creation/"><u>2024 Approved Mastering the Art of Collage Creation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/driver-refresh-steps-for-msi-bravo-15/"><u>Driver Refresh Steps for MSI Bravo 15</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-lava-yuva-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Lava Yuva 3 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>In 2024, Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intelligent-device-enhancement-through-intel-82579lm-driver-updates/"><u>Intelligent Device Enhancement Through Intel 82579LM Driver Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-hp-graphics-driver-for-windows-11/"><u>New HP Graphics Driver for Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-win-updating-drivers-in-windows-11-easily/"><u>Quick Win: Updating Drivers in Windows 11 Easily</u></a></li>
-<li><a href="https://driver-install.techidaily.com/samsung-ssd-driver-issues-in-windows-solved/"><u>Samsung SSD Driver Issues in Windows [Solved]</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-software-refreshes-on-lenovo-z50-70/"><u>Swift Software Refreshes on Lenovo Z50-70</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-repair-facetime-when-it-stops-responding/"><u>Troubleshooting Guide: How to Repair FaceTime When It Stops Responding</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-strategy-intel-82579lm-drivers-for-windows-systems/"><u>Update Strategy: Intel 82579LM Drivers for Windows Systems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-is-recording-youtube-videos-prohibited-by-law/"><u>2024 Approved Is Recording YouTube Videos Prohibited by Law?</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/5bci5a626yg45poh77ya5aac5l2v5ywn6lk75l255so5pya5l2z56gs56kf5ykz5lu96luf6auu77ym5a6m576o5zyw5a2y5yplusw5yuv5owl56ob56kf5y23/"><u>專家選擇：如何免費使用最佳硬碟備份軟體，完美地存取動態磁碟卷</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-wows-performance-hiccups-learn-how-to-fix-lag-problems-once-and-for-all/"><u>Beat Wow's Performance Hiccups - Learn How To Fix Lag Problems Once And For All</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-securing-and-archiving-snapchat-content-on-phone/"><u>In 2024, Securing and Archiving Snapchat Content on Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insta-style-the-essential-guide-to-instagram-story-magnification/"><u>Insta Style The Essential Guide to Instagram Story Magnification</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-intel-hd-graphics-520/"><u>Installation: Intel HD Graphics 520</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-package-for-chipset/"><u>Optimize Package for Chipset</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/quick-guide-converting-your-disney-dvd-collection-into-digitized-versions/"><u>Quick Guide: Converting Your Disney DVD Collection Into Digitized Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-steps-restarting-bluetooth-on-windows-1111/"><u>Simple Steps: Restarting Bluetooth on Windows 11/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-logitech-drivers-for-seamless-windows-10-use/"><u>Update Logitech Drivers for Seamless Windows 10 Use</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-windows-11-with-a-flick-of-the-wrist/"><u>Upgrade to Windows 11 with a Flick of the Wrist</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-ethernet-converter-installation-guide-for-windows/"><u>USB-Ethernet Converter: Installation Guide for Windows</u></a></li>
 </ul></div>
 

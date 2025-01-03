@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Refresh Your Lenovo Dock
-date: 2024-12-18T07:31:30.237Z
-updated: 2024-12-25T07:34:05.484Z
+date: 2024-12-30T18:36:32.471Z
+updated: 2025-01-03T16:36:25.731Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update**Lenovo USB-C Dock driver** s manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,21 +45,13 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
@@ -73,22 +69,26 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Double-click on the execution file and follow the on-screen instructions to install.
 8. Don’t forget to restart your computer for the changes to take effect.
@@ -117,21 +117,17 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pcs-top-choice-essential-ps1-emulators/"><u>[Updated] 2024 Approved PC's Top Choice Essential PS1 Emulators</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-easy-guide-to-see-youtube-liked-comments/"><u>[Updated] In 2024, Easy Guide to See YouTube Liked Comments</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-simplified-guide-designing-your-podcasts-rss-feed/"><u>[Updated] Simplified Guide Designing Your Podcast's RSS Feed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-packaging-to-prowess-marketings-unboxed-secrets/"><u>2024 Approved Packaging to Prowess Marketing's Unboxed Secrets</u></a></li>
-<li><a href="https://driver-install.techidaily.com/address-software-hardware-discrepancy/"><u>Address Software Hardware Discrepancy</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boosting-performance-with-updated-hyperx-headset-drivers/"><u>Boosting Performance with Updated HyperX Headset Drivers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/crafting-the-perfect-gaming-beast-for-less-than-1k-rtx-4070-2tb-ssd-and-how-we-did-it-using-prime-day-deals/"><u>Crafting the Perfect Gaming Beast for Less than $1K: RTX 4070, 2TB SSD, and How We Did It Using Prime Day Deals</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-windows-drivers-refresher/"><u>Fast Windows Drivers Refresher</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-nvidia-driver-update-for-enhanced-gtx-970-gaming/"><u>New Nvidia Driver Update for Enhanced GTX 970 Gaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-gameplay-fix-how-buildings-now-load-smoothly/"><u>PUBG Gameplay Fix: How Buildings Now Load Smoothly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/relaunching-amd-support-from-classic-to-contemporary-windows/"><u>Relaunching AMD Support - From Classic to Contemporary Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionize-your-gpu-point-by-updating-nvidia-drivers-quickly/"><u>Revolutionize Your GPU' Point by Updating Nvidia Drivers Quickly!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rh5770windowsrtkdrivers/"><u>RH5770WindowsRTKDrivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-insights-on-electronics-and-gadgets/"><u>Tom's Tech Hub: Expert Insights on Electronics and Gadgets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-wacatacbmls-deception-in-your-windows-ecosystem/"><u>Unmasking Wacatac.B!ml's Deception in Your Windows Ecosystem</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-power-of-multitasking-mastering-ffpm-for-2024/"><u>[New] The Power of Multitasking Mastering FFPM for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-how-to-make-reels-on-instagram-for-2024/"><u>[Updated] How to Make Reels on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-smart-solutions-top-6-fb-lite-extractors/"><u>[Updated] Smart Solutions #Top 6 FB Lite Extractors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-creme-de-la-creme-live-streaming-services/"><u>2024 Approved The Crème De La Créme Live Streaming Services</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-amazing-screen-quality-for-less-review-of-an-unbeatable-value-lightweight-laptop-with-superior-displays-pcmag/"><u>Get Amazing Screen Quality for Less: Review of an Unbeatable Value Lightweight Laptop with Superior Displays | PCMag</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30i-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30i Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-printing-errors-win-os-and-hp-printer-connection/"><u>Rectify Printing Errors: Win OS & HP Printer Connection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-operating-system-windows-8-drivers-for-dell/"><u>Refresh Operating System: Windows 8 Drivers for Dell</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-windows-issues-hp-printer-1020-driver-update/"><u>Resolved Windows Issues: HP Printer 1020 Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-optimize-with-radeon-vega-3-release-2024/"><u>Secure & Optimize with Radeon Vega 3 Release 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/showcase-mastery-weaving-youtube-into-instagram-tales-for-2024/"><u>Showcase Mastery Weaving YouTube Into Instagram Tales for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-make-an-emoji-of-yourself-on-android-and-iphone-emoji-yourself/"><u>Updated 2024 Approved How to Make an Emoji of Yourself on Android and iPhone Emoji Yourself</u></a></li>
 </ul></div>
 
