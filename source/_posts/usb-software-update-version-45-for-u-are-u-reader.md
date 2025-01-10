@@ -1,7 +1,7 @@
 ---
 title: "USB Software Update: Version 4.5 for U-Are-U Reader"
-date: 2024-12-29T18:45:24.754Z
-updated: 2025-01-03T16:32:32.356Z
+date: 2025-01-05T01:13:06.036Z
+updated: 2025-01-10T01:14:22.064Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ OR
 **[Option 2 – Automatically (Recommended)](#o1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Manually
@@ -41,6 +41,10 @@ OR
  1) If you’d like to update your U.are.U 4500 driver manually, you can download the correct and latest driver from the official website of [Digital Persona](https://devportal.digitalpersona.com/portal.php) . Log in and download the exact driver according to your Windows version (such as Windows 10 Pro, 64-bit).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-27_15-45-07.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Or you can obtain the driver from your PC vendor. You’ll need to visit the official website of Lenovo, Dell, or any other vendors, and locate its**Support** section. Then select**Drivers & Software** or**Drivers & Download** to enter the download page of drivers. Search for**U.are.U 4500 fingerprint reader driver** and download the exact driver according to your Windows variant.
 
@@ -52,16 +56,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device-manager-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double click**Biometric devices** , then right-click**U.are.U 4500 Fingerprint Reader,** and select **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-961.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Browse my computer for driver software** .
@@ -69,7 +69,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-936.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Select the driver file and click**Next** , then wait for the installation process to finish.
@@ -94,15 +94,15 @@ See if your fingerprint reader works properly again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-914.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your device to download the latest and correct driver for it, then you can manually install it.
 
  Or click the**Update All** button to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get full support and 30 day money-back guarantee. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-921.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your PC after finishing installing.
 
@@ -130,21 +130,22 @@ See if your fingerprint reader works properly again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-hdr-quality-evaluating-luminances-performance/"><u>[New] HDR Quality Evaluating Luminance's Performance</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-step-up-your-photo-game-with-these-ingenious-pixlr-techniques/"><u>[New] Step Up Your Photo Game with These Ingenious Pixlr Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-the-moment-a-practical-guide-to-google-meetings-screen-recordings/"><u>Capturing the Moment A Practical Guide to GooGle Meetings' Screen Recordings</u></a></li>
-<li><a href="https://driver-install.techidaily.com/chipset-driver-update-for-win-10-8-oses/"><u>Chipset Driver Update for WIN 10-8 OSes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-efficiency-latest-canon-printer-software-for-windows-oses/"><u>Drive Efficiency: Latest Canon Printer Software for Windows OSes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/extend-your-digital-safety-net-with-a-bargain-5-year-vpn-plan-for-only-35-explore-now/"><u>Extend Your Digital Safety Net with a Bargain: 5-Year VPN Plan for Only $35 | Explore Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-13c-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi 13C Phone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-scan-for-collective-shared-content-on-messenger/"><u>In 2024, Scan for Collective Shared Content on Messenger</u></a></li>
-<li><a href="https://driver-install.techidaily.com/opengl-performance-optimization/"><u>OpenGL Performance Optimization</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-universal-adb-driver-availability-here/"><u>Seamless Universal ADB Driver Availability Here</u></a></li>
-<li><a href="https://driver-install.techidaily.com/setup-wireless-ac-networking-for-windows-7-desktop/"><u>Setup Wireless-AC Networking for Windows 7 Desktop</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-sailing-regularly-update-your-pcs-astro-software/"><u>Smooth Sailing: Regularly Update Your PC’s Astro Software</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-invisible-force-behind-non-existent-fb-videos-for-2024/"><u>The Invisible Force Behind Non-Existent FB Videos for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-notch-beesound-earbuds-affordable/"><u>Top-Notch BeeSound Earbuds, Affordable</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-mf4770n-firmware-upgrade-guide/"><u>Windows MF4770n Firmware Upgrade Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-fuel-ambition-with-these-10-movie-masterpieces/"><u>[New] 2024 Approved Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>[New] 2024 Approved Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/arly-birds-youtube-strategies-for-channel-and-revenue/"><u>[New] Early Bird's Youtube Strategies for Channel and Revenue</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-transforming-photos-with-simple-bg-removal-in-picsart-for-2024/"><u>[New] Transforming Photos with Simple Bg Removal in Picsart for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-enduring-seamlessness-direct-profile-url-insertion-guide/"><u>[Updated] 2024 Approved Enduring Seamlessness Direct Profile URL Insertion Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-win11-with-new-acer-graphic-cards/"><u>Boost Win11 with New Acer Graphic Cards</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expert-guide-to-curing-wins-usb-issues/"><u>Expert Guide to Curing WIN's USB Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/getting-started-officejet-pro-driver/"><u>Getting Started: Officejet Pro Driver</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-hero-session-vs-cube-a-face-off-in-video-editors/"><u>In 2024, Hero Session Vs. Cube A Face-Off in Video Editors</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-navigating-twitters-aspect-ratio-policies/"><u>In 2024, Navigating Twitter's Aspect Ratio Policies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-realtek-drivers-with-windows-10-updates/"><u>Optimize Realtek Drivers with Windows 10 Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-driver-issues-in-windows-1187-solved/"><u>StarTech Driver Issues in Windows 11/8/7 [Solved]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-update-your-lenovo-g580-drivers/"><u>Swiftly Update Your Lenovo G580 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/taking-windows-11-display-to-the-next-level-with-an-hdmi-driver-update/"><u>Taking Windows 11 Display to the Next Level with an HDMI Driver Update</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trasforma-i-tuoi-amv-online-gratuitamente-con-il-codificatore-di-movavi-converti-in-formato-flv-senza-costi/"><u>Trasforma I Tuoi AMV Online Gratuitamente Con Il Codificatore Di Movavi - Converti in Formato FLV Senza Costi</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-picks-top-4k-video-editing-software/"><u>Updated Expert Picks Top 4K Video Editing Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-107-fwu-drivers-aoc-release-v1659e/"><u>Windows 10/7 FWU Drivers - AOC Release V1659E</u></a></li>
 </ul></div>
 

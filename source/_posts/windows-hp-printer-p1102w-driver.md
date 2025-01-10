@@ -1,7 +1,7 @@
 ---
 title: Windows HP Printer P1102w Driver
-date: 2024-12-27T19:23:05.773Z
-updated: 2025-01-03T17:57:12.973Z
+date: 2025-01-08T12:06:40.554Z
+updated: 2025-01-10T04:17:06.609Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 1. [Download HP LaserJet Pro P1102w printer driver from HP Support](#option1)
 2. [Download & Update HP LaserJet Pro P1102w printer driver automatically](#option2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Download HP LaserJet Pro P1102w printer driver from HP Support
 
 **NOTE** : The printer driver for LaserJet Pro P1102w is also adaptable to P1560 and P1600 series of HP LaserJet printers.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96658ae2b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) You can either type the model of your printer in the search box here, or use the navigation here so it can lead you to the correct web page for your printer driver. We go with the later option here. Choose**Laser Jet Printers** .
@@ -49,23 +45,19 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98b14cda6.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) You should be able to see the Pro P1102 printer listed here. Click to see more details.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98d05d78f.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Choose**Software and Drivers** on the left side, then click**Go** to go to the driver page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98eed7738.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Click the**Change** button to choose your operating system accordingly. Then hit the**Download** button to get the printer driver that you need downloaded.
   
@@ -73,12 +65,16 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) When the download finishes, run the setup file as instructed to update your printer driver.
   
 **NOTE** : You might need to refer to the instruction documentation if you have an problems during the driver installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2: Download & Update HP LaserJet Pro P1102w printer driver automatically
 
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd7369cc2f3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [HP](https://tools.techidaily.com/drivereasy/download/)
 * [HP printer](https://tools.techidaily.com/drivereasy/download/)
 
@@ -116,20 +116,20 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unforeseen-tiktok-reset-are-posts-retrievable/"><u>[New] 2024 Approved Unforeseen TikTok Reset – Are Posts Retrievable?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-maximizing-facebook-viewability-with-ideal-verticalhorizontal-videos/"><u>[New] Maximizing Facebook Viewability with Ideal Vertical/Horizontal Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-transformative-power-in-healthcare-through-vr/"><u>[New] Transformative Power in Healthcare Through VR</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-your-phones-potential-for-high-quality-snapchat-recordings/"><u>[Updated] Unlock Your Phone's Potential for High-Quality Snapchat Recordings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-step-into-successful-online-broadcasting-top-youtube-webcam-choices/"><u>2024 Approved Step Into Successful Online Broadcasting Top YouTube Webcam Choices</u></a></li>
-<li><a href="https://howto.techidaily.com/affordable-micropython-tulip-creative-system-a-musicians-dream-device-for-59-now-available/"><u>Affordable MicroPython Tulip Creative System: A Musician's Dream Device for $59 - Now Available!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boosting-nvidia-hd-audio-via-windows-update/"><u>Boosting NVIDIA HD Audio via Windows Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clipboard-errors-in-windows-10-copypaste-functionality/"><u>Clipboard Errors in Windows 10 Copy/Paste Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-repairing-the-msvcrt10dll-absence-error-on-your-pc/"><u>Comprehensive Guide to Repairing the Msvcrt10.dll Absence Error on Your PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cross-platform-rendering-with-opengl/"><u>Cross-Platform Rendering with OpenGL</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-use-high-performance-logitech-video-capture-c270-on-windows-1011/"><u>Download & Use High-Performance Logitech Video Capture (C270) on Windows 10/11</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/fixing-the-mystery-how-to-handle-disks-that-wont-initialize-in-windows-11/"><u>Fixing the Mystery: How to Handle Disks that Won't Initialize in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-mouse-driver-replacement-in-win11-and-10/"><u>Navigating Mouse Driver Replacement in Win11 & 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-your-audio-experience-with-updated-hyperx-device-drivers/"><u>Revamp Your Audio Experience with Updated HyperX Device Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-your-device-the-importance-of-the-intel-82579lm-driver-update/"><u>Revitalize Your Device: The Importance of the Intel 82579LM Driver Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-the-top-10-historical-education-channels/"><u>[New] 2024 Approved Guide to the Top 10 Historical Education Channels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-instagram-live-broadcasting-unseen-and-unknown-for-2024/"><u>[Updated] Instagram Live Broadcasting Unseen and Unknown for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c22-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C22</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/detailed-breakdown-bublcam-360-reviewed/"><u>Detailed Breakdown Bublcam 360 Reviewed</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-and-affordable-video-editing-software/"><u>In 2024, Free and Affordable Video Editing Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-release-of-gma630-sdk/"><u>Rapid Release of GMA630 SDK</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-win-7-setup-update-new-gaming-mouse-quickly/"><u>Revamp Win 7 Setup - Update New Gaming Mouse Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rtx-6000-firmware-for-nvidias-quadro/"><u>RTX 6000 Firmware for NVIDIA's Quadro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-sketching-for-fortnite-game-titles/"><u>Swift Sketching for Fortnite Game Titles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-tier-external-ssds-for-elevated-xbox-use-for-2024/"><u>Top-Tier External SSDs for Elevated Xbox Use for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unveiling-new-ways-to-record-presentations/"><u>Unveiling New Ways to Record Presentations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-with-intel-hd520-drivers/"><u>Upgrade with Intel HD520 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-stability-achieved-in-win-environments/"><u>USB Stability Achieved in WIN Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-bamboo-firmware-simple-access/"><u>Wacom Bamboo Firmware Simple Access</u></a></li>
 </ul></div>
 

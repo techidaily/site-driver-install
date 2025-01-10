@@ -1,7 +1,7 @@
 ---
 title: Update Realtek PCIe GBE Family Controller Drivers on Windows 11
-date: 2024-12-27T18:01:29.921Z
-updated: 2025-01-03T17:47:56.415Z
+date: 2025-01-06T16:32:51.719Z
+updated: 2025-01-09T23:03:23.276Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Update the Driver Automatically**
 
  If you don’t have the time, patience or computer skills to update the Realtek PCIe GbE Family Controller driver manually,  you can do it automatically with **[Driver Easy.](https://tools.techidaily.com/drivereasy/download/)**
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd022406e025.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the Realtek PCIe GbE driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -62,17 +70,21 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0236547c83.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## Method 3\. Update the Driver Manually
 
  You can go to your PC manufacturer’s website to download the Windows 10 driver for this device. Alternatively, you can visit [Realtek](http://www.realtek.com/downloads/) website to download the Windows 10 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-521.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Usually, the driver can be self-installing. After you download the driver, double-click on the file to begin the installation. If the driver cannot be installed in this way, you might have to install it manually, then follow steps below to install the driver.
 
@@ -86,33 +98,21 @@ _Realtek PCIe GBE Familly Controller_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023a099bb2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click **Browse my Computer for driver software.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023ca8557c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click on   **Browse**  to find the location of the downloaded driver file. Then Windows will automatically find the .inf file in the driver package to install the drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023f947709.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Click on   **Next** button to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0244b633c8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Check to see if the driver is installed successfully.
 
@@ -133,21 +133,21 @@ _Realtek PCIe GBE Familly Controller_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-a-stepwise-approach-to-twitter-archive-utilization-for-2024/"><u>[New] A Stepwise Approach to Twitter Archive Utilization for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/harting-new-heights-with-popular-youtube-content/"><u>[New] Charting New Heights with Popular YouTube Content</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-optimal-steps-livestream-and-preserve-real-time-sports-events/"><u>[New] In 2024, Optimal Steps Livestream and Preserve Real-Time Sports Events</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-reign-over-the-market-selecting-the-best-7-nft-enabling-services-for-2024/"><u>[New] Reign Over the Market Selecting the Best 7 NFT-Enabling Services for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-sources-to-harvest-enhanced-text-files/"><u>[Updated] Top Sources to Harvest Enhanced Text Files</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-way-to-reset-printer-drivers-for-optimal-performance-in-win10117/"><u>Effortless Way to Reset Printer Drivers for Optimal Performance in Win10/11/7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/from-box-to-controller-installing-3dconnexion-drivers/"><u>From Box to Controller: Installing 3Dconnexion Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-760-simplified-driver-updates/"><u>GTX 760: Simplified Driver Updates</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-11-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 11 Pro?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-keep-atheros-wireless-efficient-with-regular-driver-updates/"><u>How to Keep Atheros Wireless Efficient with Regular Driver Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-accessible-hardware-driver-updates-for-w7-systems/"><u>Quick Accessible Hardware Driver Updates for W7 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/relaunch-graphics-software-on-windows/"><u>Relaunch Graphics Software on Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-the-distinction-a-comprehensive-guide-to-mp3-versus-mp4-formats/"><u>Understanding the Distinction: A Comprehensive Guide to MP3 versus MP4 Formats</u></a></li>
-<li><a href="https://discover-help.techidaily.com/unlocking-global-cinema-three-techniques-to-enjoy-any-regions-dvd-without-limits/"><u>Unlocking Global Cinema: Three Techniques to Enjoy Any Region's DVD Without Limits</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlocking-latest-features-of-your-computers-primary-input-device/"><u>Unlocking Latest Features of Your Computer's Primary Input Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-screen-mirroring-for-pc-and-tv-mastering-the-use-of-chromecast/"><u>Wireless Screen Mirroring for PC and TV: Mastering the Use of Chromecast</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-leading-8-linux-tools-for-seamless-editing/"><u>[New] In 2024, Leading 8 Linux Tools for Seamless Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-introduce-audible-elements-seamlessly-to-premiere-pro/"><u>[New] Introduce Audible Elements Seamlessly to Premiere Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-cyber-odyssey-charting-new-territories-with-top-sci-fi-flicks/"><u>[Updated] 2024 Approved Cyber Odyssey Charting New Territories with Top Sci-Fi Flicks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-noise-cancelled-skype-communication/"><u>2024 Approved Noise-Cancelled Skype Communication</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spotlight-synthesis-blending-lights-for-video-excellence/"><u>2024 Approved Spotlight Synthesis Blending Lights for Video Excellence</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-beats-the-essential-scarlett-6i6-driver-upgrade/"><u>Boost Your Beats: The Essential Scarlett 6I6 Driver Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-add-windows-compatible-m2-to-os/"><u>Efficiently Add Windows-Compatible M.2 To OS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/filtragem-online-e-conversao-de-videos-mov-para-avis-gratuita-tecnica-simples-e-rapida/"><u>Filtragem Online E Conversão De Vídeos MOV Para Avis Gratuita: Técnica Simples E Rapida</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-securely-install-canon-printer-drivers-on-win11/"><u>How to Securely Install Canon Printer Drivers on WIN11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/professional-suite-drivers-for-windows-compatible-surface-pro/"><u>Professional Suite: Drivers for Windows-Compatible Surface Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-installation-of-acer-drivers-in-win11-os/"><u>Rapid Installation of Acer Drivers in Win11 OS</u></a></li>
+<li><a href="https://techidaily.com/revamping-school-friendly-deals-the-changing-landscape-of-apple-product-offers-in-america/"><u>Revamping School-Friendly Deals: The Changing Landscape of Apple Product Offers in America</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-fixes-for-logitech-sound-devices/"><u>Swift Driver Fixes for Logitech Sound Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-picks-the-most-advanced-online-mic-recorders-of-23-for-2024/"><u>Top Picks The Most Advanced Online Mic Recorders of '23 for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-w7-lenovo-y470-driver-support-guide/"><u>Upgrade to W7 - Lenovo Y470 Driver Support Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-10and/"><u>Windows 10セクション：フリーダウンロード&アップグレード手順、そしてコルタナ、スパルタン、ホロラブズの特集</u></a></li>
 </ul></div>
 

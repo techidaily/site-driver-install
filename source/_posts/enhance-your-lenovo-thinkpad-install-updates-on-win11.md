@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Lenovo Thinkpad: Install Updates on Win11"
-date: 2024-07-29T04:57:40.403Z
-updated: 2024-07-30T04:57:40.403Z
+date: 2025-01-08T03:22:33.485Z
+updated: 2025-01-10T07:05:25.487Z
 tags:
   - win11
   - win10
@@ -34,9 +34,6 @@ You can go to Lenovo’s official website to check for and download the latest W
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e353b836c7f.jpg)
 
  4.**Select Sub-Series** . (Let’s take 11e (Type 20D9, 20DA) Laptop (Thinkpad) for example.)  
@@ -45,17 +42,10 @@ You can go to Lenovo’s official website to check for and download the latest W
 
  5\. Click**view all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e355a7dd5d4.jpg)
 
  6\. Scroll down and pick a component that you wish to update driver for. And select the Operating System to Windows 10 64-bit or Windows 32-bit. If you are not sure what specific version of Windows 10 that your PC is running, see [Quickly Get Operating System Version (Windows)](https://tools.techidaily.com/drivereasy/download/) .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3560c14318.jpg)
 
  Then the drivers will be listed. You may see several options. Identify the right driver to download. It is recommended to download the latest version.  
@@ -78,9 +68,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551c56595c.png)
   
  **Way 3 (Recommended): Update the Drivers Automatically**
@@ -91,17 +78,10 @@ Follow these steps to install new audio drivers via Device Manager.
   
  1\. Click**Scan Now** button. After a few seconds, you will be given a list of new drivers to update.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99aab8ab8.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99bde5485.jpg)
 
  With Driver Easy, you can update Lenovo Thinkpad Windows 10 drivers in several minutes.
@@ -112,8 +92,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,8 +99,28 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-youtube-content-crafting-10-basic-video-ideas-for-all-for-2024/"><u>[New] Effortless YouTube Content Crafting 10 Basic Video Ideas for All for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-selecting-the-ideal-imagery-for-remote-meetings-for-2024/"><u>[New] Selecting the Ideal Imagery for Remote Meetings for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-beyond-the-screen-ultimate-vr-gadget-guide/"><u>[Updated] 2024 Approved Beyond the Screen - Ultimate VR Gadget Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-budget-friendly-twit-to-gif-guide/"><u>[Updated] 2024 Approved Budget-Friendly Twit-to-GIF Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-epic-recordings-the-best-timelapse-software-for-2024/"><u>[Updated] Epic Recordings The Best Timelapse Software for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sculpting-speed-at-winter-olympics/"><u>2024 Approved Sculpting Speed at Winter Olympics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-top-apps-and-software-for-making-videos-from-photos/"><u>2024 Approved Top Apps and Software for Making Videos From Photos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-tweaks-and-driver-fixes-in-windows-devices/"><u>Audio Tweaks & Driver Fixes in Windows Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-setup-asus-usb-bt400-driver-guide/"><u>Effortless Setup: Asus USB-BT400 Driver Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-optimal-performance-download-logitech-hd-camera-software/"><u>Get Optimal Performance: Download Logitech HD Camera Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-handcrafted-driver-adjustments-for-xp-machines/"><u>Guide to Handcrafted Driver Adjustments for XP Machines</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-acquire-canon-inkjet-drivers-for-win11/"><u>How to Acquire Canon Inkjet Drivers for Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-xerox-printer-connectivity-on-win11/"><u>Improve Xerox Printer Connectivity on Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/innovate-dell-devices-latest-windows-drivers-announcement/"><u>Innovate Dell Devices: Latest Windows Drivers Announcement</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063375396-update-lenovo-audio-drivers-in-windows-10-easily/"><u>Update Lenovo Audio Drivers in Windows 10. Easily!</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Download: Canon Scanner Drivers & Support"
-date: 2024-07-29T04:57:00.883Z
-updated: 2024-07-30T04:57:00.883Z
+date: 2025-01-06T18:35:38.571Z
+updated: 2025-01-10T14:29:50.860Z
 tags:
   - win11
   - win10
@@ -16,14 +16,15 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 
 ## Easy Download: Canon Scanner Drivers & Support
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3f4cdae408c.jpg)
 
  Want to keep your Canon scanner in good condition and get the best possible experience? You should consider downloading and installing the latest version for your**Canon scanner driver** .
 
  In addition, if you’re having issues like scanner not working, or scanner not detected in your Windows computer, you can also try updating your scanner driver to fix the issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to download or update Canon scanner driver?
 
@@ -34,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
  Note: the screenshots below come from Windows 10, and the methods also work on Windows 11, 8 ,and 7.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: Download Canon scanner driver manually
 
  You can manually download the driver for your Canon scanner from the Canon support center.
@@ -46,28 +48,22 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 2. Search for your scanner model from the search bar. (In my case I search for **CanoScan** LiDE 120.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search.jpg)
 3. On your scanner result page, click**Software & Drivers**  .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-1.jpg)
 4. Select the OS and version that match with your computer. Then click**DOWNLOAD** there is a driver available for you to download.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-2.jpg)
 5. Install the driver on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This requires time or computer skills. If you don’t have time or patience, you can try the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Method 2: Update Canon scanner driver automatically
 
  If you don’t have time or patience to manually download and install the Canon scanner driver in your computer, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -76,11 +72,12 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -100,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 4. In Device Manager, double-click**Printers** or**Print queues** to expand it.  Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 5. Choose**Search automatically for updated driver software** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 6. Follow the on-screen instructions to finish updating the driver.
 7. Restart your computer afterward.
@@ -119,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,8 +120,18 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-social-media-sensation-spotlights/"><u>[New] In 2024, Social Media Sensation Spotlights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-maximizing-movie-file-saving-6-methods-for-win-11/"><u>[New] Maximizing Movie File Saving 6 Methods for Win 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-fix-common-instagram-video-errors/"><u>[Updated] How to Fix Common Instagram Video Errors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-playing-fb-videos-on-your-apple-device/"><u>[Updated] Playing FB Videos on Your Apple Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-biggest-tweet-waves-of-2023-decoded/"><u>2024 Approved The Biggest Tweet Waves of 2023 Decoded</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-smooth-cross-sounding-with-audacity-for-2024/"><u>Expert Tips for Smooth Cross-Sounding with Audacity for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-running-and-understanding-chkdsk-on-windows-machines/"><u>Expert Tips: Running and Understanding Chkdsk on Windows Machines</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-internet-access-via-ethernet-from-usb-hub/"><u>Instant Internet Access via Ethernet From USB Hub</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovos-u310-update-operations-simplified/"><u>Lenovo's U310: Update Operations Simplified</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-webcam-safe-update-tool/"><u>Logitech Webcam Safe Update Tool</u></a></li>
+<li><a href="https://driver-install.techidaily.com/obtaining-official-canon-drivers-for-11-windows-system/"><u>Obtaining Official Canon Drivers for 11 Windows System</u></a></li>
+</ul></div>
 

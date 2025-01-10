@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Download & Install Nvidia GTX 980 GPU Drivers
-date: 2024-12-29T17:08:48.662Z
-updated: 2025-01-03T17:23:19.399Z
+date: 2025-01-05T17:02:47.320Z
+updated: 2025-01-10T12:59:23.918Z
 tags:
   - win11
   - win10
@@ -97,19 +97,28 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unleashing-potential-vr-innovations-for-fun-and-games/"><u>[New] Unleashing Potential VR Innovations for Fun & Games</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-strategic-insights-for-optimal-tech-upgrades/"><u>[Updated] 2024 Approved Strategic Insights for Optimal Tech Upgrades</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamline-your-workflow-with-these-5-obs-editing-hacks/"><u>[Updated] Streamline Your Workflow with These 5 OBS Editing Hacks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-instagram-potential-a-comprehensible-guide/"><u>2024 Approved Unlocking Instagram Potential A Comprehensible Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-rejuvenate-your-wireless-connection-by-updating-atheros-on-windows/"><u>How to Rejuvenate Your Wireless Connection by Updating Atheros on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-update-radeon-rx-5500-xt-drivers-easily-and-quickly/"><u>How to Update Radeon RX 5500 XT Drivers. Easily & Quickly!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-graphics-update-available-for-windows-11/"><u>HP Graphics Update Available for Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-itel-a05s-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Itel A05s Phone Hassle-Free</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-premier-apple-macintosh-computers-gadgetnews/"><u>Ultimate Guide: Premier Apple Macintosh Computers | GadgetNews</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-potential-get-updated-drivers-for-lenovos-yoga-900s-and-win10/"><u>Unleash Potential: Get Updated Drivers for Lenovo's Yoga 900S & Win10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/onquering-competition-crafting-standout-youtube-advertising-banners-for-2024/"><u>[New] Conquering Competition Crafting Standout YouTube Advertising Banners for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-10-capture-hardware-recommendations-for-online-videos-for-2024/"><u>[New] Essential 10 Capture Hardware Recommendations for Online Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-follow-the-footsteps-of-fan-driven-forums/"><u>[Updated] 2024 Approved Follow the Footsteps of Fan-Driven Forums</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-stunning-video-capture-best-youtube-cameras-reviewed/"><u>[Updated] 2024 Approved Stunning Video Capture Best YouTube Cameras Reviewed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/a-parents-comprehensive-manual-understanding-and-navigating-chatgpt-and-ai-generation/"><u>A Parent's Comprehensive Manual: Understanding & Navigating ChatGPT & AI Generation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensuring-seamless-communication-update-your-arduino-usb-drivers-for-windows-today/"><u>Ensuring Seamless Communication: Update Your Arduino USB Drivers for Windows Today</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-guide-to-simple-high-dynamic-range/"><u>In-Depth Guide to Simple High Dynamic Range</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-ie-management-engine-implementation/"><u>Secure IE Management Engine Implementation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/simplified-methods-to-close-unused-social-media-linkedin-account-for-2024/"><u>Simplified Methods to Close Unused Social Media (LinkedIn) Account for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steps-to-install-latest-intel-82579lm-windows-driver/"><u>Steps to Install Latest Intel 82579LM Windows Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-wacom-workflow-reinstall-steps-in-win-oss/"><u>Streamlining Wacom Workflow: Reinstall Steps in WIN OSs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-skillz-best-high-speed-games-for-laptopsmobile-for-2024/"><u>Swift Skillz Best High-Speed Games for Laptops/Mobile for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-the-secrets-of-pcl-xl-repairs/"><u>Unraveling the Secrets of PCL XL Repairs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-langchain-essentials-for-new-users/"><u>Unveiling LangChain: Essentials for New Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-for-nvidias-quadro-rtx-6000/"><u>Update for NVIDIA's Quadro RTX 6000</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-win11-networking-setup-with-new-atheros-drivers/"><u>Update Your Win11 Networking Setup with New Atheros Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-logitech-mouse-software-on-windows-11/"><u>Upgrade Logitech Mouse Software on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-w10-with-latest-thinkpad-device-drivers/"><u>Upgrade W10 with Latest ThinkPad Device Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/yamaha-mtrx-driver-windows-and-linux-instructions/"><u>Yamaha MTRX Driver - Windows & Linux Instructions</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Update Your AMD Graphics Card - Download Latest Firmware
-date: 2024-07-29T04:58:02.528Z
-updated: 2024-07-30T04:58:02.528Z
+date: 2025-01-09T11:10:42.500Z
+updated: 2025-01-10T08:29:17.702Z
 tags:
   - win11
   - win10
@@ -28,33 +28,38 @@ OR
 
  The screenshot below are from Windows 10, but the steps also apply to Windows 7, 8 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  AMD keeps updating its drivers to prevent graphics card issues and glitches. You need to spend some time searching for the correct driver and installing it on your own. Here are the steps:
 
 1. Go to **[AMD’s support website](https://www.amd.com/en/support)**  .
 2. Select**Graphics** \>**AMD Radeon 5700 Series** \>**AMD Radeon RX 5700 Series** \>**AMD Radeon RX 5700** . Then, click**Submit** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-7.jpg)
 3. Choose your operating system. (For my case, I click Windows 10 – 64-Bit Edition).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-10.jpg)
 4. Click the**Download** button next to the driver you want.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-5.jpg)
 5. Double-click the downloaded file and follow the on-screen instruction to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you feel the steps above are a little complicated, try the automatic method below.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 2 – Automatically update the AMD 5700 drivers (Recommended)
 
  If you don’t have the time, patience or computer skills to update the AMD 5700 drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,17 +70,14 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click the **Update**  button next to the flagged **AMD RX 5700 driver** to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
- Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -93,8 +95,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,8 +102,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-redux-of-graphics-amd-radeon-update/"><u>[New] 2024 Approved Redux of Graphics AMD Radeon Update</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-drivers-delight-5-top-race-games/"><u>[New] In 2024, Ultimate Driver's Delight 5 Top Race Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-polaroid-camplus-pro-a-complete-action-recorder-review-for-2024/"><u>[New] Polaroid Cam+ Pro A Complete Action Recorder Review for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-achieving-video-greatness-on-tiktok-with-smart-use-of-pre-made-templates/"><u>2024 Approved Achieving Video Greatness on TikTok with Smart Use of Pre-Made Templates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-download-link-for-wacom-bamboo-drivers/"><u>Direct Download Link for Wacom Bamboo Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-install-wacom-intuos-4-driver-on-safe-windows-os/"><u>Easy Install: Wacom Intuos 4 Driver on Safe Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-data-interchange-install-win-1110s-mtk-drivers/"><u>Effortless Data Interchange - Install Win 11/10'S MTK Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/eliminating-problems-samsung-ssd-and-windows-synergy/"><u>Eliminating Problems: Samsung SSD and Windows Synergy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-graphics-with-gtx-1050-ti-drivers-updates/"><u>Enhance Graphics with GTX 1050 Ti Drivers Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-system-with-manual-drives-updates-in-windows-os/"><u>Enhance Your System with Manual Drives Updates in Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-window-compatibility-hp-1020-driver-fixes/"><u>Enhanced Window Compatibility: HP 1020 Driver Fixes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-8-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 8 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-elevate-instagram-clips-incorporating-borders-effectively/"><u>In 2024, Elevate Instagram Clips Incorporating Borders Effectively</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-compatible-drivers-for-amd-radeon-200-series/"><u>Install Compatible Drivers for AMD Radeon 200 Series</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-check-of-dji-phantom-3/"><u>The Ultimate Check of DJI Phantom 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/utorrent-not-working-follow-our-top-7-tips-to-get-it-running-again/"><u>UTorrent Not Working? Follow Our Top 7 Tips to Get It Running Again</u></a></li>
+</ul></div>
 

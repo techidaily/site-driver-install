@@ -1,7 +1,7 @@
 ---
 title: "Optimize Performance: Nvidia GTX 970 Driver Updates Wins"
-date: 2024-07-29T05:00:02.568Z
-updated: 2024-07-30T05:00:02.568Z
+date: 2025-01-04T05:34:35.121Z
+updated: 2025-01-10T00:58:39.323Z
 tags:
   - win11
   - win10
@@ -38,23 +38,14 @@ Follow these steps:
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2840b6b0a9.jpg)
 
  The downloaded file will be an executable (.exe) file. To install the driver, double-click on the file and follow the on-screen instructions.
@@ -63,9 +54,6 @@ Follow these steps:
 
 Follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  1\. Press **Win+R** (Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fef72359c9c.png) key and R key) at the same time. A Run dialog box will appear.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
@@ -86,16 +74,10 @@ Follow these steps.
 
  1\. Click the**Scan Now** button. Driver Easy will scan your computer to detect all problem drivers, then give you new drivers instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0b0153d00.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -108,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,8 +97,30 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-exploringexcellentcameraspost-mycam/"><u>[New] ExploringExcellentCamerasPost-MyCam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ingenious-ways-to-alter-track-pace-on-spotify-app/"><u>[New] Ingenious Ways to Alter Track Pace on Spotify App</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-prime-8-the-elite-select-for-facebook-movies-in-23/"><u>[Updated] 2024 Approved Prime 8 The Elite Select for Facebook Movies in '23</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-locate-hidden-watch-video-preview-for-2024/"><u>[Updated] Locate Hidden Watch Video Preview for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-guide-to-infinite-space-utilization/"><u>2024 Approved Expert's Guide to Infinite Space Utilization</u></a></li>
+<li><a href="https://driver-install.techidaily.com/compatible-driver-pack-asus-usb-4kn-bt400/"><u>Compatible Driver Pack: Asus USB 4Kn BT400</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-steps-to-freshen-up-your-windows-11-driver/"><u>Easy Steps to Freshen Up Your Windows 11 Driver</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elite-air-racers-picks-top-5-fpv-eyewear-options-for-2024/"><u>Elite Air Racers' Picks Top 5 FPV Eyewear Options for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-gaming-free-radeon-vega-3-driver-2024-release/"><u>Enhance Gaming: Free Radeon Vega 3 Driver 2024 Release</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-15-pro-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 15 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/perfect-your-pcs-sound-update-realtek-drivers/"><u>Perfect Your PC's Sound: Update Realtek Drivers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/premiere-guide-uploading-vids-for-youtube-for-2024/"><u>Premiere Guide Uploading Vids for YouTube for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-print-setup-with-new-drivers-on-win-oses/"><u>Revamping Print Setup with New Drivers on WIN OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solved-hp-laserjet-1020-on-pc-driver-errors/"><u>Solved HP LaserJet 1020 on PC Driver Errors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tips-and-tricks-to-overcome-full-disk-utilization-issues-in-windows-10-systems/"><u>Tips and Tricks to Overcome Full Disk Utilization Issues in Windows 10 Systems</u></a></li>
+<li><a href="https://discover-best.techidaily.com/troubleshooting-your-printers-drivers-made-easy-with-tips-from-yl-software/"><u>Troubleshooting Your Printer's Drivers Made Easy with Tips From YL Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-procedure-mf4770n-in-win-11-8-and-7/"><u>Update Procedure: MF4770n in Win 11, 8 & 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-gfx-support-the-ultimate-ddu-guide/"><u>Updating GFX Support: The Ultimate DDU Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-xpvista7-reviving-your-internet-capabilities/"><u>Win XP/Vista/7: Reviving Your Internet Capabilities</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

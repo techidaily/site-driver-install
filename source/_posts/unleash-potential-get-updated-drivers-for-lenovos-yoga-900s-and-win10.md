@@ -1,7 +1,7 @@
 ---
 title: "Unleash Potential: Get Updated Drivers for Lenovo's Yoga 900S & Win10"
-date: 2024-07-29T04:57:27.163Z
-updated: 2024-07-30T04:57:27.163Z
+date: 2025-01-05T16:17:40.280Z
+updated: 2025-01-09T22:43:29.055Z
 tags:
   - win11
   - win10
@@ -26,32 +26,14 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
   
  2\. Type**devmgmt.msc** in the run box and click**OK** button.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e432e121d.png)
 
  3\. Expand the categories and right-click on the device that you wish to update driver for. Select**Update Driver Software…** on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e4b0e8695.jpg)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install the new driver automatically.  
   
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e4d480e00.jpg)
   
  Note It is possible that Windows doesn’t provide the new driver.  
@@ -62,16 +44,10 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
   
  1\. Click**Scan Now** button. Driver Easy will scan your computer in several seconds and provide new drivers instantly.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96c8989cb.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. With this feature, you can leave updating process alone while doing other tasks.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96d23c54f.jpg)
 
 * [Lenovo](https://tools.techidaily.com/drivereasy/download/)
@@ -83,8 +59,6 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,8 +66,28 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-audience-allure-identifying-the-top-6-video-types-for-2024/"><u>[New] Audience Allure Identifying the Top 6 Video Types for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-join-the-metaverse-meme-movement-funny-fresh-and-easy-to-create-content/"><u>2024 Approved Join the Metaverse Meme Movement Funny, Fresh & Easy-to-Create Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quality-streaming-balancing-webcam-and-gaming-recordings/"><u>2024 Approved Quality Streaming Balancing Webcam & Gaming Recordings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-fix-method-without-active-nvidia-screen/"><u>Direct Fix Method: Without Active NVIDIA Screen</u></a></li>
+<li><a href="https://win-help.techidaily.com/fehlerbehebung-fur-iphone-eine-datenaustauschprobleme-bei-iphone-13-modellen/"><u>Fehlerbehebung Für iPhone Eine Datenaustauschprobleme Bei iPhone 13 Modellen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-gpu-driver-release-gtx-1060/"><u>Latest GPU Driver Release - GTX 1060</u></a></li>
+<li><a href="https://driver-install.techidaily.com/leverage-win10-features-essential-updates-for-yoga-900s-pcs/"><u>Leverage Win10 Features: Essential Updates for Yoga 900S PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-driver-release-boost-w11-with-gtx-970/"><u>Nvidia Driver Release: Boost W11 with GTX 970</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-graphics-card-support-gtx-970-for-w11/"><u>Nvidia Graphics Card Support: GTX 970 for W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-printing-experience-install-new-drivers-for-hp-and-win11/"><u>Optimize Your Printing Experience - Install New Drivers for HP and Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-opengl-frame-rates/"><u>Optimizing OpenGL Frame Rates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-logitech-usb-mini-headset-driver-fixes/"><u>Quick Logitech USB Mini-Headset Driver Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-install-guide-to-hd-webcam-driver-logitech-c270-windows-1011/"><u>Quick-Install Guide to HD Webcam Driver - Logitech C270, Windows 10/11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/revolutionize-your-laptop-experience-innovative-methods-for-screen-capture-for-2024/"><u>Revolutionize Your Laptop Experience Innovative Methods for Screen Capture for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smaller-screens-for-large-win10-views/"><u>Smaller Screens for Large Win10 Views</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/supercharge-your-gaming-experience-the-best-free-voice-transformer-awaits/"><u>Supercharge Your Gaming Experience - The Best Free Voice Transformer Awaits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-now-get-the-newest-samsung-nvme-850-evo-controller-drivers-for-optimal-performance/"><u>Update Now: Get the Newest Samsung Nvme 850 EVO Controller Drivers for Optimal Performance</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

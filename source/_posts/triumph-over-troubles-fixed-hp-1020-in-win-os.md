@@ -1,7 +1,7 @@
 ---
 title: "Triumph Over Troubles: Fixed HP 1020 in Win OS"
-date: 2025-01-02T18:26:52.166Z
-updated: 2025-01-03T16:37:05.130Z
+date: 2025-01-03T18:22:53.472Z
+updated: 2025-01-10T02:23:20.978Z
 tags:
   - win11
   - win10
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/d0cb748bcb0f62a12329bda108fa11c6c1e0878f5
 
  If your HP LaserJet 1020 printer series are not working properly, for instance, you see certain error when trying to print, or your printer’s status is off, don’t panic. You can update your**HP LaserJet 1020 printer driver** to the latest version to fix the issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Update HP LaserJet 1020 Driver
 
 1. [Update the printer driver manually](#Fix1)
 2. [Update the printer driver in Device Manager](#Fix2)
 3. [Update the printer driver automatically](#Fix3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update the printer driver manually
 
@@ -49,10 +49,6 @@ Time needed:  3 minutes.
 
  Run the downloaded file, and follow the wizard to finish.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Update the printer driver in Device Manager
 
  You can also update your printer driver using the Windows built-in solution – Device Manager.
@@ -67,18 +63,26 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After updating, restart your computer.
 
@@ -98,15 +102,11 @@ After updating, restart your computer.
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. After updating, restart your computer to take effect.
 
@@ -136,18 +136,19 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-knowledge-keepers-guide-10-top-choices-for-lecture-capturers/"><u>[New] In 2024, Knowledge Keeper's Guide 10 Top Choices for Lecture Capturers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-lenovo-screenshots-in-minutes/"><u>[Updated] In 2024, Mastering Lenovo Screenshots in Minutes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-harness-the-power-of-azure-speech-to-text-technology/"><u>2024 Approved Harness the Power of Azure Speech to Text Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/alternative-pathway-for-opening-file-explorer-through-onedrive/"><u>Alternative Pathway for Opening File Explorer Through OneDrive</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audio-visual-symphony-crafting-music-infused-instagram-videos-for-2024/"><u>Audio-Visual Symphony Crafting Music-Infused Instagram Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-explained-delving-into-the-importance-of-its-code-interpreter-mechanism/"><u>ChatGPT Explained: Delving Into the Importance of Its Code Interpreter Mechanism</u></a></li>
-<li><a href="https://driver-install.techidaily.com/experience-full-potential-of-lenovos-yoga-900s-with-drivers-update/"><u>Experience Full Potential of Lenovo's Yoga 900S with Drivers Update</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v30-lite-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V30 Lite 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-address-the-issue-of-zoom-not-showing-your-video/"><u>How to Successfully Address the Issue of Zoom Not Showing Your Video</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-lava-blaze-curve-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Lava Blaze Curve 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-integration-of-new-audio-drivers-on-windows-1111/"><u>Seamless Integration of New Audio Drivers on Windows 11/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/trimmed-tech-tutorial-fast-firmware-fixes-for-amd-in-windows/"><u>Trimmed Tech Tutorial: Fast Firmware Fixes for AMD in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-graphics-software-on-pcs/"><u>Update Graphics Software on PCs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>[New] Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-android-photography-essentials/"><u>2024 Approved Advanced Android Photography Essentials</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-installation-of-bitcoin-capable-amd-drivers-on-your-os/"><u>Direct Installation of Bitcoin-Capable AMD Drivers on Your OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-ideal-arlo-security-package-a-step-by-step-guide/"><u>Discover Your Ideal Arlo Security Package: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-display-quality-with-latest-acer-cards-win11/"><u>Elevate Display Quality with Latest Acer Cards, Win11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elevate-your-campaigns-with-these-powerful-words/"><u>Elevate Your Campaigns with These Powerful Words</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-canon-printer-drivers-windows-guide/"><u>Hassle-Free Canon Printer Drivers: Windows Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-w7-system-sounds-through-new-audio-drivers/"><u>Improve W7 System Sounds Through New Audio Drivers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-11-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 11 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-windows-os-drivers-11-81-7/"><u>Quick-Fix Windows OS Drivers (11, 8.1, 7)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/streaming-wars-the-digital-platform-showdown/"><u>Streaming Wars The Digital Platform Showdown</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-6-fixes-for-resolving-pc-issues-with-activisions-modern-warfare-ii-game/"><u>Top 6 Fixes for Resolving PC Issues with Activision's Modern Warfare II Game</u></a></li>
+<li><a href="https://driver-install.techidaily.com/triple-technique-upgrade-win-graphics-boost/"><u>Triple-Technique Upgrade: Win Graphics Boost</u></a></li>
 </ul></div>
 

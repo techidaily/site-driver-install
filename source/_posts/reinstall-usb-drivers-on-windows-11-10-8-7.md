@@ -1,7 +1,7 @@
 ---
 title: Reinstall USB Drivers on Windows 11, 10, 8, 7
-date: 2024-12-31T19:16:44.081Z
-updated: 2025-01-03T17:45:02.945Z
+date: 2025-01-05T19:21:08.530Z
+updated: 2025-01-09T21:00:49.806Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reinstall USB drivers
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Reinstall the drivers using Device Manager
@@ -41,28 +41,28 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
- It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
 
@@ -101,16 +101,24 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-dissecting-ffmpegs-capabilities-for-pure-sound-formats/"><u>[Updated] In 2024, Dissecting FFmpeg's Capabilities for Pure Sound Formats</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-transformation-convex-hd-driver-for-windows-11/"><u>Audio Transformation: Convex HD Driver for Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-device-interactions-simple-adb-download/"><u>Enhance Device Interactions – Simple ADB Download</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-14-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-12-pro-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme 12 Pro 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/initiate-a-fresh-start-with-your-pcs-mouse-software/"><u>Initiate a Fresh Start with Your PC's Mouse Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-driver-update-on-windows-10-acer-style/"><u>Streamline Driver Update on Windows 10 - Acer Style</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-approach-to-fix-windows-charmap-woes/"><u>Streamlining Your Approach to Fix Windows CharMap Woes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swiftly-enhance-videos-on-android-devices-for-2024/"><u>Swiftly Enhance Videos on Android Devices for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-mp3-players-the-ultimate-guide/"><u>Top Rated MP3 Players : The Ultimate Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-audience-wow-factor-best-stream-cameras-for-your-twitch-channel-for-2024/"><u>[New] Audience Wow Factor Best Stream Cameras for Your Twitch Channel for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-next-big-thing-in-short-form-videos-wholl-take-the-lead-likes-or-tiktok/"><u>[New] The Next Big Thing in Short Form Videos Who'll Take the Lead, Likes or TikTok?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-crafting-professionalism-the-best-practices-for-post-upload-editing/"><u>[Updated] Crafting Professionalism The Best Practices for Post-Upload Editing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-run-a-sports-youtube-chain-on-macos/"><u>[Updated] How to Run a Sports YouTube Chain on MacOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/combating-computer-chaos-fixing-windows-non-responsive-keys/"><u>Combating Computer Chaos: Fixing Windows' Non-Responsive Keys</u></a></li>
+<li><a href="https://driver-install.techidaily.com/discover-cutting-edge-tech-exploring-toms-in-depth-hardware-analysis/"><u>Discover Cutting-Edge Tech: Exploring Tom's In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-x100-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo X100 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2 Phone without Any Data Loss</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-t2-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo T2 5G Location | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/in-depth-analysis-of-the-chromecast-with-google-tv-is-it-time-to-switch/"><u>In-Depth Analysis of the Chromecast with Google TV - Is It Time to Switch?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-the-gadget-game-tips-and-tricks-from-toms-hardware-experts/"><u>Master the Gadget Game - Tips & Tricks From Tom's Hardware Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionize-your-tech-space-with-this-stylish-silent-modders-retro-future-mini-computer-and-lightning-fast-ssd-storage-via-usb4/"><u>Revolutionize Your Tech Space with This Stylish, Silent Modder's 'Retro-Future' Mini Computer and Lightning-Fast SSD Storage via USB4</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-process-for-flawless-nvidia-graphics-support/"><u>Streamlined Process for Flawless Nvidia Graphics Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-update-strategy-for-msi-motherboards-on-ancient-systems/"><u>The Ultimate Update Strategy for MSI Motherboards on Ancient Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transformative-updates-for-a-modern-windows-11-experience/"><u>Transformative Updates for a Modern Windows 11 Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turbocharge-lenovo-yoga-900-with-simple-updates/"><u>Turbocharge Lenovo Yoga 900 with Simple Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-gadgets-with-toms-computer-world/"><u>Unveiling Gadgets with Tom's Computer World</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-guide-to-achieving-soundless-visual-content/"><u>Updated 2024 Approved Guide to Achieving Soundless Visual Content</u></a></li>
 </ul></div>
 

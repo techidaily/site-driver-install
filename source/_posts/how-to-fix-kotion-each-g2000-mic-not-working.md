@@ -1,7 +1,7 @@
 ---
 title: How to Fix Kotion Each G2000 Mic Not Working
-date: 2024-12-31T18:11:30.390Z
-updated: 2025-01-03T16:35:40.587Z
+date: 2025-01-05T08:41:24.184Z
+updated: 2025-01-10T12:35:33.378Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  No sound comes through your Mac? Don’t panic –  it’s usually not a hard problem to solve at all. In this article, we’ll provide 8 tried and tested fixes to help you**get your Mac sound back** in no time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Try these fixes**
 
  You may not have to try all these fixes; just work your way down the list until the problem goes away.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 8. **[Update your Mac OS](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check sound on different apps
 
@@ -59,21 +59,25 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  1) On the dock, click the**System Preferences** icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026d618d4e9.png) , then click on the **Sound** icon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038f642ae65.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If instead of**Internal Speakers** , you see **Digital Output** or**No output devices found** , then insert your headphone into the headphone port and pull it out. Keep plugging and unplugging until **Internal Speakers** appears. Then repeat step 2).
 
 3) Check if you get sound back on your Mac.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Turn off Bluetooth
 
@@ -89,13 +93,13 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check if the**no sound problem** has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Restart your Mac
 
@@ -119,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix **7: Create a testing account on safe mode**
 
  In this method, we create a new Apple account and test if sound works properly in this new account. Here’s a quick walk-through:
@@ -133,21 +141,17 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038a64edd48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: no password for this account is needed since it’s only a testing account.
 
@@ -161,10 +165,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
  9) Click **System Preferences** \> **Users & Groups** \> the**Lock** icon > the**Minus** icon to delete your testing account.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix **8: Update your Mac OS**
 
@@ -206,22 +206,19 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-enhancing-video-soundtracks-on-digital-platforms/"><u>[New] 2024 Approved Enhancing Video Soundtracks on Digital Platforms</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-enhancing-viewer-experience-with-immersive-360-video-content-for-youtube/"><u>[New] 2024 Approved Enhancing Viewer Experience with Immersive 360 Video Content for YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comparing-av1-and-vp9-which-is-more-advanced/"><u>[New] Comparing AV1 & VP9 Which Is More Advanced?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-therapeutic-effects-of-asmr-for-everyone/"><u>[Updated] In 2024, The Therapeutic Effects of ASMR for Everyone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>2024 Approved Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728501682523-acronis/"><u>最善の無料 Acronis クローニングアプリケーション - 選択肢を比較してみましょう</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/abbyy-announces-promotion-torsten-malchow-to-lead-international-enterprise-sales-initiatives/"><u>ABBYY Announces Promotion: Torsten Malchow to Lead International Enterprise Sales Initiatives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-online-tools-and-websites-for-apartment-hunting/"><u>Best Online Tools and Websites for Apartment Hunting</u></a></li>
-<li><a href="https://driver-install.techidaily.com/free-easy-access-to-compatible-canon-printer-drivers/"><u>Free, Easy Access to Compatible Canon Printer Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-driver-changes-on-windows-8-and-81-systems/"><u>Mastering Driver Changes on Windows 8 & 8.1 Systems</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-video-posts-on-tiktok-from-a-computer-for-2024/"><u>Navigating Video Posts on TikTok From a Computer for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionary-drivers-integration-of-new-tech-in-win11/"><u>Revolutionary Drivers: Integration of New Tech in Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-pc-efficiency-install-direct-gigabyte-drivers/"><u>Streamline PC Efficiency: Install Direct Gigabyte Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-windows-graphics-with-hp-driver-update/"><u>Streamline Window's Graphics with HP Driver Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/transform-your-auditory-setup-windows-7-and-nvidia-update/"><u>Transform Your Auditory Setup: Windows 7 and Nvidia Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-c-ymf-pro-software-for-music-production/"><u>USB-C YMF Pro Software for Music Production</u></a></li>
-<li><a href="https://driver-install.techidaily.com/winrtk5770driversnewrelease/"><u>WinRTK5770DriversNewRelease</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-are-video-reviews-of-goods-paid-for-by-creators-in-2024/"><u>[New] Are Video Reviews of Goods Paid For by Creators, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-quick-video-wins-essential-ideas-for-vloggers/"><u>[New] Quick Video Wins Essential Ideas for Vloggers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-virtual-escapes-tour-techniques/"><u>[Updated] Navigating Virtual Escapes Tour Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-2-written-by-robert-littell/"><u>2024 Approved Superior 2 Written by Robert Littell</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-video-luster-the-top-5-brilliant-enhancers/"><u>2024 Approved Video Luster The Top 5 Brilliant Enhancers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-ultimate-process-for-incorrante-youtube-playlist-integration/"><u>In 2024, The Ultimate Process for Incorrante YouTube Playlist Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-wls-2-usage-cutting-edge-practices-for-windows-users/"><u>Pro WLS 2 Usage: Cutting-Edge Practices for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionize-your-prints-windows-10-canon-driver-upload/"><u>Revolutionize Your Prints: Windows 10, Canon Driver Upload</u></a></li>
+<li><a href="https://article-tips.techidaily.com/spectaculum-of-sight-top-picks-for-professional-8k/"><u>Spectaculum of Sight Top Picks for Professional 8K</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-potential-with-new-vega-3-firmware-version/"><u>Unleash Potential with New Vega 3 Firmware Version</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-door-to-tech-careers-with-essential-knowledge-of-these-3-key-programming-languages/"><u>Unlock the Door to Tech Careers with Essential Knowledge of These 3 Key Programming Languages</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-system-incor-written-in-the-stars-mtk-drivers-win1110/"><u>Upgrade Your System: Incor Written in the Stars - MTK Drivers, Win11/10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/vega-3-gpu-update-free-driver-download-2024/"><u>Vega 3 GPU Update - Free Driver Download 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-reimagined-next-gen-acer-driver-support/"><u>Windows 11 Reimagined: Next-Gen Acer Driver Support</u></a></li>
 </ul></div>
 

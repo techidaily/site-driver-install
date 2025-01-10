@@ -1,7 +1,7 @@
 ---
 title: "Windows Drivers: Resetting Back to USB Roots"
-date: 2024-12-30T19:03:34.083Z
-updated: 2025-01-03T18:33:24.873Z
+date: 2025-01-08T14:04:25.348Z
+updated: 2025-01-09T22:57:05.249Z
 tags:
   - win11
   - win10
@@ -18,12 +18,20 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to reinstall USB drivers
 
  There’re two ways you can reinstall your USB drivers on Windows 11, 10, 8 and 7\. You may not try them; just choose your preferred one.
 
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 1 – Reinstall the drivers using Device Manager
 
@@ -33,27 +41,27 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
@@ -67,16 +75,8 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -101,20 +101,16 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-non-vimeo-showstoppers-for-online-content-creators/"><u>[New] 2024 Approved Non-Vimeo Showstoppers for Online Content Creators</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-gaming-spectacle-cut-to-best-7-shooters/"><u>[Updated] Elite Gaming Spectacle Cut to Best 7 Shooters</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-explosive-entertainment-for-little-ones-for-2024/"><u>[Updated] Explosive Entertainment for Little Ones for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-making-the-most-out-of-creative-commons-licenses/"><u>2024 Approved Making the Most Out of Creative Commons Licenses</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cutting-edge-audio-upgrading-to-latest-scarlett-drivers-guide/"><u>Cutting-Edge Audio: Upgrading to Latest Scarlett Drivers Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-access-obtaining-canon-printer-support-for-win11-systems/"><u>Direct Access: Obtaining Canon Printer Support for WIN11 Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-the-perks-of-apple-music-in-videos/"><u>Discover the Perks of Apple Music in Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/game-changing-gadget-unveiled-in-depth-look-at-the-ultimate-handheld-device-nintendo-switch/"><u>Game-Changing Gadget Unveiled - In Depth Look at the Ultimate Handheld Device, Nintendo Switch</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-up-your-photo-game-basic-snapseed-skills-guide/"><u>In 2024, Step Up Your Photo Game Basic Snapseed Skills Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-startech-integration-across-older-and-newer-oses/"><u>Mastering StarTech Integration Across Older & Newer OSes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-3d-animation-with-elite-design-applications-for-2024/"><u>Mastering the Art of 3D Animation with Elite Design Applications for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-speed-up-printer-f4770n-with-new-driver/"><u>Secure & Speed Up Printer F4770N with New Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-your-logitech-devices-performance/"><u>Streamline Your Logitech Device's Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/yamaha-steinberg-universal-audio-drivers-download/"><u>Yamaha Steinberg Universal Audio Drivers Download</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gauging-glory-an-essential-handbook-for-evaluating-youtube-engagement-and-earnings/"><u>[Updated] 2024 Approved Gauging Glory An Essential Handbook for Evaluating YouTube Engagement & Earnings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-capturing-live-hulu-content-across-platforms/"><u>[Updated] 2024 Approved Mastering the Art of Capturing Live Hulu Content Across Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-study-smart-the-top-10-channel-selection-for-history-buffs/"><u>[Updated] 2024 Approved Study Smart The Top 10 Channel Selection for History Buffs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-conversation-unveiling-insights-on-amds-future-with-mike-clark-creator-of-zen-architecture-the-upcoming-leap-to-3nm-and-next-gen-desktop-core-desi15/"><u>Exclusive Conversation: Unveiling Insights on AMD's Future with Mike Clark, Creator of Zen Architecture - The Upcoming Leap to 3Nm and Next-Gen Desktop Core Design</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nubia-z50s-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nubia Z50S Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterclass-in-ios-podcast-management-and-download/"><u>In 2024, Masterclass in iOS Podcast Management & Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-steps-for-lenovo-usb-c-dock-drivers/"><u>Simple Steps for Lenovo USB-C Dock Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplifying-system-enhancements-step-by-step-msi-drivers-guide/"><u>Simplifying System Enhancements: Step-by-Step MSI Drivers Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-driver-enhancement-for-vk310/"><u>Speedy Driver Enhancement for VK310</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tp-link-usb-adapter-free-driver-and-update-guide/"><u>TP Link USB Adapter - Free Driver & Update Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-guide-for-amds-rx-5700-drivers/"><u>Update Guide for AMD's RX 5700 Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Secure Boot & MEDD on Windows
-date: 2025-01-01T16:09:22.082Z
-updated: 2025-01-03T18:13:44.494Z
+date: 2025-01-06T00:27:43.053Z
+updated: 2025-01-10T06:11:02.459Z
 tags:
   - win11
   - win10
@@ -33,11 +33,19 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 **Note** : The screen shots below are shown in Windows 10, but all the fixes apply to Windows 7 and Windows 8.1 as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Step 1: Download Intel Management Driver**
 
  Just download it directly from Intel web page:
 
 **[Intel Management Engine Driver for WIndows 10, 8.1, 7 for Intel NUC](https://downloadmirror.intel.com/26135/eng/ME%5FConsumer%5FWin8.1%5F10%5F11.0.6.1194.zip)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 2: Install the driver accordingly**
 
@@ -46,14 +54,14 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ca2e76e79.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) If you want to install the drivers and the**ME Security Status application and control panel** , choose to run the setup file in**ME\_SW\_MSI** folder.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cba0066eb.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) If you only want to install the drivers, you can choose the setup file in folder**MEI-Only Installer MSI** .
   
@@ -61,16 +69,12 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Folder**WINDOWSDriverPackages** contains the .inf files for IT professionals. Check it if you are interested.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3cd9324cad.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **PRO TIP:**
 
@@ -92,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7b1d1786b4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **NOTE:**
   
  1) If you are running a Windows 7 operating system, please make sure that you have installed [**Kernel-Mode Driver Framework version 1.11**](https://www.microsoft.com/en-us/download/details.aspx?id=38423) first.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a3ce3cf3ba3.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) If the Intel Management Engine driver is not successfully installed, you may see an error notification in**Device Manager > PCI Simple Communications Controller** .
   
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 [**Intel Management Engine Interface: This device cannot start on Windows**](https://tools.techidaily.com/drivereasy/download/)
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/intel-r-management-engine-interface-imei.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [Intel](https://tools.techidaily.com/drivereasy/download/)
 
@@ -134,24 +134,19 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-for-free-how-to-convert-twitter-videos-to-gifs-in-2024/"><u>[New] For Free! How to Convert Twitter Videos to GIFS, In 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unparalleled-screenplay-craftsmanship-across-varied-fields/"><u>[New] In 2024, Unparalleled Screenplay Craftsmanship Across Varied Fields</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/s-it-legal-to-screen-record-youtube-videos-for-2024/"><u>[New] Is It Legal to Screen Record YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-content-insights-7-premier-free-tag-extraction-tools/"><u>[New] Unlock Content Insights 7 Premier Free Tag Extraction Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-next-gen-sound-and-vision-leading-devices-of-24/"><u>[Updated] Next-Gen Sound and Vision Leading Devices of '24</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-seamless-youtube-integration-transform-your-vlc-experience-with-our-top-video-converter/"><u>1. Seamless YouTube Integration: Transform Your VLC Experience with Our Top Video Converter</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrate-soundtracks-with-ppt-visuals/"><u>2024 Approved Integrate Soundtracks with PPT Visuals</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-and-furious-solving-m-audio-problems/"><u>Fast & Furious: Solving M-Audio Problems</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrating-m2-nvme-on-pcs/"><u>Integrating M.2 NVMe on PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-driver-release-notes/"><u>Quadro RTX 6000 Driver Release Notes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-guide-to-upgraded-audio-drivers-for-win1111/"><u>Quick Guide to Upgraded Audio Drivers for Win11/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-lexmark-driver-installation-steps/"><u>Seamless Lexmark Driver Installation Steps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/select-vhs-magic-transforming-video-editing-today-for-2024/"><u>Select VHS Magic Transforming Video Editing Today for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sound-upgrade-essentials-focusrites-updated-drivers-walkthrough/"><u>Sound Upgrade Essentials: Focusrite's Updated Drivers Walkthrough</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-pro-6-driver-installation/"><u>Streamlined Pro 6 Driver Installation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-printer-potential-with-canon-win-driver/"><u>Unlock Printer Potential with Canon Win Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usbasp-operations-smoothed-across-different-windows-generations/"><u>USBasp Operations Smoothed Across Different Windows Generations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-x-digital-editor-pc-compatibility/"><u>[Updated] 2024 Approved X-Digital Editor PC Compatibility</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-maintaining-the-right-video-aspect-on-twitters/"><u>[Updated] In 2024, Maintaining the Right Video Aspect on Twitters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snicker-snapshots-jokeframe/"><u>[Updated] Snicker Snapshots JokeFrame</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/cloudhdd/"><u>「Cloudストレージへ自動的にアップロード:外部HDD内データをシームレス統合するコツ」</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-blueprint-to-blockbuster-scriptwriting-for-films/"><u>2024 Approved Blueprint to Blockbuster Scriptwriting for Films</u></a></li>
+<li><a href="https://driver-install.techidaily.com/acing-startech-on-every-windows-platform-generation/"><u>Acing StarTech on Every Windows Platform Generation</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-90-lite-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor 90 Lite Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-universal-adb-driver-easily/"><u>Download Universal ADB Driver Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-printer-mainteninasg-with-hp-software/"><u>Effortless Printer Mainteninasg with HP Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-imovie-tricks-for-perfecting-your-video-introduction-craft/"><u>In 2024, IMovie Tricks for Perfecting Your Video Introduction Craft</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-integrating-usbasp-with-diverse-windows-os-environments/"><u>Seamlessly Integrating USBasp with Diverse Windows OS Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-resolves-driver-conflicts-in-winxp-11-systems/"><u>StarTech Resolves Driver Conflicts in WinXP-11 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tech-tip-seamless-update-of-intel-82579lm-drivers-in-windows/"><u>Tech Tip: Seamless Update of Intel 82579LM Drivers in Windows</u></a></li>
 </ul></div>
 

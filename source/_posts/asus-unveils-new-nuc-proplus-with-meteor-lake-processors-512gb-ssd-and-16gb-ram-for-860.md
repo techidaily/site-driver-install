@@ -1,7 +1,7 @@
 ---
 title: Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860
-date: 2024-12-29T17:13:58.726Z
-updated: 2025-01-03T18:29:32.810Z
+date: 2025-01-07T21:55:41.319Z
+updated: 2025-01-10T09:23:27.976Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,14 +76,16 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/fixed-conexant-hd-audio-compatibility-in-windows-os/"><u>[Fixed]: Conexant HD Audio Compatibility in Windows OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/align-package-with-hardware-specs/"><u>Align Package with Hardware Specs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/choosing-between-podcast-and-youtube-for-content-delivery/"><u>Choosing Between Podcast and YouTube for Content Delivery</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-make-a-lasting-impression-best-video-resume-creators-with-templates/"><u>New Make a Lasting Impression Best Video Resume Creators with Templates</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/sleight-of-the-brain-navigating-top-room-riddles/"><u>Sleight of the Brain Navigating Top Room Riddles</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stay-current-install-the-latest-drivers-for-your-hp-officejet-pro-8620/"><u>Stay Current: Install the Latest Drivers for Your HP OfficeJet Pro 8620</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-driver-updates-for-wacom-tablets-in-win-oss-7-10-11/"><u>Streamlining Driver Updates for Wacom Tablets in Win OSs 7-10-11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/be-introduction-guide-2-approaches-explored/"><u>YouTube Introduction Guide - 2 Approaches Explored</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-create-enhance-and-share-with-top-10-free-drawing-programs-on-mac/"><u>[New] 2024 Approved Create, Enhance & Share With Top 10 Free Drawing Programs on Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ree-video-credits-pro-the-best-suggestions-1-6-for-2024/"><u>[New] Free Video Credits Pro - The Best Suggestions #1-6 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-virtual-horizons-the-foremost-ps-vr-games-to-await-you/"><u>[Updated] 2024 Approved Virtual Horizons The Foremost PS VR Games to Await You</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-age-shift-facebooks-social-influence/"><u>Digital Age Shift: Facebook’s Social Influence</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-blending-binaries-digital-photographic-techniques/"><u>In 2024, Blending Binaries Digital Photographic Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resource-competition-analysis/"><u>Resource Competition Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-graphics-support-in-windows-711/"><u>Revive Graphics Support in Windows 7/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-visual-output-via-system-tweaks/"><u>Revive Visual Output via System Tweaks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tips-to-automate-amd-drivers-installationupdates/"><u>Tips to Automate AMD Drivers Installation/Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-hp-officejet-8620-printer-drivers-on-windows-systems-efficiently/"><u>Update HP OfficeJet 8620 Printer Drivers on Windows Systems Efficiently</u></a></li>
 </ul></div>
 

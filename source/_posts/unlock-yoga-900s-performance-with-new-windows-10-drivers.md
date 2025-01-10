@@ -1,7 +1,7 @@
 ---
 title: Unlock Yoga 900S Performance with New Windows 10 Drivers
-date: 2024-07-29T04:59:08.319Z
-updated: 2024-07-30T04:59:08.319Z
+date: 2025-01-04T16:50:37.158Z
+updated: 2025-01-10T11:11:49.087Z
 tags:
   - win11
   - win10
@@ -26,23 +26,14 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
   
  2\. Type**devmgmt.msc** in the run box and click**OK** button.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e432e121d.png)
 
  3\. Expand the categories and right-click on the device that you wish to update driver for. Select**Update Driver Software…** on the context menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e4b0e8695.jpg)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install the new driver automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5844e4d480e00.jpg)
   
  Note It is possible that Windows doesn’t provide the new driver.  
@@ -53,16 +44,10 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
   
  1\. Click**Scan Now** button. Driver Easy will scan your computer in several seconds and provide new drivers instantly.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96c8989cb.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. With this feature, you can leave updating process alone while doing other tasks.  
   
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96d23c54f.jpg)
 
 * [Lenovo](https://tools.techidaily.com/drivereasy/download/)
@@ -74,8 +59,6 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,8 +66,23 @@ Manually updating drivers takes time. To update Windows 10 drivers for Lenovo Yo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unveiling-the-secrets-of-macos-11-big-sur-enhancements/"><u>[New] In 2024, Unveiling the Secrets of macOS 11 Big Sur Enhancements</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-a-guide-to-navigating-instagrams-new-updates/"><u>[Updated] 2024 Approved A Guide to Navigating Instagram's New Updates</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-kids-earning-big-the-success-story-of-young-ryan-kaji/"><u>[Updated] In 2024, Kids Earning Big The Success Story of Young Ryan Kaji</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-creating-engaging-facebook-stories/"><u>[Updated] In 2024, The Ultimate Guide to Creating Engaging Facebook Stories</u></a></li>
+<li><a href="https://driver-install.techidaily.com/adapt-new-idt-audio-protocols-to-windows-7/"><u>Adapt New IDT Audio Protocols to Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audiophiles-delight-nvidias-new-sound-in-win7/"><u>Audiophile's Delight: Nvidia's New Sound in Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-hardware-communication-divide/"><u>Bridge Hardware Communication Divide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-hp-stream-14-in-depth-analysis-pros-and-cons-of-this-affordable-windows-laptop/"><u>Budget-Friendly HP Stream 14 In-Depth Analysis: Pros & Cons of This Affordable Windows Laptop</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-your-windows-11-hdmi-display-to-new-heights-with-an-update/"><u>Drive Your Windows 11 HDMI Display to New Heights with an Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extracting-images-from-videos-in-windows-11-photos-for-2024/"><u>Extracting Images From Videos in Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-newest-pcie-controller-drivers-in-windows-10/"><u>Install Newest PCIe Controller Drivers in Windows 10</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

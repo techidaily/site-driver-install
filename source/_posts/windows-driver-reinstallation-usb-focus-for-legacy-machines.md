@@ -1,7 +1,7 @@
 ---
 title: "Windows Driver Reinstallation: USB Focus for Legacy Machines"
-date: 2024-12-29T18:51:24.475Z
-updated: 2025-01-03T16:27:48.177Z
+date: 2025-01-06T02:26:02.047Z
+updated: 2025-01-10T05:44:25.245Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reinstall USB drivers
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1 – Reinstall the drivers using Device Manager
 
  Device Manager is a Windows built-in tool that allows you to view and control the hardware attached to your computer and update the device drivers. To reinstall the USB drivers in Device Manager, follow the steps below:
@@ -41,24 +37,32 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically reinstall the USB drivers (recommended)
 
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -101,22 +101,20 @@ thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c619
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ssential-travel-vloggers-the-ultimate-10-list/"><u>[New] Essential Travel Vloggers The Ultimate 10 List</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-simplifying-the-process-of-video-integration-on-instagram/"><u>[Updated] In 2024, Simplifying the Process of Video Integration on Instagram</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-leading-microphones-selection-for-uncompromised-4k-clarity/"><u>[Updated] Leading Microphones Selection for Uncompromised 4K Clarity</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/are-retweets-and-re-tweets-just-semantic-variations-a-look-into-twitter-language/"><u>Are 'Retweets' And 'Re-Tweets' Just Semantic Variations? A Look Into Twitter Language.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-system-stability-with-latest-driver-updates-for-hp-omen-15/"><u>Enhance System Stability with Latest Driver Updates for HP Omen 15</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/t-insights-into-youtube-thumbnail-design-for-2024/"><u>Expert Insights Into YouTube Thumbnail Design for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/immediate-windows-10-tactile-improvement/"><u>Immediate Windows 10 Tactile Improvement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mellow-mixdowns-lowlighting-with-ease-in-garageband/"><u>In 2024, Mellow Mixdowns Lowlighting with Ease in Garageband</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-ways-to-record-youtube-live-stream/"><u>In 2024, Top 5 Ways to Record YouTube Live Stream</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-canon-mx870-driver-for-windows-10-7-and-8/"><u>Install Canon MX870 Driver for Windows 10, 7 & 8</u></a></li>
-<li><a href="https://driver-install.techidaily.com/make-universal-adb-download-a-breeze-today/"><u>Make Universal ADB Download a Breeze Today!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-msi-driver-updates-windows-versions-guide/"><u>Mastering MSI Driver Updates: Windows Versions Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-mouse-functionality-upgrade-logitech-drivers-in-win11/"><u>Revitalize Mouse Functionality - Upgrade Logitech Drivers in Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-the-process-how-to-reinstall-bluetooth-on-win11/"><u>Simplify the Process: How to Reinstall Bluetooth on Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ubuntu-gpt-integration-from-start-to-finish/"><u>Ubuntu GPT Integration: From Start to Finish</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xerox-workcentre-copier-software-fixes/"><u>Xerox WorkCentre Copier Software Fixes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-master-quick-red-eye-correction-in-iphone-photos-for-free-for-2024/"><u>[Updated] Master Quick Red-Eye Correction in iPhone Photos for FREE for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-10-yt-tickets-most-watched-videos-hour-by-hour/"><u>2024 Approved Top 10 YT Tickets Most Watched Videos, Hour by Hour</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeos-no-money-solution-easy-editing-basics/"><u>2024 Approved Vimeo's No-Money Solution Easy Editing Basics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amdradeon5770supportxps13/"><u>AMDRADEON5770SupportXPS13</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fasten-nvidia-driver-update/"><u>Fasten NVidia Driver Update</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y77t-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y77t</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-usb-drivers-version-45-for-u-are-u-fp/"><u>Latest USB Drivers - Version 4.5 for U-Are-U FP</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-setup-wireless-usb-adapter-netgear/"><u>Quick Setup: Wireless USB Adapter NETGEAR</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstall-visual-integration-package/"><u>Reinstall Visual Integration Package</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-shift-enhancing-hd-4800-performance/"><u>Swift Driver Shift: Enhancing HD 4800 Performance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-12-mini-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 12 mini</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-continuous-freezing-in-sony-vegas-pro-solutions-inside/"><u>Troubleshooting Continuous Freezing in Sony Vegas Pro - Solutions Inside!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7plusie-management-guide-installation-made-simple/"><u>Win7+IE Management Guide: Installation Made Simple</u></a></li>
 </ul></div>
 

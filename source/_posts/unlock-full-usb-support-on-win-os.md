@@ -1,7 +1,7 @@
 ---
 title: Unlock Full USB Support on WIN OS
-date: 2025-01-01T18:38:31.372Z
-updated: 2025-01-03T17:20:40.880Z
+date: 2025-01-09T13:31:09.381Z
+updated: 2025-01-10T04:22:44.618Z
 tags:
   - win11
   - win10
@@ -22,12 +22,20 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  If you want to download or update your Generic USB hub driver for your USB Hub device, you can update the driver to fix your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update Generic USB Hub driver
 
 1. [Update Generic USB Hub driver manually](#M1)
 2. [Update Generic USB Hub driver automatically](#M2)
 
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update Generic USB Hub driver manually
 
@@ -36,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 1. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and**R** at the same time to invoke the**Run** box.
 2. Type**devmgmt.msc** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
 
@@ -47,27 +51,19 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 2: Update Generic USB Hub driver automatically
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5be1edc38.jpg)
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
@@ -107,16 +107,24 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-efficient-methods-to-block-facebook-adverts/"><u>[Updated] In 2024, Efficient Methods to Block Facebook Adverts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unlocking-the-power-of-screencastify-recorder/"><u>[Updated] In 2024, Unlocking the Power of Screencastify Recorder</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-10-free-and-premium-replacements-for-teracopy-on-windows-a-comprehensive-guide/"><u>Best 10 Free & Premium Replacements for Teracopy on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-fortnite-crash-errors-expert-tips-for-stable-gaming/"><u>Defeating Fortnite Crash Errors: Expert Tips for Stable Gaming</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-device-control-intel-me/"><u>Enhance Device Control: Intel ME</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-lexmark-driver-update-procedure/"><u>Enhance Lexmark Driver Update Procedure</u></a></li>
-<li><a href="https://driver-install.techidaily.com/master-your-pcs-performance-with-updated-hp-omen-drivers/"><u>Master Your PC's Performance with Updated HP Omen Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolving-startech-conflicts-across-windows-versions/"><u>Resolving StarTech Conflicts Across Windows Versions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/simplicity-in-story-construction-for-2024/"><u>Simplicity in Story Construction for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-astro-performance-update-and-install-steps/"><u>Streamlining Astro Performance: Update & Install Steps</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-expedited-transformation-top-5-free-online-gif-to-video-apps-for-2024/"><u>[New] Expedited Transformation Top 5 Free Online GIF to Video Apps for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-leading-edge-photography-the-best-4k-mirrorless-cameras/"><u>[New] In 2024, Leading Edge Photography The Best 4K Mirrorless Cameras</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unveil-secretive-watch-video-icon/"><u>[New] Unveil Secretive Watch Video Icon</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-captivating-clips-with-cleverly-chosen-lights/"><u>2024 Approved Captivating Clips with Cleverly Chosen Lights</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-complete-manual-of-adding-captions-on-vimeo/"><u>2024 Approved The Complete Manual of Adding Captions on Vimeo</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/5yuv55s757eo6zug5zplus656so6kyb5bqn77ya5lin6kab6yoo5yig44gu5ymk6zmk44go5yig5ymy5pa55rov/"><u>動画編集基礎講座：不要部分の削除と分割方法</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensive-guide-unpacking-the-capabilities-of-the-samsung-galaxy-tab-s6-with-s-pen-and-dex/"><u>Comprehensive Guide: Unpacking the Capabilities of the Samsung Galaxy Tab S6 with S Pen and DeX</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-identifying-and-correcting-problem-0x80070570/"><u>Comprehensive Tutorial: Identifying & Correcting Problem 0X80070570</u></a></li>
+<li><a href="https://driver-install.techidaily.com/decoding-the-latest-in-digital-innovation-your-guide-to-toms-hardware-analysis/"><u>Decoding the Latest in Digital Innovation - Your Guide to Tom's Hardware Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/discover-toms-ultimate-guide-to-computer-components-your-one-stop-tech-resource/"><u>Discover Tom's Ultimate Guide to Computer Components - Your One-Stop Tech Resource</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-perform-a-system-restore-using-lenovo-onekey-recovery-a-two-step-guide/"><u>How to Perform a System Restore Using Lenovo OneKey Recovery: A Two-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-and-insights-on-qidi-techs-advanced-q1-pro-gaming-earphones/"><u>Review and Insights on QIDI Tech's Advanced Q1 Pro Gaming Earphones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-guide-to-updating-nvidia-hd-audio-on-windows-11-pcs/"><u>Step-by-Step Guide to Updating NVIDIA HD Audio on Windows 11 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/surface-pro-speed-boosters-download-microsofts-drivers/"><u>Surface Pro Speed Boosters: Download Microsoft's Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/the-8-best-ways-to-fix-the-windows-operating-system-not-found-error/"><u>The 8 Best Ways to Fix the Windows Operating System Not Found Error</u></a></li>
+<li><a href="https://driver-install.techidaily.com/third-party-info-unsigned-issue-resolved/"><u>Third-Party Info Unsigned: Issue Resolved</u></a></li>
+<li><a href="https://driver-install.techidaily.com/toms-tech-review-in-depth-analysis-and-reviews/"><u>Tom's Tech Review - In-Depth Analysis and Reviews</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tp-link-usb-adapter-no-hassle-download-for-pcs-free/"><u>TP Link USB Adapter, No Hassle: Download for PCs FREE</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-hp-printer-p1102w-driver/"><u>Windows HP Printer P1102w Driver</u></a></li>
 </ul></div>
 

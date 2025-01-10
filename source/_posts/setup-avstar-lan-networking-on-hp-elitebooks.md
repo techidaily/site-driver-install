@@ -1,7 +1,7 @@
 ---
 title: Setup AVSTAR LAN Networking on HP EliteBooks
-date: 2024-07-11T15:28:55.793Z
-updated: 2024-07-12T15:28:55.793Z
+date: 2025-01-02T21:04:07.507Z
+updated: 2025-01-10T01:17:21.648Z
 tags:
   - win11
   - win10
@@ -22,13 +22,29 @@ OR
 
 **[Option 2 – Automatically (Recommended)](#option2)** – This is the quickest and easiest option. It’s all done with just a few mouse clicks – super easy even if you’re a computer newbie.**IMPORTANT:** Both these two options should be performed with network connection on your Surface. If you cannot access the wireless network, try to connect to network through a wired cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1\. Download latest Avastar Wireless-AC Network Controller driver from Microsoft website
 
 1) Head to [Microsoft Install Wireless Drivers on Surface](https://www.microsoft.com/surface/en-hk/support/networking-and-connectivity/install-wireless-drivers?os=windows-10&=undefined) website. 2) Choose your operating system. Then click**Download the driver package**.![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-7.png) 3) Click the download link of your Surface version.![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-7.png) 4) Click**Download**icon and go on to follow the on-screen instructions to finish downloading.![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 2\. Download & Install the latest Avastar Wireless-AC Network Controller driver via Driver Easy AUTOMATICALLY (Recommended)
 
  **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/06/5-8.png) 3) Click the **Update**  button next to a flagged network controller driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-5.png) **Note:**Driver Easy needs network connection to help you update all the driver with one-click. But without Internet, you still can use its **[Offline Scan](https://tools.techidaily.com/drivereasy/download/)** feature to update your drivers. After installing the new driver on your Surface, please reboot your system to make it take effect. That’s all there is to it. Any confusion please feel free to leave comment below to let us know, thanks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
 * [network adapter](https://tools.techidaily.com/drivereasy/download/)
@@ -39,8 +55,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,6 +62,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-celestial-high-definition-images-online-guide/"><u>2024 Approved Celestial High Definition Images Online Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disentangled-power-management-options/"><u>Disentangled: Power Management Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismiss-incompatible-prerequisite-message-in-win11/"><u>Dismiss Incompatible Prerequisite Message in Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-infinix-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Infinix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-keep-your-astro-running-flawlessly-on-windows/"><u>How to Keep Your Astro Running Flawlessly on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/immerse-in-crystal-clear-sounds-of-windows-7-thanks-to-nvidia/"><u>Immerse in Crystal Clear Sounds of Windows 7, Thanks to NVIDIA</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-g54-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola G54 5G?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-fast-drivers-updates-across-winos-generations/"><u>Mastering Fast Drivers Updates Across WINOS Generations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstall-visual-interface-software/"><u>Reinstall Visual Interface Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-hardware-failure-blue-screen-of-death-bsod-error/"><u>Resolved: Fixing the Hardware Failure Blue Screen of Death (BSOD) Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-cocktails-with-ai-assessing-chatgpts-skill-level/"><u>The Art of Cocktails with AI: Assessing ChatGPT's Skill Level</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-urdu-proficiency-with-minutes/"><u>Unlocking Urdu Proficiency with Minutes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-are-hackers-targeting-chatgpt-accounts/"><u>Why Are Hackers Targeting ChatGPT Accounts?</u></a></li>
+</ul></div>
 

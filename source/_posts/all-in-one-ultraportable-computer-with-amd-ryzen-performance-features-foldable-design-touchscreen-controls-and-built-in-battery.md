@@ -1,7 +1,7 @@
 ---
 title: All-in-One Ultraportable Computer with AMD Ryzen Performance – Features Foldable Design, Touchscreen Controls, and Built-In Battery
-date: 2025-01-01T18:05:28.807Z
-updated: 2025-01-03T19:15:03.780Z
+date: 2025-01-05T11:54:21.621Z
+updated: 2025-01-10T12:47:57.803Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,17 +56,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-crafting-engaging-youtube-video-layouts/"><u>[Updated] In 2024, Crafting Engaging YouTube Video Layouts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ultimate-list-of-highest-rated-free-video-editing-apps-for-idevices/"><u>[Updated] In 2024, Ultimate List of Highest-Rated Free Video Editing Apps for iDevices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-pc-performance-get-scsi-drivers-now/"><u>Accelerate PC Performance: Get SCSI Drivers Now</u></a></li>
-<li><a href="https://win11.techidaily.com/devising-schemes-to-skirt-sign-in-requests-in-windows/"><u>Devising Schemes to Skirt Sign-In Requests in Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-dealing-with-persistent-ntdlldll-crashes-on-windows-operating-systems-11-and-10/"><u>Effective Solutions for Dealing with Persistent ntdll.dll Crashes on Windows Operating Systems (11 and 10)</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output-for-2024/"><u>Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-techniques-for-ethically-following-a-phones-digital-trail/"><u>Free Techniques for Ethically Following a Phone's Digital Trail</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimizing-your-lead-generation-top-3-strategies-for-crafting-high-converting-opt-in-email-lists-with-massmail/"><u>Optimizing Your Lead Generation: Top 3 Strategies for Crafting High-Converting Opt-In Email Lists with MassMail</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rectify-usb-serial-signaling-glitches/"><u>Rectify USB-Serial Signaling Glitches</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-for-resolving-driver-setup-issues-in-windows/"><u>Steps for Resolving Driver Setup Issues in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/synchronize-package-with-hardware/"><u>Synchronize Package with Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-advanced-auditory-support-for-win10-user/"><u>[Resolved]: Advanced Auditory Support for Win10 User</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-7-budget-friendly-high-res-4k-cameras/"><u>[Updated] Top 7 Budget-Friendly High-Res 4K Cameras</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-incorporating-melodies-into-youtube-repertoire/"><u>2024 Approved Incorporating Melodies Into Youtube Repertoire</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-radio-playscript-artistry/"><u>2024 Approved Prime Radio Playscript Artistry</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-definitive-guide-to-iptv-stream-preservation/"><u>2024 Approved The Definitive Guide to IPTV Stream Preservation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-edit-text-in-image-photo-text-editor-online-and-app/"><u>How to Edit Text in Image? [Photo Text Editor Online and App]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-introduction-to-stories-essence-and-art/"><u>In 2024, Introduction to Stories' Essence and Art</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-lexmark-ink-errors-on-win11/"><u>Resolve Lexmark Ink Errors on Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-stable-logitech-webcam-driver-c270-for-windows-os/"><u>Secure and Stable: Logitech Webcam Driver (C270) for Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-hardware-drivers-alteration-in-win7/"><u>Simplified Hardware Drivers Alteration in Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stay-up-to-date-hp-laserjets-win11-software-enhancement/"><u>Stay Up-to-Date: HP Laserjet's Win11 Software Enhancement</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-transformation-radeon-hd-4800/"><u>Swift Driver Transformation: Radeon HD 4800</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-victory-in-apex-game-overhaul-complete/"><u>Swift Victory in Apex: Game Overhaul Complete!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-poco-c55-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Poco C55 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-review-of-twelve-souths-bookbook-v2-for-macbook-smart-and-stylish-protection/"><u>Ultimate Review of Twelve South's BookBook V2 for MacBook: Smart & Stylish Protection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unite-hp-envy-5530-driver-with-your-pcs-os/"><u>Unite HP Envy 5530 Driver with Your PC's OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-and-install-new-geforce-drivers/"><u>Update & Install New GeForce Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-win-7-setup-new-gaming-mouse-driver-installed/"><u>Update Your Win 7 Setup: New Gaming Mouse Driver Installed</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-extensive-info-on-vimeo-video-aspect-ratio-detailled/"><u>Updated Extensive Info on Vimeo Video - Aspect Ratio Detailled</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Xbox One Controller Support Software
-date: 2024-07-11T15:29:05.235Z
-updated: 2024-07-12T15:29:05.235Z
+date: 2025-01-06T22:16:46.499Z
+updated: 2025-01-10T00:25:43.203Z
 tags:
   - win11
   - win10
@@ -33,17 +33,29 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand the branch **Microsoft Xbox One Controller** .
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
 6) Check to see if you can use the Xbox One Controller properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2: Update the Driver Using Driver Easy
 
@@ -59,11 +71,19 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
 
@@ -78,8 +98,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,6 +105,18 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-crafting-charm-in-tiktok-videos/"><u>[Updated] In 2024, Crafting Charm in TikTok Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mastering-the-art-of-zoom-enhancement-online/"><u>[Updated] In 2024, Mastering the Art of Zoom Enhancement Online</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-revolutionize-your-social-media-game-with-top-20-tiktok-caption-strategies/"><u>[Updated] In 2024, Revolutionize Your Social Media Game with Top 20 TikTok Caption Strategies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/complete-guide-revamping-gpu-drivers/"><u>Complete Guide: Revamping GPU Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-wan-connectivity-issues-on-windows-7-successfully/"><u>Fixing WAN Connectivity Issues on Windows 7 Successfully</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-latest-radeon-vega-3-software-release-2024/"><u>Get the Latest: Radeon Vega 3 Software Release 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-properly-setup-your-3dconnexion-controller/"><u>How To Properly Setup Your 3Dconnexion Controller</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-linguistic-edge-influential-expressions-for-leaders/"><u>In 2024, The Linguistic Edge Influential Expressions for Leaders</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instruction-for-dell-realteks-latest-soundware-upgrade/"><u>Instruction for Dell Realtek's Latest Soundware Upgrade</u></a></li>
+<li><a href="https://article-files.techidaily.com/multitasking-mastery-activities-while-embracing-soundtracks-for-2024/"><u>Multitasking Mastery Activities While Embracing Soundtracks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-peak-of-data-preservation-cloud-service-guide-for-2024/"><u>The Peak of Data Preservation Cloud Service Guide for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
-date: 2024-12-30T16:36:43.595Z
-updated: 2025-01-03T16:14:14.570Z
+date: 2025-01-04T06:00:07.789Z
+updated: 2025-01-09T20:07:33.224Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 ## Crafting a New Reality in Torment: A Comprehensive Guide to Science Fiction RPG and Its Unique Setting in Numenera
 
 2.7
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## inXile Entertainment Torment: Tides of Numenera
 
@@ -40,9 +36,17 @@ Lifewire / Kelsey Simon
 
 2.7
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -63,7 +67,7 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Story: Heavy-handed writing to the exclusion of all else**
@@ -72,10 +76,6 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
  This whole introduction is slow moving and boring, and getting through it is rough. But even past this, things don’t necessarily pick up and get more interesting. The game has such a heavy hand with its narration, telling you the game’s visuals even though you can see them right there on your screen. The whole game reads like someone wrote a novel, couldn’t publish it, and then decided making a[video game](https://www.lifewire.com/best-gaming-consoles-4154610) was a better idea, and instead of trimming the fat, they left every unnecessary description and detail in the game’s prompt.
@@ -83,10 +83,6 @@ Lifewire / Kelsey Simon
  I did continue forward, even though I was already disinterested, hoping the game would become more gripping. After the memory room, you’ll wake to another platform where a being tells you you’ve suffered a great injury and they are in your mind. He tries to explain who you are but before he gets too far, you’ll be attacked by something called the Sorrow. Eventually, you’ll wake in the real world, enter the game’s main city, and be able to talk to the wealth of characters living there. You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
 
@@ -116,6 +112,10 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -139,7 +139,7 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -165,24 +165,18 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-comprehensible-guide-to-updating-usernames-in-google-meet-for-2024/"><u>[New] Comprehensible Guide to Updating Usernames in Google Meet for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-11-techniques-for-perfecting-hue-balance-for-2024/"><u>[Updated] Top 11 Techniques for Perfecting Hue Balance for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-understanding-investment-needs-on-youtube-for-2024/"><u>[Updated] Understanding Investment Needs on YouTube for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/a-practical-approach-resetting-printer-drivers-in-win-oses/"><u>A Practical Approach: Resetting Printer Drivers in WIN OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/beat-the-blues-troubleshoot-m-track-issues/"><u>Beat the Blues: Troubleshoot M-Track Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-digital-masterpieces-with-ease-the-ultimate-guide-to-using-chatgpt-for-ai-generated-imagery/"><u>Crafting Digital Masterpieces with Ease: The Ultimate Guide to Using ChatGPT for AI-Generated Imagery</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-access-to-intel-hd520-drivers/"><u>Easy Access to Intel HD520 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-huion-h420-interactions-windows-driver-tweaks/"><u>Enhance Huion H420 Interactions: Windows Driver Tweaks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-input-controls-how-to-streamline-your-mouse-on-windows/"><u>Enhanced Input Controls: How to Streamline Your Mouse on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/free-downloads-for-optimized-performance-on-gaomon-s620/"><u>Free Downloads for Optimized Performance on Gaomon S620</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-motorola-moto-g24-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Motorola Moto G24 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/insta-influence-unleashed-the-ultimate-guide-to-power-players-strategies-for-2024/"><u>Insta Influence Unleashed The Ultimate Guide to Power Players' Strategies for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/optimizing-vimeo-video-speed-rates/"><u>Optimizing Vimeo Video Speed Rates</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-obstacles-a-fixed-nvidia-error/"><u>Overcoming Obstacles: A Fixed NVIDIA Error</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-50-unbeatable-christmas-offers-on-electronics-and-more-at-newegg-features-by-zdnet/"><u>Top 50 Unbeatable Christmas Offers on Electronics & More at Newegg - Features by ZDNet</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/troubleshooting-continuous-crashes-why-specific-applications-fail-on-your-pc-insights-by-yl-computing-and-software-solutions/"><u>Troubleshooting Continuous Crashes: Why Specific Applications Fail on Your PC - Insights by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ultimate-printer-software-epson-et-2650-usb/"><u>Ultimate Printer Software: Epson ET-2650 USB</u></a></li>
-<li><a href="https://driver-install.techidaily.com/wacom-digital-pen-driver-safe-and-free-windows-edition/"><u>Wacom Digital Pen Driver - Safe & FREE Windows Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-11-canon-printer-software-installation-guide/"><u>Windows 11 Canon Printer Software Installation Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-android-tutorial-reversed-video-display/"><u>[New] Android Tutorial Reversed Video Display</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-digital-editing-made-easy-convert-avis-to-sharp-shareable-gifs-with-filmora-pcmac/"><u>[Updated] 2024 Approved Digital Editing Made Easy Convert AVIs to Sharp, Shareable GIFs with Filmora (PC/Mac)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-steps-to-transform-your-photos-hues-right-away/"><u>[Updated] 5 Steps to Transform Your Photo's Hues Right Away</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/earn-an-extra-150-on-tech-find-out-how-to-get-apple-gift-card-rewards-when-buying-school-devices/"><u>Earn an Extra $150 on Tech! Find Out How to Get Apple Gift Card Rewards When Buying School Devices.</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-15-pro-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 15 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/snap-complete-web-panel/"><u>Snap Complete Web Panel</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-access-clashing/"><u>System Access Clashing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-lenovo-audio-drivers-in-windows-10-easily/"><u>Update Lenovo Audio Drivers in Windows 10. Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-lenovo-g580-to-effortless/"><u>Upgrade Lenovo G580 to Effortless</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11-sound-troubleshoot-audio-driver-reinstallation/"><u>Win11 Sound Troubleshoot: Audio Driver Reinstallation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-canon-driver-get-it-now/"><u>Windows 10 Canon Driver, Get It Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-blaze-curve-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Blaze Curve 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/yamaha-steinberg-usb-driver-download-windows-11-8-7/"><u>Yamaha Steinberg USB Driver Download | Windows 11, 8, 7</u></a></li>
 </ul></div>
 

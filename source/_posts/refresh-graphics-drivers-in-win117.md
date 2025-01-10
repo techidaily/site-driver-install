@@ -1,7 +1,7 @@
 ---
 title: Refresh Graphics Drivers in Win11/7
-date: 2025-01-01T17:58:53.936Z
-updated: 2025-01-03T17:45:00.866Z
+date: 2025-01-06T12:57:14.870Z
+updated: 2025-01-10T05:56:52.168Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 [**Step 2: Install a new graphics driver**](#step2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Uninstall the graphics driver
@@ -37,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
@@ -51,14 +55,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
  If you don’t have the time, patience or computer skills to reinstall the driver manually, or if Windows doesn’t provide the latest driver, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  2) Run**Driver Easy** and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -125,21 +125,18 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/emystifying-youtubes-keyword-power-play-for-2024/"><u>[New] Demystifying YouTube's Keyword Power Play for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-influence-of-luts-on-digital-imagery-quality/"><u>[Updated] Exploring the Influence of LUTs on Digital Imagery Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-horizon-haven-the-leading-5-cloud-platforms-to-consider/"><u>[Updated] Horizon Haven The Leading 5 Cloud Platforms to Consider</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-picks-top-macpc-bd-players-and-codecs/"><u>[Updated] Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-secrecy-in-images-with-photoshop-for-2024/"><u>Crafting Secrecy in Images with Photoshop for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/customize-win-11-7-and-81-experience-with-newest-intel-driver-features/"><u>Customize Win 11, 7 & 8.1 Experience with Newest Intel Driver Features</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-link-intel-hd-graphics-520/"><u>Direct Link: Intel HD Graphics 520</u></a></li>
-<li><a href="https://driver-install.techidaily.com/downloadable-canon-printer-support-tools-for-win11/"><u>Downloadable Canon Printer Support Tools for Win11</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/effective-strategies-to-bypass-windows-defender-alerts-and-enhance-system-performance/"><u>Effective Strategies to Bypass Windows Defender Alerts and Enhance System Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/free-easy-installs-canon-printer-drivers-on-pcs/"><u>Free, Easy Installs: Canon Printer Drivers on PCs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installation-instructions-easy-setup-of-the-logitech-c270-camera/"><u>Installation Instructions: Easy Setup of the Logitech C270 Camera</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/racing-cameras-face-off-is-gopro-the-ultimate-champion-for-2024/"><u>Racing Cameras Face Off Is GoPro the Ultimate Champion for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-transition-for-pro-6-drivers/"><u>Smooth Transition for Pro 6 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/strategies-to-mitigate-software-problems-in-windows-drivers/"><u>Strategies to Mitigate Software Problems in Windows Drivers</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitters-visuals-on-the-social-media-giant-fb-for-2024/"><u>Twitters' Visuals on the Social Media Giant FB for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-hue-harmony-the-definitive-guide-to-video-coloring-for-2024/"><u>[New] Hue Harmony The Definitive Guide to Video Coloring for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-diving-into-advanced-techniques-adding-effects-to-videos-on-pcmobile-for-2024/"><u>[Updated] Diving Into Advanced Techniques Adding Effects to Videos on PC/Mobile for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-tips-for-crafting-professional-slug-line-notations/"><u>[Updated] Expert Tips for Crafting Professional Slug Line Notations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-by-step-guide-to-high-quality-zoom-recordings-for-podcasters/"><u>2024 Approved Step-by-Step Guide to High-Quality Zoom Recordings for Podcasters</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/audacity-installation-made-easy-the-ultimate-chromebook-checklist-for-2024/"><u>Audacity Installation Made Easy The Ultimate Chromebook Checklist for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/collecting-classics-copyrights-released/"><u>Collecting Classics Copyrights Released</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-smart-affordable-innovations-of-dells-hidden-gem-a-comprehensive-review-techzn/"><u>Discover the Smart, Affordable Innovations of Dell's Hidden Gem: A Comprehensive Review | TechZN</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/innovative-methods-to-subtly-soften-audible-output-via-lumafusion/"><u>Innovative Methods to Subtly Soften Audible Output via Lumafusion</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-windows-11-sounds-with-drivers-reload/"><u>Revive Windows 11 Sounds with Drivers Reload</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-software-solutions-for-z50-70-users/"><u>Speedy Software Solutions for Z50-70 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-correcting-warzones-missing-in-game-textures/"><u>Step-by-Step Solution for Correcting Warzone's Missing In-Game Textures</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-display-software-in-windows-10-acer/"><u>Streamline Display Software in Windows 10, Acer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-samsung-printer-drivers-in-win11/"><u>Streamline Samsung Printer Drivers in Win11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Lenovo Y470 USB Device Compatibility Guide
-date: 2024-07-29T04:58:53.124Z
-updated: 2024-07-30T04:58:53.124Z
+date: 2025-01-07T08:38:30.595Z
+updated: 2025-01-10T04:19:04.926Z
 tags:
   - win11
   - win10
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/d5331824a0fea73eb882bba4127a05283f17e46d7
 
 This passage mainly shows you how to download and update device drivers for your**Lenovo IdeaPad-Y470 laptop**. The instructions are easy to follow and clear enough for almost everyone to handle the problem totally by yourself.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/lenovo-ideapad-y470-laptop.jpg)
   
  This post will basically show you how to update device drivers in three different ways by the example of**audio driver** . These methods apply to all the other device drivers that you want to update.
@@ -44,23 +41,6 @@ This passage mainly shows you how to download and update device drivers for your
 
  3) Then double click the option**High Definition Audio Device** . You should double click the device you want to update.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/high-definition-audio-device.png)
   
  4) Go under**Driver** tab and choose**Update Driver…** .  
@@ -69,9 +49,6 @@ Key features:
 
  5) Then choose**Search automatically for updated driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/search-automatically-for-updated-driver-software.png)
 
  You may need to wait for a while for Microsoft to help you locate the correct driver.
@@ -88,9 +65,6 @@ Key features:
 
 3) Enter your product name here in the search box.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e10a6c0516b-600x297.jpg)
 
 4) Make sure the operating system information is correct according to your own OS,**Windows 7 (64-bit or 32-bit)**. Then choose from the list of choice of**Component**the device driver that you need on your laptop.
@@ -117,16 +91,10 @@ We use Audio driver as an example, so we will expand **Sound, video and game con
 
 9) Then choose**Browse my computer for driver software**.
   
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software.png)
 
 10) Copy and paste the path to the audio driver that you have downloaded to the search box here. Then click**Next**to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/paste-the-address.png)
 
 11) Wait for the installation of the audio device driver on your IdeaPad-Y470\.
@@ -143,9 +111,6 @@ In addition, it is a very easy software to use. There are only two steps involve
   
 Step one, press the**Scan Now**button.
   
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f084541e01e.png)
 
 Step two, press the**Update**button next to the driver that you would like to update.
@@ -162,8 +127,6 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,8 +134,30 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mosaicmind-pro-unleashing-creative-potential/"><u>[New] 2024 Approved MosaicMind Pro Unleashing Creative Potential</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-selection-of-high-quality-tiktok-backdrops/"><u>[New] A Selection of High-Quality TikTok Backdrops</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-augmenting-visual-appeal-implementing-black-bar-and-box-on-fb-for-2024/"><u>[New] Augmenting Visual Appeal Implementing Black Bar & Box on FB for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users/"><u>[Updated] Transforming Video Files to MP3 A Focused Guide for Pinterest Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-iphone-ringtones-a-guide-to-personalized-sound-choices/"><u>2024 Approved IPhone Ringtones A Guide to Personalized Sound Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-unconventional-methods-to-activate-windows-applications/"><u>5 Unconventional Methods to Activate Windows Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/conexant-hd-upgrade-windows-11-users-stay-connected-better/"><u>Conexant HD Upgrade: Windows 11 Users Stay Connected Better</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-errors-to-dodge-beginner-youtubers-guide-for-2024/"><u>Essential Errors to Dodge Beginner YouTuber's Guide for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-windows-driver-update-tutorials-10-81-and-7-edition/"><u>Fast Windows Driver Update Tutorials: 10, 8.1 & 7 Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-hp-deskjet-printer-windows-10-driver-issues/"><u>Fix HP Deskjet Printer Windows 10 Driver Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/flawless-functionality-windows-11-and-new-acer-drivers/"><u>Flawless Functionality: Windows 11 & New Acer Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-honor-magic-5-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor Magic 5 Phone that is Locked?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-razer-mouse-drivers-on-your-pc-in-a-flash/"><u>Install Razer Mouse Drivers on Your PC in a Flash</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-updated-audio-protocols-for-windows-7-by-idt/"><u>Install Updated Audio Protocols for Windows 7 by IDT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mtrx-ymf-pro-software-for-studio-setup/"><u>MTRX YMF Pro Software for Studio Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-installation-of-lenovo-g580-drivers/"><u>Smooth Installation of Lenovo G580 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/systematic-uninstall-and-reinstall-of-wacom-for-windows-7-11-10-users/"><u>Systematic Uninstall & Reinstall of Wacom for Windows 7-11-10 Users</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

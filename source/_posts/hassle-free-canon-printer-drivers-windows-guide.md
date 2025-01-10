@@ -1,7 +1,7 @@
 ---
 title: "Hassle-Free Canon Printer Drivers: Windows Guide"
-date: 2024-07-29T04:57:44.455Z
-updated: 2024-07-30T04:57:44.455Z
+date: 2025-01-08T05:12:50.262Z
+updated: 2025-01-10T06:13:46.943Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
  Note: the screenshots below come from Windows 10, and the methods also work on Windows 11, 8 ,and 7.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Method 1: Download Canon scanner driver manually
 
  You can manually download the driver for your Canon scanner from the Canon support center.
@@ -41,13 +38,20 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 1. Go to **[Canon Support](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers)**  .
 2. Search for your scanner model from the search bar. (In my case I search for **CanoScan** LiDE 120.)  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search.jpg)
 3. On your scanner result page, click**Software & Drivers**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-1.jpg)
 4. Select the OS and version that match with your computer. Then click**DOWNLOAD** there is a driver available for you to download.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/canno-support-search-2.jpg)
 5. Install the driver on your computer.
 
@@ -64,41 +68,40 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/canon-scan.png)
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Update Canon scanner driver via Device Manager
 
  You can also update the driver for your Canon scanner from Device Manager, where you can view and manage the hardware device and its driver software on your computer.
 
 1. Make sure you’ve connected your Canon scanner to your Windows computer.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 3. Type**devmgmt.msc** and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 4. In Device Manager, double-click**Printers** or**Print queues** to expand it.  Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 5. Choose**Search automatically for updated driver software** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 6. Follow the on-screen instructions to finish updating the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your computer afterward.
 
  That’s it. You should now have installed the latest version of the driver for your Canon scanner.
@@ -113,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,8 +123,23 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-30-second-guide-to-fast-fortnite-graphics/"><u>[New] 2024 Approved 30-Second Guide to Fast Fortnite Graphics</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-hot-hits-top-tiktok-collabs-in-rap-music/"><u>[New] 2024 Approved Hot Hits Top TikTok Collabs in Rap Music</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-exploring-the-metaverse-meme-landscape-for-2024/"><u>[Updated] Exploring the Metaverse Meme Landscape for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-discovering-the-best-vr-camera-for-adventures/"><u>2024 Approved Discovering the Best VR Camera for Adventures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-for-chefs-enhance-your-culinary-skills-with-these-7-tips/"><u>ChatGPT for Chefs: Enhance Your Culinary Skills with These 7 Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-guide-asus-usb-bluetooth-adapter-drivers/"><u>Download & Guide: Asus USB Bluetooth Adapter Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-for-your-microsoft-comfort-keyboard-model-40/"><u>Effortless Download for Your Microsoft Comfort Keyboard Model 40</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-thinkpad-with-new-windows-10-drivers/"><u>Enhance ThinkPad with New Windows 10 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-hdmi-driver-on-windows-10-11/"><u>How to Update HDMI Driver on Windows 10, 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/implement-marvell-avastar-lan-on-asus-pc/"><u>Implement Marvell Avastar LAN on ASUS PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062971588-instantaneously-enhance-sound-quality/"><u>Instantaneously Enhance Sound Quality!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063059113-revamp-gameplay-install-logitec-widow-7-drivers-now/"><u>Revamp Gameplay - Install Logitec Widow 7 Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-student-laptops-comprehensive-reviews-and-experts-picks-zdnet/"><u>Top-Ranking Student Laptops: Comprehensive Reviews & Experts' Picks - ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/win-operating-system-customize-how-you-handle-file-deletions/"><u>Win Operating System: Customize How You Handle File Deletions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063001373-wireless-proxy-installer-w7-edition/"><u>Wireless Proxy Installer, W7 Edition!</u></a></li>
+</ul></div>
 
