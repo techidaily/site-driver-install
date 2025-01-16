@@ -1,7 +1,7 @@
 ---
 title: Update HP Laserjet Printer Drivers for Windows 11
-date: 2024-07-29T04:55:19.299Z
-updated: 2024-07-30T04:55:19.299Z
+date: 2025-01-12T04:08:23.061Z
+updated: 2025-01-15T19:35:45.536Z
 tags:
   - win11
   - win10
@@ -22,34 +22,16 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
   
 2\. E  nter the model name of your Laserjet printer in the search box and click**Find my product** . Let’s take HP LaserJet Pro P1102w for example .  )  
   
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b17ae03947e.png)
 
  After that, there might be several matching products for you to choose. Choose the right one according to your product model.  
   
  3\. Change the system to Windows 10\.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b17b4737f93.jpg)
 
 Then you will be given a list of software to download. Locate the right driver then download it.
   
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b17c6f00239.jpg)
   
  The drivers are always in self-installing format. After download completes, just double-click on the downloaded file (.exe file) then follow the on-screen instructions to install the driver.  
@@ -58,9 +40,6 @@ Then you will be given a list of software to download. Locate the right driver t
   
  After downloading drivers, if you are not sure how to use Free version to update drivers, refer [How to update divers with Driver Easy Free version](https://tools.techidaily.com/drivereasy/download/) .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58feee36b67d4.png)
   
  The Free version allows you to update drives one by one with limited download speed. If you want higher download speed and enjoy the full features, you can consider upgrading to the PRO version. With the PRO version, you can update all drivers with just one-click. Moreover, you can enjoy free expert tech support guarantee and 30-day money back guarantee. Click [here](https://tools.techidaily.com/drivereasy/download/) for more purchase details.
@@ -71,8 +50,6 @@ Then you will be given a list of software to download. Locate the right driver t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -80,8 +57,24 @@ Then you will be given a list of software to download. Locate the right driver t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-new-territory-youtubes-revised-policies/"><u>[New] 2024 Approved Charting New Territory YouTube's Revised Policies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-enhance-your-podcasts-production-with-top-audio-devices/"><u>[New] 2024 Approved Enhance Your Podcast's Production with Top Audio Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-best-of-beauty-youtubes-elite-artists-showcased-for-2024/"><u>[New] Decoding the Best of Beauty YouTube's Elite Artists Showcased for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-depth-review-screenflow-full-package-for-mac/"><u>[New] In-Depth Review ScreenFlow Full Package for Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/adding-soundtracks-to-shareable-fb-moments-for-2024/"><u>Adding Soundtracks to Shareable FB Moments for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-seamlessly-upgrade-your-device-drivers-on-win-7-8-or-10/"><u>How to Seamlessly Upgrade Your Device Drivers on Win 7, 8 or 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-compreeved-guide-converting-webp-to-quality-jpg-format/"><u>In 2024, Compreeved Guide Converting WebP to Quality JPG Format</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-rock-solid-footage-8-best-free-online-video-stabilizers/"><u>New In 2024, Rock-Solid Footage 8 Best Free Online Video Stabilizers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-latest-driver-release/"><u>Quadro RTX 6000 Latest Driver Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-hp-envy-5530-driver-with-windows-10-pcs/"><u>Sync HP Envy 5530 Driver with Windows 10 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-wireless-driver-revamp-for-atheros-in-windows-10/"><u>The Ultimate Guide: Wireless Driver Revamp for Atheros in Windows 10</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-forex-trading-techniques-for-reliable-earnings-mastering-mt4-copier/"><u>Top Forex Trading Techniques for Reliable Earnings - Mastering MT4 Copier</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-xerox-copier-6515-drivers/"><u>Update Xerox Copier 6515 Drivers</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

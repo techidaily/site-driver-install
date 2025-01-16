@@ -1,7 +1,7 @@
 ---
 title: "Harmonizing USBasp with Windows: Solutions for Multiple Versions"
-date: 2024-07-29T04:56:07.997Z
-updated: 2024-07-30T04:56:07.997Z
+date: 2025-01-09T22:03:04.585Z
+updated: 2025-01-16T06:56:39.938Z
 tags:
   - win11
   - win10
@@ -40,15 +40,21 @@ To do so:
 2. Click**USBasp – USB programmer for AVRs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc737a002.jpg)
 3. Click the driver package in the**Drivers** section, and download the driver with the instructions.  
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dc9287d92.png)
 4. Run the downloaded file and follow the on-screen instructions to finish it.
 
  You should have the latest USBasp driver installed in your Windows computer.
 
  If this method doesn’t work for you, don’t worry. There is something else to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Download and update USBasp driver automatically
 
@@ -62,10 +68,12 @@ To do so:
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddda67fba.jpg)
 3. Click the**Update** button next to the device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
- Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd828e09e9b7.jpg)
 4. Restart your computer to take effect.
 
@@ -74,8 +82,9 @@ To do so:
 Tada, now you should have updated the USBasp driver easily.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Download and update USBasp driver via Device Manager
 
  You can also update the USBasp driver via Device Manager, where you can view and manage the hardware information and software driver in your computer.
@@ -84,19 +93,15 @@ Here’s what you need to do:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time.
 2. Type**devmgmt.msc** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dcf3157ac.jpg)
 3. Right click on your**USbasp** device, and select**Update driver** (or**Update Driver Software**).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7dd86786cb.png)
 4. Choose**Search automatically for updated driver software** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7ddbf9439d.jpg)
 5. Follow the on-screen instructions to finish it.
 
@@ -109,8 +114,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,8 +121,24 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-optimal-webp-to-jpg-transformation-guide/"><u>[Updated] Optimal WebP-to-JPG Transformation Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-quick-vid-overview-top-tips-and-facts-now-for-2024/"><u>[Updated] Quick Vid Overview Top Tips & Facts Now for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/chatgpt-not-working-discover-9-effective-ways-to-get-it-up-and-running-on-your-iphone/"><u>ChatGPT Not Working? Discover 9 Effective Ways to Get It Up and Running on Your iPhone</u></a></li>
+<li><a href="https://article-files.techidaily.com/comprehensive-techniques-for-iphones-in-virtual-space/"><u>Comprehensive Techniques for iPhones in Virtual Space</u></a></li>
+<li><a href="https://driver-install.techidaily.com/digital-absence-in-third-party-info-confirmed/"><u>Digital Absence in Third-Party Info Confirmed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-amd-driver-rollback-for-all-windows-versions/"><u>Effortless AMD Driver Rollback for All Windows Versions</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027631928-gif/"><u>GIF作り入門: 単一画像からスムーズなアニメーションへ</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-on-basic-color-correction-in-photos/"><u>In 2024, Expert Tips on Basic Color Correction in Photos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-software-integration-with-lenovos-u310/"><u>Intuitive Software Integration with Lenovo's U310</u></a></li>
+<li><a href="https://driver-install.techidaily.com/modernizing-old-systems-amd-drivers-and-windows-compatibility/"><u>Modernizing Old Systems: AMD Drivers & Windows Compatibility</u></a></li>
+<li><a href="https://driver-install.techidaily.com/practical-guide-to-updating-device-drivers-on-windows-881/"><u>Practical Guide to Updating Device Drivers on Windows 8/8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precision-wacom-driver-safe-and-compatible-with-windows-tablets/"><u>Precision Wacom Driver - Safe & Compatible with Windows Tablets</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-optimize-acer-drivers-for-win10-efficiency/"><u>Quick Fix! Optimize Acer Drivers for Win10 Efficiency</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackling-windows-10-audio-issues-reinstalling-drivers/"><u>Tackling Windows 10 Audio Issues: Reinstalling Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175675593-transform-your-pc-construction-routine-save-time-with-corsairs-easy-one-turn-assembly-screw/"><u>Transform Your PC Construction Routine: Save Time with Corsair's Easy One-Turn Assembly Screw</u></a></li>
+</ul></div>
 

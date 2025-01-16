@@ -1,7 +1,7 @@
 ---
 title: "Set up Printer: Canon Inkjet, OS Versions"
-date: 2025-01-07T06:07:48.436Z
-updated: 2025-01-10T09:28:50.014Z
+date: 2025-01-15T02:51:03.554Z
+updated: 2025-01-15T22:50:17.295Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **DOWNLOAD** .
@@ -52,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
@@ -88,20 +88,17 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-photos-with-a-musical-edge-online/"><u>[New] Photos with a Musical Edge Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-guide-perfecting-your-youtube-audio-to-text-conversion/"><u>[Updated] 2024 Approved Free Guide Perfecting Your YouTube Audio-to-Text Conversion</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-enhancing-tweets-adding-media-files/"><u>[Updated] In 2024, Enhancing Tweets Adding Media Files</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-make-facebook-videos-extend-the-wallpaper/"><u>[Updated] In 2024, Make Facebook Videos Extend the Wallpaper</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-complete-tech-manual-for-game-screen-recording-win10/"><u>[Updated] In 2024, The Complete Tech Manual for Game Screen Recording Win10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-your-online-influence-for-earnings-through-brand-collaborations-on-youtube/"><u>[Updated] Maximizing Your Online Influence for Earnings Through Brand Collaborations on YouTube</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728466721964-iphone/"><u>復原iPhone健康記錄缺失危機：迷失後的求生術</u></a></li>
-<li><a href="https://driver-install.techidaily.com/agile-driver-updates-in-windows-11-81-7/"><u>Agile Driver Updates in Windows 11, 8.1, 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-drivers-windows-11-radeon-hd-5450/"><u>Enhanced Drivers: Windows 11, Radeon HD 5450</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-track-to-driver-setup-3dconnexion-product-guide/"><u>Fast Track to Driver Setup: 3Dconnexion Product Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207339862-fortnite-successfully-started-now/"><u>Fortnite: Successfully Started Now</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-970-drivers-version-windows-11-compatibility/"><u>GTX 970 Drivers Version: Windows 11 Compatibility</u></a></li>
-<li><a href="https://driver-install.techidaily.com/implement-marvell-avastar-wireless-in-windows-10-sphere/"><u>Implement Marvell Avastar Wireless in Windows 10 Sphere</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-to-enhance-nvidias-audio-with-w10/"><u>Steps to Enhance NVIDIA's Audio with W10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-action-archetypes-choosing-the-best-7-first-person-shooters/"><u>[Updated] In 2024, Action Archetypes Choosing the Best 7 First-Person Shooters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-step-by-step-vivacut-video-editing-complete-guide-for-24/"><u>[Updated] Step-by-Step VivaCut Video Editing Complete Guide for '24</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-se-2020-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone SE (2020) Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/can-you-recover-deleted-youtube-content-understanding-video-archiving/"><u>Can You Recover Deleted YouTube Content? Understanding Video Archiving</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-lexmark-printer-software-update/"><u>Effortless Lexmark Printer Software Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-stepwise-journey-converting-smartphones-into-vr-hubs/"><u>In 2024, A Stepwise Journey Converting Smartphones Into VR Hubs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-ie-driver-setup-on-windows-environments/"><u>Mastering IE Driver Setup on Windows Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-driver-version-w11/"><u>Nvidia GTX 970 Driver Version W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenating-your-system-msi-driver-updates-in-older-windows-versions/"><u>Rejuvenating Your System: MSI Driver Updates in Older Windows Versions</u></a></li>
+<li><a href="https://facebook.techidaily.com/stay-ahead-of-hackers-monitor-your-facebook-activity/"><u>Stay Ahead of Hackers – Monitor Your Facebook Activity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-up-drivers-enhance-printing-experience-for-hp-laserjet-pro-400/"><u>Sync Up Drivers: Enhance Printing Experience for HP LaserJet Pro 400</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-avcd-to-avi-transcoder-for-pcs-running-windows-11-your-ultimate-guide/"><u>Top Rated AVCD to AVI Transcoder for PCs Running Windows 11 – Your Ultimate Guide</u></a></li>
 </ul></div>
 

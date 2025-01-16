@@ -1,7 +1,7 @@
 ---
 title: Boost Performance with Updated Lenovo W11 Drivers
-date: 2024-07-29T04:53:56.869Z
-updated: 2024-07-30T04:53:56.869Z
+date: 2025-01-14T02:25:37.264Z
+updated: 2025-01-16T04:41:14.154Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ You can go to Lenovo’s official website to check for and download the latest W
   
 2\. Click **Laptops** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578d9d1d472a1.png)
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
@@ -41,23 +38,14 @@ You can go to Lenovo’s official website to check for and download the latest W
 
  4.**Select Sub-Series** . (Let’s take 11e (Type 20D9, 20DA) Laptop (Thinkpad) for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3551d14e36.jpg)
 
  5\. Click**view all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e355a7dd5d4.jpg)
 
  6\. Scroll down and pick a component that you wish to update driver for. And select the Operating System to Windows 10 64-bit or Windows 32-bit. If you are not sure what specific version of Windows 10 that your PC is running, see [Quickly Get Operating System Version (Windows)](https://tools.techidaily.com/drivereasy/download/) .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3560c14318.jpg)
 
  Then the drivers will be listed. You may see several options. Identify the right driver to download. It is recommended to download the latest version.  
@@ -76,9 +64,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355190d0976.png)
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
@@ -97,9 +82,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99bde5485.jpg)
 
  With Driver Easy, you can update Lenovo Thinkpad Windows 10 drivers in several minutes.
@@ -110,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,8 +99,28 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-quick-fix-for-iphone-video-length-and-scope-reduction-for-2024/"><u>[New] Quick-Fix for iPhone Video Length & Scope Reduction for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-fuse-melodies-into-your-youtube-digital-realm/"><u>[Updated] 2024 Approved Fuse Melodies Into Your Youtube Digital Realm</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-crafting-compelling-spotify-campaigns-a-practical-guide-for-2024/"><u>[Updated] Crafting Compelling Spotify Campaigns A Practical Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gopro-max-360-vs-hero-11-which-is-the-best-gopro-video-camera/"><u>[Updated] GoPro Max 360 VS Hero 11 Which Is the Best GoPro Video Camera?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-leveraging-imovies-power-for-youtube-presence-and-growth/"><u>[Updated] In 2024, Leveraging IMovie's Power for YouTube Presence and Growth</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastery-in-removing-online-video-post-comments/"><u>[Updated] Mastery in Removing Online Video Post-Comments</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/boosting-your-list-the-top-5-strategies-for-gaining-email-followers-with-massmail-tools/"><u>Boosting Your List: The Top 5 Strategies for Gaining Email Followers with MassMail Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-the-gap-usbasp-compatibility-across-versions/"><u>Bridge the Gap: USBasp Compatibility Across Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/convenient-lenovo-ideapad-driver-modifications/"><u>Convenient Lenovo Ideapad Driver Modifications</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-implement-gtx-driver-update/"><u>Download & Implement GTX Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-display-settings-install-hp-graphics-driver-on-win11/"><u>Enhance Display Settings: Install HP Graphics Driver on Win11</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-6-darth-vader-ai-generators-for-all-platforms/"><u>New 2024 Approved Top 6 Darth Vader AI Generators for All Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-integration-of-hd-audio-post-update/"><u>Seamless Integration of HD Audio Post-Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-updated-pro-6-system-drivers/"><u>Seamlessly Updated Pro 6 System Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turbo-xpress-optimized-nvidia-3090-driver/"><u>Turbo Xpress - Optimized NVIDIA 3090 Driver</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-ace-up-swift-driver-update-guide/"><u>Windows 10 Ace Up: Swift Driver Update Guide</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

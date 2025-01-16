@@ -1,7 +1,7 @@
 ---
 title: "Ensure Smooth Performance: ThinkPad W10 Updates"
-date: 2024-07-29T04:55:29.092Z
-updated: 2024-07-30T04:55:29.092Z
+date: 2025-01-08T18:03:31.768Z
+updated: 2025-01-15T16:01:54.816Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ You can go to Lenovo’s official website to check for and download the latest W
 
  4.**Select Sub-Series** . (Let’s take 11e (Type 20D9, 20DA) Laptop (Thinkpad) for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3551d14e36.jpg)
 
  5\. Click**view all** .  
@@ -49,9 +46,6 @@ You can go to Lenovo’s official website to check for and download the latest W
 
  6\. Scroll down and pick a component that you wish to update driver for. And select the Operating System to Windows 10 64-bit or Windows 32-bit. If you are not sure what specific version of Windows 10 that your PC is running, see [Quickly Get Operating System Version (Windows)](https://tools.techidaily.com/drivereasy/download/) .
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3560c14318.jpg)
 
  Then the drivers will be listed. You may see several options. Identify the right driver to download. It is recommended to download the latest version.  
@@ -66,23 +60,14 @@ Follow these steps to install new audio drivers via Device Manager.
   
 1\. Press **Win+R** (**Windows logo** key and **R**  key) at the same time. A Run dialog box will appear. Then Device Manager will open.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355190d0976.png)
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551c56595c.png)
   
  **Way 3 (Recommended): Update the Drivers Automatically**
@@ -97,9 +82,6 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99bde5485.jpg)
 
  With Driver Easy, you can update Lenovo Thinkpad Windows 10 drivers in several minutes.
@@ -110,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,8 +99,26 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-tips-free-techniques-to-incorporate-music-in-video-projects/"><u>2024 Approved IPhone Tips Free Techniques to Incorporate Music in Video Projects</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-use-guide-making-trackir-functional/"><u>Download & Use Guide: Making TrackIR Functional</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-pc-gtx-970-driver-update-wins/"><u>Enhance Your PC: GTX 970 Driver Update Wins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-visual-content-descriptions-chatgpts-perspective/"><u>Enhancing Visual Content Descriptions (ChatGPT's Perspective)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/gionee-f3-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Gionee F3 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-runtime-error-424-object-required-error-in-excel-2021-by-stellar-guide/"><u>How to fix runtime error 424 object required error in Excel 2021</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-hugging-face-concept-and-applications/"><u>Inside Hugging Face: Concept & Applications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-road-addressing-and-fixing-continuous-freezes-and-crashes-in-forza-horizon-5-on-windows/"><u>Master the Road: Addressing and Fixing Continuous Freezes and Crashes in 'Forza Horizon 5' On Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/sculpting-visual-stories-editing-vertical-videos-for-ig-in-fcpx/"><u>Sculpting Visual Stories Editing Vertical Videos for IG in FCPX</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-old-games-to-ps4-platforms/"><u>Transitioning Old Games to PS4 Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unified-gaming-platform-controller-support/"><u>Unified Gaming Platform Controller Support</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-11-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-your-game-mouse-effortless-installation-widow-7-style/"><u>Upgrading Your Game Mouse - Effortless Installation Widow 7 Style</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-driver-sync-with-diverse-windows-versions-achieved-solved/"><u>USBasp Driver Sync with Diverse Windows Versions Achieved [SOLVED]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/what-to-do-if-windows-encountered-a-problem-installing-the-driver-software/"><u>What to Do if Windows Encountered a Problem Installing the Driver Software</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

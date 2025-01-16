@@ -1,7 +1,7 @@
 ---
 title: Lenovo IdeaPad-Y470 W7Drivers Handbook
-date: 2024-07-29T04:54:06.780Z
-updated: 2024-07-30T04:54:06.780Z
+date: 2025-01-12T06:40:08.931Z
+updated: 2025-01-16T02:28:36.269Z
 tags:
   - win11
   - win10
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
 
 This passage mainly shows you how to download and update device drivers for your**Lenovo IdeaPad-Y470 laptop**. The instructions are easy to follow and clear enough for almost everyone to handle the problem totally by yourself.
   
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/lenovo-ideapad-y470-laptop.jpg)
   
  This post will basically show you how to update device drivers in three different ways by the example of**audio driver** . These methods apply to all the other device drivers that you want to update.
@@ -48,9 +45,6 @@ This passage mainly shows you how to download and update device drivers for your
   
  4) Go under**Driver** tab and choose**Update Driver…** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver.png)
 
  5) Then choose**Search automatically for updated driver software** .
@@ -67,9 +61,6 @@ This passage mainly shows you how to download and update device drivers for your
   
  2) Select the**Drivers & Software** button on the top part of the page.
   
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e1091dd41a0-1024x433.jpg)
 
 3) Enter your product name here in the search box.  
@@ -78,9 +69,6 @@ This passage mainly shows you how to download and update device drivers for your
 
 4) Make sure the operating system information is correct according to your own OS,**Windows 7 (64-bit or 32-bit)**. Then choose from the list of choice of**Component**the device driver that you need on your laptop.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/look-for-drivers-or-software-for-your-machine.jpg)
   
  5) We will show you how to download the Audio driver on this webpage. Choose**Audio** from the Component category, then click the down arrow under**Download File** . Wait for your browser to download the file for you.  
@@ -95,23 +83,14 @@ We use Audio driver as an example, so we will expand **Sound, video and game con
   
  If there is something wrong with your device driver, you might need to look for it under the category **Other devices**  and see if devices with yellow exclamation marks can be seen.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/double-click-high-definition-audio-device.png)
   
 8) Then choose**Update Drivers…**under**Driver**tab.  
   
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver.png)
 
 9) Then choose**Browse my computer for driver software**.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/browse-my-computer-for-driver-software.png)
 
 10) Copy and paste the path to the audio driver that you have downloaded to the search box here. Then click**Next**to continue.
@@ -148,8 +127,6 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,8 +134,24 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-10plus-iconic-ae-text-techniques-for-professionals/"><u>[New] 2024 Approved 10+ Iconic AE Text Techniques for Professionals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-upgrade-your-editing-game-merging-windows-11-and-storyremix-for-video-magic-for-2024/"><u>[New] Upgrade Your Editing Game Merging Windows 11 & StoryRemix for Video Magic for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-harmonizing-hues-the-filmmakers-palette-guide/"><u>2024 Approved Harmonizing Hues The Filmmaker's Palette Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-process-for-free-youtube-educational-events/"><u>2024 Approved Step-by-Step Process for Free Youtube Educational Events</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-your-boundless-imagination-with-these-android-graphics-tools/"><u>Boost Your Boundless Imagination with These Android Graphics Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-best-value-with-a-discounted-15-macbook-air-ideal-for-everyone-check-out-now-at-250-savings/"><u>Get the Best Value with a Discounted 15 MacBook Air: Ideal for Everyone! Check Out Now at $250 Savings .</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-hp-omen-15-drivers/"><u>How To Update HP Omen 15 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lightning-fast-driver-update-for-radeon-hd-4800/"><u>Lightning-Fast Driver Update for Radeon HD 4800</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/macosdvd/"><u>MacOS用のダウンロード可能なDVD変換ソフトウェアオンラインで購入方法:</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-printer-setup-hp-officejet-pro-8710-for-windows-users/"><u>Seamless Printer Setup: HP Officejet Pro 8710 for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-method-resetting-bluetooth-driver-with-ease-for-win-1011-users/"><u>Swift Method: Resetting Bluetooth Driver with Ease for Win 10/11 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-prints-simplify-with-canon-drivers-for-pc/"><u>Upgrade Your Prints, Simplify with Canon Drivers for PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-to-windows-11-embrace-haptic-technology/"><u>Upgrading to Windows 11 - Embrace Haptic Technology</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

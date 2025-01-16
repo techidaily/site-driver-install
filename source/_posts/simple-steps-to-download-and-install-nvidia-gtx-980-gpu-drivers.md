@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Download & Install Nvidia GTX 980 GPU Drivers
-date: 2025-01-05T17:02:47.320Z
-updated: 2025-01-10T12:59:23.918Z
+date: 2025-01-13T07:13:53.385Z
+updated: 2025-01-15T16:20:43.431Z
 tags:
   - win11
   - win10
@@ -97,28 +97,26 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/onquering-competition-crafting-standout-youtube-advertising-banners-for-2024/"><u>[New] Conquering Competition Crafting Standout YouTube Advertising Banners for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-10-capture-hardware-recommendations-for-online-videos-for-2024/"><u>[New] Essential 10 Capture Hardware Recommendations for Online Videos for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-follow-the-footsteps-of-fan-driven-forums/"><u>[Updated] 2024 Approved Follow the Footsteps of Fan-Driven Forums</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-stunning-video-capture-best-youtube-cameras-reviewed/"><u>[Updated] 2024 Approved Stunning Video Capture Best YouTube Cameras Reviewed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/a-parents-comprehensive-manual-understanding-and-navigating-chatgpt-and-ai-generation/"><u>A Parent's Comprehensive Manual: Understanding & Navigating ChatGPT & AI Generation</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensuring-seamless-communication-update-your-arduino-usb-drivers-for-windows-today/"><u>Ensuring Seamless Communication: Update Your Arduino USB Drivers for Windows Today</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-depth-guide-to-simple-high-dynamic-range/"><u>In-Depth Guide to Simple High Dynamic Range</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-ie-management-engine-implementation/"><u>Secure IE Management Engine Implementation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/simplified-methods-to-close-unused-social-media-linkedin-account-for-2024/"><u>Simplified Methods to Close Unused Social Media (LinkedIn) Account for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-to-install-latest-intel-82579lm-windows-driver/"><u>Steps to Install Latest Intel 82579LM Windows Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-wacom-workflow-reinstall-steps-in-win-oss/"><u>Streamlining Wacom Workflow: Reinstall Steps in WIN OSs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swift-skillz-best-high-speed-games-for-laptopsmobile-for-2024/"><u>Swift Skillz Best High-Speed Games for Laptops/Mobile for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unraveling-the-secrets-of-pcl-xl-repairs/"><u>Unraveling the Secrets of PCL XL Repairs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-langchain-essentials-for-new-users/"><u>Unveiling LangChain: Essentials for New Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-for-nvidias-quadro-rtx-6000/"><u>Update for NVIDIA's Quadro RTX 6000</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-win11-networking-setup-with-new-atheros-drivers/"><u>Update Your Win11 Networking Setup with New Atheros Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-logitech-mouse-software-on-windows-11/"><u>Upgrade Logitech Mouse Software on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-w10-with-latest-thinkpad-device-drivers/"><u>Upgrade W10 with Latest ThinkPad Device Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/yamaha-mtrx-driver-windows-and-linux-instructions/"><u>Yamaha MTRX Driver - Windows & Linux Instructions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-launchpad-to-success-establishing-your-own-food-flavor-blogchannel/"><u>[New] 2024 Approved Launchpad to Success Establishing Your Own Food Flavor Blog/Channel</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-silent-sounds-garagebands-volume-control-magic/"><u>[New] Mastering Silent Sounds Garageband's Volume Control Magic</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-navigating-through-8-free-crossover-video-meeting-software/"><u>[Updated] In 2024, Navigating Through 8 Free, Crossover Video Meeting Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-intelligent-hd520-graphics/"><u>Download Intelligent HD520 Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/endgame-conquering-wan-issues-on-linux-os/"><u>Endgame: Conquering WAN Issues on Linux OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-accessories-for-your-freshly-bought-iphone-next-week-discover-the-best-choices-latest-review-of-anker-products/"><u>Essential Accessories for Your Freshly Bought iPhone Next Week - Discover the Best Choices Latest Review of Anker Products</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-audio-compatibility-restored-by-windows-patch/"><u>HD Audio Compatibility Restored by Windows Patch</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-itel-a05s-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Itel A05s Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-enchanted-realm-of-bygone-writings-a-literary-pilgrimage/"><u>In 2024, The Enchanted Realm of Bygone Writings A Literary Pilgrimage</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-audio-driver-issues-in-win10/"><u>Resolving Audio Driver Issues in Win10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-integration-upgrade-thinkpad-with-win11-drivers/"><u>Seamless Integration - Upgrade Thinkpad with Win11 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-pc-with-amd-gpu-drivers-release-note/"><u>Secure PC with AMD GPU Drivers Release Note</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-guide-to-lenovo-dock-driver-update/"><u>Speedy Guide to Lenovo Dock Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-hp-1020-driver-functionality-in-windows/"><u>Streamlining HP 1020 Driver Functionality in Windows</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/transfer-data-efficiently-moving-files-from-pc-to-samsung-galaxy-devices/"><u>Transfer Data Efficiently: Moving Files From PC to Samsung Galaxy Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-every-gamer-needs-to-play-yakuza-like-a-dragon-an-epic-jrpg-adventure/"><u>Why Every Gamer Needs to Play Yakuza: Like a Dragon – An Epic JRPG Adventure</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

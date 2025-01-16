@@ -1,7 +1,7 @@
 ---
 title: Setup Canon Printer Support for WIN 11 & Older Editions
-date: 2025-01-02T19:52:43.854Z
-updated: 2025-01-09T18:28:37.395Z
+date: 2025-01-08T20:20:45.961Z
+updated: 2025-01-15T21:49:03.228Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 * [**Way 1. Download the latest Canon MX870 driver from Canon website**](#Way1)
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
 
  1) Head to [Canon Driver download center](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers) .
@@ -36,25 +32,29 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
@@ -88,16 +88,16 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-stardew-value-maximized-top-7-customization-excellence/"><u>[Updated] 2024 Approved Stardew Value Maximized Top 7 Customization Excellence</u></a></li>
-<li><a href="https://facebook.techidaily.com/breaking-down-barriers-the-future-of-us-antitrust-policy/"><u>Breaking Down Barriers: The Future of U.S. Antitrust Policy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envisioning-tomorrow-exploring-gpts-significant-innovations/"><u>Envisioning Tomorrow: Exploring GPT's Significant Innovations</u></a></li>
-<li><a href="https://driver-install.techidaily.com/experience-cutting-edge-gaming-get-a-discount-of-250-on-our-mighty-rtx-4090-powered-computer-system-today/"><u>Experience Cutting-Edge Gaming: Get a Discount of $250 on Our Mighty RTX 4090 Powered Computer System Today</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/master-the-pre-upload-process-on-tiktoks-copyright-policy-for-2024/"><u>Master the Pre-Upload Process on TikTok's Copyright Policy for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-your-computer-needs-the-ultimate-toms-hardware-compilation/"><u>Mastering Your Computer Needs: The Ultimate Tom's Hardware Compilation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/meteor-lake-cpu-driven-new-mini-pc-with-onexplayer-m1-intel-core-ultra-coffee-lake-9th-gen-up-to-32gb-ram-and-oculink/"><u>Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/navigating-youtube-skip-the-top-8-novice-missteps-in-2024/"><u>Navigating YouTube Skip the Top 8 Novice Missteps, In 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-methods-for-capturing-your-computer-screen-on-windows-11-a-comprehensive-guide/"><u>Top 10 Methods for Capturing Your Computer Screen on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-windows-recordings-made-simple-for-2024/"><u>Ultimate Windows Recordings Made Simple for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ultra-mini-desktop-that-mirrors-laptop-aesthetics-houses-beefy-core-i9-cpu-and-nvidias-mobile-gaming-power/"><u>Ultra Mini Desktop That Mirrors Laptop Aesthetics - Houses Beefy Core I9 CPU and NVIDIA's Mobile Gaming Power</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmony-hunters-dive-into-free-online-beat-tracker/"><u>[New] Harmony Hunters Dive Into Free, Online Beat Tracker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-windows-11-gamers-ultimate-playbook-top-5-record-techniques/"><u>[New] Windows 11 Gamers' Ultimate Playbook Top 5 Record Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/building-captivating-instagram-feed-layouts/"><u>Building Captivating Instagram Feed Layouts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-win10-touchscreen-driver-fixes/"><u>Effortless Win10 TouchScreen Driver Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-usbasp-on-xp-7-81-and-10-for-uninterrupted-use/"><u>Fixing USBasp on XP, 7, 8.1 & 10 for Uninterrupted Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-drama-to-film-shaping-realistic-dialogue-for-2024/"><u>From Drama to Film Shaping Realistic Dialogue for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>In 2024, Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-wireless-card-functionality-with-new-windows-11-drivers/"><u>Optimize Wireless Card Functionality with New Windows 11 Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-solving-operation-0x0000011b-in-windows-11/"><u>Preventing and Solving Operation 0X0000011B in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stay-ahead-of-the-curve-with-latest-drivers-for-hp-omen-15/"><u>Stay Ahead of the Curve with Latest Drivers for HP Omen 15</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-tech-upgrades-for-lenovo-u310/"><u>Streamlined Tech Upgrades for Lenovo U310</u></a></li>
 </ul></div>
 

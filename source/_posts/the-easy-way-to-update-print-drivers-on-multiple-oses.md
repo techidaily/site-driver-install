@@ -1,7 +1,7 @@
 ---
 title: The Easy Way to Update Print Drivers on Multiple OSes
-date: 2025-01-05T16:56:07.808Z
-updated: 2025-01-10T08:23:13.945Z
+date: 2025-01-10T02:56:07.778Z
+updated: 2025-01-16T05:06:37.582Z
 tags:
   - win11
   - win10
@@ -36,23 +36,27 @@ To do so, simply follow these steps:
 2. Type or paste**devmgmt.msc** . Then click**OK** to open Device Manager.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-run-box-ok.jpg)
 3. Click to expand the**Print queues** category. Right-click your printer and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-02.jpg)
 4. Click**Uninstall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-reinstall-printer-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then you need to go to**your printer manufacturer’s website** and search for your printer model. Be sure to download the latest correct driver installer that’s compatible with your system. If you’re not familiar with computer drivers, you can continue to the next method to**download and install drivers automatically** .
@@ -68,16 +72,12 @@ To do so, simply follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_update-all-printer.jpg)
 4. Once you’ve updated your printer driver, restart your computer for the changes to apply.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -103,19 +103,18 @@ To do so, simply follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-journey-through-history-similar-themed-video-games-to-ghost-of-tsushima/"><u>[Updated] 2024 Approved Journey Through History Similar Themed Video Games to Ghost of Tsushima</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024vlciso/"><u>「2024」におけるVLC再生時のISOファイル不正認識:トラブルシューティングガイド</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-accelerated-mp4-to-facebook-video-conversion/"><u>2024 Approved Accelerated MP4-to-Facebook Video Conversion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/artistry-in-your-pocket-the-bestiary-of-top-8-iphone-drawing-apps-for-2024/"><u>Artistry in Your Pocket The Bestiary of Top 8 iPhone Drawing Apps for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/effortless-onedrive-integration-top-3-techniques-for-auto-syncing-your-pcs-files/"><u>Effortless OneDrive Integration: Top 3 Techniques for Auto-Syncing Your PC's Files</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-txt-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for .txt file document</u></a></li>
-<li><a href="https://driver-install.techidaily.com/razer-mouse-setup-guide-for-efficient-windows-use/"><u>Razer Mouse Setup Guide for Efficient Windows Use</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/scrutinizing-vidmas-latest-screen-recording-tech-for-2024/"><u>Scrutinizing Vidma’s Latest Screen Recording Tech for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-your-network-with-free-tp-link-drivers-downloads/"><u>Secure Your Network with Free TP Link Drivers Downloads</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-operations-installing-hd-webcam-software-from-logitech/"><u>Streamline Operations: Installing HD Webcam Software From Logitech</u></a></li>
-<li><a href="https://driver-install.techidaily.com/surface-pro-4-driver-setup-for-windows-pcs/"><u>Surface Pro 4 Driver Setup for Windows PCs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-excellent-tech-for-high-definition-recording/"><u>Unveiling the Excellent Tech for High-Definition Recording</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-11-fix-ensures-optimal-hd-sound-performance/"><u>Windows 11 Fix: Ensures Optimal HD Sound Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/winwizardry-streamlining-startechs-drivers-in-winxp1011/"><u>WinWizardry: Streamlining StarTech's Drivers in WINXP/10/11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-yuneecs-bold-q500-a-new-era-of-vision/"><u>[New] Yuneec's Bold Q500 A New Era of Vision</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023-tech-scoop-efficiently-tracking-down-fb-vids/"><u>[Updated] In 2024, 2023 Tech Scoop Efficiently Tracking Down FB Vids</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/10-snapchat-stickers-that-cause-laughter-galore-for-2024/"><u>10 Snapchat Stickers That Cause Laughter Galore for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>2024 Approved Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-inside-look-whatsapps-voice-message-technology/"><u>2024 Approved Inside Look WhatsApp's Voice Message Technology</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-image-quality-with-driver-update-in-win10/"><u>Accelerate Image Quality with Driver Update in Win10</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-a25-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy A25 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-upgrades-without-struggle/"><u>Lenovo Z50-70: Upgrades Without Struggle</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steady-connection-reinstating-atheros-adapter-driver/"><u>Steady Connection: Reinstating Atheros Adapter Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-input-device-driver-xbox-to-windows/"><u>Streamlined Input Device Driver, Xbox to Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tips-for-a-quick-driver-switch-on-msi-bravo-15/"><u>Tips for a Quick Driver Switch on MSI Bravo 15</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-nvidia-sound-drivers-in-windows-11-guide/"><u>Updating NVIDIA Sound Drivers in Windows 11 Guide</u></a></li>
 </ul></div>
 

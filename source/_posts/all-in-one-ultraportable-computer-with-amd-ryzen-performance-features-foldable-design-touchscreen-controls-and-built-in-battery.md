@@ -1,7 +1,7 @@
 ---
 title: All-in-One Ultraportable Computer with AMD Ryzen Performance – Features Foldable Design, Touchscreen Controls, and Built-In Battery
-date: 2025-01-05T11:54:21.621Z
-updated: 2025-01-10T12:47:57.803Z
+date: 2025-01-11T00:01:26.873Z
+updated: 2025-01-16T00:16:07.313Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,24 +56,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/resolved-advanced-auditory-support-for-win10-user/"><u>[Resolved]: Advanced Auditory Support for Win10 User</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-7-budget-friendly-high-res-4k-cameras/"><u>[Updated] Top 7 Budget-Friendly High-Res 4K Cameras</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-incorporating-melodies-into-youtube-repertoire/"><u>2024 Approved Incorporating Melodies Into Youtube Repertoire</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-radio-playscript-artistry/"><u>2024 Approved Prime Radio Playscript Artistry</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-definitive-guide-to-iptv-stream-preservation/"><u>2024 Approved The Definitive Guide to IPTV Stream Preservation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/how-to-edit-text-in-image-photo-text-editor-online-and-app/"><u>How to Edit Text in Image? [Photo Text Editor Online and App]</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-introduction-to-stories-essence-and-art/"><u>In 2024, Introduction to Stories' Essence and Art</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolve-lexmark-ink-errors-on-win11/"><u>Resolve Lexmark Ink Errors on Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-stable-logitech-webcam-driver-c270-for-windows-os/"><u>Secure and Stable: Logitech Webcam Driver (C270) for Windows OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplified-hardware-drivers-alteration-in-win7/"><u>Simplified Hardware Drivers Alteration in Win7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stay-up-to-date-hp-laserjets-win11-software-enhancement/"><u>Stay Up-to-Date: HP Laserjet's Win11 Software Enhancement</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-driver-transformation-radeon-hd-4800/"><u>Swift Driver Transformation: Radeon HD 4800</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-victory-in-apex-game-overhaul-complete/"><u>Swift Victory in Apex: Game Overhaul Complete!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-poco-c55-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Poco C55 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-review-of-twelve-souths-bookbook-v2-for-macbook-smart-and-stylish-protection/"><u>Ultimate Review of Twelve South's BookBook V2 for MacBook: Smart & Stylish Protection</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unite-hp-envy-5530-driver-with-your-pcs-os/"><u>Unite HP Envy 5530 Driver with Your PC's OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-and-install-new-geforce-drivers/"><u>Update & Install New GeForce Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-win-7-setup-new-gaming-mouse-driver-installed/"><u>Update Your Win 7 Setup: New Gaming Mouse Driver Installed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-extensive-info-on-vimeo-video-aspect-ratio-detailled/"><u>Updated Extensive Info on Vimeo Video - Aspect Ratio Detailled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-enhancing-visual-impact-through-typeface-integration/"><u>[New] 2024 Approved Enhancing Visual Impact Through Typeface Integration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-achieving-cinematic-quality-through-aspect-ratio-choices/"><u>[Updated] Achieving Cinematic Quality Through Aspect Ratio Choices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-roku-tv-facebook-live-broadcasting-tips-for-2024/"><u>[Updated] Navigating Roku TV Facebook Live Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-10-best-offline-android-games-to-pass-time-filmora/"><u>2024 Approved 10 Best Offline Android Games to Pass Time - Filmora</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-club-chronicles-expertly-picked-dj-videos/"><u>2024 Approved Club Chronicles Expertly Picked DJ Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-step-by-step-guide-to-thriving-in-discord/"><u>2024 Approved Step-by-Step Guide to Thriving in Discord</u></a></li>
+<li><a href="https://driver-install.techidaily.com/atheros-network-driver-seamless-reinstallation-tips/"><u>Atheros Network Driver: Seamless Reinstallation Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-to-use-w7-wi-fy-linker/"><u>Easy-to-Use W7 Wi-Fy Linker</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hardware-and-software-in-harmony-after-os-fix/"><u>Hardware & Software In Harmony After OS Fix</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-mtk-usb-drivers-on-win-1110/"><u>Install MTK USB Drivers on Win 11/10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rtx-6000-nvidia-driver-downloads/"><u>RTX 6000 NVIDIA Driver Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/securely-access-and-enhance-updated-netgear-a6200-adapter-software/"><u>Securely Access & Enhance: Updated Netgear A6200 Adapter Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-pcs-with-e1659fwu-windows-drivers/"><u>Streamline PCs with E1659FWU Windows Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-itel-a60s-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Itel A60s for Streaming | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-the-simplified-fixes-to-common-hawki-drivetrain-issues/"><u>Unveiling the Simplified Fixes to Common Hawki Drivetrain Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062407294-upgrade-your-win-11-drivers-in-minutes/"><u>Upgrade Your Win 11 Drivers in Minutes!</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-device-mgmt-camera-not-displayed-heres-how/"><u>Windows Device Mgmt: Camera Not Displayed? Here's How</u></a></li>
 </ul></div>
 

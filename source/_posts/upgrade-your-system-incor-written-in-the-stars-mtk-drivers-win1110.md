@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your System: Incor Written in the Stars - MTK Drivers, Win11/10"
-date: 2025-01-04T21:02:44.621Z
-updated: 2025-01-10T11:48:31.596Z
+date: 2025-01-09T22:59:13.479Z
+updated: 2025-01-15T19:57:32.530Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ There are two methods for you to download and install MediaTek drivers.
 
 * Option 1 –**[Manually](#m1)** – You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it, and install it step by step.
 * Option 2 –**[Automatically](#m2)** – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 Manually
 
@@ -59,13 +63,13 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, select the**Recovery** tab. Under**Advanced startup** , click**Restart now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-now-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) After booting into advanced startup, select **Troubleshoot > Advanced Options > Start-up Settings > Restart** .
 
@@ -78,10 +82,6 @@ To download and install MediaTek drivers manually, you need to:
 2) Click the**System** category, scroll down the right pane, and then click**Recovery** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win-11-recovery.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Click the Restart now button.
 
@@ -99,51 +99,51 @@ To download and install MediaTek drivers manually, you need to:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/11/win11-type-device.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In Device Manager,**click on your PC name** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-pc-name.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Action** and select**Add legacy hardware** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-dm-action-add.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the Add Hardware Wizard, click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Tick the **Install the hardware that I manually select from a list (Advanced)** option and click**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click**Show All Devices** and then**Next** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Select**Have Disk** and select the .inf file you extracted before.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Hardware-Wizard4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Select **MTK\_Driver\_ext > SP\_Drivers\_v2.0 > Android > android\_winusb** inf.
 
  9) Once selected, click**OK** . Then select the model you want and click**Next** to install. You can install all MediaTek drivers on your computer.
 
 10) Restart your PC and connect your MediaTek device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2 Automatically
 
@@ -196,17 +196,16 @@ Note: You can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-escalate-your-content-reach-leveraging-synergistic-youtube-outros/"><u>[New] In 2024, Escalate Your Content Reach Leveraging Synergistic YouTube Outros</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-seamless-screen-record-for-windows-11/"><u>[New] In 2024, Seamless Screen Record for Windows 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-creative-trail-steps-towards-thriving-as-a-designer-for-2024/"><u>[New] The Creative Trail Steps Towards Thriving as a Designer for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-unraveling-the-secrets-of-iphone-hdr-for-2024/"><u>[New] Unraveling the Secrets of iPhone HDR for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-efficient-obs-fb-streaming-techniques-for-2024/"><u>[Updated] Efficient OBS-FB Streaming Techniques for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-cloud-services-on-android-the-ultimate-2024-compilation/"><u>[Updated] Premium Cloud Services on Android The Ultimate 2024 Compilation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-on-keeping-your-chromecast-updated/"><u>Comprehensive Instructions on Keeping Your Chromecast Updated</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-win1011-screen-output-guide-to-new-hdmi-driver/"><u>Enhance Win10/11 Screen Output - Guide to New HDMI Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/logitech-mouse-driver-update-made-simple-for-windows/"><u>Logitech Mouse Driver Update Made Simple for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimized-operations-installing-firmware-update-for-win-oses/"><u>Optimized Operations: Installing Firmware Update for WIN OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/procedures-for-revamping-windows-and-intel-devices/"><u>Procedures for Revamping Windows & Intel Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xbox-one-steering-system-on-windows-10/"><u>Xbox One Steering System on Windows 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-gamers-pathway-to-impeccable-recordings/"><u>[Updated] 2024 Approved Gamers' Pathway to Impeccable Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-masterclass-review-of-vidma-screen-reporter-app/"><u>2024 Approved Masterclass Review of Vidma Screen Reporter App</u></a></li>
+<li><a href="https://driver-install.techidaily.com/alter-hardware-compatibility/"><u>Alter Hardware Compatibility</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-transition-converting-dvds-for-seamless-integration-into-your-home-media-hub/"><u>Effortless Transition: Converting DVDs for Seamless Integration Into Your Home Media Hub</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-print-jobs-officejet-pro-8710-windows-compatible-drivers-download/"><u>Optimize Print Jobs: OfficeJet Pro 8710, Windows-Compatible Drivers Download</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/quick-strategies-for-randomizing-youtube-tracks-across-media-for-2024/"><u>Quick Strategies for Randomizing YouTube Tracks Across Media for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-creme-de-la-creme-of-25-instagram-talents-for-2024/"><u>The Crème De La Crème of 25 Instagram Talents for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-intel-chipset-drivers-quickly/"><u>Update Intel Chipset Drivers! Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-audibility-boost-with-convex-audio-drivers/"><u>Windows 11 Audibility Boost with Convex Audio Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/yamaha-professional-audio-drivers-guidebook/"><u>Yamaha Professional Audio Drivers Guidebook</u></a></li>
 </ul></div>
 

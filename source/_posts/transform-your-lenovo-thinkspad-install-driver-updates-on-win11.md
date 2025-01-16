@@ -1,7 +1,7 @@
 ---
 title: Transform Your Lenovo ThinksPad - Install Driver Updates on Win11
-date: 2024-07-29T04:54:44.894Z
-updated: 2024-07-30T04:54:44.894Z
+date: 2025-01-08T19:43:10.876Z
+updated: 2025-01-16T04:03:42.106Z
 tags:
   - win11
   - win10
@@ -34,30 +34,18 @@ You can go to Lenovo’s official website to check for and download the latest W
   
  3.**Select Series** to the one that your PC belongs to. For instance, if you are using Lenovo ThinkPad Yoga 11e, select the 11e Series. You can identify the right series by checking the whole displayed name. For ThinkPad series, you will see ThinkPad at the end of the name.  
   
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e353b836c7f.jpg)
 
  4.**Select Sub-Series** . (Let’s take 11e (Type 20D9, 20DA) Laptop (Thinkpad) for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3551d14e36.jpg)
 
  5\. Click**view all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e355a7dd5d4.jpg)
 
  6\. Scroll down and pick a component that you wish to update driver for. And select the Operating System to Windows 10 64-bit or Windows 32-bit. If you are not sure what specific version of Windows 10 that your PC is running, see [Quickly Get Operating System Version (Windows)](https://tools.techidaily.com/drivereasy/download/) .
   
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e3560c14318.jpg)
 
  Then the drivers will be listed. You may see several options. Identify the right driver to download. It is recommended to download the latest version.  
@@ -76,16 +64,10 @@ Follow these steps to install new audio drivers via Device Manager.
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355190d0976.png)
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551c56595c.png)
   
  **Way 3 (Recommended): Update the Drivers Automatically**
@@ -110,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,8 +99,26 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-bypass-latency-with-av1-in-youtube-settings/"><u>[New] In 2024, Bypass Latency with AV1 in YouTube Settings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-constructing-inquiry-curtain-closers-for-2024/"><u>[Updated] Constructing Inquiry Curtain Closers for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/adapt-canon-mx870-for-windows-os/"><u>Adapt Canon MX870 for Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/epson-et-2650-driver-download-for-windows-111087/"><u>Epson ET-2650 Driver Download for Windows 11/10/8/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fine-tune-processor-and-packages/"><u>Fine-Tune Processor & Packages</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gain-language-confidence-with-daily-10-minute-tagalog-sessions/"><u>Gain Language Confidence with Daily 10-Minute Tagalog Sessions</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-nord-ce-3-lite-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Nord CE 3 Lite 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-elevate-your-content-on-facebook-using-wirecast/"><u>In 2024, Elevate Your Content on Facebook Using Wirecast</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/evel-mobile-media-capture-iphone-and-androids-top-5-apps-for-2024/"><u>Pro-Level Mobile Media Capture IPhone and Android's Top 5 Apps for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operations-revamped-installation-of-f4770n-driver-in-winos/"><u>Smooth Operations Revamped: Installation of F4770n Driver in WINOS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speed-up-your-graphics-setup-with-hd-4800-drivers/"><u>Speed Up Your Graphics Setup with HD 4800 Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-gtx-760-drivers-with-ease/"><u>Upgrading GTX 760 Drivers with Ease</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-compatible-m2-ssd-guide/"><u>Win Compatible M.2 SSD Guide</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Steady Crashing Issues with Metro Exodus: Gold Edition"
-date: 2025-01-03T08:05:15.812Z
-updated: 2025-01-10T13:21:35.510Z
+date: 2025-01-13T16:47:41.144Z
+updated: 2025-01-15T19:59:08.425Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 **Metro Exodus PC Enhanced Edition** is finally out. As a radical update to the original game, the PC Enhanced Edition features Ray Tracing, 60 FPS, Field of View options, DLSS 2.0 and more. However, there’re still many gamers reporting that**Metro Exodus PC Enhanced Edition keeps crashing** on their computers. If you’re experiencing the same issue, you’ve come to the right place. After reading this article, you should be able to fix this issue easily!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Stop overclocking
 
@@ -55,14 +59,10 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -85,16 +85,12 @@ If the issue persists, try the next fix below.
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
 
@@ -103,6 +99,10 @@ If the issue persists, try the next fix below.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable in-game overlays
 
@@ -117,7 +117,7 @@ If the issue persists, try the next fix below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
@@ -146,15 +146,15 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -184,18 +184,18 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[Updated] In 2024, How to Force YouTube CC to Stay On and Get More Views</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-swift-success-stories-leveraging-instagram-likes-and-videos/"><u>[Updated] Swift Success Stories Leveraging Instagram Likes and Videos</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-driver-updates-on-windows-versions-10plus81plus7-guide/"><u>Accelerate Driver Updates on Windows Versions: 10+8.1+7 Guide!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effortlessly-record-time-lapses-on-apple-devices-for-2024/"><u>Effortlessly Record Time-Lapses on Apple Devices for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-device-control-intel-me/"><u>Enhance Device Control: Intel ME</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-lexmark-driver-update-procedure/"><u>Enhance Lexmark Driver Update Procedure</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-affordable-high-res-4k-cameras-under-1k/"><u>In 2024, Affordable High-Res 4K Cameras Under $1K</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/last-call-for-epic-gaming-blowouts-in-october-202-the-best-prime-day-deals-save-big-s-insider-tips/"><u>Last Call for Epic Gaming Blowouts in October 202 The Best Prime Day Deals | Save Big 'S Insider Tips!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/latest-guide-on-minecraft-mod-downloads-2024-strategies-and-best-practices/"><u>Latest Guide on Minecraft Mod Downloads: 2024 Strategies and Best Practices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-canon-printer-f4770n-drivers-for-windows-oses/"><u>New Canon Printer F4770N Drivers for Windows OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolving-startech-conflicts-across-windows-versions/"><u>Resolving StarTech Conflicts Across Windows Versions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-astro-performance-update-and-install-steps/"><u>Streamlining Astro Performance: Update & Install Steps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-editors-codex-innovations-in-youtube-video-formatting-for-2024/"><u>The Editor's Codex Innovations in Youtube Video Formatting for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixed-conexant-driver-compatibility-with-win10/"><u>[Fixed]: Conexant Driver Compatibility with Win10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-essence-of-online-video-success-keywords-on-youtube-for-2024/"><u>[New] The Essence of Online Video Success Keywords on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-10-portable-tools-dominating-video-editing-landscape/"><u>[New] Top 10 Portable Tools Dominating Video Editing Landscape</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-capturing-the-world-in-full-circle-experts-360-cams-review-2023/"><u>[Updated] 2024 Approved Capturing the World in Full Circle - Expert's 360 Cams Review, 2023</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-customer-driven-marketing-through-authenticity-in-video/"><u>[Updated] 2024 Approved Customer-Driven Marketing Through Authenticity in Video</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-h420-on-windows-effortlessly/"><u>Boost Your H420 on Windows Effortlessly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-windows-10-with-new-graphics-drivers/"><u>Enhance Windows 10 with New Graphics Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-msvcr120dll-absence-errors-on-pc/"><u>Essential Fixes for 'Msvcr120_dll' Absence Errors on PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-install-microsoft-pro-4-drivers-in-windows/"><u>How to Install Microsoft Pro 4 Drivers in Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform/"><u>In 2024, An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-linus-torvalds-tech-world-discussing-rust-in-linux-daily-routines-and-tips-for-the-ultrabook-a-deep-dive-by-zdnet/"><u>Inside Linus Torvalds' Tech World: Discussing Rust in Linux, Daily Routines & Tips for the Ultrabook - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3wma-windows-media-player/"><u>MP3ファイルからWMAへの効率的な変換方法 - Windows Media Playerで使えるテクニック</u></a></li>
+<li><a href="https://facebook.techidaily.com/unplugging-the-plugged-in-world-via-facebook/"><u>Unplugging the Plugged-In World via Facebook</u></a></li>
 </ul></div>
 

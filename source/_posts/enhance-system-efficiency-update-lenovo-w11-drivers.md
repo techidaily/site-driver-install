@@ -1,7 +1,7 @@
 ---
 title: Enhance System Efficiency - Update Lenovo W11 Drivers
-date: 2024-07-29T04:56:07.215Z
-updated: 2024-07-30T04:56:07.215Z
+date: 2025-01-13T05:07:47.486Z
+updated: 2025-01-16T05:09:10.721Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ You can go to Lenovo’s official website to check for and download the latest W
 
  5\. Click**view all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e355a7dd5d4.jpg)
 
  6\. Scroll down and pick a component that you wish to update driver for. And select the Operating System to Windows 10 64-bit or Windows 32-bit. If you are not sure what specific version of Windows 10 that your PC is running, see [Quickly Get Operating System Version (Windows)](https://tools.techidaily.com/drivereasy/download/) .
@@ -64,23 +60,14 @@ Follow these steps to install new audio drivers via Device Manager.
   
 1\. Press **Win+R** (**Windows logo** key and **R**  key) at the same time. A Run dialog box will appear. Then Device Manager will open.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
   
  2\. In Device Manager, locate the device that you wish to update driver for. Right click on it and select**Update Driver Software…** . (Let’s take updating audio driver for example.)  
   
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355190d0976.png)
   
  2\. Click**Search automatically for updated driver software** . Then Windows will search and install the new driver for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551c56595c.png)
   
  **Way 3 (Recommended): Update the Drivers Automatically**
@@ -91,16 +78,10 @@ Follow these steps to install new audio drivers via Device Manager.
   
  1\. Click**Scan Now** button. After a few seconds, you will be given a list of new drivers to update.  
   
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99aab8ab8.png)
   
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.  
   
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd99bde5485.jpg)
 
  With Driver Easy, you can update Lenovo Thinkpad Windows 10 drivers in several minutes.
@@ -111,8 +92,6 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,8 +99,25 @@ Follow these steps to install new audio drivers via Device Manager.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/solved-final-fantasy-xv-crashing-on-pc/"><u>[Solved] Final Fantasy XV Crashing on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unmatched-video-capture-selecting-the-best-pc-and-mac-recorder/"><u>[Updated] Unmatched Video Capture Selecting the Best PC & Mac Recorder</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/advanced-techniques-for-using-the-instagram-sticker-question-mark/"><u>Advanced Techniques for Using the Instagram Sticker Question Mark</u></a></li>
+<li><a href="https://driver-install.techidaily.com/contingency-planning-for-systems/"><u>Contingency Planning for Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-wacom-bamboo-software-update/"><u>Effortless Wacom Bamboo Software Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-chilling-cases-the-ultimate-selection-of-13-true-crime-audio-series/"><u>Explore Chilling Cases: The Ultimate Selection of 13 True Crime Audio Series</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-concept-of-output-impedance-explained/"><u>Exploring the Concept of Output Impedance Explained</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fresh-beats-new-software-tips-for-scarlett-6i6-driver-update/"><u>Fresh Beats, New Software: Tips for Scarlett 6I6 Driver Update</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/go-digital-capturing-lifes-motion-with-ios-device-for-2024/"><u>Go Digital Capturing Life's Motion with iOS Device for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-fuss-just-updates-new-drivers-on-z50-70/"><u>No Fuss, Just Updates: New Drivers on Z50-70</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-hp-laserjet-printer-driver-errors-on-windows/"><u>Resolve: HP LaserJet Printer Driver Errors on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-zero-x-eight-oh-three-one-f-error-in-email-app/"><u>Tackling Windows' Zero X Eight Oh Three One F Error in Email App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

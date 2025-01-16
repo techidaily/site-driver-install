@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Refresh Your Lenovo Dock
-date: 2025-01-06T11:02:46.056Z
-updated: 2025-01-10T01:53:31.823Z
+date: 2025-01-12T17:01:46.937Z
+updated: 2025-01-15T20:42:07.057Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  In this tutorial, we’ll guide you through the process of updating the drivers for your Lenovo USB-C Dock, both automatically and manually.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## To update Lenovo USB-C Dock drivers in Windows
 
 **[Option 1 – Automatically (Recommended)](#O1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 **[Option 2 – Manually](#O2)** – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1 – Update Lenovo USB-C Dock drivers** for Windows automatically (Recommended)
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
@@ -77,18 +73,22 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
 5. In the result page, choose the driver corresponding to your Windows version and click the**Download** icon. Be sure to select the first download for the latest release.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver.png)
 6. Once the download is complete, extract the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Double-click on the execution file and follow the on-screen instructions to install.
 8. Don’t forget to restart your computer for the changes to take effect.
@@ -117,21 +117,19 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-boost-professional-look-adding-borders-to-instagram-content/"><u>[New] Boost Professional Look Adding Borders to Instagram Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-tips-to-incorrante-tv-with-facebook-live-integration-for-2024/"><u>[Updated] Tips to Incorrante TV with Facebook Live Integration for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-dive-deep-into-single-platform-livestreaming-with-onestream/"><u>2024 Approved Dive Deep Into Single-Platform Livestreaming with OneStream</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-w710-performance-aoc-driver-ve1659/"><u>Boost W7/10 Performance - AOC Driver vE1659</u></a></li>
-<li><a href="https://driver-install.techidaily.com/compreenas-easy-guide-for-upgrading-ie-drivers-in-legacy-oses/"><u>Compreenas Easy Guide for Upgrading IE Drivers in Legacy OSes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hardware-software-bottleneck/"><u>Hardware-Software Bottleneck</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reverting-system-backups-to-standard-configurations/"><u>Reverting System Backups to Standard Configurations</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplified-approach-to-reinstalling-print-drivers/"><u>Simplified Approach to Reinstalling Print Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-techniques-boosting-your-virtual-memory-in-windows-11/"><u>The Essential Techniques: Boosting Your Virtual Memory in Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranking-smart-thermostat-that-isnt-from-ecobee-or-amazon-my-reviews-at-zdnet/"><u>Top-Ranking Smart Thermostat That Isn't From Ecobee or Amazon - My Reviews at ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-bitcoin-potential-on-windows-via-amd-drivers/"><u>Unlock Bitcoin Potential on Windows via AMD Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveiling-the-procedure-for-dell-realtek-driver-renewal/"><u>Unveiling the Procedure for Dell Realtek Driver Renewal</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-hub-mastery-achieved-post-fixes/"><u>Windows Hub Mastery Achieved Post-Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bamboo-drivers-just-a-click-away/"><u>Bamboo Drivers, Just a Click Away!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/compact-and-efficient-in-depth-analysis-of-the-nomad-65w-power-adapter-must-have-for-your-laptop-backpack/"><u>Compact and Efficient: In-Depth Analysis of the Nomad 65W Power Adapter - Must-Have for Your Laptop Backpack</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007697972-directx-glitches-in-battlefield-2042-heres-how-to-fix-them/"><u>DirectX Glitches in Battlefield 2042? Here's How to Fix Them</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guida-estensiva-per-il-cleaning-del-disco-di-stoccaggio-dod-522022-m/"><u>GUIDA ESTENSIVA PER IL CLEANING DEL DISCO DI STOCCAGGIO DOD 5220.22-M</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/guide-to-locating-vanished-eyes-only-images-on-snapchat-for-2024/"><u>Guide to Locating Vanished Eyes-Only Images on Snapchat for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011915706-how-to-fix-starfield-wont-launch-on-steamxbox/"><u>How to Fix Starfield Won't Launch on Steam/Xbox</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-driver-management-for-lenovo-u310/"><u>Intuitive Driver Management for Lenovo U310</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-xps-network-miniport-obstructions-now-fixed/"><u>Overcoming XP's Network Miniport Obstructions - Now Fixed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-tracer-corrections-in-audio-devices/"><u>Simplify Tracer Corrections in Audio Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smoothly-upgrading-win10s-touch/"><u>Smoothly Upgrading Win10's Touch</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-high-latency-in-virtual-construction-platform/"><u>Solving High Latency in Virtual Construction Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-and-harnessing-chatgpt-for-language-translation/"><u>Understanding and Harnessing ChatGPT for Language Translation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-poco-m6-pro-4g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Poco M6 Pro 4G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-printer-drivers-hp-laserjet-for-windows-10-users/"><u>Upgrade Printer Drivers - HP Laserjet for Windows 10 Users</u></a></li>
 </ul></div>
 

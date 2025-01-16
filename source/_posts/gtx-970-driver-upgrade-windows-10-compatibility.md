@@ -1,7 +1,7 @@
 ---
 title: "GTX 970 Driver Upgrade: Windows 10 Compatibility"
-date: 2024-07-29T04:54:27.292Z
-updated: 2024-07-30T04:54:27.292Z
+date: 2025-01-13T06:38:53.501Z
+updated: 2025-01-16T05:07:05.216Z
 tags:
   - win11
   - win10
@@ -38,16 +38,10 @@ Follow these steps:
 
  4\. Under Manual Driver Search section, select the right Series (Geforce 900 Series), product name (Geforce GTX 970) and the operating system version (Windows 10 64-bit or 32-bit). After that, click**START SEARCH** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2822d4b5a6.jpg)
 
  5\. Then you will see a list of drivers below. Click on the latest version. You can identify it easily from the Version number.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a28370968cc.jpg)
 
  6\. Click**AGREE & DOWNLOAD** . Then the download process will begin automatically.
@@ -60,9 +54,6 @@ Follow these steps:
 
 Follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  1\. Press **Win+R** (Windows logo ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fef72359c9c.png) key and R key) at the same time. A Run dialog box will appear.
 
  2\. Type **devmgmt.msc** in the run box and click **OK** button.
@@ -71,17 +62,10 @@ Follow these steps.
 
  3\. In Device Manager, expand category **Display adapters**  . Find NVIDIA graphics card device under this category. Right-click on it and select **Update Driver Software** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a285b02ab52.png)
 
  4\. Select**Search automatically for updated driver software** . Then Windows will install a newer version of driver automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a286a881cbe.jpg)
 
  **Way 3: Update the Driver Using [Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
@@ -94,9 +78,6 @@ Follow these steps.
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically. Or you can click the Update button to update the driver that you wish to update.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef0bd6c5552.jpg)
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -109,8 +90,6 @@ Follow these steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,8 +97,30 @@ Follow these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-the-seamless-blend-of-images-into-majestic-collage-art/"><u>[New] The Seamless Blend of Images Into Majestic Collage Art</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-tips-for-uploading-external-urls-to-ig/"><u>[Updated] In 2024, Tips for Uploading External URLs to IG</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlocking-facebook-video-integration-with-home-screen-apps/"><u>2024 Approved Unlocking Facebook Video Integration with Home Screen Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/4-ways-to-record-internal-android-audio-no-rooting-for-2024/"><u>4 Ways to Record Internal Android Audio (No Rooting) for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-comprehensive-review-of-the-slim-silver-sealoc-coastal-55-4k-screen-perfect-for-your-outdoor-setup/"><u>A Comprehensive Review of the Slim, Silver Sealoc Coastal 55'' 4K Screen Perfect for Your Outdoor Setup</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compare-and-contrast-why-the-samsung-galaxy-a71-5g-is-a-wise-alternative-to-premium-phones/"><u>Compare and Contrast: Why the Samsung Galaxy A71 5G Is a Wise Alternative to Premium Phones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/diagnosing-and-correcting-windows-driver-setup-errors/"><u>Diagnosing and Correcting Windows Driver Setup Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-visuals-install-hp-graphics-on-windows-10/"><u>Elevate Visuals - Install HP Graphics on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-nvidia-audio-for-improved-win7-experience/"><u>Enhanced Nvidia Audio for Improved Win7 Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-phantom-v-fold-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Phantom V Fold</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-does-apple-protect-your-cloud-based-ai-information-understanding-its-importance/"><u>How Does Apple Protect Your Cloud-Based AI Information? Understanding Its Importance.</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063781379-how-to-update-drivers-in-windows-11-81-7-quickly-and-easily/"><u>How to Update Drivers in Windows 11, 8.1, 7. Quickly & Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fixes-for-amd-hardware-efficient-driver-updates-on-wins/"><u>Quick Fixes for AMD Hardware - Efficient Driver Updates on Wins</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-acuity-inkjet-issues-on-windows-11/"><u>Rectify Acuity Inkjet Issues on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/securing-and-enhancing-msi-modules-for-outdated-windows/"><u>Securing & Enhancing MSI Modules for Outdated Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-connection-windows-driver-for-tp-link-device/"><u>Streamline Your Connection: Windows Driver for TP Link Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-budget-routers-evaluated-the-comprehensive-tp-link-archer-c9-review/"><u>Top Budget Routers Evaluated: The Comprehensive TP-Link Archer C9 Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-11-audio-driver-refresh-guide/"><u>Win 11: Audio Driver Refresh Guide</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

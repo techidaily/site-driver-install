@@ -1,7 +1,7 @@
 ---
 title: "Taming the Wild: Stabilized HP 1020 in Win OS"
-date: 2025-01-03T19:27:02.399Z
-updated: 2025-01-09T20:38:48.494Z
+date: 2025-01-09T22:08:10.376Z
+updated: 2025-01-15T19:55:21.865Z
 tags:
   - win11
   - win10
@@ -36,16 +36,16 @@ Time needed:  3 minutes.
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
 
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run the downloaded file, and follow the wizard to finish.
 
@@ -63,26 +63,30 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 4. In Device Manager, double click**Printers** or**Print queues** to expand it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After updating, restart your computer.
 
  If this fix doesn’t work for you, don’t worry. There’s another method to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update the printer driver automatically (Recommended)
 
@@ -97,15 +101,11 @@ After updating, restart your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 3. Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf904f0bf.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. After updating, restart your computer to take effect.
@@ -136,22 +136,22 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/no-more-black-screens-a-complete-guide-to-resolving-star-wars-battlefront-ii-gaming-problems/"><u>'No More Black Screens': A Complete Guide to Resolving Star Wars Battlefront II Gaming Problems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-banner-templates-for-youtube-downloads-and-makers/"><u>[New] In 2024, Free Banner Templates for YouTube Downloads & Makers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-open-access-to-the-masters-oeuvre/"><u>[Updated] In 2024, Open Access to the Masters' Oeuvre</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-proficient-content-tagging-made-simple-the-best-7-budget-friendly-online-taggification-apps-reviewed-for-2024/"><u>[Updated] Proficient Content Tagging Made Simple The Best 7 Budget-Friendly Online Taggification Apps Reviewed for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram/"><u>In 2024, Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-look-at-the-google-pixel-tablet-comprehensive-spec-sheet-and-launch-timeline-available-now/"><u>Inside Look at the Google Pixel Tablet – Comprehensive Spec Sheet and Launch Timeline Available Now</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722988859700-no-charge-fixes-for-call-of-duty-black-ops-cold-war-beating-the-chilling-glitch/"><u>No Charge Fixes for Call of Duty: Black Ops Cold War - Beating the Chilling Glitch!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcoming-game-crashes-a-players-guide-to-fixing-dev-error-6634-in-call-of-duty-warzone/"><u>Overcoming Game Crashes: A Player's Guide to Fixing Dev Error 6634 in Call of Duty: Warzone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-setup-of-pro-6-drivers/"><u>Rapid Setup of Pro 6 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-graphics-driver-renewal-rx-5500xt/"><u>Speedy Graphics Driver Renewal: RX 5500XT</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-to-successfully-install-new-printer-drivers-on-win-systems/"><u>Steps to Successfully Install New Printer Drivers on WIN Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sync-up-systems-integrate-hp-print-driver-with-windows-pc/"><u>Sync Up Systems: Integrate HP Print Driver with Windows PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/systematic-uninstall-install-cycle-for-wacom-devices-on-windows/"><u>Systematic Uninstall-Install Cycle for Wacom Devices on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackle-win11-sound-issues-update-hardware-software/"><u>Tackle Win11 Sound Issues - Update Hardware Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-latest-tech-compatible-bluetooth-drivers-for-w11plus/"><u>Unlock Latest Tech: Compatible Bluetooth Drivers for W11+</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dissecting-biggest-fifa-footage-trends-in-graphs/"><u>[New] 2024 Approved Dissecting Biggest FIFA Footage Trends in Graphs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-in-depth-look-screen-capture-tools-for-mac/"><u>[Updated] In 2024, In-Depth Look Screen Capture Tools for Mac</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pinpointing-youtubes-favorite-remarks/"><u>[Updated] Pinpointing YouTube's Favorite Remarks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-creating-stunning-reaction-videos-using-filmora/"><u>2024 Approved From Zero to Hero Creating Stunning Reaction Videos Using Filmora</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/correct-no-sound-issue-on-shared-videos/"><u>Correct No Sound Issue on Shared Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/engaging-visuals-meet-smooth-play-with-lgs-4k-freesync-tv/"><u>Engaging Visuals Meet Smooth Play with LG's 4K FreeSync TV</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-printing-experience-resolved-laserjet-1020-issues/"><u>Enhanced Printing Experience: Resolved LaserJet 1020 Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-upgrade-your-wireless-setup-new-atheros-drivers-in-windows-10/"><u>How to Upgrade Your Wireless Setup: New Atheros Drivers in Windows 10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-personal-growth-reflections-for-digital-platforms/"><u>In 2024, Personal Growth Reflections for Digital Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-apple-iphone-15-plus-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>In 2024, Wondering the Best Alternative to Hola On Apple iPhone 15 Plus? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/leap-forward-in-os-stability-and-speed-update-to-mf4770n/"><u>Leap Forward in OS Stability & Speed - Update to MF4770n</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/maximizing-xbox-broadcast-transitioning-to-fb-live-for-2024/"><u>Maximizing Xbox Broadcast Transitioning to FB Live for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-the-update-process-for-s1500-scans/"><u>Navigating the Update Process for S1500 Scans</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-driver-processing-on-lenovos-u310/"><u>Optimized Driver Processing on Lenovo's U310</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-streamline-your-sound-via-dell-realtek-update/"><u>Secure & Streamline Your Sound via Dell Realtek Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-hp-omen-15-drivers-for-optimal-performance/"><u>Streamlining HP Omen 15 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xbox-controller-software-update-for-pcs/"><u>XBox Controller Software Update for PCs</u></a></li>
 </ul></div>
 

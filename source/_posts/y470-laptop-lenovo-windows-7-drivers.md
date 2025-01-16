@@ -1,7 +1,7 @@
 ---
 title: Y470 Laptop - Lenovo Windows 7 Drivers
-date: 2024-07-29T04:55:52.525Z
-updated: 2024-07-30T04:55:52.525Z
+date: 2025-01-13T19:19:45.405Z
+updated: 2025-01-15T21:09:22.840Z
 tags:
   - win11
   - win10
@@ -61,30 +61,18 @@ This passage mainly shows you how to download and update device drivers for your
   
  2) Select the**Drivers & Software** button on the top part of the page.
   
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e1091dd41a0-1024x433.jpg)
 
 3) Enter your product name here in the search box.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57e10a6c0516b-600x297.jpg)
 
 4) Make sure the operating system information is correct according to your own OS,**Windows 7 (64-bit or 32-bit)**. Then choose from the list of choice of**Component**the device driver that you need on your laptop.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/look-for-drivers-or-software-for-your-machine.jpg)
   
  5) We will show you how to download the Audio driver on this webpage. Choose**Audio** from the Component category, then click the down arrow under**Download File** . Wait for your browser to download the file for you.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/download-file-form-lenovo-1024x256.jpg)
 
 6) Go to **[Device Manager](https://tools.techidaily.com/drivereasy/download/)** .
@@ -95,16 +83,10 @@ We use Audio driver as an example, so we will expand **Sound, video and game con
   
  If there is something wrong with your device driver, you might need to look for it under the category **Other devices**  and see if devices with yellow exclamation marks can be seen.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/double-click-high-definition-audio-device.png)
   
 8) Then choose**Update Drivers…**under**Driver**tab.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/update-driver.png)
 
 9) Then choose**Browse my computer for driver software**.
@@ -129,9 +111,6 @@ In addition, it is a very easy software to use. There are only two steps involve
   
 Step one, press the**Scan Now**button.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f084541e01e.png)
 
 Step two, press the**Update**button next to the driver that you would like to update.
@@ -148,8 +127,6 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,8 +134,28 @@ If you want to enjoy more features such as driver backup and driver restore as w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premium-peak-predictor-unveil-top-8-rankings/"><u>2024 Approved Premium Peak Predictor Unveil Top 8 Rankings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/achieving-cinematic-quality-through-aspect-ratio-choices/"><u>Achieving Cinematic Quality Through Aspect Ratio Choices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bengali-breakthroughs-in-brief-sessions/"><u>Bengali Breakthroughs in Brief Sessions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-drivers-revamp-on-your-windows-11-pc/"><u>Effortless Drivers Revamp on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-iso-file-compatibility-on-plex-fixing-playback-troubles-seamlessly/"><u>Effortless ISO File Compatibility on Plex - Fixing Playback Troubles Seamlessly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-device-performance-with-new-mf4770n-windows-drivers/"><u>Elevate Device Performance with New MF4770n Windows Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-recording-quality-instructions-for-driving-changes/"><u>Elevate Recording Quality: Instructions for Driving Changes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/game-on-android-a-deep-dive-into-kinemaster-features-for-2024/"><u>Game On Android A Deep Dive Into KineMaster Features for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-display-settings-install-hp-graphics-in-win11/"><u>Improve Display Settings: Install HP Graphics in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-updated-gtx-960-drivers/"><u>Install Updated GTX 960 Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/picture-perfect-presentation-software-for-impeccable-photo-framing/"><u>Picture Perfect Presentation Software for Impeccable Photo Framing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/proven-practice-for-preserving-playthroughs-tips-and-tricks-for-recording-roblox-gameplay-on-a-mac/"><u>Proven Practice for Preserving Playthroughs Tips & Tricks for Recording Roblox Gameplay on a Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quieting-audio-tracks-for-serenity/"><u>Quieting Audio Tracks for Serenity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rx-570-graphics-upgrade-new-windows-11710-drivers-downloading/"><u>RX 570 Graphics Upgrade: New Windows 11/7/10 Drivers Downloading</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-transition-to-win11-with-updated-hp-printer-drivers/"><u>Seamless Transition to Win11 with Updated HP Printer Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-potential-rtx-ti-for-windows/"><u>Unleash Potential: RTX Ti for Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S24 | Dr.fone</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

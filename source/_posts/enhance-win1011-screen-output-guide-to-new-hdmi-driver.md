@@ -1,7 +1,7 @@
 ---
 title: Enhance Win10/11 Screen Output - Guide to New HDMI Driver
-date: 2024-07-29T04:54:25.724Z
-updated: 2024-07-30T04:54:25.724Z
+date: 2025-01-14T17:07:13.947Z
+updated: 2025-01-15T17:06:11.606Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 
  You may experience problems with your HDMI if the**graphics driver is outdated, corrupted, or incompatible** with your operating system. Therefore, you just need to make sure the graphics card driver is up to date.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update HDMI related drivers
 
  There are two ways you can update your HDMI related drivers (the graphics driver) on Windows 10:
@@ -40,6 +44,10 @@ OR
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2 – Automatically update the graphics driver
 
  If you don’t have the time, patience, or computer skills to update the graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -50,39 +58,32 @@ OR
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
- Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Is HDMI still not working?
 
  Updating your graphics driver can fix some HDMI issues, but if this method didn’t do the trick, you might want to try the following troubleshooting steps:
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 1 – Change display settings
 
  1) On your keyboard press the **Windows logo key** and **P** to check your computer display settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/extend.jpg)
 
 _Display modes on Windows 11_
@@ -99,8 +100,9 @@ _Display modes on Windows 10_
  2) Experiment with each mode, and you will be able to see images on the screen connected via HDMI when the display settings are correct.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2 – Restart and reconnect everything
 
 1) Disconnect all your HDMI cables from your ports.
@@ -130,8 +132,6 @@ _Display modes on Windows 10_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,8 +139,22 @@ _Display modes on Windows 10_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-team-with-expert-talent-selections/"><u>[New] In 2024, Elevate Your Team with Expert Talent Selections</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-essential-blueprint-for-tiktok-on-zoom-platforms/"><u>2024 Approved The Essential Blueprint for TikTok on Zoom Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-oppo-a18-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Oppo A18</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/canvas-mastery-top-10-editing-strategies-unveiled/"><u>Canvas Mastery Top 10 Editing Strategies Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-the-course-for-safe-ai-ceos-regulatory-plea/"><u>Charting the Course for Safe AI: CEO’s Regulatory Plea</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-xs-max-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone XS Max</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/discovering-your-microsoft-office-autorecovery-files-path-on-a-windows-pc/"><u>Discovering Your Microsoft Office Autorecovery Files' Path on a Windows PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-installer-enable-your-tp-link-adapter-on-windows-pcs/"><u>Easy Installer: Enable Your TP Link Adapter on Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-visuals-windows-11-plus-new-hp-graphics-driver/"><u>Improve Visuals: Windows 11 + New HP Graphics Driver</u></a></li>
+<li><a href="https://win-blog.techidaily.com/origins-digital-login-gateway-fully-operational-again-post-outage/"><u>Origin's Digital Login Gateway Fully Operational Again Post-Outage</u></a></li>
+<li><a href="https://driver-install.techidaily.com/powerful-printers-smooth-performance-update-windows-10-laserjet-drivers/"><u>Powerful Printers, Smooth Performance - Update Windows 10 Laserjet Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rx-5500xt-driver-update-make-it-swift/"><u>RX 5500XT Driver Update: Make It Swift</u></a></li>
+<li><a href="https://driver-install.techidaily.com/standard-procedure-uninstalling-wacom-on-various-windows-editions/"><u>Standard Procedure: Uninstalling Wacom on Various Windows Editions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transformative-updates-revamping-logitech-mouse-for-w11/"><u>Transformative Updates: Revamping Logitech Mouse for W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-7810-overcoming-common-startech-driver-challenges/"><u>Win 7/8/10: Overcoming Common StarTech Driver Challenges</u></a></li>
+</ul></div>
 

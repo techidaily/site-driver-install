@@ -1,7 +1,7 @@
 ---
 title: Tips & Tricks for Smooth Installation and Update of AMD Video Drivers
-date: 2024-07-29T04:54:14.538Z
-updated: 2024-07-30T04:54:14.538Z
+date: 2025-01-09T01:43:35.624Z
+updated: 2025-01-16T05:12:26.749Z
 tags:
   - win11
   - win10
@@ -16,28 +16,18 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 
 ## Tips & Tricks for Smooth Installation and Update of AMD Video Drivers
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f83ad32d29.jpg)
 
  Having an issue with your AMD video card? Don’t worry. You can update your**AMD video driver** to the latest version to fix any graphics issues, and bring you the best possible experience, especially when playing PC games.
 
  This post will show you three methods to download and update AMD graphics card driver quickly and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Download and Update AMD video driver for Windows 10/8/7
 
 1. [Download your AMD video driver manually](#Fix1)
 2. [Update your AMD video driver automatically](#Fix2)
 3. [Update your AMD video driver in Device Manager](#Fix3)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Method 1: Download your AMD video driver manually
 
  As one of the biggest manufacturers of graphics cards, you can download the latest version of your AMD graphics driver from the AMD website:
@@ -54,6 +44,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f82b2be76c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Select the latest driver that is matched with your system to download.
 
 4) After download the latest version for your AMD video card, install the driver in your computer.
@@ -62,9 +56,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Manually downloading drivers requires time and computer skills. If this method doesn’t work for you, you can try other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Method 2: Update your AMD video driver automatically
 
  If you don’t have time or patience, you can automatically update your AMD video drivers with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -85,27 +76,33 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f84eae6ca1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to make it take effect.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Method 3: Update your AMD video driver in Device Manager
 
  You can also update the driver for your AMD video card in Device Manager, where you can view and manage hardware settings and driver software installed on your computer. Here’s how to do it:
 
 **Note** : the screenshots below come from Windows 10, but the fixes also work on Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Double click**Display adapters** to expand it.
 
@@ -115,11 +112,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) If you have the AMD video driver in a DVD or CD delivered with your graphics card, you can choose**Browse my computer for driver software** , then insert the DVD into your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85aa9e26e.jpg)
 
  If you don’t have the AMD video driver stored in the DVD media, you can choose**Search automatically for updated driver software** .
@@ -145,8 +143,6 @@ Feel free to add a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,8 +150,26 @@ Feel free to add a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-craft-humorous-images-on-no-cost/"><u>[New] Craft Humorous Images on No-Cost</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-vigorvault-games-best-speedy-software-for-systems-for-2024/"><u>[New] VigorVault Games - Best Speedy Software for Systems for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unveiling-top-15-cost-saving-web-editors-rated-best/"><u>[Updated] 2024 Approved Unveiling Top 15 Cost-Saving Web Editors - Rated Best</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-simple-swift-and-superior-voice-tweaks-for-pubg-players/"><u>[Updated] Simple, Swift, and Superior Voice Tweaks for PUBG Players</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-for-high-quality-movies-on-windowsmac-and-tablets-for-2024/"><u>[Updated] The Ultimate Guide for High-Quality Movies on Windows/Mac & Tablets for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bluetooth-fixes-win-1011-drivers-installed-simply/"><u>Bluetooth Fixes: Win 10/11 Drivers, Installed Simply</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/can-you-get-back-lost-photos-and-notes-on-your-iphone-post-factory-reset-heres-how/"><u>Can You Get Back Lost Photos & Notes on Your iPhone Post-Factory Reset? Here’s How</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-download-win-m2-storage-support/"><u>Direct Download: Win M.2 Storage Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-latest-quadro-rtx-firmware/"><u>Download Latest Quadro RTX Firmware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-driver-downloads-for-canon-and-windows-users/"><u>Hassle-Free Driver Downloads for Canon & Windows Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-m14-4g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy M14 4G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reviewing-acid-pro-seeking-substitutes/"><u>In 2024, Reviewing ACID Pro Seeking Substitutes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-foundation-of-a-great-facebook-presence-mastering-covers/"><u>In 2024, The Foundation of a Great Facebook Presence Mastering Covers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-canon-mx870-driver-for-windows-11-7-and-8/"><u>Install Canon MX870 Driver for Windows 11, 7 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-wireless-lan-card-drivers-for-windows-1178-free-download/"><u>Latest HP Wireless LAN Card Drivers for Windows 11/7/8 – Free Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-yoga-900-breezy-firmware-update-guide/"><u>Lenovo Yoga 900: Breezy Firmware Update Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-pc-with-just-one-click-on-asus-driver-download/"><u>Optimize PC with Just One Click on ASUS Driver Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-install-pro-6-driver-updates/"><u>Quick Install: Pro 6 Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-tech-tips-refreshing-intel-hardware-drivers/"><u>Windows Tech Tips: Refreshing Intel Hardware Drivers</u></a></li>
+</ul></div>
 

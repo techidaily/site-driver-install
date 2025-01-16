@@ -1,7 +1,7 @@
 ---
 title: Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink
-date: 2025-01-04T21:35:41.069Z
-updated: 2025-01-10T03:19:46.285Z
+date: 2025-01-13T17:46:10.511Z
+updated: 2025-01-16T01:42:27.574Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beyond-wirecast-top-video-broadcasting-software/"><u>[New] Beyond WireCast Top Video Broadcasting Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-iphone-time-lapse-magic-a-beginners-guide/"><u>[New] IPhone Time-Lapse Magic A Beginner’s Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/every-move-monetized-a-corporate-reality/"><u>Every Move Monetized: A Corporate Reality</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y78-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y78 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y36-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y36 Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/metaverse-vs-multiverse-understanding-the-distinctions-for-2024/"><u>Metaverse Vs. Multiverse Understanding the Distinctions for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refresh-acer-graphics-via-windows-update/"><u>Refresh Acer Graphics via Windows Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-sailing-for-your-hawkui-vehicle-quick-fixes/"><u>Smooth Sailing for Your Hawkui Vehicle: Quick Fixes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-of-tomorrow-perfecting-reaction-videos-for-audiences-through-dual-perspectives/"><u>Stars of Tomorrow Perfecting Reaction Videos for Audiences Through Dual Perspectives</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-to-update-nvidia-audio-for-windows-11-systems/"><u>Steps to Update NVIDIA Audio for Windows 11 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-your-video-setup-install-c270-webcam-driver-on-windows-11/"><u>Streamline Your Video Setup: Install C270 Webcam Driver on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-driver-upgrades-for-acer-windows-11/"><u>Streamlined Driver Upgrades for Acer, Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-solutions-to-m-audio-driver-hiccups/"><u>Swift Solutions to M-Audio Driver Hiccups</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-video-editing-alternatives-to-the-go-to-inshot/"><u>[New] 2024 Approved Video Editing Alternatives to the Go-To Inshot</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-virtually-vault-securing-your-screened-shows-online-for-2024/"><u>[Updated] Virtually Vault Securing Your Screened Shows Online for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-pc-with-amd-chain-drivers-windows-steps/"><u>Enhance PC with AMD Chain Drivers - Windows Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-non-operational-windows-drivers-immediately/"><u>Fixing Non-Operational Windows Drivers Immediately</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gigabyte-motherboard-driver-download-and-install-for-windows/"><u>Gigabyte Motherboard Driver Download & Install for Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-quality-and-performance-with-logitech-c270-driver-update/"><u>Improve Quality & Performance with Logitech C270 Driver Update</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-cutting-edge-templates-unlocking-your-videos-potential/"><u>In 2024, Cutting-Edge Templates Unlocking Your Video's Potential</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-understanding-youtubes-monetization-schedule/"><u>In 2024, Understanding YouTube's Monetization Schedule</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-a-comprehensive-tutorial-for-repairing-pacific-drive-stability-issues/"><u>No More Crashes: A Comprehensive Tutorial for Repairing Pacific Drive Stability Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pave-the-way-for-secure-transactions-with-amd-on-windows/"><u>Pave the Way for Secure Transactions with AMD on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpointing-your-perfect-match-with-nvidia-driver-selection/"><u>Pinpointing Your Perfect Match with Nvidia Driver Selection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-disabling-audio-boost-options-in-windows-11/"><u>Step-by-Step Tutorial for Disabling Audio Boost Options in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-gtx-750-ti-driver-downloads/"><u>Streamlined GTX 750 Ti Driver Downloads</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/0plus-free-online-youtube-intro-makers/"><u>Top 10+ Free Online YouTube Intro Makers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tp-link-wireless-adapter-driver-download-for-windows-easily/"><u>TP Link Wireless Adapter Driver Download for Windows EASILY</u></a></li>
 </ul></div>
 

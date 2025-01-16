@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Epson Scan Pro in Windows 11
-date: 2025-01-05T11:11:35.747Z
-updated: 2025-01-10T10:14:33.086Z
+date: 2025-01-11T06:46:36.309Z
+updated: 2025-01-15T16:40:52.241Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
 **[Way 3: Update your printer driver automatically](#way3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Way 1: Update your printer driver manually**
 
  You can go to your printer manufacturer’s website to check if your printer model supports Windows 10\. If yes, you can download and install the Windows 10 driver for your printer  . If not, you can download the latest version that the manufacturer has released like Windows 8 version or Windows 7 version  . They may be compatible with Windows 10\.  The driver download can be normally found in Support section. After you download the driver, you can always double-click on the installer file to install the driver.
@@ -43,7 +47,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597056d6e290b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In Device Manager window, locate the printer device that you wish to update the driver for. For problem device, you can see a yellow mark next to the device name.
@@ -61,7 +65,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5970573577e43.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Way 2: Use Windows Update for new drivers**
@@ -83,16 +87,12 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597057f2e0efc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the link that tells you optional updates are available. (If you don’t see this link, it means Windows Update didn’t find any updates for your computer.)
 
  5) Select the driver you want to install, click**OK** , and then click**Install updates** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Way 3: Update your printer driver automatically**
 
@@ -115,7 +115,7 @@ For some printers, you need to update the drivers manually step by step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59705887d6c6d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
@@ -135,18 +135,22 @@ For some printers, you need to update the drivers manually step by step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-cutting-edge-webcam-editing-emphasize-focus-not-the-fence/"><u>[Updated] In 2024, Cutting Edge Webcam Editing – Emphasize Focus, Not the Fence</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-profiling-excellence-a-guide-to-refined-youtube-summaries/"><u>2024 Approved Profiling Excellence A Guide to Refined YouTube Summaries</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-solutions-to-address-mscorwksdll-missing-issues/"><u>Comprehensive Solutions to Address MSCORWKS.DLL Missing Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-fix-updating-logitech-wired-headphones/"><u>Efficient Fix: Updating Logitech Wired Headphones</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gamify-your-pc-swift-mouse-driver-update-for-widow-7/"><u>Gamify Your PC: Swift Mouse Driver Update for Widow 7</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/gaming-chronicles-capturing-every-play-in-overwatch/"><u>Gaming Chronicles Capturing Every Play in Overwatch</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-reinstall-qualcomm-atheros-wireless-network-adapter-driver/"><u>How to Reinstall Qualcomm Atheros Wireless Network Adapter Driver</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastery-over-drivers-manual-update-techniques-in-xp/"><u>Mastery Over Drivers: Manual Update Techniques in XP</u></a></li>
-<li><a href="https://driver-install.techidaily.com/restart-wi-fi-on-all-windows-versions-effectively/"><u>Restart Wi-Fi on All Windows Versions Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-next-position-with-these-9-unbeatable-tips-for-skype-interviews/"><u>Secure Your Next Position with These 9 Unbeatable Tips for Skype Interviews</u></a></li>
-<li><a href="https://win-data.techidaily.com/speeding-through-icloud-backup-proven-methods-for-quicker-sync-and-save/"><u>Speeding Through iCloud Backup: Proven Methods for Quicker Sync and Save!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-driver-revamp-when-and-methods/"><u>Win Driver Revamp: When & Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-decoding-and-manipulating-gender-presentation-online-a-step-by-step-approach/"><u>[New] 2024 Approved Decoding and Manipulating Gender Presentation Online A Step-by-Step Approach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-creative-openings-just-a-click-away/"><u>[New] In 2024, Creative Openings, Just a Click Away</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-ultimate-list-best-history-yt-channels-for-knowledge-seekers/"><u>[New] The Ultimate List Best History YT Channels For Knowledge Seekers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-drone-motors-guide-for-optimal-flight/"><u>[Updated] Essential Drone Motors Guide for Optimal Flight</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-jumpstart-your-day-top-10-motivational-feel-good-flicks/"><u>[Updated] Jumpstart Your Day Top 10 Motivational Feel-Good Flicks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/adjusting-print-driver-settings-for-hp-deskjet/"><u>Adjusting Print Driver Settings for HP Deskjet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-driver-suite-for-optimal-pc-performance/"><u>ASUS Driver Suite for Optimal PC Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-asus-usb-bt400-easy-installation-guide-and-support/"><u>Download ASUS USB-BT400 Easy Installation Guide & Support</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-huion-h420-functionality-on-windows-os/"><u>Effortless Huion H420 Functionality on Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-graphics-with-quick-nvidia-driver-changes/"><u>Enhancing Graphics with Quick Nvidia Driver Changes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/eradicating-windows-printer-issues-for-hp-1020/"><u>Eradicating Window's Printer Issues for HP 1020</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-scsi-software-downloads/"><u>Hassle-Free SCSI Software Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-print-quality-by-refining-driver-settings-on-win10/"><u>Improve Print Quality by Refining Driver Settings on WIN10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-redmi-a2-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Redmi A2? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stream-your-favorite-shows-with-these-top-free-options-instead-of-netflix/"><u>Stream Your Favorite Shows with These Top Free Options Instead of Netflix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-live-soundscape-websites/"><u>Ultimate Live Soundscape Websites</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-users-get-the-new-creative-webcam-drivers-and-ensure-seamless-video-calls-and-recording/"><u>Windows Users! Get the New Creative Webcam Drivers and Ensure Seamless Video Calls & Recording</u></a></li>
 </ul></div>
 
