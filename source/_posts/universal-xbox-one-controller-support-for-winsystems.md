@@ -1,7 +1,7 @@
 ---
 title: Universal Xbox One Controller Support for Winsystems
-date: 2025-01-12T17:20:42.866Z
-updated: 2025-01-16T06:01:21.073Z
+date: 2025-01-21T09:17:36.738Z
+updated: 2025-01-21T18:12:50.934Z
 tags:
   - win11
   - win10
@@ -37,29 +37,25 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b53c31d84f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Expand the branch **Microsoft Xbox One Controller** .
 
  4) Right-click on the expanded Microsoft Xbox One Controller and select**Update driver** (On lower Windows 10 versions, select**Update Driver Software**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594771392eb47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Search automatically for updated driver software** . Then Windows will install the new driver for the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5947718be7bb5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Check to see if you can use the Xbox One Controller properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 2: Update the Driver Using Driver Easy
 
@@ -76,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b5465270d8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged Xbox Controller driver to automatically download the correct version of this driver, then you can manually install the driver (you can do this with the FREE version).
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4b54a1c9593.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Just use one of two ways here to update the driver for your Microsoft Xbox One Controller on Windows 10.
 
@@ -107,18 +107,16 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-an-authentic-evaluation-of-recordcast-services-for-2024/"><u>[New] An Authentic Evaluation of RecordCast Services for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-top-10-guidelines-for-breaking-through-cover-art/"><u>[New] Top 10 Guidelines for Breaking Through Cover Art</u></a></li>
-<li><a href="https://discover-data.techidaily.com/exploring-reasons-behind-sporadic-computer-haltings-with-expertise-of-yl-systems/"><u>Exploring Reasons Behind Sporadic Computer Haltings with Expertise of YL Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-pioneering-resources-leading-free-video-openers-guide/"><u>In 2024, Pioneering Resources Leading Free Video Openers Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-itel-a05s-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Itel A05s without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-winos-a-step-by-step-guide/"><u>Quick Driver Updates on WINOS: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rectify-hp-printer-drivers-on-windows-10/"><u>Rectify HP Printer Drivers on Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-your-gaming-setup-with-updated-logitec-drivers/"><u>Revamp Your Gaming Setup with Updated Logitec Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedier-system-setup-get-scsi-drivers-quickly/"><u>Speedier System Setup: Get SCSI Drivers Quickly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-into-the-future-installing-chain-ready-amd-drivers-for-windows-pcs/"><u>Step Into the Future: Installing Chain-Ready AMD Drivers for Windows PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/winssd-mastery-samsung-drives-and-windows-compatibility/"><u>WinSSD Mastery: Samsung Drives & Windows Compatibility</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-audio-setbacks-fixing-opening-sound-device-glitches-in-audacity-5-tips-and-tricks/"><u>Dealing with Audio Setbacks: Fixing Opening Sound Device Glitches in Audacity - 5 Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-directx-graphic-device-initialization-issues/"><u>How to Successfully Overcome DirectX Graphic Device Initialization Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-strategic-approaches-to-dominating-spotifys-ad-space/"><u>In 2024, Strategic Approaches to Dominating Spotify's Ad Space</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-superior-recording-devices-face-camera-included/"><u>In 2024, Superior Recording Devices - Face Camera Included</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 14</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launching-hurdles-in-grand-theft-auto-5-experience/"><u>Overcoming Launching Hurdles in Grand Theft Auto 5 Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reset-and-restore-bluetooth-in-windows-11/"><u>Reset and Restore: Bluetooth in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-deskjet-printer-errors-on-windows-10/"><u>Resolve Deskjet Printer Errors on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-free-cash-for-school-tech-get-an-extra-150-off-on-your-next-mac-or-ipad-guide-inside/"><u>Score Free Cash for School Tech! Get an Extra $150 Off on Your Next Mac or iPad (Guide Inside)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-canon-scanner-driver-access-for-windows-users/"><u>Simplified Canon Scanner Driver Access for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operation-integrate-pro-4-drivers-into-windows-os/"><u>Smooth Operation: Integrate Pro 4 Drivers Into Windows OS</u></a></li>
 </ul></div>
 

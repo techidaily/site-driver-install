@@ -1,7 +1,7 @@
 ---
 title: All-in-One Ultraportable Computer with AMD Ryzen Performance – Features Foldable Design, Touchscreen Controls, and Built-In Battery
-date: 2025-01-11T00:01:26.873Z
-updated: 2025-01-16T00:16:07.313Z
+date: 2025-01-17T11:27:44.253Z
+updated: 2025-01-22T05:09:37.155Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,24 +56,16 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-enhancing-visual-impact-through-typeface-integration/"><u>[New] 2024 Approved Enhancing Visual Impact Through Typeface Integration</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-achieving-cinematic-quality-through-aspect-ratio-choices/"><u>[Updated] Achieving Cinematic Quality Through Aspect Ratio Choices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-roku-tv-facebook-live-broadcasting-tips-for-2024/"><u>[Updated] Navigating Roku TV Facebook Live Broadcasting Tips for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-10-best-offline-android-games-to-pass-time-filmora/"><u>2024 Approved 10 Best Offline Android Games to Pass Time - Filmora</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-club-chronicles-expertly-picked-dj-videos/"><u>2024 Approved Club Chronicles Expertly Picked DJ Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-step-by-step-guide-to-thriving-in-discord/"><u>2024 Approved Step-by-Step Guide to Thriving in Discord</u></a></li>
-<li><a href="https://driver-install.techidaily.com/atheros-network-driver-seamless-reinstallation-tips/"><u>Atheros Network Driver: Seamless Reinstallation Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-to-use-w7-wi-fy-linker/"><u>Easy-to-Use W7 Wi-Fy Linker</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hardware-and-software-in-harmony-after-os-fix/"><u>Hardware & Software In Harmony After OS Fix</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-mtk-usb-drivers-on-win-1110/"><u>Install MTK USB Drivers on Win 11/10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rtx-6000-nvidia-driver-downloads/"><u>RTX 6000 NVIDIA Driver Downloads</u></a></li>
-<li><a href="https://driver-install.techidaily.com/securely-access-and-enhance-updated-netgear-a6200-adapter-software/"><u>Securely Access & Enhance: Updated Netgear A6200 Adapter Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-pcs-with-e1659fwu-windows-drivers/"><u>Streamline PCs with E1659FWU Windows Drivers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-itel-a60s-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Itel A60s for Streaming | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveiling-the-simplified-fixes-to-common-hawki-drivetrain-issues/"><u>Unveiling the Simplified Fixes to Common Hawki Drivetrain Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062407294-upgrade-your-win-11-drivers-in-minutes/"><u>Upgrade Your Win 11 Drivers in Minutes!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-device-mgmt-camera-not-displayed-heres-how/"><u>Windows Device Mgmt: Camera Not Displayed? Here's How</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-navigating-the-process-of-avi-to-gif-conversion-using-filmora-software/"><u>[New] In 2024, Navigating the Process of AVI-to-GIF Conversion Using Filmora Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-crafting-captivating-instagram-puzzles-a-step-by-step-approach/"><u>[Updated] In 2024, Crafting Captivating Instagram Puzzles A Step-by-Step Approach</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-smooth-sailing-with-instagram-fixes-for-frustrations/"><u>2024 Approved Smooth Sailing with Instagram Fixes for Frustrations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-14-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 14 Lock Screen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/masterclass-enhancing-msi-compatibility-with-older-windows/"><u>Masterclass: Enhancing MSI Compatibility with Older Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-1650-windows-os-compatible/"><u>NVIDIA GTX 1650: Windows OS Compatible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-pdf-naar-png-converteer-gratis-simpelweg-en-krachtig-met-movavi/"><u>Online-PDF Naar PNG Converteer Gratis - Simpelweg en Krachtig Met Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/perfect-display-performance-via-hp-drivers-windows-10/"><u>Perfect Display Performance via HP Drivers, Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/premium-audio-device-from-amd/"><u>Premium Audio Device From AMD</u></a></li>
+<li><a href="https://driver-install.techidaily.com/professional-sound-support-amd-version/"><u>Professional Sound Support, AMD Version</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-experts-playbook-top-techniques-for-youtube-to-mpeg-for-2024/"><u>The Expert's Playbook Top Techniques for YouTube-to-MPEG for 2024</u></a></li>
 </ul></div>
 

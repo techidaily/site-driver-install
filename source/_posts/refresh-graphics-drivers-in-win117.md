@@ -1,7 +1,7 @@
 ---
 title: Refresh Graphics Drivers in Win11/7
-date: 2025-01-12T03:33:02.932Z
-updated: 2025-01-15T16:50:38.640Z
+date: 2025-01-17T10:35:39.713Z
+updated: 2025-01-22T01:52:56.973Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -38,12 +34,16 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
 
@@ -52,10 +52,14 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
 
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
  If you don’t have the time, patience or computer skills to reinstall the driver manually, or if Windows doesn’t provide the latest driver, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -125,16 +125,17 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-input-device-status-normalized-on-windows-11/"><u>[Fixed] Input Device Status Normalized on Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-tunes-apps-win-edition/"><u>[New] 2024 Approved Top Tunes Apps Win Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-experts-guide-to-effortless-video-submissions-on-igtv/"><u>[New] The Expert's Guide to Effortless Video Submissions on IGTV</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-infusing-energy-youtube-music-in-film-and-media-projects/"><u>[Updated] 2024 Approved Infusing Energy YouTube Music in Film and Media Projects</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cross-platform-controller-connectors-for-win11xboxone/"><u>Cross-Platform Controller Connectors for Win11/XboxOne</u></a></li>
-<li><a href="https://solve-news.techidaily.com/enhance-your-online-presence-with-manycam-the-ultimate-choice-for-virtual-camcorder-and-video-conferencing-software/"><u>Enhance Your Online Presence with ManyCam - The Ultimate Choice for Virtual Camcorder and Video Conferencing Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/epson-et-2650-driver-setup-for-windows-xpvista78-systems/"><u>Epson ET-2650 Driver Setup for Windows XP/Vista/7/8 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-970-seamless-driver-integration-with-win-11/"><u>GTX 970 - Seamless Driver Integration with Win 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-itel-a60-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Itel A60 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ultimate-windows-audio-solution-by-amd/"><u>Ultimate Windows Audio Solution by AMD</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-11-ie-driver-fetch-and-set-up-guide/"><u>Win 11 IE Driver Fetch & Set Up Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-quality-control-best-free-lut-selections-and-links-reviewed-for-2024/"><u>[New] Quality Control Best Free LUT Selections & Links Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-songwriters-journey-top-15-video-tips-for-music-creators/"><u>[Updated] The Songwriter's Journey Top 15 Video Tips for Music Creators</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-how-to-seamlessly-move-texts-from-one-iphone-to-another-using-alternative-methods/"><u>1. How to Seamlessly Move Texts From One iPhone to Another Using Alternative Methods</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1722999258283-diablo-reawakened-how-to-stop-the-game-from-crashing-solved/"><u>Diablo Ⅱ Reawakened: How to Stop the Game From Crashing - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-displays-lacking-hdcp-support/"><u>How to Resolve Displays Lacking HDCP Support</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-transfer-in-google-chrome-now-easier-on-windows/"><u>Mastering File Transfer in Google Chrome, Now Easier on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/safety-assured-inf-lacks-digital-signs/"><u>Safety Assured: Inf Lacks Digital Signs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-c53-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme C53 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-vision-with-updated-hp-drivers-win7-way/"><u>Upgrade Your Vision with Updated HP Drivers - Win7 Way</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-mastery-overcoming-samsung-ssd-hiccups-and-errors/"><u>Windows Mastery: Overcoming Samsung SSD Hiccups and Errors</u></a></li>
 </ul></div>
 

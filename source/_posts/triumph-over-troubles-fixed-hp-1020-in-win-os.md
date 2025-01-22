@@ -1,7 +1,7 @@
 ---
 title: "Triumph Over Troubles: Fixed HP 1020 in Win OS"
-date: 2025-01-09T22:22:25.225Z
-updated: 2025-01-15T21:05:08.687Z
+date: 2025-01-17T22:01:48.295Z
+updated: 2025-01-22T05:01:47.159Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/d0cb748bcb0f62a12329bda108fa11c6c1e0878f5
  If your HP LaserJet 1020 printer series are not working properly, for instance, you see certain error when trying to print, or your printer’s status is off, don’t panic. You can update your**HP LaserJet 1020 printer driver** to the latest version to fix the issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Update HP LaserJet 1020 Driver
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/d0cb748bcb0f62a12329bda108fa11c6c1e0878f5
 3. [Update the printer driver automatically](#Fix3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update the printer driver manually
@@ -44,10 +44,6 @@ Time needed:  3 minutes.
  Open [HP support website](https://support.hp.com/drivers/) , and select **Printer** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap45.jpg)
 2. **Find your printer device.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type the HP printer model (**HP LaserJet 1020**) in the **Search** box, and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap46.jpg)
 3. **Download the correct driver.**  
@@ -55,7 +51,15 @@ Time needed:  3 minutes.
  Make sure to select the correct operating system, and click **Download** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/Snap47-2.jpg)
 4. **Install the driver for your printer.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the downloaded file, and follow the wizard to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the printer driver in Device Manager
 
@@ -74,19 +78,15 @@ Time needed:  3 minutes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 5. Right click on your printer (it may display as**Unknown device**), and select**Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 6. Choose**Search automatically for updated driver software** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 7. Follow the on-screen instructions to finish updating the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After updating, restart your computer.
 
@@ -136,16 +136,16 @@ This is a rather easy method, isn’t it?!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-go-backwards-a-step-by-step-for-reversing-youtube-videos/"><u>[New] 2024 Approved Go Backwards A Step-by-Step for Reversing YouTube Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-expert-insights-the-best-screen-recording-software-reviewed/"><u>[Updated] In 2024, Expert Insights The Best Screen Recording Software Reviewed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unlocking-the-mystery-of-downloading-youtube-srt-files-easily-for-2024/"><u>[Updated] Unlocking the Mystery of Downloading YouTube SRT Files Easily for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-update-process-for-acer-drivers-in-win11/"><u>Efficient Update Process for Acer Drivers in Win11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortless-dvd-duplication-on-windows-systems-mastering-the-process-in-win111087/"><u>Effortless DVD Duplication on Windows Systems: Mastering the Process in Win11/10/8/7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhancing-display-via-windows-11-hdmi-driver-refresh/"><u>Enhancing Display via Windows 11: HDMI Driver Refresh</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-11-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme 11 Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-profile-perfection-expert-tips-for-personalized-and-engaging-fb-biographies/"><u>In 2024, Profile Perfection Expert Tips for Personalized and Engaging FB Biographies</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-essential-steps-for-rejuvenating-your-mouse-drivers/"><u>The Essential Steps for Rejuvenating Your Mouse Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-precise-way-to-update-device-drivers-on-xp/"><u>The Precise Way to Update Device Drivers on XP</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-understanding-a-blue-icons-role-facebooks-communication-tool/"><u>[Updated] In 2024, Understanding a Blue Icon’s Role Facebook's Communication Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacks-make-excel-readable-in-windows-notepad/"><u>Hacks: Make Excel Readable in Windows Notepad</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-football-manager-2-unable-to-initialize-the-game-engine-error-in-fm-2023/"><u>How to Fix 'Football Manager 2#: Unable to Initialize the Game Engine' Error in FM 2023</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-s18-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo S18 Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-path-to-perfect-presentation-cutting-out-image-backdrops-on-canva/"><u>In 2024, The Path to Perfect Presentation Cutting Out Image Backdrops on Canva</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-your-system-amd-driver-update-for-various-windows-oss/"><u>Revive Your System: AMD Driver Update for Various Windows OSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tune-into-new-acer-visuals-for-w11-systems/"><u>Tune Into New Acer Visuals for W11 Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-mic-for-digital-content-makers-for-2024/"><u>Ultimate Mic for Digital Content Makers for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-interface-for-xbox-one-and-w11/"><u>Universal Interface for Xbox One and W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-realtek-pcie-gbe-family-controller-drivers-on-windows-11/"><u>Update Realtek PCIe GBE Family Controller Drivers on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xbox-controller-protocols-windows-10/"><u>Xbox Controller Protocols Windows 10</u></a></li>
 </ul></div>
 

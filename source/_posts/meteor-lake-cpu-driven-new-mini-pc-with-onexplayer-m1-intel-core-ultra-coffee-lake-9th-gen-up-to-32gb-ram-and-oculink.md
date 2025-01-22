@@ -1,7 +1,7 @@
 ---
 title: Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink
-date: 2025-01-13T17:46:10.511Z
-updated: 2025-01-16T01:42:27.574Z
+date: 2025-01-18T07:13:39.029Z
+updated: 2025-01-22T07:51:29.332Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,15 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-video-editing-alternatives-to-the-go-to-inshot/"><u>[New] 2024 Approved Video Editing Alternatives to the Go-To Inshot</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-virtually-vault-securing-your-screened-shows-online-for-2024/"><u>[Updated] Virtually Vault Securing Your Screened Shows Online for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-pc-with-amd-chain-drivers-windows-steps/"><u>Enhance PC with AMD Chain Drivers - Windows Steps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fixing-non-operational-windows-drivers-immediately/"><u>Fixing Non-Operational Windows Drivers Immediately</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gigabyte-motherboard-driver-download-and-install-for-windows/"><u>Gigabyte Motherboard Driver Download & Install for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-quality-and-performance-with-logitech-c270-driver-update/"><u>Improve Quality & Performance with Logitech C270 Driver Update</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-cutting-edge-templates-unlocking-your-videos-potential/"><u>In 2024, Cutting-Edge Templates Unlocking Your Video's Potential</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-understanding-youtubes-monetization-schedule/"><u>In 2024, Understanding YouTube's Monetization Schedule</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-crashes-a-comprehensive-tutorial-for-repairing-pacific-drive-stability-issues/"><u>No More Crashes: A Comprehensive Tutorial for Repairing Pacific Drive Stability Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/pave-the-way-for-secure-transactions-with-amd-on-windows/"><u>Pave the Way for Secure Transactions with AMD on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/pinpointing-your-perfect-match-with-nvidia-driver-selection/"><u>Pinpointing Your Perfect Match with Nvidia Driver Selection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-disabling-audio-boost-options-in-windows-11/"><u>Step-by-Step Tutorial for Disabling Audio Boost Options in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-gtx-750-ti-driver-downloads/"><u>Streamlined GTX 750 Ti Driver Downloads</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/0plus-free-online-youtube-intro-makers/"><u>Top 10+ Free Online YouTube Intro Makers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tp-link-wireless-adapter-driver-download-for-windows-easily/"><u>TP Link Wireless Adapter Driver Download for Windows EASILY</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-easy-breezy-country-playlist-best-songs-for-stress-relief-tiktok/"><u>[New] 2024 Approved Easy Breezy Country Playlist Best Songs for Stress Relief (TikTok)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-making-money-from-youtube-shorts-key-elements-and-profit-possibilities/"><u>[New] In 2024, Making Money From YouTube Shorts Key Elements & Profit Possibilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-walking-into-tomorrow-the-premier-vr-treadmills-reviewed-for-2024/"><u>[Updated] Walking Into Tomorrow The Premier VR Treadmills Reviewed for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instructions-microsoft-pro-4-drivers-in-windows/"><u>Instructions: Microsoft Pro 4 Drivers in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-hawku-cars-simple-solutions/"><u>Navigating Hawku Cars: Simple Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-new-driver-installation-guide/"><u>Nvidia GTX 970 - New Driver Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimal-printing-update-for-latest-hp-officejet-4630-driver/"><u>Optimal Printing: Update for Latest HP Officejet 4630 Driver</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-audio-issues-on-mozilla-firefox-now-functioning/"><u>Resolved: Audio Issues on Mozilla Firefox Now Functioning</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/260889-9781101204238-the-science-of-vampires/"><u>The Science of Vampires | Free Book</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/847460-9781846948053-traditional-witchcraft-for-the-seashore/"><u>Traditional Witchcraft for the Seashore | Free Book</u></a></li>
 </ul></div>
 

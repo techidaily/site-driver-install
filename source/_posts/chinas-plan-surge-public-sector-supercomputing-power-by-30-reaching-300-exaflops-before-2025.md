@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2025-01-09T16:45:54.652Z
-updated: 2025-01-15T17:25:11.801Z
+date: 2025-01-16T00:12:13.345Z
+updated: 2025-01-22T05:11:11.172Z
 tags:
   - desktop
 categories:
@@ -56,22 +56,25 @@ Today we have one great deal that turns into two when you take up a bundle offer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-direct-link-sharing-twitter-writes-on-whatsapp/"><u>[New] 2024 Approved Direct Link Sharing Twitter' Writes on WhatsApp</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-key-iphone-shot-design-guidelines-unveiled/"><u>[Updated] 2024 Approved Key iPhone Shot Design Guidelines Unveiled</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-easy-guide-to-tweeting-videos-and-turning-them-into-music-for-2024/"><u>[Updated] Easy Guide to Tweeting Videos & Turning Them Into Music for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elite-25-instagram-personalities-worth-following/"><u>[Updated] Elite 25 Instagram Personalities Worth Following</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-countdown-in-forward-the-counterintuitive-playlist-method/"><u>2024 Approved Countdown in Forward The Counterintuitive Playlist Method</u></a></li>
-<li><a href="https://win11.techidaily.com/changing-the-time-before-next-login-attempt-on-failure/"><u>Changing the Time Before Next Login Attempt on Failure</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-6-plus-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 6 Plus without Passcode</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c55-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco C55 Phone without PIN</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-new-os-on-xerox-model-c6515/"><u>Install New OS on Xerox Model C6515</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quickly-upgrade-to-latest-lexmark-printer-driver/"><u>Quickly Upgrade to Latest Lexmark Printer Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamping-realtek-drivers-for-optimal-performance/"><u>Revamping Realtek Drivers for Optimal Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-integration-install-canon-drivers-for-windows/"><u>Seamless Integration: Install Canon Drivers for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-1087-medd-installer-guide/"><u>Windows 10/8/7 MEDD Installer Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-in-the-spotlight-top-viewers-choice/"><u>[New] In 2024, In the Spotlight Top Viewers' Choice</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smart-strategies-to-modify-user-numbers-on-tiktok/"><u>[New] In 2024, Smart Strategies to Modify User Numbers on TikTok</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-a-memorable-channel-presence-with-imagery/"><u>[Updated] In 2024, Crafting a Memorable Channel Presence with Imagery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-the-art-of-sideways-iphone-photography/"><u>[Updated] Unveiling the Art of Sideways iPhone Photography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/becoming-a-specialist-in-srt-text-management-for-2024/"><u>Becoming a Specialist in SRT Text Management for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-art-of-creating-youtube-video-thumbnails/"><u>In 2024, The Art of Creating YouTube Video Thumbnails</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-6-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 6 Making It Possible</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-relief-for-your-troubled-hawkui-vehicle/"><u>Instant Relief for Your Troubled Hawkui Vehicle</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-fastest-way-to-convert-4k-videos-to-mp4-no-technical-expertise-needed/"><u>New In 2024, The Fastest Way to Convert 4K Videos to MP4 No Technical Expertise Needed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcome-cable-transmission-errors/"><u>Overcome Cable Transmission Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/proper-ie-driver-implementation-on-legacy-windows/"><u>Proper IE Driver Implementation on Legacy Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/qualcomm-atheros-adapter-update-procedures/"><u>Qualcomm Atheros Adapter Update Procedures</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-simple-routine-for-adding-new-atheros-drivers-to-windows-11/"><u>Quick and Simple Routine for Adding New Atheros Drivers to Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-to-asus-usb-bt400-support-and-download/"><u>Quick Guide to Asus USB-BT400 Support & Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-installing-windows-11s-haptic-support/"><u>Quick Guide: Installing Windows 11'S Haptic Support</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-14-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi 14 Pro Device</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

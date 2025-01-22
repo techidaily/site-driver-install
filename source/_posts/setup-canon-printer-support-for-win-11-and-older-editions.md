@@ -1,7 +1,7 @@
 ---
 title: Setup Canon Printer Support for WIN 11 & Older Editions
-date: 2025-01-08T20:20:45.961Z
-updated: 2025-01-15T21:49:03.228Z
+date: 2025-01-19T10:55:46.239Z
+updated: 2025-01-22T03:27:37.033Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 * [**Way 1. Download the latest Canon MX870 driver from Canon website**](#Way1)
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
 
  1) Head to [Canon Driver download center](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers) .
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **DOWNLOAD** .
@@ -48,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
  If you are not a tech savvy, or you just want to save much time, way 2 is your choice — Using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to download the latest drivers automatically. Driver Easy is a 100% safe and extremely helpful driver tool. It can help you solve all the drivers problem, including missing, outdated and incompatible drivers. And it supports most Windows versions, from Vista to the newly Windows 10\. Its [Free version](https://tools.techidaily.com/drivereasy/download/) will find the correct drivers for you to install one by one. But if upgrade to [Pro version](https://tools.techidaily.com/drivereasy/download/) , it will update all your drivers with just one click — **Update All** . Of cause including your Canon MX870 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
 
@@ -88,16 +88,18 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harmony-hunters-dive-into-free-online-beat-tracker/"><u>[New] Harmony Hunters Dive Into Free, Online Beat Tracker</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-windows-11-gamers-ultimate-playbook-top-5-record-techniques/"><u>[New] Windows 11 Gamers' Ultimate Playbook Top 5 Record Techniques</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/building-captivating-instagram-feed-layouts/"><u>Building Captivating Instagram Feed Layouts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-win10-touchscreen-driver-fixes/"><u>Effortless Win10 TouchScreen Driver Fixes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fixing-usbasp-on-xp-7-81-and-10-for-uninterrupted-use/"><u>Fixing USBasp on XP, 7, 8.1 & 10 for Uninterrupted Use</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-drama-to-film-shaping-realistic-dialogue-for-2024/"><u>From Drama to Film Shaping Realistic Dialogue for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>In 2024, Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-wireless-card-functionality-with-new-windows-11-drivers/"><u>Optimize Wireless Card Functionality with New Windows 11 Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-and-solving-operation-0x0000011b-in-windows-11/"><u>Preventing and Solving Operation 0X0000011B in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stay-ahead-of-the-curve-with-latest-drivers-for-hp-omen-15/"><u>Stay Ahead of the Curve with Latest Drivers for HP Omen 15</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-tech-upgrades-for-lenovo-u310/"><u>Streamlined Tech Upgrades for Lenovo U310</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-no-cost-recording-solutions-windows-tech-hacks-for-2024/"><u>[Updated] No-Cost Recording Solutions Windows Tech Hacks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-innovative-vfx-equipment-for-eco-warriors/"><u>2024 Approved Innovative VFX Equipment for Eco Warriors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-inverting-screen-time-with-android-videos/"><u>2024 Approved Inverting Screen Time with Android Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/easy-tutorial-activating-and-configuring-your-nintendo-id-on-the-3ds-console/"><u>Easy Tutorial: Activating and Configuring Your Nintendo ID on the 3DS Console</u></a></li>
+<li><a href="https://some-tips.techidaily.com/emerging-developer-roles-and-trending-tech-languages-future-outlook-zdnet/"><u>Emerging Developer Roles & Trending Tech Languages - Future Outlook | ZDNet</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/mothers-day-celebration-stunning-4k-resolution-wallpaper-collection-by-yl-computing/"><u>Mother's Day Celebration: Stunning 4K Resolution Wallpaper Collection by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973341279-quick-setup-of-your-xbox-controllers-with-updated-drivers-download-now/"><u>Quick Setup of Your Xbox Controllers with Updated Drivers - Download Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-ie-management-engine-implementation/"><u>Secure IE Management Engine Implementation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-list-of-webinar-software/"><u>Ultimate List of Webinar Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-for-nvidias-quadro-rtx-6000/"><u>Update for NVIDIA's Quadro RTX 6000</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-logitech-mouse-software-on-windows-11/"><u>Upgrade Logitech Mouse Software on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-w10-with-latest-thinkpad-device-drivers/"><u>Upgrade W10 with Latest ThinkPad Device Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/yamaha-mtrx-driver-windows-and-linux-instructions/"><u>Yamaha MTRX Driver - Windows & Linux Instructions</u></a></li>
 </ul></div>
 

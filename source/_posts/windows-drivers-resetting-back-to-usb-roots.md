@@ -1,7 +1,7 @@
 ---
 title: "Windows Drivers: Resetting Back to USB Roots"
-date: 2025-01-15T00:23:20.306Z
-updated: 2025-01-15T23:58:41.867Z
+date: 2025-01-17T22:54:08.543Z
+updated: 2025-01-21T18:13:05.062Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to reinstall USB drivers
 
  There’re two ways you can reinstall your USB drivers on Windows 11, 10, 8 and 7\. You may not try them; just choose your preferred one.
@@ -30,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Reinstall the drivers using Device Manager
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
@@ -51,8 +47,16 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
@@ -68,15 +72,11 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -101,21 +101,17 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-increase-followers-on-instagram-ultimate-guide/"><u>[New] 2024 Approved How to Increase Followers on Instagram - Ultimate Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-captivating-clips-with-cleverly-chosen-lights/"><u>[Updated] Captivating Clips with Cleverly Chosen Lights</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-reimagining-art-top-6-influencers-shaping-nft-culture/"><u>[Updated] In 2024, Reimagining Art Top 6 Influencers Shaping NFT Culture</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-beats-how-students-can-save-big-with-spotifys-student-offer/"><u>Affordable Beats: How Students Can Save Big with Spotify's Student Offer</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-techniques-to-restore-printer-drivers-on-windows/"><u>Essential Techniques to Restore Printer Drivers on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-effortlessly-upload-mp3-tracks-onto-youtube-without-spending-a-penny/"><u>How to Effortlessly Upload MP3 Tracks Onto YouTube Without Spending a Penny</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-guide-to-whatsapp-calls-on-your-phone/"><u>In 2024, The Ultimate Guide to WhatsApp Calls on Your Phone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovate-your-mobile-photography-with-these-free-overlay-experts-for-2024/"><u>Innovate Your Mobile Photography with These Free Overlay Experts for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/laserjet-1102w-firmware-download-and-install-guide/"><u>LaserJet 1102W Firmware - Download & Install Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-yoga-900s-windows-11-drivers-download/"><u>Lenovo Yoga 900S Windows 11 Drivers Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/opengl-driver-download-and-update/"><u>OpenGL Driver Download and Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-tech-fixes-graphics-card-driver-reinstallation/"><u>Step-by-Step Tech Fixes: Graphics Card Driver Reinstallation</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-tutorial-enabling-the-likuoo-extension-to-access-endless-entertainment-via-likuoovideo-on-your-kodi-device-leia-and-krypton/"><u>Step-by-Step Tutorial: Enabling the Likuoo Extension to Access Endless Entertainment via likuoo.video on Your Kodi Device (Leia and Krypton)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-system-enhancement-efficient-update-of-acer-drivers-for-win10/"><u>Swift System Enhancement: Efficient Update of Acer Drivers for Win10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-wacoms-potential-secure-no-cost-driver-download/"><u>Unlock Wacom's Potential - Secure, No-Cost Driver Download</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-clear-facebook-broadcast-laptops-and-phones-included-for-2024/"><u>[New] Clear Facebook Broadcast Laptops and Phones Included for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-pure-designs-erasing-backgrounds-with-canva-expertise/"><u>[New] Crafting Pure Designs Erasing Backgrounds with Canva Expertise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-by-frame-excellence-selecting-webcams-for-podcasts/"><u>2024 Approved Frame-by-Frame Excellence Selecting Webcams for Podcasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhance-your-xiaomi-experience-with-easy-record-screens/"><u>Enhance Your Xiaomi Experience with Easy Record Screens</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-the-latest-drivers-for-your-ricoh-mp-c3003-printer/"><u>How to Download the Latest Drivers for Your Ricoh MP C3^003 Printer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-90-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor 90 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-driver-update-gtx-1650-nvidia-graphics/"><u>Instant Driver Update – GTX 1650 Nvidia Graphics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instructions-download-netgear-a6200-software/"><u>Instructions: Download Netgear A6200 Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/order-matters-how-to-enjoy-every-indy-movie-in-chronological-storyline/"><u>Order Matters - How To Enjoy Every Indy Movie In Chronological Storyline</u></a></li>
+<li><a href="https://driver-install.techidaily.com/push-the-limits-of-audio-on-windows-7-powered-by-nvidia/"><u>Push the Limits of Audio on Windows 7, Powered by NVIDIA</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-easy-lenovo-z50-70-update-guide/"><u>Quick, Easy: Lenovo Z50-70 Update Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-10-mobile-vr-headsets/"><u>Top 10 Mobile VR Headsets</u></a></li>
 </ul></div>
 

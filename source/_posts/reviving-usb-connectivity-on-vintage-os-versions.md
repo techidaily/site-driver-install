@@ -1,7 +1,7 @@
 ---
 title: Reviving USB Connectivity on Vintage OS Versions
-date: 2025-01-11T03:01:49.965Z
-updated: 2025-01-15T17:13:05.976Z
+date: 2025-01-20T10:08:49.367Z
+updated: 2025-01-21T23:33:02.789Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 1. **[Reinstall the drivers using Device Manager](#option1)**
 2. **[Automatically reinstall the USB drivers (recommended)](#option2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Reinstall the drivers using Device Manager
 
  Device Manager is a Windows built-in tool that allows you to view and control the hardware attached to your computer and update the device drivers. To reinstall the USB drivers in Device Manager, follow the steps below:
@@ -33,29 +37,25 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
@@ -71,12 +71,12 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -101,17 +101,24 @@ thumbnail: https://thmb.techidaily.com/fe155e10fd0f0b362a89d3816e5304905834b00a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tracking-youtubes-signature-interactions/"><u>[New] Tracking YouTube's Signature Interactions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-guide-to-top-8-linux-screenshot-solutions/"><u>[Updated] 2024 Approved Guide to Top 8 Linux Screenshot Solutions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-dust-off-the-glare-avoiding-gopro-misting/"><u>[Updated] Dust Off the Glare Avoiding GoPro Misting</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/glacial-glory-celebrating-olympic-champions-and-their-epic-slopesideshow-22-for-2024/"><u>Glacial Glory Celebrating Olympic Champions & Their Epic Slopesideshow '22 for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gpu-recalibration-the-best-ddu-strategies/"><u>GPU Recalibration: The Best DDU Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-solve-your-iphones-persistent-portrait-only-display-problem/"><u>How to Solve Your iPhone's Persistent Portrait-Only Display Problem</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062822403-install-wireless-drivers-no-hassle-w7/"><u>Install Wireless Drivers: No Hassle W7!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-your-way-through-effective-spotify-promotion-techniques-for-2024/"><u>Navigating Your Way Through Effective Spotify Promotion Techniques for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-printing-latest-canon-xp-software-available/"><u>Optimize Printing: Latest Canon XP Software Available</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refreshing-system-integration-microsoft-mouse-driver-update-guide/"><u>Refreshing System Integration: Microsoft Mouse Driver Update Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-sound-protocols-for-windows-7-using-idt-drivers/"><u>Update Sound Protocols for Windows 7 Using IDT Drivers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-download-essential-video-intros-for-beginners/"><u>[New] 2024 Approved Download Essential Video Intros for Beginners</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-she-shares-we-watch-top-female-content-creators-on-youtube/"><u>[New] 2024 Approved She Shares, We Watch Top Female Content Creators on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-captivate-audiences-with-ppt-on-mobilelaptop-in-gmeet-for-2024/"><u>[New] How to Captivate Audiences with PPT on Mobile/Laptop in GMeet for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-foundations-of-frame-and-frequency-in-visual-media/"><u>[Updated] In 2024, Foundations of Frame and Frequency in Visual Media</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-record-ps3-gameplay/"><u>2024 Approved How to Record PS3 Gameplay</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-terraria-customization-choices-for-2024/"><u>Best Terraria Customization Choices for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/embracing-iphones-shutter-speed-magic-for-dynamic-images/"><u>Embracing iPhone’s Shutter Speed Magic for Dynamic Images</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-rs-232-usb-driver-asap-swift-installation-guide/"><u>Get Your RS-232 USB Driver ASAP – Swift Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-updated-hp-graphics-software-in-win11/"><u>Install Updated HP Graphics Software in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-g580-update-made-simple/"><u>Lenovo G580: Update Made Simple</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lost-files-found-future-the-ultimate-mac-recovery/"><u>Lost Files, Found Future: The Ultimate Mac Recovery</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-graphics-new-driver-update-for-gtx-970-on-w11/"><u>Maximize Graphics: New Driver Update for GTX 970 on W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-astro-software-maintenance-on-windows/"><u>Navigating Astro Software Maintenance on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-drivers-release-note-win-11-compatibility/"><u>Nvidia GTX 970 Drivers Release Note: Win 11 Compatibility</u></a></li>
+<li><a href="https://driver-install.techidaily.com/opengl-profiling-tools-review/"><u>OpenGL Profiling Tools Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-incompatibilities-usbasp-in-versions-from-81-to-win11/"><u>Overcoming Incompatibilities: USBasp in Versions From 8.1 to Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-usbasp-driver-snags-in-windows-os-landscapes/"><u>Overcoming USBasp Driver Snags in Windows OS Landscapes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/simplify-your-library-with-the-best-dvd-ripping-software-for-plex-a-step-by-step-tutorial/"><u>Simplify Your Library with the Best DVD Ripping Software for Plex – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210756773-9780711280670-the-tales-behind-tarot/"><u>The Tales Behind Tarot | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Set up Printer: Canon Inkjet, OS Versions"
-date: 2025-01-15T02:51:03.554Z
-updated: 2025-01-15T22:50:17.295Z
+date: 2025-01-20T06:59:41.354Z
+updated: 2025-01-22T08:35:34.447Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
@@ -36,29 +36,25 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click **DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
  If you are not a tech savvy, or you just want to save much time, way 2 is your choice — Using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to download the latest drivers automatically. Driver Easy is a 100% safe and extremely helpful driver tool. It can help you solve all the drivers problem, including missing, outdated and incompatible drivers. And it supports most Windows versions, from Vista to the newly Windows 10\. Its [Free version](https://tools.techidaily.com/drivereasy/download/) will find the correct drivers for you to install one by one. But if upgrade to [Pro version](https://tools.techidaily.com/drivereasy/download/) , it will update all your drivers with just one click — **Update All** . Of cause including your Canon MX870 driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
 
@@ -88,17 +88,19 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-action-archetypes-choosing-the-best-7-first-person-shooters/"><u>[Updated] In 2024, Action Archetypes Choosing the Best 7 First-Person Shooters</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-step-by-step-vivacut-video-editing-complete-guide-for-24/"><u>[Updated] Step-by-Step VivaCut Video Editing Complete Guide for '24</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-se-2020-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone SE (2020) Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/can-you-recover-deleted-youtube-content-understanding-video-archiving/"><u>Can You Recover Deleted YouTube Content? Understanding Video Archiving</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-lexmark-printer-software-update/"><u>Effortless Lexmark Printer Software Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-stepwise-journey-converting-smartphones-into-vr-hubs/"><u>In 2024, A Stepwise Journey Converting Smartphones Into VR Hubs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-ie-driver-setup-on-windows-environments/"><u>Mastering IE Driver Setup on Windows Environments</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-driver-version-w11/"><u>Nvidia GTX 970 Driver Version W11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rejuvenating-your-system-msi-driver-updates-in-older-windows-versions/"><u>Rejuvenating Your System: MSI Driver Updates in Older Windows Versions</u></a></li>
-<li><a href="https://facebook.techidaily.com/stay-ahead-of-hackers-monitor-your-facebook-activity/"><u>Stay Ahead of Hackers – Monitor Your Facebook Activity</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sync-up-drivers-enhance-printing-experience-for-hp-laserjet-pro-400/"><u>Sync Up Drivers: Enhance Printing Experience for HP LaserJet Pro 400</u></a></li>
-<li><a href="https://win11.techidaily.com/top-rated-avcd-to-avi-transcoder-for-pcs-running-windows-11-your-ultimate-guide/"><u>Top Rated AVCD to AVI Transcoder for PCs Running Windows 11 – Your Ultimate Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-a-beginners-key-to-mastering-social-media-metrics/"><u>[New] In 2024, A Beginner's Key to Mastering Social Media Metrics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-8-free-software-solutions-revolutionizing-corporate-video-meetings/"><u>[New] Top 8 Free Software Solutions Revolutionizing Corporate Video Meetings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops-for-2024/"><u>[Updated] Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-record-powerpoint-presentation-with-webcam/"><u>[Updated] How to Record PowerPoint Presentation with Webcam</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blending-images-with-moving-screens-on-iphone/"><u>2024 Approved Blending Images with Moving Screens on iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-find-x7-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo Find X7 Ultra Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-old-systems-incorporating-mf4770n-into-wxw8w7/"><u>Revitalize Old Systems: Incorporating MF4770n Into WX/W8/W7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-your-tech-life-easy-driver-installation-guide/"><u>Simplify Your Tech Life: Easy Driver Installation Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unveiling-top-ten-os-agnostic-video-players/"><u>Unveiling Top Ten OS-Agnostic Video Players</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-enhancing-vocal-quality-post-pitch-correction-using-audacity/"><u>Updated In 2024, Enhancing Vocal Quality Post-Pitch Correction Using Audacity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-webcam-download-and-install-logitech-camera-software-c270/"><u>Upgrade Your Webcam: Download & Install Logitech Camera Software (C270)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-mice-controls-a-clear-windows-instructional-guide/"><u>Upgrading Mice Controls: A Clear Windows Instructional Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-xerox-c6515-system/"><u>Upgrading Xerox C6515 System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-driver-refresh-for-windows-7-and-below/"><u>USB Driver Refresh for Windows 7 & Below</u></a></li>
 </ul></div>
 

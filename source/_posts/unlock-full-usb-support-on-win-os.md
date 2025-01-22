@@ -1,7 +1,7 @@
 ---
 title: Unlock Full USB Support on WIN OS
-date: 2025-01-12T16:01:28.002Z
-updated: 2025-01-15T20:58:06.907Z
+date: 2025-01-17T18:08:19.510Z
+updated: 2025-01-21T19:12:50.473Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  If you want to download or update your Generic USB hub driver for your USB Hub device, you can update the driver to fix your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update Generic USB Hub driver
 
 1. [Update Generic USB Hub driver manually](#M1)
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 2. Type**devmgmt.msc** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
@@ -46,24 +50,24 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 2: Update Generic USB Hub driver automatically
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5be1edc38.jpg)
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
@@ -107,20 +107,14 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-easy-video-calls-with-googles-hangouts-on-your-android/"><u>[New] In 2024, Easy Video Calls with Google's Hangouts on Your Android</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-make-a-mark-as-an-hdr-photography-pro-with-lightroom/"><u>[Updated] How to Make a Mark as an HDR Photography Pro with Lightroom</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ameliorating-hp-printer-faults-in-os-10/"><u>Ameliorating HP Printer Faults in OS 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/asus-bt400-usb-adapter-for-windows-free-installation-guide/"><u>Asus BT400 USB Adapter for Windows: Free Installation Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elite-mac-graphic-preserver/"><u>Elite Mac Graphic Preserver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gpu-refresher-with-ddu-2024-edition/"><u>GPU Refresher with DDU - 2024 Edition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratisk-imgburn-program-skapa-baere-og-kopiere-iso-filer-ved-at-klippe-dvd/"><u>Gratisk ImgBurn Program - Skapa, Bære Og Kopiere ISO-Filer Ved at Klippe DVD</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-identifying-creator-types-six-intriguing-youtube-categorization-tests/"><u>In 2024, Identifying Creator Types Six Intriguing YouTube Categorization Tests</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-the-beastly-lynel-challenge-in-zeldas-breath-of-the-wild/"><u>Overcoming the Beastly Lynel Challenge in Zelda's Breath of the Wild</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-idt-audio-setup-for-enhanced-w7-soundscape/"><u>Revamp IDT Audio Setup for Enhanced W7 Soundscape</u></a></li>
-<li><a href="https://driver-install.techidaily.com/supercharge-logitech-mouse-with-windows-11-driver-updates/"><u>Supercharge Logitech Mouse with Windows 11 Driver Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tricks-to-achieve-high-performance-gaming-in-windows-11/"><u>Top Tricks to Achieve High-Performance Gaming in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tune-performance-latest-updates-for-intels-chipset-in-ws-11781/"><u>Tune Performance: Latest Updates for Intel's Chipset in WS 11/7/8.1</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/video-mastery-leading-text-manipulations/"><u>Video Mastery Leading Text Manipulations</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-711-graphics-drivers-retry/"><u>Windows 7/11: Graphics Drivers Retry</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-igtv-content-size-requirements/"><u>[New] In 2024, IGTV Content Size Requirements</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-wisdom-the-most-overlooked-features/"><u>2024 Approved Instagram Wisdom The Most Overlooked Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarity-on-chatgpt-not-a-threat-to-windows-users/"><u>Clarity on ChatGPT: Not a Threat to Windows Users</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-activate-and-use-system-restore-on-windows-11-a-fast-fix-solution/"><u>How to Activate and Use System Restore on Windows 11: A Fast Fix Solution</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalized-computing-acer-drivers-for-windows-11/"><u>Revitalized Computing: Acer Drivers for Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-printing-with-the-newest-hp-officejet-pro-8620-windows-drivers/"><u>Seamless Printing with the Newest HP OfficeJet Pro 8620 Windows Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-mx870-on-windows-10-7-and-8-systems/"><u>Setup MX870 on Windows 10, 7 & 8 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smoothly-switch-between-wifi-and-local-networks/"><u>Smoothly Switch Between WiFi and Local Networks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/user-access-issues-fixed-successful-update-to-online-login-system/"><u>User Access Issues Fixed: Successful Update to Online Login System</u></a></li>
 </ul></div>
 

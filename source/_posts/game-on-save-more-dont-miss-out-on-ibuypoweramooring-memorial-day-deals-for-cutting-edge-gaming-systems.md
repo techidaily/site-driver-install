@@ -1,7 +1,7 @@
 ---
 title: "Game On, Save More: Don’t Miss Out on iBUYPOWER'amooring Memorial Day Deals for Cutting-Edge Gaming Systems"
-date: 2025-01-12T16:01:00.827Z
-updated: 2025-01-15T23:56:23.181Z
+date: 2025-01-15T10:05:30.707Z
+updated: 2025-01-22T06:17:07.875Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  To help you assemble the best PC build for gaming or productivity that you can get, we've created recommended parts lists for every budget: from a super-cheap sub-$500 system to an affordable sub-$1,000 build to a $4,000+ dream machine for those with deep pockets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Picking and Pricing the Best PC Builds
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -27,17 +31,9 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $500 PC Build for Gaming
 
 ![Cooler Master MasterBox Q300L](https://cdn.mos.cms.futurecdn.net/Zoebn2FkWQprjxmm7jKxZS-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -76,7 +72,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Finally, we need something to power the whole system, and this is an area where we opted to compromise in pursuit of the $500 price point. The $40 500W PSU should be fine for this basic build, which will likely peak at around 200W of power use, but the Thermaltake Smart series isn't exactly highly regarded, and the listing mentions Haswell support (circa 2014) and it only has 80 Plus certification, which are clear drawbacks. If you want a quality PSU, check out the[Thermaltake Toughpower GX2 600W](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB087CDR14Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2901418645577992029-20) that costs $20 more. It's an 80 Plus Gold certified PSU, from a reputable brand, albeit overkill for a build like this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best $800 PC Build for Gaming
@@ -84,7 +80,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Amazon)
@@ -109,10 +105,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![14400 CPU vs competition](https://cdn.mos.cms.futurecdn.net/FVyBrR3Fkm8RXeguWat4ik-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  To go with this Intel processor, we're using an ASRock B760M-HDV motherboard because it supports 14th Gen CPUs without a BIOS update. It's a DDR4 board so we can save money by using DDR4 memory. It also features two M.2 slots for SSDs, with one of them supporting PCIe 4.0 drives.
@@ -121,6 +113,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The card can also do some ray tracing as it averaged 41.7 fps on 1080p ultra with ray tracing enabled. Forget about playing in 2K with ray tracing as that only gave us 25.8 fps.
@@ -128,6 +124,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  For our storage, we're going with the 1TB Silicon Power UD90\. This budget-oriented PCIe 4.0 SSD can't beat the top-of-the-line drives like the Samsung 990 Pro or[WD](https://www.tomshardware.com/tag/western-digital) Black SN850X, but it has really strong performance for the money, promising sequential reads and writes of 4,800 and 4,200 MBps.
 
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -221,23 +221,19 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
 
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $2000 PC Build for Gaming
 
 ![Hyte Y40](https://cdn.mos.cms.futurecdn.net/4uhnTrJWRufEuBFQzenypi-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -262,7 +258,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![RTX 4070 Ti Super Charts](https://cdn.mos.cms.futurecdn.net/xLHYFZLdk36D2Rmd2iLYFa-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -282,7 +278,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Memory Latency](https://cdn.mos.cms.futurecdn.net/ew9VS2PUuTupX8YSvcyb5X-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Future)
@@ -320,6 +316,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  On our tests, the RTX 4090 averaged 112 fps playing a suite of games at 4K. That's a huge improvement over the next-best card, the Radeon RX 7900 XTX, which only hit 90 fps. In ray tracing, the gap widens a lot more, with the 4090 averaging 58 fps, the 4080 sits at 41 fps, and the fastest card from AMD, the 7900 XTX, gets just 30 fps.
 
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -364,24 +364,19 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-obs-or-wirecast-deciding-on-the-best-streamer-tool/"><u>[New] In 2024, OBS or Wirecast? Deciding on the Best Streamer Tool</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-apowersoft-screen-recording-the-ultimate-pc-guide/"><u>2024 Approved Apowersoft Screen Recording The Ultimate PC Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fb-activity-preview-insight-or-intrusion-whats-safer/"><u>2024 Approved FB Activity Preview Insight or Intrusion – What's Safer?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/addressed-remote-network-driver-flaw-in-windows-vista/"><u>Addressed: Remote Network Driver Flaw in Windows Vista</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amplify-acer-vision-in-windows-11-graphics-upgrade/"><u>Amplify Acer Vision in Windows 11 Graphics Upgrade</u></a></li>
-<li><a href="https://article-tips.techidaily.com/boost-your-tiktok-presence-zoom-integration-guide/"><u>Boost Your TikTok Presence Zoom Integration Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-display-capabilities-in-windows-10/"><u>Enhance Display Capabilities in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-inkjet-functionality-on-windows-11/"><u>Enhance Inkjet Functionality on Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-exploration-decoding-googles-podcast-app-for-2024/"><u>Full Exploration Decoding Google's Podcast App for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/heal-uart-to-usb-data-link-errors/"><u>Heal UART to USB Data Link Errors</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-15-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 15 When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-download-and-update-amd-video-drivers-easily/"><u>How to Download and Update AMD Video Drivers Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-new-horizons-in-photography-lg-360-camera-update/"><u>In 2024, New Horizons in Photography - LG 360 Camera Update</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/navigating-the-basics-of-setting-up-and-timing-google-meet/"><u>Navigating the Basics of Setting Up and Timing Google Meet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-through-the-process-of-updating-mice-drivers-in-windows/"><u>Navigating Through the Process of Updating Mice Drivers in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-qbittorrent-pauses-effective-fixes-for-when-torrenting-stops/"><u>Overcome qBittorrent Pauses: Effective Fixes for When Torrenting Stops</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-and-easy-installation-hp-projector-8710-drivers-windows-download/"><u>Quick & Easy Installation: HP Projector 8710 Drivers (Windows) Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-atheros-wi-fi-enhancement-for-your-windows-environment/"><u>Step-by-Step Atheros Wi-Fi Enhancement for Your Windows Environment</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-smooth-transition-uploading-imovie-films-into-vimeo/"><u>[New] In 2024, Smooth Transition Uploading iMovie Films Into Vimeo</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-online-meeting-transcriptions/"><u>[Updated] In 2024, Online Meeting Transcriptions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-premier-tools-best-mac-devices-for-capturing-videos/"><u>[Updated] In 2024, Premier Tools Best Mac Devices for Capturing Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-award-winners-in-writing-for-different-movie-types/"><u>2024 Approved Award Winners in Writing for Different Movie Types</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-essential-tactics-for-youtube-short-troubleshooting/"><u>2024 Approved Essential Tactics for YouTube Short Troubleshooting</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-the-drivers-not-found-issue-on-windows-10-8-and-7-a-step-by-step-guide/"><u>Fixing the 'Drivers Not Found' Issue on Windows 10, 8 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-updated-hp-officejet-8620-drivers-on-windows/"><u>Installing Updated HP OfficeJet 8620 Drivers on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-blockchain-technology-into-your-computer-via-amd-drivers/"><u>Integrate Blockchain Technology Into Your Computer via AMD Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/m2-ssd-detection-and-installation-guide/"><u>M.2 SSD Detection & Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/msi-bravo-15-driver-upgrade-guide/"><u>MSI Bravo 15 Driver Upgrade Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-graphic-driver-release-hp-and-windows-11/"><u>New Graphic Driver Release: HP & Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-art-of-capturing-intimate-film-moments/"><u>The Art of Capturing Intimate Film Moments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-subwoofer-with-samsung-soundbar/"><u>Ultimate Guide: Connecting Your Subwoofer with Samsung Soundbar</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unveiling-the-excellence-detailed-look-at-the-microsoft-surface-laptop-4/"><u>Unveiling the Excellence: Detailed Look at the Microsoft Surface Laptop 4</u></a></li>
 </ul></div>
 

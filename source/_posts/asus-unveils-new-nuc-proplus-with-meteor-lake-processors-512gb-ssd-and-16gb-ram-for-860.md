@@ -1,7 +1,7 @@
 ---
 title: Asus Unveils New NUC ˈproːplus with Meteor Lake Processors, 512GB SSD and 16GB RAM for $860
-date: 2025-01-11T01:20:49.386Z
-updated: 2025-01-15T18:13:36.848Z
+date: 2025-01-20T03:14:56.050Z
+updated: 2025-01-21T19:08:02.936Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,20 +76,21 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/utting-edge-video-edits-without-spending-navigate-through-the-8-tools-for-2024/"><u>[New] Cutting-Edge Video Edits Without Spending Navigate Through The 8 Tools for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-accelerating-periscope-video-transmission/"><u>[New] In 2024, Accelerating Periscope Video Transmission</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-action-like-never-before-review-the-t5-eye-action-camera/"><u>[Updated] 2024 Approved Action Like Never Before Review the T5 Eye Action Camera</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-visual-victory-amd-radeon-evolution/"><u>[Updated] In 2024, Visual Victory AMD Radeon Evolution</u></a></li>
-<li><a href="https://driver-install.techidaily.com/aoc-e1659fwu-driver-update-for-windows-107/"><u>AOC E1659FWU Driver Update for Windows 10/7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/asus-drivers-download-and-install-for-windows/"><u>ASUS Drivers Download & Install for Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boosting-graphics-on-win-10-now/"><u>Boosting Graphics on Win 10 Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-and-keep-your-epson-et-3760-driver-updated-for-optimal-performance-on-windows-pcs/"><u>How To Install And Keep Your Epson ET-3760 Driver Updated For Optimal Performance On Windows PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-ac1200wifi-usb-pcie-device-from-netgear/"><u>Install Ac1200WiFi USB PCIe Device From NETGEAR</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-y470-integration-with-windows-7/"><u>Lenovo Y470 Integration with Windows 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rtl8723c-pcie-chipset-latest-windows-11-drivers-unveiled/"><u>RTL8723C PCIe Chipset: Latest Windows 11 Drivers Unveiled</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-enhancement-of-win10-tactile-features/"><u>Seamless Enhancement of Win10 Tactile Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gameplay-overcoming-star-wars-battlefront-2s-previous-slowdown-problems/"><u>Smooth Gameplay: Overcoming Star Wars Battlefront 2'S Previous Slowdown Problems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-motorola-edge-40-neo-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Motorola Edge 40 Neo Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-12-mini-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 12 mini using itunes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-five-fantastic-iphones-for-podcast-fans/"><u>[New] Five Fantastic iPhones for Podcast Fans</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimizing-your-video-capture-with-screencastify/"><u>[New] In 2024, Optimizing Your Video Capture with Screencastify</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-thrive-with-1000-new-followers-each-month/"><u>[New] In 2024, Thrive with 1,000 New Followers Each Month</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>[Updated] The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-vocab-unveiled-essential-language-for-the-tech-world/"><u>AI Vocab Unveiled: Essential Language for the Tech World</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-for-lenovos-inoperative-touch-interface/"><u>Fix for Lenovo's Inoperative Touch Interface</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-updating-logitech-headset-cables/"><u>Instantly Improve: Updating Logitech Headset Cables</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-enhanced-task-management-and-faster-completion-times/"><u>Leveraging ChatGPT for Enhanced Task Management and Faster Completion Times</u></a></li>
+<li><a href="https://driver-install.techidaily.com/making-xbox-joy-con-work-on-windows-10/"><u>Making XBox Joy-Con Work on Windows 10</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-cryptocurrency-wallets-a-beginners-guide-with-yl-computing/"><u>Mastering Cryptocurrency Wallets: A Beginner's Guide with YL Computing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-device-software-tweaks-on-microsofts-windows-8-platform/"><u>Mastering Device Software Tweaks on Microsoft's Windows 8 Platform</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-msi-driver-refinement-on-previous-windows-versions/"><u>Mastering MSI Driver Refinement on Previous Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-era-of-quick-fixes-acer-drivers-update-for-win10-users/"><u>New Era of Quick Fixes: Acer Drivers Update for Win10 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-easy-drivers-update-in-windows-versions-from-10-to-7/"><u>Quick & Easy Drivers Update in Windows Versions From 10 to 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quickly-access-usb-tools-via-simple-driver-download/"><u>Quickly Access USB Tools via Simple Driver Download!</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transforma-tus-archivos-de-pelicula-vob-a-3gp-libremente-con-la-herramienta-en-linea-de-movavi/"><u>Transforma Tus Archivos De Película VOB a 3GP Libremente Con La Herramienta En Línea De Movavi</u></a></li>
 </ul></div>
 
