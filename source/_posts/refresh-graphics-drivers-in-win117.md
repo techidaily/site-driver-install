@@ -1,7 +1,7 @@
 ---
 title: Refresh Graphics Drivers in Win11/7
-date: 2025-01-17T10:35:39.713Z
-updated: 2025-01-22T01:52:56.973Z
+date: 2025-01-28T17:03:03.350Z
+updated: 2025-01-29T23:24:20.012Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
@@ -51,14 +55,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
  If you don’t have the time, patience or computer skills to reinstall the driver manually, or if Windows doesn’t provide the latest driver, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  2) Run**Driver Easy** and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -125,17 +125,24 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-quality-control-best-free-lut-selections-and-links-reviewed-for-2024/"><u>[New] Quality Control Best Free LUT Selections & Links Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-songwriters-journey-top-15-video-tips-for-music-creators/"><u>[Updated] The Songwriter's Journey Top 15 Video Tips for Music Creators</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1-how-to-seamlessly-move-texts-from-one-iphone-to-another-using-alternative-methods/"><u>1. How to Seamlessly Move Texts From One iPhone to Another Using Alternative Methods</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1722999258283-diablo-reawakened-how-to-stop-the-game-from-crashing-solved/"><u>Diablo Ⅱ Reawakened: How to Stop the Game From Crashing - Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-displays-lacking-hdcp-support/"><u>How to Resolve Displays Lacking HDCP Support</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-file-transfer-in-google-chrome-now-easier-on-windows/"><u>Mastering File Transfer in Google Chrome, Now Easier on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/safety-assured-inf-lacks-digital-signs/"><u>Safety Assured: Inf Lacks Digital Signs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-c53-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme C53 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-vision-with-updated-hp-drivers-win7-way/"><u>Upgrade Your Vision with Updated HP Drivers - Win7 Way</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-mastery-overcoming-samsung-ssd-hiccups-and-errors/"><u>Windows Mastery: Overcoming Samsung SSD Hiccups and Errors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-top-6-virtual-reality-vr-gloves-to-check-out/"><u>[New] In 2024, Top 6 Virtual Reality (VR) Gloves to Check Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-charting-the-course-to-celebrity-the-9-instagram-techniques-you-must-learn/"><u>[Updated] Charting the Course to Celebrity The #9 Instagram Techniques You Must Learn</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-ifunny-meme-downloads-and-fun/"><u>[Updated] In 2024, Mastering iFunny Meme Downloads & Fun</u></a></li>
+<li><a href="https://driver-install.techidaily.com/achieving-precision-enhancing-windows-operation-w-samsung-ssds/"><u>Achieving Precision: Enhancing Windows Operation W/ Samsung SSDs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressing-hp-printer-driver-woes-in-win11/"><u>Addressing HP Printer Driver Woes in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-windows-10-graphics-via-hp-software/"><u>Boost Windows 10 Graphics via HP Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/downscaling-from-newmacos-sierra-to-prior-os-el-capitan/"><u>Downscaling From Newmacos Sierra To Prior OS - El Capitan</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dynamic-beats-win-edition/"><u>Dynamic Beats Win Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-gaming-evolution-with-razers-deathadder-v3-tailor-your-controllers-speed-like-never-before/"><u>Experience Gaming Evolution with Razer's DeathAdder V3 – Tailor Your Controller’s Speed Like Never Before!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-non-responsive-iphone-home-button-top-5-solutions/"><u>Fixing a Non-Responsive iPhone Home Button – Top 5 Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-xs-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone XS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-razr-40-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Razr 40 Ultra to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/infuse-hp-laptop-envy-5530-with-windows-10/"><u>Infuse HP Laptop (Envy 5530) with Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mf4770n-drivers-for-optimal-windows-10-8-and-7-performance/"><u>MF4770n: Drivers for Optimal Windows 10, 8 & 7 Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/msi-bravo-15-ensuring-optimal-performance-with-drivers/"><u>MSI Bravo 15: Ensuring Optimal Performance with Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-vistas-hardware-management-without-gui/"><u>Navigating Vista's Hardware Management Without GUI</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reimagine-your-messaging-creating-unique-whatsapp-tones/"><u>Reimagine Your Messaging Creating Unique WhatsApp Tones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplifying-hdmi-driver-updates-in-windows-11-for-peak-performance/"><u>Simplifying HDMI Driver Updates in Windows 11 for Peak Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solve-windows-10-deskjet-printer-problems/"><u>Solve Windows 10 Deskjet Printer Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "China's Plan: Surge Public Sector Supercomputing Power by 30%% Reaching 300 Exaflops Before 2025"
-date: 2025-01-16T00:12:13.345Z
-updated: 2025-01-22T05:11:11.172Z
+date: 2025-01-25T23:02:33.978Z
+updated: 2025-01-29T20:31:50.576Z
 tags:
   - desktop
 categories:
@@ -56,25 +56,25 @@ Today we have one great deal that turns into two when you take up a bundle offer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-in-the-spotlight-top-viewers-choice/"><u>[New] In 2024, In the Spotlight Top Viewers' Choice</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smart-strategies-to-modify-user-numbers-on-tiktok/"><u>[New] In 2024, Smart Strategies to Modify User Numbers on TikTok</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-a-memorable-channel-presence-with-imagery/"><u>[Updated] In 2024, Crafting a Memorable Channel Presence with Imagery</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unveiling-the-art-of-sideways-iphone-photography/"><u>[Updated] Unveiling the Art of Sideways iPhone Photography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/becoming-a-specialist-in-srt-text-management-for-2024/"><u>Becoming a Specialist in SRT Text Management for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-art-of-creating-youtube-video-thumbnails/"><u>In 2024, The Art of Creating YouTube Video Thumbnails</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-6-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 6 Making It Possible</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-relief-for-your-troubled-hawkui-vehicle/"><u>Instant Relief for Your Troubled Hawkui Vehicle</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-fastest-way-to-convert-4k-videos-to-mp4-no-technical-expertise-needed/"><u>New In 2024, The Fastest Way to Convert 4K Videos to MP4 No Technical Expertise Needed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcome-cable-transmission-errors/"><u>Overcome Cable Transmission Errors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/proper-ie-driver-implementation-on-legacy-windows/"><u>Proper IE Driver Implementation on Legacy Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/qualcomm-atheros-adapter-update-procedures/"><u>Qualcomm Atheros Adapter Update Procedures</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-and-simple-routine-for-adding-new-atheros-drivers-to-windows-11/"><u>Quick and Simple Routine for Adding New Atheros Drivers to Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-guide-to-asus-usb-bt400-support-and-download/"><u>Quick Guide to Asus USB-BT400 Support & Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-guide-installing-windows-11s-haptic-support/"><u>Quick Guide: Installing Windows 11'S Haptic Support</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-14-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi 14 Pro Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-elevate-live-streaming-on-mac-a-guide-to-1-5-tools/"><u>[Updated] 2024 Approved Elevate Live Streaming on Mac A Guide to #1-5 Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-markets-best-gpus-for-uhd-video-processing/"><u>[Updated] 2024 Approved Market's Best GPUs for UHD Video Processing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-win11-with-new-acer-graphic-cards/"><u>Boost Win11 with New Acer Graphic Cards</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-hyperx-soundcard-driver-tweaks/"><u>Essential Tips for HyperX Soundcard Driver Tweaks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-effortlessly-stay-updated-with-newest-amd-graphics-cards/"><u>How to Effortlessly Stay Updated with Newest AMD Graphics Cards</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-itel-a70-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Itel A70</u></a></li>
+<li><a href="https://facebook.techidaily.com/in-pursuit-of-privacy-industry-overview/"><u>In Pursuit of Privacy: Industry Overview</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/prime-android-image-editing-software-for-2024/"><u>Prime Android Image Editing Software for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-driver-issues-in-windows-1187-solved/"><u>StarTech Driver Issues in Windows 11/8/7 [Solved]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackle-xerox-print-job-failures-on-windows-11/"><u>Tackle Xerox Print Job Failures on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/taking-windows-11-display-to-the-next-level-with-an-hdmi-driver-update/"><u>Taking Windows 11 Display to the Next Level with an HDMI Driver Update</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram/"><u>Transform Your Footage Effective Strategies for Cropping & Export on Instagram</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-4k-the-ultimate-list-of-free-video-converters/"><u>Updated In 2024, Unlock 4K The Ultimate List of Free Video Converters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-107-fwu-drivers-aoc-release-v1659e/"><u>Windows 10/7 FWU Drivers - AOC Release V1659E</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

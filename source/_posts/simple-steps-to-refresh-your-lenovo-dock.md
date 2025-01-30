@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Refresh Your Lenovo Dock
-date: 2025-01-20T04:25:54.528Z
-updated: 2025-01-21T18:48:18.843Z
+date: 2025-01-25T19:09:06.267Z
+updated: 2025-01-29T20:23:21.474Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 **Lenovo USB-C Dock** is a new-gen docking station that takes care of your multitasking needs by offering a full array of device connection options. Versatile as it is, it’s important that you**keep its drivers up-to-date** to make sure the peripherals connected to the station work properly.
 
  In this tutorial, we’ll guide you through the process of updating the drivers for your Lenovo USB-C Dock, both automatically and manually.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## To update Lenovo USB-C Dock drivers in Windows
 
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/usbc.png)
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
  Now congrats – you’ve already updated the USB-C Dock driver for your Windows PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Update Lenovo USB-C Dock drivers** manually
@@ -70,18 +66,22 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/support.png)
 2. From**Select a Product Family** , choose**View PC Support** . Alternatively, you can choose**Detect Support** to make Lenovo do the legwork. Since this is the manual method, I make it purely manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/viewpcsupport.png)
 3. Select**Browse Product** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/browse.png)
 4. Choose**Accessories** , then in the drop-down menus, choose**Docks** \>**Thinkpad USB-C Dock** respectively.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-2.png)
@@ -117,22 +117,15 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unveiling-the-hidden-mastering-the-mask-of-background-blur/"><u>[New] In 2024, Unveiling the Hidden Mastering the Mask of Background Blur</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-dominates-with-superior-oled-display-quality-a-standout-in-hundreds-of-laptop-comparisons-zdnet/"><u>ASUS Dominates with Superior OLED Display Quality - A Standout in Hundreds of Laptop Comparisons | ZDNET</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/challenges-in-learning-german/"><u>Challenges in Learning German</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-the-ease-of-sound-liberation-with-pazeras-tools/"><u>Discover the Ease of Sound Liberation with Pazera's Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo K11 5G Phone without Google Account?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-gt-neo-5-se-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme GT Neo 5 SE Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-quick-fix-flipping-clips-in-final-cut-pro-made-easy/"><u>In 2024, Quick Fix Flipping Clips in Final Cut Pro Made Easy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-review-mastering-facetunes-complete-features-for-2024/"><u>In-Depth Review Mastering Facetune's Complete Features for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ios-18-revolutionizes-call-recording-with-in-built-feature-no-app-required-dive-into-the-details-on-zdnet/"><u>IOS 18 Revolutionizes Call Recording with In-Built Feature, No App Required - Dive Into the Details on ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-your-printing-experience-install-updated-win11-drivers-for-hp/"><u>Revamp Your Printing Experience - Install Updated Win11 Drivers for HP</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revive-graphics-support-in-windows-711/"><u>Revive Graphics Support in Windows 7/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/system-access-negotiation/"><u>System Access Negotiation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/up-to-date-nvidia-gtx-970-installation-guide-w11/"><u>Up-to-Date Nvidia GTX 970: Installation Guide W11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-graphic-integration-for-acer-pcs-in-windows-10/"><u>Update Graphic Integration for Acer PCs in Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-hp-officejet-8620-printer-drivers-on-windows-systems-efficiently/"><u>Update HP OfficeJet 8620 Printer Drivers on Windows Systems Efficiently</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-windows-system-with-amd-gpu-software/"><u>Upgrade Windows System with AMD GPU Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xerox-workcentre-6515-software-patches/"><u>Xerox WorkCentre 6515 Software Patches</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211266852-9798893566994-apples-of-gold-in-settings-of-silver/"><u>Apples of Gold in Settings of Silver | Free Book</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-chats-to-files-the-methodical-approach-to-downloading-fb-video-for-2024/"><u>From Chats to Files The Methodical Approach to Downloading FB Video for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/guard-your-video-calls-the-ultimate-list-of-free-security-enhanced-applications/"><u>Guard Your Video Calls The Ultimate List of Free Security-Enhanced Applications</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-officejet-pro-8620-driver-upgrade-step-by-step-for-windows-users/"><u>HP OfficeJet Pro 8620 Driver Upgrade - Step by Step for Windows Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y55s-5g-2023-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y55s 5G (2023) to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/power-up-your-bitcoin-experience-on-windows-using-new-amd-drivers/"><u>Power Up Your Bitcoin Experience on Windows Using New AMD Drivers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/proven-techniques-for-amplifying-your-impact-on-youtube-shorts/"><u>Proven Techniques for Amplifying Your Impact on YouTube Shorts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-windows-issues-hp-printer-1020-driver-update/"><u>Resolved Windows Issues: HP Printer 1020 Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-enhanced-support-for-lenovo-y470/"><u>Windows 7 Enhanced Support for Lenovo Y470</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/waveaac-movavi/"><u>オンラインで自由に利用可能なWAVEファイルからAACへの変換 - Movavi</u></a></li>
 </ul></div>
 

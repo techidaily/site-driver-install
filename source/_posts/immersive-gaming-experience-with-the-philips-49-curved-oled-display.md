@@ -1,7 +1,7 @@
 ---
 title: Immersive Gaming Experience with the Philips 49 Curved OLED Display
-date: 2025-01-21T11:27:27.123Z
-updated: 2025-01-22T03:20:12.314Z
+date: 2025-01-27T18:03:39.256Z
+updated: 2025-01-29T21:04:40.711Z
 categories:
   - BestProducts
 description: This Article Describes Immersive Gaming Experience with the Philips 49 Curved OLED Display
@@ -42,7 +42,7 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
@@ -73,7 +73,15 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
@@ -96,6 +104,10 @@ Lifewire / Jonno Hill
  The lighting system is also approachable and understated, giving a little bit of customizable flare without going too over the top. As you’ll see later in the software section, HP has made it very straightforward to tweak any of these settings to your satisfaction.
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -123,10 +135,6 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
@@ -143,10 +151,6 @@ Lifewire / Jonno Hill
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Highly competitive**
 
  The HP OMEN Obelisk with the same specs as this one can be found for around $2,000, at least when it’s in stock. Despite a lot of flaws that I can point to a nit-pick about, the price is one of the main reasons I still consider the OMEN to be a solid deal. I went through the trouble of parting out a similar build on PCPartPicker, going as far as to cut corners where I usually wouldn’t, and still arrived at just under $1800 before tax.
@@ -156,14 +160,10 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -178,7 +178,7 @@ Lifewire / Jonno Hill
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -215,24 +215,17 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-techniques-saving-google-meets-on-phones/"><u>[New] 2024 Approved Efficient Techniques Saving Google Meets on Phones</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-merging-text-and-vision-on-a-limited-budget/"><u>[New] Merging Text & Vision on a Limited Budget</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-navigating-the-full-spectrum-of-storage-in-the-adobe-cloud-ecosystem/"><u>[New] Step by Step Navigating the Full Spectrum of Storage in the Adobe Cloud Ecosystem</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-revolutionize-your-storytelling-controlling-instagrams-video-speed/"><u>[Updated] 2024 Approved Revolutionize Your Storytelling Controlling Instagram's Video Speed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>[Updated] From Scripts to Subscribers Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-strategies-successful-webcam-and-gaming-recordings/"><u>[Updated] In 2024, Essential Strategies Successful Webcam & Gaming Recordings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/elevate-your-gaming-experience-with-fbx-recording-tips/"><u>Elevate Your Gaming Experience with FBX Recording Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-these-7-smart-ai-apps-can-transform-your-presentation-skills/"><u>How These 7 Smart AI Apps Can Transform Your Presentation Skills</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-90-gt-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-firmware-lasting-sound-quality/"><u>Instant Firmware, Lasting Sound Quality</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-new-idt-audio-into-w7-operating-system/"><u>Integrate New IDT Audio Into W7 Operating System</u></a></li>
-<li><a href="https://driver-install.techidaily.com/keep-your-computer-up-to-date-install-latest-drivers-for-hp-omen-15/"><u>Keep Your Computer Up-to-Date – Install Latest Drivers for HP Omen 15</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-software-update-quadro-rtx-6000/"><u>Latest Software Update - Quadro RTX 6000</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-msi-drivers-update-in-old-windows-editions/"><u>Navigating MSI Drivers Update in Old Windows Editions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-horizons-for-windows-7-with-updated-hp-drivers/"><u>New Horizons for Windows 7 with Updated HP Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/operating-systems-latest-fix-hd-audio-support-improved/"><u>Operating System's Latest Fix: HD Audio Support Improved</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-acer-screens-on-windows-10-through-updates/"><u>Optimize Acer Screens on Windows 10 Through Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-aoc-performance-on-win-711/"><u>Optimize AOC Performance on Win 7/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-for-fixing-bluetooth-connectivity-problems-in-windows-11/"><u>Solution Steps for Fixing Bluetooth Connectivity Problems in Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebooks-viral-videos-the-top-8-counting-up-to-2023/"><u>[New] 2024 Approved Facebook's Viral Videos The Top 8 Counting Up to 2023</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-uniting-live-stream-tech-a-step-by-step-obs-and-zoom/"><u>[New] 2024 Approved Uniting Live Stream Tech A Step-by-Step OBS & Zoom</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-monochrome-moments-to-multicolor-movies-for-2024/"><u>[Updated] From Monochrome Moments to Multicolor Movies for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-route-to-high-speed-hardware-support/"><u>Direct Route to High-Speed Hardware Support</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-tools-how-to-transform-your-sound-recordings-into-high-quality-mp3s-instantly/"><u>Free Online Tools: How to Transform Your Sound Recordings Into High-Quality MP3s Instantly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hastily-upgrade-amd-motherboard-support/"><u>Hastily Upgrade AMD Motherboard Support</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-best-premiere-plans-free-for-pros/"><u>In 2024, Unveiling the Best Premiere Plans, FREE for Pros</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-tutorial-pro-4-drivers-on-windows-pcs/"><u>Installation Tutorial: Pro 4 Drivers on Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-drivers-guide-how-to-keep-your-msi-bravo-sharp/"><u>Latest Drivers Guide: How to Keep Your MSI Bravo Sharp</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-sound-and-filter-integration-in-windows-10-photos-app-for-2024/"><u>Mastering Sound & Filter Integration in Windows 10 Photos App for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-connectivity-w11plus-windows-compatible-drivers-from-asus/"><u>Seamless Connectivity: W11+ Windows Compatible Drivers From Asus</u></a></li>
+<li><a href="https://fox-links.techidaily.com/tunetinker-tweaking-the-audio-map-for-2024/"><u>TuneTinker Tweaking the Audio Map for 2024</u></a></li>
 </ul></div>
 

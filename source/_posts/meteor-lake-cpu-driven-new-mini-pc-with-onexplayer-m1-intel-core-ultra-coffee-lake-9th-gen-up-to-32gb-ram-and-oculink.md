@@ -1,7 +1,7 @@
 ---
 title: Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink
-date: 2025-01-18T07:13:39.029Z
-updated: 2025-01-22T07:51:29.332Z
+date: 2025-01-28T22:28:58.951Z
+updated: 2025-01-29T23:00:49.402Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,15 +78,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-easy-breezy-country-playlist-best-songs-for-stress-relief-tiktok/"><u>[New] 2024 Approved Easy Breezy Country Playlist Best Songs for Stress Relief (TikTok)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-making-money-from-youtube-shorts-key-elements-and-profit-possibilities/"><u>[New] In 2024, Making Money From YouTube Shorts Key Elements & Profit Possibilities</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-walking-into-tomorrow-the-premier-vr-treadmills-reviewed-for-2024/"><u>[Updated] Walking Into Tomorrow The Premier VR Treadmills Reviewed for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instructions-microsoft-pro-4-drivers-in-windows/"><u>Instructions: Microsoft Pro 4 Drivers in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-hawku-cars-simple-solutions/"><u>Navigating Hawku Cars: Simple Solutions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-new-driver-installation-guide/"><u>Nvidia GTX 970 - New Driver Installation Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimal-printing-update-for-latest-hp-officejet-4630-driver/"><u>Optimal Printing: Update for Latest HP Officejet 4630 Driver</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-audio-issues-on-mozilla-firefox-now-functioning/"><u>Resolved: Audio Issues on Mozilla Firefox Now Functioning</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/260889-9781101204238-the-science-of-vampires/"><u>The Science of Vampires | Free Book</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/847460-9781846948053-traditional-witchcraft-for-the-seashore/"><u>Traditional Witchcraft for the Seashore | Free Book</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-examining-wirecasts-features-against-competitors/"><u>2024 Approved Examining WireCast's Features Against Competitors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-msi-upgrade-step-by-step-process/"><u>Drive MSI Upgrade: Step-by-Step Process</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fasten-driver-updates-for-logitech-audio-cables/"><u>Fasten Driver Updates for Logitech Audio Cables</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-battleye-setup-issues-how-to-handle-the-infamous-driver-load-error-1450/"><u>Fixing BattlEye Setup Issues: How to Handle the Infamous Driver Load Error (1450)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-8t-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-10-missing-iphone-x-tips-and-tricks-for-you-to-pick-up/"><u>In 2024, 10 Missing iPhone X Tips and Tricks For You to Pick Up</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-experience-fcp-for-free-90-day-trial-inside/"><u>In 2024, Experience FCP for Free 90-Day Trial Inside</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-huawei-p60-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Huawei P60? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-information.techidaily.com/melodic-matchmakers-aligning-music-to-visuals/"><u>Melodic Matchmakers Aligning Music to Visuals</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstalling-windows-drivers-with-minimal-hassle/"><u>Reinstalling Windows Drivers with Minimal Hassle</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-enhance-w11w8w7-via-mf4770n-driver-update/"><u>Secure and Enhance W11/W8/W7 via MF4770n Driver Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-solutions-for-uninterrupted-gaming-resolving-outriders-crash-issues/"><u>Simple Solutions for Uninterrupted Gaming: Resolving Outriders' Crash Issues</u></a></li>
 </ul></div>
 
