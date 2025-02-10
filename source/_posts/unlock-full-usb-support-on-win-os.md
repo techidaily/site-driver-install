@@ -1,7 +1,7 @@
 ---
 title: Unlock Full USB Support on WIN OS
-date: 2025-01-25T22:34:10.963Z
-updated: 2025-01-29T20:02:05.267Z
+date: 2025-02-03T20:37:05.359Z
+updated: 2025-02-09T22:23:15.057Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update Generic USB Hub driver manually
@@ -41,24 +41,28 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 2. Type**devmgmt.msc** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
 
@@ -75,16 +79,12 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5be1edc38.jpg)
 3. Click the**Update** button next to the flagged USB device to automatically download the correct version of this driver, then install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance
@@ -107,20 +107,15 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-debugging-techniques-identifying-and-resolving-common-javascript-errors/"><u>[New] 2024 Approved Debugging Techniques Identifying and Resolving Common JavaScript Errors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-edge-of-screen-innovation-with-benq-sw320/"><u>[New] Exploring the Edge of Screen Innovation with BenQ SW320</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-complete-guide-about-video-resolution-for-beginners/"><u>A Complete Guide About Video Resolution for Beginners</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063275743-access-top-tier-sound-in-minutes/"><u>Access Top-Tier Sound in Minutes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/complete-setup-refreshing-gpu-drivers-from-scratch/"><u>Complete Setup: Refreshing GPU Drivers From Scratch</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-link-intel-hd-graphics-520/"><u>Direct Link: Intel HD Graphics 520</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/first-to-last-your-guide-to-youtube-video-looping-101/"><u>From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-marvell-acwire-for-enhanced-connectivity/"><u>Install Marvell ACWIRE for Enhanced Connectivity</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installation-instructions-easy-setup-of-the-logitech-c270-camera/"><u>Installation Instructions: Easy Setup of the Logitech C270 Camera</u></a></li>
-<li><a href="https://driver-install.techidaily.com/introducing-the-updated-intel-82579lm-for-superior-device-performance/"><u>Introducing the Updated Intel 82579LM for Superior Device Performance</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-crop-like-a-pro-a-step-by-step-guide-for-final-cut-pro-x-users/"><u>New Crop Like a Pro A Step-by-Step Guide for Final Cut Pro X Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95692901-9781780996288-pagan-portals-by-wolfsbane-mandrake-root/"><u>Pagan Portals - By Wolfsbane & Mandrake Root | Free Book</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-your-hardware-drivers-with-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Reinstall your hardware drivers with Device Manager on Windows 11/10/7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/strategies-to-mitigate-software-problems-in-windows-drivers/"><u>Strategies to Mitigate Software Problems in Windows Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-real-meaning-behind-an-inactive-user-on-discord/"><u>The Real Meaning Behind an 'Inactive' User on Discord</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-shoes-for-virtual-ground-leading-treadmill-insights-for-2024/"><u>[New] Shoes for Virtual Ground Leading Treadmill Insights for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-downloading-standardized-youtube-images-with-ease-and-precision/"><u>[Updated] In 2024, Downloading Standardized Youtube Images with Ease & Precision</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-honing-hertz-gameplay-tactics-in-free-fire/"><u>2024 Approved Honing Hertz Gameplay Tactics in Free Fire</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-notch-voice-alteration-for-valorant-players-available-at-zero-cost/"><u>2024 Approved Top Notch Voice Alteration for Valorant Players - Available at Zero Cost</u></a></li>
+<li><a href="https://driver-install.techidaily.com/automate-and-streamline-your-amd-drivers-process/"><u>Automate and Streamline Your AMD Drivers Process</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-latest-drivers-netgear-a6200-usb-adapter/"><u>Download Latest Drivers: Netgear A6200 USB-Adapter</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-scsi-drivers-in-a-flash/"><u>Get SCSI Drivers in a Flash</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-balancing-act-lowering-audio-levels/"><u>In 2024, Balancing Act Lowering Audio Levels</u></a></li>
+<li><a href="https://driver-install.techidaily.com/one-click-headset-software-updates/"><u>One-Click Headset Software Updates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/one-finger-technique-revealed-expanding-your-view-on-google-maps-made-easy/"><u>One-Finger Technique Revealed: Expanding Your View on Google Maps Made Easy!</u></a></li>
 </ul></div>
 

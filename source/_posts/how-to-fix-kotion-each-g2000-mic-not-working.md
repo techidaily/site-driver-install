@@ -1,7 +1,7 @@
 ---
 title: How to Fix Kotion Each G2000 Mic Not Working
-date: 2025-01-26T20:02:27.740Z
-updated: 2025-01-29T18:24:50.847Z
+date: 2025-02-03T06:36:24.044Z
+updated: 2025-02-10T04:27:23.824Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03bb72019e3.jpg)
 
  No sound comes through your Mac? Don’t panic –  it’s usually not a hard problem to solve at all. In this article, we’ll provide 8 tried and tested fixes to help you**get your Mac sound back** in no time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Disconnect external speakers
 
  Sometimes you can’t hear any sound from your Mac because it sends the audio to its external devices, such as headphones, TV, etc. Unplug all of them and check if you can hear the sound. If no, go with**Fix 3** .
@@ -59,10 +59,14 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  1) On the dock, click the**System Preferences** icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026d618d4e9.png) , then click on the **Sound** icon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
@@ -90,16 +94,12 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Check if the**no sound problem** has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Restart your Mac
 
@@ -115,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
 
 4) After the start-up, your computer will be refreshed to the default settings. This time, you might need to  reconfigure settings for speaker volume, time zone, and display solution etc.
@@ -126,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 5) Test to see if the sound works properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix **7: Create a testing account on safe mode**
 
@@ -145,9 +137,17 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
@@ -206,24 +206,22 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-leveraging-instagrams-music-icon-feature-effectively-for-2024/"><u>[New] Leveraging Instagram’s Music Icon Feature Effectively for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>[New] The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-transform-your-asmr-experience-into-proficiently-produced-videos/"><u>[New] Transform Your ASMR Experience Into Proficiently Produced Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlock-the-full-potential-of-zoom-in-your-xbox-setup/"><u>[New] Unlock the Full Potential of Zoom in Your Xbox Setup</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-digital-diary-a-complete-2023-collection-of-twit-threads/"><u>[Updated] Digital Diary A Complete 2023 Collection of Twit-Threads</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>[Updated] Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-securing-gaming-triumphs-record-save-and-archive-ps4-games/"><u>2024 Approved Securing Gaming Triumphs Record, Save & Archive PS4 Games</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-canon-printer-speed-via-driver-update/"><u>Boost Canon Printer Speed via Driver Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-radeon-graphics-drivers-now/"><u>Optimize Radeon Graphics Drivers Now</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-windows-1187-performance-with-asus-bluetooth-driver/"><u>Optimize Windows 11/8/7 Performance with ASUS Bluetooth Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fix-lexmark-printer-driver-improvement/"><u>Quick Fix: Lexmark Printer Driver Improvement</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-enhancement-for-hd-4800-graphics-cards/"><u>Rapid Enhancement for HD 4800 Graphics Cards</u></a></li>
-<li><a href="https://win11.techidaily.com/rapid-rescue-of-powerpoint-problems-6-instantaneous-cures-win11/"><u>Rapid Rescue of PowerPoint Problems: 6 Instantaneous Cures Win11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/surface-pro-4-to-windows-essential-drivers-guide/"><u>Surface Pro 4 to Windows: Essential Drivers Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tp-link-wi-fi-usb-drivers-simple-windows-installation/"><u>TP-Link Wi-Fi USB Drivers - Simple Windows Installation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-zodiac-potential-in-personal-bios-on-messaging-apps/"><u>Unleash Zodiac Potential in Personal Bios on Messaging Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-sound-drivers-for-enhanced-audibility-on-w10/"><u>Updating Sound Drivers for Enhanced Audibility on W10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-7-enhanced-by-nvidias-audio-driver/"><u>Windows 7 Enhanced by Nvidia's Audio Driver</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-media-sensations-tiktoks-top-10-tweets/"><u>[New] 2024 Approved Social Media Sensations TikTok's Top 10 Tweets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-picks-excellent-4k-displays-for-playing-games-for-2024/"><u>[New] Top Picks Excellent 4K Displays for Playing Games for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-effortless-gameplay-capture-a-compreayers-approach-to-xbox-recording/"><u>2024 Approved Effortless Gameplay Capture A Compreayer's Approach to Xbox Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-silence-to-soundscape-embedding-mp3s-in-presentations/"><u>2024 Approved From Silence to Soundscape Embedding MP3s in Presentations</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boost-viewers-interaction-via-youtube-cards-for-2024/"><u>Boost Viewers Interaction via YouTube Cards for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-note-30-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Note 30</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-online-conversor-de-video-wmv-e-wma-para-mp4-ferramenta-ampla-do-movavi/"><u>Gratuito Online: Conversor De Vídeo WMV E WMA Para MP4 - Ferramenta Ampla Do Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-a14-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy A14 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-tips-on-designing-and-3d-printing-secure-qr-codes-at-home/"><u>Innovative Tips on Designing and 3D Printing Secure QR Codes at Home</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-connection-boost-easy-tp-link-wireless-driver-installation/"><u>Instant Connection Boost: Easy TP Link Wireless Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-firmware-version-for-hp-officejet-4630/"><u>Latest Firmware Version for HP Officejet 4630</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-graphics-tech-for-windows-systems/"><u>New Graphics Tech for Windows Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/snappy-drivers-update-techniques-for-all-windows-versions/"><u>Snappy Drivers Update Techniques for All Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-support-windows-drivers-rescued-by-startech/"><u>Streamlined Support: Windows Drivers Rescued by StarTech</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tailor-intels-chipset-integration-to-windows-versions-ws-11781/"><u>Tailor Intel's Chipset Integration to Windows Versions WS 11/7/8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-to-latest-hdmi-drivers-for-windows-10-11/"><u>Upgrading to Latest HDMI Drivers for Windows 10, 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-upgrade-efficient-aoc-drivers-release-e1659/"><u>Win Upgrade: Efficient AOC Drivers Release - E1659</u></a></li>
 </ul></div>
 

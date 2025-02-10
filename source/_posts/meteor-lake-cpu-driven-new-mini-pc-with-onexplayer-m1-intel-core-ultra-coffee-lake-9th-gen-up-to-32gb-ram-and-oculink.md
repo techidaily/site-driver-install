@@ -1,7 +1,7 @@
 ---
 title: Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink
-date: 2025-01-28T22:28:58.951Z
-updated: 2025-01-29T23:00:49.402Z
+date: 2025-02-03T09:56:06.114Z
+updated: 2025-02-09T21:23:41.583Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,18 +78,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-examining-wirecasts-features-against-competitors/"><u>2024 Approved Examining WireCast's Features Against Competitors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-msi-upgrade-step-by-step-process/"><u>Drive MSI Upgrade: Step-by-Step Process</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fasten-driver-updates-for-logitech-audio-cables/"><u>Fasten Driver Updates for Logitech Audio Cables</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-battleye-setup-issues-how-to-handle-the-infamous-driver-load-error-1450/"><u>Fixing BattlEye Setup Issues: How to Handle the Infamous Driver Load Error (1450)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-8t-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-10-missing-iphone-x-tips-and-tricks-for-you-to-pick-up/"><u>In 2024, 10 Missing iPhone X Tips and Tricks For You to Pick Up</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-experience-fcp-for-free-90-day-trial-inside/"><u>In 2024, Experience FCP for Free 90-Day Trial Inside</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-huawei-p60-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Huawei P60? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://extra-information.techidaily.com/melodic-matchmakers-aligning-music-to-visuals/"><u>Melodic Matchmakers Aligning Music to Visuals</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstalling-windows-drivers-with-minimal-hassle/"><u>Reinstalling Windows Drivers with Minimal Hassle</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-enhance-w11w8w7-via-mf4770n-driver-update/"><u>Secure and Enhance W11/W8/W7 via MF4770n Driver Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-solutions-for-uninterrupted-gaming-resolving-outriders-crash-issues/"><u>Simple Solutions for Uninterrupted Gaming: Resolving Outriders' Crash Issues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-the-world-of-filmmaking-best-cameras-for-novices/"><u>[New] Navigating the World of Filmmaking Best Cameras for Novices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-streamlining-captioning-processes-on-vimeo-videos/"><u>2024 Approved Streamlining Captioning Processes on Vimeo Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-method-for-reinstalling-and-configuring-printer-drivers-in-winoss/"><u>Efficient Method for Reinstalling and Configuring Printer Drivers in WinOSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-scsi-driver-installation/"><u>Effortless SCSI Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-screen-output-tips-for-updating-your-hdmi-driver-in-w10w11/"><u>Enhanced Screen Output - Tips for Updating Your HDMI Driver in W10/W11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-13c-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-closer-look-at-high-end-vr-walking-machines/"><u>In 2024, A Closer Look at High-End VR Walking Machines</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-gamers-secrets-to-effective-playback-logging/"><u>In 2024, Gamers' Secrets to Effective Playback Logging</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-identifying-optimal-frame-rate-in-slow-motion-film-production/"><u>In 2024, Identifying Optimal Frame Rate in Slow Motion Film Production</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lsa-defense-mechanism-reactivated-for-enhanced-localized-safeguarding/"><u>LSA Defense Mechanism Reactivated for Enhanced Localized Safeguarding</u></a></li>
+<li><a href="https://driver-install.techidaily.com/m2-ssd-compatibility-tips/"><u>M.2 SSD Compatibility Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sensorylingua-the-sensorial-approach-to-language-learning/"><u>SensoryLingua: The Sensorial Approach to Language Learning</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-intel-graphics-stack-fastly/"><u>Update Intel Graphics Stack Fastly</u></a></li>
 </ul></div>
 

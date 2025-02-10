@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Steady Crashing Issues with Metro Exodus: Gold Edition"
-date: 2025-01-13T16:47:41.144Z
-updated: 2025-01-15T19:59:08.425Z
+date: 2025-02-09T00:20:10.543Z
+updated: 2025-02-09T23:31:21.321Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 **Metro Exodus PC Enhanced Edition** is finally out. As a radical update to the original game, the PC Enhanced Edition features Ray Tracing, 60 FPS, Field of View options, DLSS 2.0 and more. However, there’re still many gamers reporting that**Metro Exodus PC Enhanced Edition keeps crashing** on their computers. If you’re experiencing the same issue, you’ve come to the right place. After reading this article, you should be able to fix this issue easily!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other gamers. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 5. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Stop overclocking
 
  Many players would like to try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -47,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
  To reduce the frequency of crashes in Metro Exodus PC Enhanced Edition, you may need to reset the CPU or the graphics card to the manufacturer specifications.
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics drivers
 
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -85,12 +81,16 @@ If the issue persists, try the next fix below.
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
 
@@ -99,10 +99,6 @@ If the issue persists, try the next fix below.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable in-game overlays
 
@@ -115,10 +111,6 @@ If the issue persists, try the next fix below.
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on the Metro Exodus game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
@@ -140,15 +132,15 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -156,7 +148,15 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
 
@@ -184,18 +184,24 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/fixed-conexant-driver-compatibility-with-win10/"><u>[Fixed]: Conexant Driver Compatibility with Win10</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-essence-of-online-video-success-keywords-on-youtube-for-2024/"><u>[New] The Essence of Online Video Success Keywords on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/op-10-portable-tools-dominating-video-editing-landscape/"><u>[New] Top 10 Portable Tools Dominating Video Editing Landscape</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-capturing-the-world-in-full-circle-experts-360-cams-review-2023/"><u>[Updated] 2024 Approved Capturing the World in Full Circle - Expert's 360 Cams Review, 2023</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-customer-driven-marketing-through-authenticity-in-video/"><u>[Updated] 2024 Approved Customer-Driven Marketing Through Authenticity in Video</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-your-h420-on-windows-effortlessly/"><u>Boost Your H420 on Windows Effortlessly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-windows-10-with-new-graphics-drivers/"><u>Enhance Windows 10 with New Graphics Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-fixes-for-msvcr120dll-absence-errors-on-pc/"><u>Essential Fixes for 'Msvcr120_dll' Absence Errors on PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-install-microsoft-pro-4-drivers-in-windows/"><u>How to Install Microsoft Pro 4 Drivers in Windows</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform/"><u>In 2024, An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform</u></a></li>
-<li><a href="https://app-tips.techidaily.com/inside-linus-torvalds-tech-world-discussing-rust-in-linux-daily-routines-and-tips-for-the-ultrabook-a-deep-dive-by-zdnet/"><u>Inside Linus Torvalds' Tech World: Discussing Rust in Linux, Daily Routines & Tips for the Ultrabook - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp3wma-windows-media-player/"><u>MP3ファイルからWMAへの効率的な変換方法 - Windows Media Playerで使えるテクニック</u></a></li>
-<li><a href="https://facebook.techidaily.com/unplugging-the-plugged-in-world-via-facebook/"><u>Unplugging the Plugged-In World via Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-next-gen-capture-the-leading-apps-decoded/"><u>[Updated] 2024 Approved Next-Gen Capture The Leading Apps Decoded</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-capturing-moments-with-full-screen-movies-on-iphones/"><u>[Updated] In 2024, Capturing Moments with Full-Screen Movies on iPhones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-guide-to-making-youtube-thumbnails-for-mobile-storytellers-for-2024/"><u>[Updated] The Essential Guide to Making YouTube Thumbnails for Mobile Storytellers for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-driver-performance-for-logitech-wired-earphones/"><u>Boost Driver Performance for Logitech Wired Earphones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-geforce-gtx-460-drivers-on-windows-fast-and-simple-guide/"><u>Download GeForce GTX 460 Drivers on Windows: Fast & Simple Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-correction-of-m-audio-track-problems/"><u>Effortless Correction of M-Audio Track Problems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortlessly-install-lenovo-z50-70-patches/"><u>Effortlessly Install Lenovo Z50-70 Patches</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-reno-8t-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo Reno 8T 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-complete-archive-of-high-quality-online-workshops/"><u>In 2024, The Complete Archive of High-Quality Online Workshops</u></a></li>
+<li><a href="https://driver-install.techidaily.com/laserjet-1102w-firmware-download-and-install-guide/"><u>LaserJet 1102W Firmware - Download & Install Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-guide-downloading-and-setting-up-trackir/"><u>Master Guide: Downloading and Setting Up TrackIR</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-obs-blackout-eliminate-game-recording-screen-issues-today/"><u>Overcoming OBS Blackout: Eliminate Game Recording Screen Issues Today</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-pc-upgrade-to-windows-11-tactile-ui/"><u>Simplify PC Upgrade to Windows 11 Tactile UI</u></a></li>
+<li><a href="https://driver-install.techidaily.com/skylake-chipset-patch-installation-quickly/"><u>Skylake Chipset Patch Installation Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-11-a-new-era-for-backup-and-restore/"><u>Unveiling Windows 11: A New Era for Backup and Restore</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unzip-and-install-asus-bluetooth-40-driver/"><u>Unzip & Install Asus Bluetooth 4.0 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-gaomon-s620-with-these-instructions/"><u>Upgrade to Gaomon S620 with These Instructions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-troubleshooting-finding-your-way-to-the-boot-options/"><u>Windows 11 Troubleshooting: Finding Your Way to the Boot Options</u></a></li>
 </ul></div>
 

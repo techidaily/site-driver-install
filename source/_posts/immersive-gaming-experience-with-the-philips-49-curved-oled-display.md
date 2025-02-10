@@ -1,7 +1,7 @@
 ---
 title: Immersive Gaming Experience with the Philips 49 Curved OLED Display
-date: 2025-01-27T18:03:39.256Z
-updated: 2025-01-29T21:04:40.711Z
+date: 2025-02-04T08:52:03.028Z
+updated: 2025-02-09T22:26:23.218Z
 categories:
   - BestProducts
 description: This Article Describes Immersive Gaming Experience with the Philips 49 Curved OLED Display
@@ -41,10 +41,6 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Jonno Hill
 
 [View On Amazon $950](https://www.amazon.com/dp/B07SW895CZ?tag=lifewire-onsite-prod-20&ascsubtag=5072832%7Cnbfa2130ffdd54ba8b950c4ad0f0be8b007%7CB07SW895CZ) [View On Microsoft](https://www.microsoft.com/en-us/p/hp-omen-obelisk-gaming-desktop/8rqn7sf9phfz?activetab=pivot%3aoverviewtab)
@@ -73,15 +69,7 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Design** : **Nice looks and small footprint, with many reservations**
 
@@ -106,7 +94,7 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/gfeGQoUwG35q5t-JwO07Ax4jm5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-3-f4e655ec9e684a47855e9ee7373ba4b6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
@@ -118,6 +106,10 @@ Lifewire / Jonno Hill
  The desktop scored an impressive 6,967 in the productivity-focused benchmarking application PCMark 10\. On the gaming front, the Omen managed a score of 10,740 in 3DMark’s Time Spy. In real-world use, this means more than 60fps at 4K in many popular titles like GTA V, but less than 60fps in others like Deus Ex: Mankind Divided. In other words, the Omen is mostly capable of 4K gameplay and is nearly always capable of 60+ fps in most common resolutions shy of 4K.
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -135,11 +127,19 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Just enough options**
 
@@ -159,11 +159,11 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -178,7 +178,7 @@ Lifewire / Jonno Hill
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -215,17 +215,24 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebooks-viral-videos-the-top-8-counting-up-to-2023/"><u>[New] 2024 Approved Facebook's Viral Videos The Top 8 Counting Up to 2023</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-uniting-live-stream-tech-a-step-by-step-obs-and-zoom/"><u>[New] 2024 Approved Uniting Live Stream Tech A Step-by-Step OBS & Zoom</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-from-monochrome-moments-to-multicolor-movies-for-2024/"><u>[Updated] From Monochrome Moments to Multicolor Movies for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-route-to-high-speed-hardware-support/"><u>Direct Route to High-Speed Hardware Support</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-tools-how-to-transform-your-sound-recordings-into-high-quality-mp3s-instantly/"><u>Free Online Tools: How to Transform Your Sound Recordings Into High-Quality MP3s Instantly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hastily-upgrade-amd-motherboard-support/"><u>Hastily Upgrade AMD Motherboard Support</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-best-premiere-plans-free-for-pros/"><u>In 2024, Unveiling the Best Premiere Plans, FREE for Pros</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installation-tutorial-pro-4-drivers-on-windows-pcs/"><u>Installation Tutorial: Pro 4 Drivers on Windows PCs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-drivers-guide-how-to-keep-your-msi-bravo-sharp/"><u>Latest Drivers Guide: How to Keep Your MSI Bravo Sharp</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-sound-and-filter-integration-in-windows-10-photos-app-for-2024/"><u>Mastering Sound & Filter Integration in Windows 10 Photos App for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-connectivity-w11plus-windows-compatible-drivers-from-asus/"><u>Seamless Connectivity: W11+ Windows Compatible Drivers From Asus</u></a></li>
-<li><a href="https://fox-links.techidaily.com/tunetinker-tweaking-the-audio-map-for-2024/"><u>TuneTinker Tweaking the Audio Map for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-tactical-approaches-to-youtube-revenue-with-adsense/"><u>[New] In 2024, Tactical Approaches to YouTube Revenue with AdSense</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-operation-downloading-latest-canon-software-windows-11-edition/"><u>Efficient Operation: Downloading Latest Canon Software, Windows 11 Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-routes-to-modernize-your-nvidia-drivers/"><u>Efficient Routes to Modernize Your Nvidia Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-windows-7-usb-wireless-pairing/"><u>Effortless Windows 7 USB-Wireless Pairing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-win7-audio-experience-via-upgraded-idt-drivers/"><u>Enhance Win7 Audio Experience via Upgraded IDT Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-d-link-driver-downloads-and-updates-for-windows-pcs-easy-fixes/"><u>Free D-Link Driver Downloads & Updates for Windows PCs – Easy Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-canon-printer-driver-for-windows-computers/"><u>Hassle-Free Canon Printer Driver for Windows Computers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-7-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hardware-basics-preparing-for-big-sur-os/"><u>In 2024, Hardware Basics Preparing for Big Sur OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-motorola-moto-g73-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Motorola Moto G73 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-slimmed-down-cloud-keeping-at-low-cost-high-space/"><u>In 2024, Slimmed-Down Cloud Keeping at Low Cost, High Space</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-se-2022-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone SE (2022)? 5 Tips You Must Know</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professionals-palette-prowess-color-command-secrets-for-2024/"><u>Professionals' Palette Prowess - Color Command Secrets for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-for-wacom-bamboo-driver-versioning/"><u>Quick Fix for Wacom Bamboo Driver Versioning</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resetting-your-print-experience-reinstalling-windrivers/"><u>Resetting Your Print Experience: Reinstalling WINDrivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/systematic-approach-to-updating-win-intel-drivers/"><u>Systematic Approach to Updating Win-Intel Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-drivers-guide-epson-printing-solution-model-2650/"><u>Universal Drivers Guide: Epson Printing Solution Model 2650</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-6-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 6? How to Fix</u></a></li>
 </ul></div>
 

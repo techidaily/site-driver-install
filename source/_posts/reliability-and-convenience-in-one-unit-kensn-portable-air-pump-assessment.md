@@ -1,7 +1,7 @@
 ---
 title: "Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
-date: 2025-01-25T00:20:09.678Z
-updated: 2025-01-29T21:36:59.443Z
+date: 2025-02-07T06:41:36.908Z
+updated: 2025-02-10T00:31:07.713Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment"
@@ -13,17 +13,9 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 2.7
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/HYgHMUDMFh7JI98Hj0JMbI2wcpw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -49,7 +41,7 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -77,7 +69,7 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -93,6 +85,10 @@ Lifewire / Kelsey Simon
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -116,6 +112,10 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -125,10 +125,6 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -141,6 +137,10 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -165,24 +165,24 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-rapidly-rise-with-smart-instagram-reel-techniques/"><u>[New] In 2024, Rapidly Rise with Smart Instagram Reel Techniques</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-advanced-chatrooms-with-private-invites-for-2024/"><u>[Updated] Advanced Chatrooms with Private Invites for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-comprehensive-examination-the-future-of-photography-with-aurora-hdr-for-2024/"><u>[Updated] Comprehensive Examination The Future of Photography with Aurora HDR for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-trackcast-analysis/"><u>[Updated] In 2024, TrackCast Analysis</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-download-your-adventure-get-high-quality-travel-channel-footage-in-mp4-and-avi-formats/"><u>1. 'Download Your Adventure: Get High-Quality Travel Channel Footage in MP4 & AVI Formats'</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-asus-bt400-usb-drivers-and-windows-guide/"><u>Download ASUS BT400 USB Drivers & Windows Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expert-guide-to-curing-wins-usb-issues/"><u>Expert Guide to Curing WIN's USB Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/getting-started-officejet-pro-driver/"><u>Getting Started: Officejet Pro Driver</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/key-10-plug-ins-for-elevating-your-fcp-workflow/"><u>Key 10 Plug-Ins for Elevating Your FCP Workflow</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-frontiers-in-mobile-videography-alternatives-to-periscope/"><u>New Frontiers in Mobile Videography - Alternatives to Periscope</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-realtek-drivers-with-windows-10-updates/"><u>Optimize Realtek Drivers with Windows 10 Updates</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-warzones-graphic-glitches-effective-strategies-for-loading-textures/"><u>Overcoming Warzone's Graphic Glitches: Effective Strategies for Loading Textures</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-driver-update-capabilities-in-win7/"><u>Rapid Driver Update Capabilities in Win7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/renewal-strategy-repairing-and-upgrading-wacom-drivers-on-win-platforms/"><u>Renewal Strategy: Repairing and Upgrading Wacom Drivers on WIN Platforms</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplifying-the-printer-driver-reinstall-process/"><u>Simplifying the Printer Driver Reinstall Process</u></a></li>
-<li><a href="https://win-dash.techidaily.com/speedy-setup-grab-the-latest-easycap-device-drivers-for-seamless-performance/"><u>Speedy Setup: Grab the Latest EasyCAP Device Drivers for Seamless Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-adding-a-watermark-or-emblem-to-your-videos-on-windows-and-mac/"><u>Step-by-Step Guide: Adding a Watermark or Emblem to Your Videos on Windows & Mac</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-procedure-to-modify-windows-8-drivers/"><u>Step-by-Step Procedure to Modify Windows 8 Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swiftly-update-your-lenovo-g580-drivers/"><u>Swiftly Update Your Lenovo G580 Drivers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-cultivating-eco-diversity-in-metropolitan-land-use-for-2024/"><u>[Updated] Cultivating Eco-Diversity in Metropolitan Land Use for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-youtube-title-creation-the-perfect-formula/"><u>[Updated] Mastering YouTube Title Creation The Perfect Formula</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-steps-to-disable-auto-recommended-podcasts-in-spotify/"><u>2024 Approved Steps to Disable Auto-Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerated-nvidia-driver-upgrades-made-easy/"><u>Accelerated Nvidia Driver Upgrades Made Easy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-update-firmware-for-geforce-gtx-1e60/"><u>Download & Update Firmware for GeForce GTX 1E60</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drivers-reinstalled-smoothly-with-advanced-ddu-tips/"><u>Drivers Reinstalled Smoothly with Advanced DDU Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-track-windows-driver-upgrades-11-81-7/"><u>Fast-Track Windows Driver Upgrades (11, 8.1, 7)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-bard-vs-bing-chat-determining-the-ultimate-ai-companion/"><u>Google Bard Vs. Bing Chat: Determining the Ultimate AI Companion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-change-voice-on-instagram-story-and-reels-in-2024/"><u>How to Change Voice on Instagram Story and Reels, In 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-edge-2023-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Edge 2023 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-update-a-step-by-step-guide-to-personalizing-the-control-center-on-your-iphone/"><u>IOS 18 Update: A Step-by-Step Guide to Personalizing the Control Center on Your iPhone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-windows-11-drivers-for-enhanced-audio-hardware/"><u>New Windows 11 Drivers for Enhanced Audio Hardware</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-reviving-your-dells-sound-output-with-easy-fixes/"><u>Quick Guide: Reviving Your Dell's Sound Output with Easy Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionary-acer-drivers-update-in-win11/"><u>Revolutionary Acer Drivers Update in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turnaround-time-quick-remedies-for-hawku-cars-flaws/"><u>Turnaround Time: Quick Remedies for Hawku Cars' Flaws</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unifying-system-upgrades-across-windows-10-7-and-8-with-msi/"><u>Unifying System Upgrades Across Windows 10, 7 & 8 with MSI</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-upgrade-realtek-gbe-drivers/"><u>Windows 10: Upgrade Realtek GBE Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-guide-to-understanding-openai-impact/"><u>Your Guide to Understanding OpenAI Impact</u></a></li>
 </ul></div>
 

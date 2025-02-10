@@ -1,7 +1,7 @@
 ---
 title: Update Process for AMD Graphics Cards - RX 5700X
-date: 2024-12-31T17:10:09.922Z
-updated: 2025-01-03T16:09:44.729Z
+date: 2025-02-09T06:30:20.185Z
+updated: 2025-02-09T17:36:22.533Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ OR
  The screenshot below are from Windows 10, but the steps also apply to Windows 7, 8 and 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Download and install the driver manually
@@ -41,25 +41,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-7.jpg)
 3. Choose your operating system. (For my case, I click Windows 10 – 64-Bit Edition).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-10.jpg)
 4. Click the**Download** button next to the driver you want.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-5.jpg)
 5. Double-click the downloaded file and follow the on-screen instruction to install the driver.
 
- If you feel the steps above are a little complicated, try the automatic method below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you feel the steps above are a little complicated, try the automatic method below.
 
 ## Option 2 – Automatically update the AMD 5700 drivers (Recommended)
 
@@ -74,11 +70,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click the **Update**  button next to the flagged **AMD RX 5700 driver** to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -105,16 +105,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-thorough-examination-gopro-silver-hero4-feature-test-for-2024/"><u>[New] Thorough Examination GoPro Silver HERO4 Feature Test for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-webcam-driver-for-clear-video-capture-logitech-c270/"><u>Essential Webcam Driver for Clear Video Capture: Logitech C270</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hands-off-driver-tweak-experience-on-z50-70/"><u>Hands-Off Driver Tweak Experience on Z50-70</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-a-comprehensive-look-at-decelerating-youtube-video-speed-50-chars/"><u>In 2024, A Comprehensive Look at Decelerating YouTube Video Speed (50 Chars)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lightrooms-most-wanted-grading-aids-the-best-10-luts-listed-here/"><u>In 2024, LightRoom's Most Wanted Grading Aids – The Best 10 LUTs Listed Here</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lead-in-tech-quick-scsi-drives-ready/"><u>Lead-In Tech: Quick SCSI Drives Ready</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-free-video-watermark-editor-top-rated-options-for-2024/"><u>New Free Video Watermark Editor Top Rated Options for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-horizons-installing-latest-sound-drivers-on-windows-11/"><u>New Horizons: Installing Latest Sound Drivers on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-lenovo-ideapad-u310/"><u>Quick Driver Updates on Lenovo Ideapad U310</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unfolding-the-digital-canvas-vr-evolution/"><u>Unfolding the Digital Canvas VR Evolution</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-mastering-custom-key-combos-for-fixed-text-insertions/"><u>Win11: Mastering Custom Key Combos for Fixed Text Insertions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-proficient-content-tagging-made-simple-the-best-7-budget-friendly-online-taggification-apps-reviewed/"><u>[New] In 2024, Proficient Content Tagging Made Simple The Best 7 Budget-Friendly Online Taggification Apps Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-sightline-synopsis-study/"><u>[Updated] 2024 Approved Sightline Synopsis Study</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>[Updated] In 2024, The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amd-graphics-card-latest-rx-570-drivers-downloadable/"><u>AMD Graphics Card: Latest RX 570 Drivers Downloadable</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-impressive-images-with-photoshops-radial-distortion-features/"><u>Craft Impressive Images with Photoshop's Radial Distortion Features</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-hp-officejet-pro-8620-driver-upgrades-for-windows-users/"><u>Essential HP OfficeJet Pro 8620 Driver Upgrades for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-for-high-performance-3d-printing-filaments/"><u>Expert Picks for High-Performance 3D Printing Filaments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/flawless-installation-of-wacom-bamboo-drivers/"><u>Flawless Installation of Wacom Bamboo Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-android-users-access-and-use-apples-imessage-service/"><u>How Can Android Users Access and Use Apple's iMessage Service?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/inf-validation-without-third-party-signs/"><u>Inf Validation Without Third-Party Signs</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/recovering-lost-iphones-a-simple-guide-to-retrieving-deleted-phone-numbers/"><u>Recovering Lost iPhones: A Simple Guide to Retrieving Deleted Phone Numbers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-reactivate-bluetooth-with-a-few-steps-on-windows-11/"><u>Seamlessly Reactivate Bluetooth with a Few Steps on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steinberg-software-driver-downloads/"><u>Steinberg Software Driver Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-your-workflow-with-updated-hp-printer-4630-firmware/"><u>Streamline Your Workflow with Updated HP Printer 4630 Firmware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-digital-revolution-in-classrooms-top-8-reasons-to-adapt-with-ai/"><u>The Digital Revolution in Classrooms: Top 8 Reasons to Adapt with AI</u></a></li>
 </ul></div>
 

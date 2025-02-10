@@ -1,7 +1,7 @@
 ---
 title: All-in-One Ultraportable Computer with AMD Ryzen Performance – Features Foldable Design, Touchscreen Controls, and Built-In Battery
-date: 2025-01-27T00:13:12.147Z
-updated: 2025-01-29T19:11:20.426Z
+date: 2025-02-04T23:12:04.425Z
+updated: 2025-02-10T03:21:32.520Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,19 +56,19 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-youtubes-latest-income-strategies/"><u>[New] 2024 Approved Guide to YouTube's Latest Income Strategies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-stories-screen-capture-made-simple/"><u>[New] Instagram Stories Screen Capture Made Simple</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-shorts-revenue-sharing-explained-how-much-will-i-make/"><u>[Updated] YouTube Shorts Revenue Sharing Explained How Much Will I Make?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-ultimate-cinemagraph-guide-top-5-must-know-tactics/"><u>2024 Approved The Ultimate Cinemagraph Guide - Top 5 Must-Know Tactics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-nvidia-driver-setup-procedures/"><u>Efficient NVIDIA Driver Setup Procedures</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-your-lenovo-thinkpad-install-updates-on-win11/"><u>Enhance Your Lenovo Thinkpad: Install Updates on Win11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-correctly-sync-sound-and-video-on-youtube-troubleshooting-steps-for-chrome-and-firefox-websites/"><u>How to Correctly Sync Sound & Video on YouTube: Troubleshooting Steps for Chrome & Firefox Websites</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-printer-p1102w-compatible-with-windows-os/"><u>HP Printer P1102w Compatible with Windows OS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-gt-3-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme GT 3 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-razer-gaming-mouse-to-your-pc/"><u>Installing Razer Gaming Mouse to Your PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-new-tech-upgrade-with-logitech-c270-usb-webcam-software/"><u>Integrate New Tech: Upgrade with Logitech C270 USB Webcam Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-usbasp-fixing-issues-from-wxp-to-win10-systems/"><u>Mastering USBasp: Fixing Issues From WXP to Win10 Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solve-csgo-lag-and-improve-ping-performance-on-your-gaming-rig/"><u>Solve CS:GO Lag & Improve Ping Performance on Your Gaming Rig</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-comprehvew-on-cutting-edge-computer-equipment/"><u>Tom's Comprehvew on Cutting-Edge Computer Equipment</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-comparing-reels-and-stories-whats-the-best-choice/"><u>[New] In 2024, Comparing Reels & Stories What's the Best Choice?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-grade-8-filters-for-live-feeds/"><u>2024 Approved Professional-Grade 8 Filters for Live Feeds</u></a></li>
+<li><a href="https://driver-install.techidaily.com/correcting-hp-inkjet-errors-on-os-10-machine/"><u>Correcting HP InkJet Errors on OS 10 Machine</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/diy-asus-zenbook-ssd-upgrade-handbook-boost-your-systems-performance-today/"><u>DIY ASUS ZenBook SSD Upgrade Handbook - Boost Your System's Performance Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-intel-hd-graphics-drivers-on-windows-11-step-by-step-guide/"><u>Download & Update Intel HD Graphics Drivers on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-latest-driver-for-u-are-u-fpr-v45/"><u>Get Latest Driver for U-Are-U FPR V4.5</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-visionary-vr-game-engines-transforming-2023s-gaming-landscape/"><u>In 2024, Visionary VR Game Engines Transforming 2023'S Gaming Landscape</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-r9-series-graphics-via-driver-update/"><u>Optimize R9 Series Graphics via Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-setup-printer-canons-win-driver-compatible-x/"><u>Quick Setup Printer: Canon's Win Driver Compatible X</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapidly-upgrade-pcs-with-scsi-drivers/"><u>Rapidly Upgrade PCs with SCSI Drivers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210917886-9781737499725-revivalist-arise/"><u>Revivalist Arise | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revive-your-usb-connectivity-on-windows/"><u>Revive Your USB Connectivity on Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/step-by-step-process-to-erase-your-presence-from-chatgpt-platforms/"><u>Step-by-Step Process to Erase Your Presence From ChatGPT Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/strategies-for-a-rising-number-of-youtubers-fans/"><u>Strategies for a Rising Number of Youtubers' Fans</u></a></li>
 </ul></div>
 

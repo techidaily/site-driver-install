@@ -1,7 +1,7 @@
 ---
 title: "Fixing Discord Connection Woes: Overcoming Packet Loss Challenges"
-date: 2025-01-11T22:02:45.900Z
-updated: 2025-01-15T19:49:59.520Z
+date: 2025-02-04T04:22:44.156Z
+updated: 2025-02-09T16:13:27.981Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/944d364949b4ae0532202828618b7e34246f0c53e
 
 When you double-click Discord but the program won’t open, it could be very frustrating. Don’t panic, this problem is easy to fix. Instead of using the Discord web version, you can read the below content to fix your Discord application.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  In this guide, you’ll learn 3 easy methods to fix Discord won’t open issue. Work your way down the list until you find the one that works.
@@ -29,6 +33,10 @@ When you double-click Discord but the program won’t open, it could be very fru
 6. [Flushing your DNS](https://tools.techidaily.com/drivereasy/download/)
 7. [Reinstall the Discord](https://tools.techidaily.com/drivereasy/download/)  
 [Bonus: Update your driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Kill Discord task
 
@@ -44,6 +52,10 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 3) Launch Discord again. It should be open normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Set your date/time automatically
 
  It may sound weird to you but it does help many users fix the problem. If you’ve already set your time automatically, you can move to the next fix. Or you can follow the steps below.
@@ -55,7 +67,7 @@ When you double-click Discord but the program won’t open, it could be very fru
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the right pane, turn on the button under**Set time automatically** .
@@ -73,15 +85,15 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
 
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Use Task Manager
 
@@ -94,14 +106,10 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Restart Discord. It should open.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your proxies
 
@@ -120,26 +128,22 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the**Connections** tab, click**Lan Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Relaunch the Discord and it should open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Flushing your DNS
@@ -159,10 +163,6 @@ If it doesn’t work, move to the next fix.
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Launch the Discord again. It should open.
 
 ### Fix 7: Reinstall the Discord
@@ -175,15 +175,15 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click Discord in the list and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus: Update your driver
 
@@ -244,21 +244,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-understanding-permissions-the-key-to-saving-google-meets/"><u>[New] Understanding Permissions The Key to Saving Google Meets</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-exquisite-solution-for-vr-adventures/"><u>[Updated] 2024 Approved Exquisite Solution for VR Adventures</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-rated-economical-timer-services/"><u>[Updated] 2024 Approved Top-Rated Economical Timer Services</u></a></li>
-<li><a href="https://driver-install.techidaily.com/access-advanced-features-amd-vega-3-patch-2024/"><u>Access Advanced Features: AMD Vega 3 Patch 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amd-gpu-boost-get-rx-570-drivers-for-multiple-windows-systems/"><u>AMD GPU Boost: Get RX 570 Drivers for Multiple Windows Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-approach-to-updating-xp-pcs-device-drivers/"><u>Direct Approach to Updating Xp PCs' Device Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/directcontrollerw11sync-with-xone-software/"><u>DirectControllerW11Sync with Xone Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/downloadupdate-your-surface-device-drivers-with-simple-steps/"><u>Download/Update Your Surface Device Drivers with Simple Steps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-hawku-car-maintenance-tips/"><u>Effortless Hawku Car Maintenance Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-your-audio-conexant-hd-driver-win11-style/"><u>Elevate Your Audio: Conexant HD Driver, Win11 Style</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-opinion-on-amazon-kindle-oasis-stunning-look-meets-steep-price-tag/"><u>Expert Opinion on Amazon Kindle Oasis: Stunning Look Meets Steep Price Tag</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonious-compatibility-suite-xbonewin11/"><u>Harmonious Compatibility Suite - Xbone/Win11</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-12-proplus-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 12 Pro+ 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From iPhone SE (2020)?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-savings-with-apples-m3-macbook-pro-avail-at-a-200-discount-on-amazons-spectacular-spring-clearance-event-insights-from-zdnet/"><u>Unlock Savings with Apple's M3 MacBook Pro: Avail at a $200 Discount on Amazon's Spectacular Spring Clearance Event - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-importance-of-understanding-asmr-media-for-2024/"><u>[New] The Importance of Understanding ASMR Media for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-map-masterpieces-excellent-quests-for-gold/"><u>[Updated] 2024 Approved Map Masterpieces Excellent Quests for Gold</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-10-favorites-spotify-edition/"><u>[Updated] 2024 Approved Top 10 Favorites Spotify Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-understanding-the-magic-behind-m1-max-clips/"><u>[Updated] Understanding the Magic Behind M1 Max Clips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/common-drain-amplifier-also-known-as-a-source-follower/"><u>Common Drain Amplifier (Also Known as a Source Follower)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/express-drivers-update-atis-hd-4800-series/"><u>Express Drivers Update: ATI's HD 4800 Series</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862833309-gamers-beware-this-is-how-the-monoprice-crystal-pro-40-inch-144hz-screen-offers-big-savings-without-sacrificing-quality/"><u>Gamers Beware! This Is How the Monoprice Crystal Pro 40-Inch 144Hz Screen Offers Big Savings without Sacrificing Quality!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-quickly-boost-your-atheros-wi-fi-in-windows-with-driver-updates/"><u>How to Quickly Boost Your Atheros Wi-Fi in Windows with Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reviving-gpu-performance-master-the-newest-ddu-tactics/"><u>Reviving GPU Performance - Master the Newest DDU Tactics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swifter-sata-controller-tuning-intel/"><u>Swifter SATA Controller Tuning, Intel</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackling-installation-woes-for-windows-new-drivers/"><u>Tackling Installation Woes for Windows New Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-a2plus-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi A2+ Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

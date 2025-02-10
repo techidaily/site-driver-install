@@ -1,7 +1,7 @@
 ---
 title: How to Stop Microsoft Edge From Frequently Exiting Unexpectedly on Windows Vehicles
-date: 2025-01-02T16:44:13.191Z
-updated: 2025-01-03T17:49:55.790Z
+date: 2025-02-07T17:26:32.162Z
+updated: 2025-02-10T03:40:32.757Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 ## How to Stop Microsoft Edge From Frequently Exiting Unexpectedly on Windows Vehicles
 
 Even though Microsoft Edge browser is not very popular these days, as a product that comes with the Microsoft system, there still some users using Microsoft Edge. If you are one of them, and you’re trouble with the**Microsoft Edge crashing** problem, don’t worry, we are here to help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Common methods
 
@@ -43,25 +47,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -74,28 +66,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -106,17 +90,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -125,6 +113,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -146,6 +138,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
@@ -160,6 +156,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -189,19 +189,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unleash-speed-edit-windows-11-photos-like-a-pro/"><u>[New] In 2024, Unleash Speed Edit Windows 11 Photos Like a Pro</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aking-screen-grabs-compliance-on-youtube/"><u>[New] Taking Screen Grabs Compliance on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-essential-8-choices-of-tripods-for-4k-cinematography/"><u>[Updated] In 2024, Essential 8 Choices of Tripods for 4K Cinematography</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-next-level-splitting-tools-beyond-xsplit-for-2024/"><u>[Updated] Next-Level Splitting Tools Beyond Xsplit for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bridge-the-gap-startech-drivers-in-windows-7-and-10/"><u>Bridge the Gap: StarTech Drivers in Windows 7 & 10</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/download-our-free-video-transcoding-app-quick-swf-conversion-from-various-formats/"><u>Download Our Free Video Transcoding App: Quick SWF Conversion From Various Formats</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-patching-for-iris-x930-gpu/"><u>Easy Patching for Iris X930 GPU</u></a></li>
-<li><a href="https://driver-install.techidaily.com/guide-to-syncing-msi-motherboards-with-windows-versions/"><u>Guide to Syncing MSI Motherboards with Windows VERSIONS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-7-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 7 Plus Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/insignia-usb-20-to-ethernet-adapter-driver-download-windows-11-10/"><u>Insignia USB 2.0 to Ethernet Adapter Driver Download | Windows 11, 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/release-alert-amds-latest-gpu-updates/"><u>Release Alert: AMD's Latest GPU Updates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionize-gaming-sounds-ps5ps4-edition-for-2024/"><u>Revolutionize Gaming Sounds PS5/PS4 Edition for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-selection-of-premium-gaming-chairs/"><u>The Ultimate Selection of Premium Gaming Chairs</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-20-best-gamer-progress-tools/"><u>Top 20 Best Gamer Progress Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ice-dance-showcase-olympic-winter-2022/"><u>[New] 2024 Approved Ice Dance Showcase Olympic Winter 2022</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-digital-lecture-name-builder/"><u>[New] 2024 Approved Ultimate Digital Lecture Name Builder</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-streamline-visual-content-expert-mac-tips-for-instagram-video-size-for-2024/"><u>[New] Streamline Visual Content Expert Mac Tips for Instagram Video Size for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-screen-partnerships-and-talent-licensing/"><u>[Updated] In 2024, Screen Partnerships and Talent Licensing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-obs-vs-twitch-live-best-platform-debate-for-2024/"><u>[Updated] OBS vs Twitch Live Best Platform Debate for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-xbox-and-windows-through-drivers/"><u>Bridge XBox and Windows Through Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-best-drawing-tablet-for-pc-free-wacom-driver/"><u>Get the Best Drawing Tablet for PC - FREE Wacom Driver</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y36-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-razer-usb-mice-on-windows-81011/"><u>Installing Razer USB Mice on Windows 8/10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-win-nvme-m2-hardware/"><u>Installing Win NVMe M.2 Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/key-steps-to-replace-mouse-software-on-windows-1011/"><u>Key Steps to Replace Mouse Software on WINDOWS 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-data-sharing-win1110-enhanced-by-mtk-drivers/"><u>Optimize Data Sharing - Win11/10 Enhanced by MTK Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-win-11-with-updated-and-streamlined-driver-updates/"><u>Revitalize Win 11 with Updated and Streamlined Driver Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tips-to-resolve-driver-installation-snags-in-windows/"><u>Tips to Resolve Driver Installation Snags in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-drivers-update-for-the-classic-windows-lineup/"><u>USB Drivers Update for the Classic Windows Lineup</u></a></li>
 </ul></div>
 

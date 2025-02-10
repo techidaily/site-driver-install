@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Quiet Zone? Here's How to Get Game Sounds Back!
-date: 2025-01-07T23:20:40.523Z
-updated: 2025-01-10T12:49:02.040Z
+date: 2025-02-08T03:20:52.064Z
+updated: 2025-02-09T16:30:11.062Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
  If you’re having audio issues on your**PS4** , check[](https://tools.techidaily.com/drivereasy/download/) **[here](https://tools.techidaily.com/drivereasy/download/)**  .  
  If you’re on Xbox, check[**here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -34,9 +30,17 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -49,21 +53,17 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
 If Windows fails to detect your issue, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -97,10 +97,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -110,6 +106,10 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
 
@@ -124,7 +124,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
@@ -169,17 +169,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-decode-youtube-shorts-a-complete-breakdown/"><u>[Updated] Decode YouTube Shorts A Complete Breakdown</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-free-diy-approaches-to-design-your-own-youtube-cards/"><u>[Updated] Free DIY Approaches to Design Your Own YouTube Cards</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-revolutionizing-facebook-video-cover-updates-tips-and-tricks/"><u>2024 Approved Revolutionizing Facebook Video Cover Updates Tips and Tricks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-970-performance-updated-windows-10-nvidia-software/"><u>GTX 970 Performance: Updated Windows 10 Nvidia Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hawki-car-wizardry-handy-repair-hints/"><u>Hawki Car Wizardry: Handy Repair Hints</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-to-fisheye-panoramas/"><u>In 2024, Comprehensive Guide to Fisheye Panoramas</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-6s-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 6s You Should Try Out</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-efficiency-get-the-best-out-of-your-laserjet-on-win10/"><u>Maximize Efficiency: Get the Best Out of Your Laserjet on Win10</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/recupero-rapido-dei-file-dal-tuo-dispositivo-di-memorizzazione-nas-buffalo/"><u>Recupero Rapido Dei File Dal Tuo Dispositivo Di Memorizzazione NAS Buffalo</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-logitech-mouse-updates-on-win-7/"><u>Streamline Logitech Mouse Updates on Win 7</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-vlogging-techniques-for-stellar-gopro-content/"><u>Top Vlogging Techniques for Stellar GoPro Content</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-7-smooth-hp-graphics-drivers-update/"><u>Windows 7: Smooth HP Graphics Drivers Update</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-editors-roadmap-to-perfection-in-fcp/"><u>[New] In 2024, The Editor's Roadmap to Perfection in FCP</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-perfect-settings-for-live-broadcasts/"><u>[New] Perfect Settings for Live Broadcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-practices-in-finding-quality-photo-and-video-banners/"><u>[Updated] Best Practices in Finding Quality Photo & Video Banners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-digital-self-portrait-designing-your-animated-profile-for-2024/"><u>[Updated] Digital Self-Portrait Designing Your Animated Profile for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-xs-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone XS Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-review-the-full-picture-of-facetunes-new-features-for-2024/"><u>In-Depth Review The Full Picture of Facetune's New Features for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-and-boost-latest-driver-updates-for-logitec-widow-7-mouse/"><u>Install & Boost: Latest Driver Updates for Logitec Widow 7 Mouse</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-intel-security-in-oses/"><u>Integrate Intel Security in OSes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-the-update-process-for-s1500-scans/"><u>Navigating the Update Process for S1500 Scans</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-hp-omen-15-drivers-for-optimal-performance/"><u>Streamlining HP Omen 15 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-20-to-ethernet-step-by-step-driver-instruction/"><u>USB 2.0 to Ethernet: Step by Step Driver Instruction</u></a></li>
 </ul></div>
 

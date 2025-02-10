@@ -1,7 +1,7 @@
 ---
 title: Revamped Hub Functionality for WIN OS Users
-date: 2025-01-08T17:30:38.060Z
-updated: 2025-01-10T10:13:14.572Z
+date: 2025-02-03T20:08:42.741Z
+updated: 2025-02-09T19:10:40.384Z
 tags:
   - win11
   - win10
@@ -22,20 +22,12 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
  If you want to download or update your Generic USB hub driver for your USB Hub device, you can update the driver to fix your problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update Generic USB Hub driver
 
 1. [Update Generic USB Hub driver manually](#M1)
 2. [Update Generic USB Hub driver automatically](#M2)
 
  Note: the screenshots below come from Windows 10, and steps apply to other Windows OS versions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Update Generic USB Hub driver manually
 
@@ -45,18 +37,18 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 2. Type**devmgmt.msc** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b059bcd1.jpg)
 3. Double click**Universal Serial Bus controllers** to expand the category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b36224ee.jpg)
 4. Right click on your**Generic USB Hub device** (it may display as**Unknown device**), then click**Update** **driver** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5b77e675e.jpg)
 5. Choose**Search automatically for update driver software** .  
@@ -64,10 +56,14 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ba7614b9.jpg)
 6. Then follow the on-screen instructions to finish updating.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can’t find the latest driver, or if this solution doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 2: Update Generic USB Hub driver automatically
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bab5ca897c59.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance
 
@@ -107,20 +107,19 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-compiling-individual-iphone-video-pieces/"><u>[New] Compiling Individual iPhone Video Pieces</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-proven-methods-to-master-time-lapse-creation/"><u>[New] Proven Methods to Master Time Lapse Creation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-sweet-slumber-scenes-video-critique/"><u>[Updated] 2024 Approved Sweet Slumber Scenes Video Critique</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-8-key-money-making-moves-for-youtube-rookies/"><u>[Updated] 8 Key Money-Making Moves for YouTube Rookies</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-latest-realtek-pcie-drivers-for-windows-10/"><u>Install Latest Realtek PCIe Drivers for Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instructions-download-and-install-new-rx-5700x-firmware/"><u>Instructions: Download & Install New RX 5700X Firmware</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lan-linking-device-windows-and-ethernet-adapter-setup/"><u>LAN Linking Device: Windows & Ethernet Adapter Setup</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-p55-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Itel P55 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/methodology-enhancing-dell-audio-software/"><u>Methodology: Enhancing Dell Audio Software</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques-for-2024/"><u>Navigating Through FB's In-Stream Ad Landscape Configuration and Evaluation Techniques for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479869950-phone-screen-glimmering-troubles-here-are-7-reliable-fixes-to-stop-it-now/"><u>Phone Screen Glimmering Troubles? Here Are 7 Reliable Fixes to Stop It Now</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simple-gpu-upgrade-gtx-750-ti-latest-version/"><u>Simple GPU Upgrade: GTX 750 Ti Latest Version</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-ssd-performance-on-windows-post-update/"><u>Streamlining SSD Performance on Windows Post-Update</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138593066-9781452518152-transformission/"><u>Transformission | Free Book</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-path-efficient-lenovo-dock-driver-update/"><u>Upgrade Path: Efficient Lenovo Dock Driver Update</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-an-exclusive-list-of-heartwarming-weddings-youtube-and-vimeo-edition/"><u>[Updated] An Exclusive List of Heartwarming Weddings - Youtube & Vimeo Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-update-hp-printer-software-guide/"><u>Download & Update HP Printer Software Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-methods-to-clean-up-bloatware-from-your-windows-pc/"><u>Effective Methods to Clean Up Bloatware From Your Windows PC</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-avi-video-rotation-16-top-picks-for-windows-mac-android-iphone-and-online-platforms-for-2024/"><u>Free AVI Video Rotation 16 Top Picks for Windows, MAC, Android, iPhone, and Online Platforms for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-plugging-in-to-power-up-a-comprehensive-overview-of-at-home-ev-charging/"><u>From Plugging In to Power Up: A Comprehensive Overview of At-Home EV Charging</u></a></li>
+<li><a href="https://driver-install.techidaily.com/generic-usb-hub-driver-issues-in-windows-fixed/"><u>Generic USB Hub Driver Issues in Windows [Fixed]</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063554629-instant-usb-enhancement-universal-adb-downloads-here/"><u>Instant USB Enhancement – Universal ADB Downloads Here!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-software-installation-toolkit-model-2650-epson/"><u>Intuitive Software Installation Toolkit: Model 2650 Epson</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-your-super-bowl-enjoyment-with-advanced-tv-and-sound-system-configurations/"><u>Maximizing Your Super Bowl Enjoyment with Advanced TV and Sound System Configurations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-valorant-endless-load-troubleshooting-steps/"><u>Overcoming the Valorant Endless Load: Troubleshooting Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-drivers-ensuring-smooth-operation-of-hp-printer-on-win-os/"><u>Sync Drivers: Ensuring Smooth Operation of HP Printer on Win OS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-illustrators-journey-navigating-for-success-in-designing/"><u>The Illustrator's Journey Navigating for Success in Designing</u></a></li>
 </ul></div>
 

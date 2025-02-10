@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Sound Problems in Halo Infinite: Expert Advice for Smooth Gaming Experience"
-date: 2025-01-05T13:46:30.401Z
-updated: 2025-01-10T04:27:22.510Z
+date: 2025-02-05T20:41:29.470Z
+updated: 2025-02-10T03:50:08.791Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -60,12 +64,12 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -84,21 +88,13 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -139,11 +135,11 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -164,7 +160,7 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -176,6 +172,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
@@ -206,14 +206,24 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-charting-out-youtubes-financial-strategy-for-nurturing-short-videos/"><u>[New] 2024 Approved Charting Out YouTube's Financial Strategy for Nurturing Short Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-playthroughs-on-windows-10-easy-way/"><u>[Updated] Capturing Playthroughs on Windows 10 Easy Way</u></a></li>
-<li><a href="https://win-web.techidaily.com/1728478484644-windows-112/"><u>新しいWindows 11で安全なデータ保護:2つの効果的なバックアップ戦略</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-hp-graphics-the-win7-updating-guide/"><u>Effortless HP Graphics – The Win7 Updating Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-windows-astro-driver-updates-and-replacements/"><u>Mastering Windows: Astro Driver Updates & Replacements</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-efficiency-at-home-leveraging-the-capabilities-of-an-ipad-pro-for-office-use-zdnet/"><u>Maximizing Efficiency at Home: Leveraging the Capabilities of an iPad Pro for Office Use | ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplified-driver-changes-in-windows-7/"><u>Simplified Driver Changes in Windows 7</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-art-of-description-crafting-compelling-podcast-hooks-for-2024/"><u>The Art of Description Crafting Compelling Podcast Hooks for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/zero-hassle-drawing-wacom-tablet-software-for-win10-free/"><u>Zero Hassle Drawing: Wacom Tablet Software for Win10 [Free]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-the-world-of-streamed-games/"><u>[New] In 2024, Navigating the World of Streamed Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-pixel-to-perfection-hardware-or-code-for-streamers-in-2024/"><u>[New] Pixel to Perfection Hardware or Code for Streamers, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-master-the-art-of-subtitlecc-integration-in-youtube-with-this-guide/"><u>[Updated] 2024 Approved Master the Art of Subtitle/CC Integration in YouTube with This Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-optimize-your-videos-discoverability-with-key-youtube-seo-strategies/"><u>[Updated] 2024 Approved Optimize Your Videos' Discoverability with Key YouTube SEO Strategies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-exclusive-access-premium-youtube-film-watchlists/"><u>[Updated] In 2024, Exclusive Access Premium YouTube Film Watchlists</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-fullscreen-imprint-of-site/"><u>[Updated] In 2024, Fullscreen Imprint of Site</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-board-functionality-a-comprehensive-approach-to-using-whiteboards-in-zoom-meetings/"><u>[Updated] Mastering Board Functionality A Comprehensive Approach to Using Whiteboards in Zoom Meetings</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-bt400-direct-usb-bt-driver-and-tips/"><u>Asus BT400: Direct USB-BT Driver & Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-pc-visual-output-with-new-graphics-driver-update/"><u>Boost PC Visual Output with New Graphics Driver Update</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/comprehensive-analysis-bublcams-360-vision-for-2024/"><u>Comprehensive Analysis Bublcam's 360 Vision for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd5770rh5790driverupdate/"><u>HD5770RH5790DriverUpdate</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersive-viewing-microsoft-edges-pip/"><u>Immersive Viewing Microsoft Edge's PIP</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-gaming-experience-with-new-radeon-vega-3-driver/"><u>Improve Gaming Experience with New Radeon Vega 3 Driver</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-8-tips-on-how-to-vlog-confidently-like-popular-youtubers/"><u>In 2024, 8 Tips on How to Vlog Confidently Like Popular YouTubers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/routines-to-automate-amd-driver-acquisitionupdates/"><u>Routines to Automate AMD Driver Acquisition/Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-earbuds-driver-accessibility/"><u>Streamlined Earbuds Driver Accessibility</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-logitech-sound-hardware-quickly-and-easily/"><u>Update Logitech Sound Hardware Quickly and Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-sound-framework-in-windows-7-with-latest-idt-driver/"><u>Update Sound Framework in Windows 7 with Latest IDT Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062698151-winxps-wan-connection-woes-now-a-thing-of-the-past/"><u>WinXP's WAN Connection Woes, Now a Thing of the Past!</u></a></li>
 </ul></div>
 

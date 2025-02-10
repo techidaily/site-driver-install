@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Fix: Ensures Optimal HD Sound Performance"
-date: 2025-01-27T19:11:51.763Z
-updated: 2025-01-29T22:26:06.136Z
+date: 2025-02-04T20:59:45.463Z
+updated: 2025-02-09T16:15:08.910Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Fix 1: Reinstall the VIA HD audio driver
 
  You can try to uninstall the VIA high definition audio driver, and reinstall it in your computer.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a56c24763.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double click**Sound, video and game controllers** to expand it.
@@ -46,22 +42,22 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a5a189883.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right click your**VIA HD Audio driver** , and click**Uninstall device** . (If you are using Windows 7, click**Uninstall** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a858e6ea2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If you see a popup pane to confirm, check the box next to**Delete the driver software for this device** , then click**Uninstall** to delete. (If you are using Windows 7, click**OK** to confirm.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
  5) After uninstalling, restart your computer and Windows will automatically download and install the audio driver for you at starting. After it’s done, check the audio device to see if it works properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Fix 2: Update the VIA HD audio driver automatically
 
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dec2431048.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download the latest VIA HD audio driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update** **All** to automatically download and install the all the latest correct drivers that is missing or outdated in your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click_**Update All**_ ).
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a961c7174.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
@@ -113,24 +113,20 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-upgrade-samsung-bdplus-k850-review-update-2023/"><u>[New] 2024 Approved The Ultimate Upgrade Samsung BD+ K850 Review Update 2023</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-amass-a-thousand-tactics-for-monthly-instagram-following/"><u>[New] In 2024, Amass a Thousand Tactics for Monthly Instagram Following</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-screen-recording-pros-bandicam-or-camtasia/"><u>[Updated] 2024 Approved Screen Recording Pros Bandicam or Camtasia?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-enjoyable-footage-recorder-test-for-2024/"><u>[Updated] Enjoyable Footage Recorder Test for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-evaluating-m1s-capabilities-for-heavy-duty-media-editing-for-2024/"><u>[Updated] Evaluating M1's Capabilities for Heavy-Duty Media Editing for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/advanced-drivers-e1659aoc-for-win-users/"><u>Advanced Drivers: E1659AOC for Win Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-lenovo-g580-drivers-update/"><u>Effortless Lenovo G580 Drivers Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhancing-vista-performance-with-direct-drivers-update/"><u>Enhancing Vista Performance with Direct Drivers Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-driver-revamp-mf4770n-windows-compatibility/"><u>Essential Driver Revamp: MF4770n Windows Compatibility</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-quick-climb-up-the-feed-use-of-likes-and-video-content/"><u>In 2024, Quick Climb Up the Feed Use of Likes and Video Content</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-struggle-upgrade-wacom-bamboo-drivers-easy/"><u>No Struggle: Upgrade Wacom Bamboo Drivers Easy</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-gaming-with-nvidia-gtx-970-driver-update/"><u>Optimize Gaming with Nvidia GTX 970 Driver Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reestablishing-roblox-availability-correcting-windows-user-restrictions/"><u>Reestablishing Roblox Availability: Correcting Windows User Restrictions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-lenovo-yogas-performance-one-click/"><u>Simplify Lenovo Yoga's Performance, One Click</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mlined-strategy-to-create-your-custom-youtube-queue-for-2024/"><u>Streamlined Strategy to Create Your Custom YouTube Queue for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-digital-landscapes-with-openais-groundbreaking-release-of-the-powerful-gpt-gpt-4-model/"><u>Transforming Digital Landscapes with OpenAI's Groundbreaking Release of the Powerful GPT-GPT-4 Model</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-windows-for-new-m2-hardware/"><u>Update Windows for New M.2 Hardware</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063126456-windows-graphics-upgrade-in-a-minute/"><u>Windows Graphics Upgrade in a Minute</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ranking-top-10-srt-modifications-for-pc-and-macos/"><u>[New] Ranking Top 10 SRT Modifications for PC & macOS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-gopros-superhero-5-and-sj7-showdown-for-2024/"><u>[Updated] GoPro's Superhero 5 and SJ7 Showdown for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximizing-viewership-live-stream-optimization-techniques/"><u>[Updated] Maximizing Viewership Live Stream Optimization Techniques</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/comprehensive-tutorial-capturing-your-screen-on-obs-made-easy-a-complete-step-by-step-guide/"><u>Comprehensive Tutorial: Capturing Your Screen on OBS Made Easy - A Complete Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hasty-upgrade-lenovo-usb-c-docking-solution/"><u>Hasty Upgrade: Lenovo USB-C Docking Solution</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ideapad-y470-w7drivers-installation-tips/"><u>IdeaPad-Y470 W7Drivers: Installation Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-updated-hp-print-drivers-for-windows-11-ecosystem/"><u>Install Updated HP Print Drivers for Windows 11 Ecosystem</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-wacom-bamboo-drivers-in-seconds/"><u>Install Wacom Bamboo Drivers in Seconds</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-new-quadro-rtx-drivers/"><u>Installation: New Quadro RTX Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-updates-for-optimal-w10-performance/"><u>Lenovo Updates for Optimal W10 Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-with-tom-in-depth-reviews-and-insights/"><u>Mastering Gadgets with Tom: In-Depth Reviews and Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/organizing-social-media-integrations-facebook-tips/"><u>Organizing Social Media Integrations: Facebook Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-usb-drive-management-with-instant-adb-installation/"><u>Simplify USB Drive Management with Instant ADB Installation!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-lava-yuva-3-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Lava Yuva 3 Pro without backup.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revive Graphics Support in Windows 7/11
-date: 2025-01-14T21:31:00.739Z
-updated: 2025-01-16T06:27:09.897Z
+date: 2025-02-06T22:05:53.244Z
+updated: 2025-02-09T23:30:47.295Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/9677cfb407c0d837c9cc1690f7cf05a933d33e50f
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/9677cfb407c0d837c9cc1690f7cf05a933d33e50f
  2) Type**devmgmt.msc** and press**Enter** to open the Device Manager window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
@@ -52,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/9677cfb407c0d837c9cc1690f7cf05a933d33e50f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda1f2bb85c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/9677cfb407c0d837c9cc1690f7cf05a933d33e50f
  This method is very simple. **After uninstalling the driver, you just need to reboot your computer** . Then Windows will install the driver automatically from Windows Update.
 
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
@@ -97,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/9677cfb407c0d837c9cc1690f7cf05a933d33e50f
  In the screenshot shown below, take NVIDIA GeForce GT 640 for example. If you’re using Intel graphics driver, or AMD graphics driver, you’ll see the specific Intel or AMD graphics card model in the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
@@ -125,18 +125,24 @@ thumbnail: https://thmb.techidaily.com/9677cfb407c0d837c9cc1690f7cf05a933d33e50f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-leading-camera-innovations-revealed-future-edition/"><u>[Updated] In 2024, Leading Camera Innovations Revealed - Future Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/achieving-fluidity-in-file-management-winssd-and-samsung-drive/"><u>Achieving Fluidity in File Management: WinSSD & Samsung Drive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-lenovo-display-performance-with-new-driver-downloads/"><u>Boost Your Lenovo Display Performance with New Driver Downloads</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-inkjet-printer-for-windows-environments/"><u>Configure Inkjet Printer for Windows Environments</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-gaomon-s620-for-optimal-performance/"><u>Download Gaomon S620 for Optimal Performance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/experience-top-tier-windows-7-sound-with-nvidia-update/"><u>Experience Top-Tier Windows 7 Sound with NVIDIA Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fixed-hp-laserjet-1020-drivers-on-windows-systems/"><u>Fixed HP LaserJet 1020 Drivers on Windows Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-new-drivers-geforce-gtx-1650-for-pcs/"><u>Get New Drivers - GeForce GTX 1650 for PCs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-rtx-2070-super-drivers-for-windows-download-and-upgrade-instructions-windows-1011/"><u>Latest RTX 2070 Super Drivers for Windows: Download & Upgrade Instructions (Windows 10/11)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/m4p-mp3/"><u>M4P から MP3 への変換：専用ソフトウェアを使った最適な手順</u></a></li>
-<li><a href="https://win11.techidaily.com/remove-faded-appearance-of-windows-volume-extend/"><u>Remove Faded Appearance of Windows' Volume Extend</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-a-stopped-netflix-window-program/"><u>Solutions for a Stopped Netflix Window Program</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unified-event-tracking-harmonizing-phone-and-tablet-with-pc-zoom-for-2024/"><u>[Updated] Unified Event Tracking Harmonizing Phone & Tablet with PC Zoom for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-by-step-techniques-downloading-and-crafting-instagram-stories/"><u>2024 Approved Step-by-Step Techniques Downloading & Crafting Instagram Stories</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-enhancement-for-gtx-750-ti-drivers/"><u>Direct Enhancement for GTX 750 Ti Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-system-integration-with-asus-drivers/"><u>Effortless System Integration with ASUS Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/end-win-errors-with-updated-hp-printer-drivers/"><u>End Win Errors with Updated HP Printer Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-tracked-patch-for-iris-x912/"><u>Fast-Tracked Patch for Iris X912</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-6-pluswindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 6 Plus/Windows/Mac</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/innovative-ways-to-boost-your-snapchat-engagement/"><u>Innovative Ways to Boost Your Snapchat Engagement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/peak-performance-sd-card-for-sony-a7s-series-for-2024/"><u>Peak Performance SD Card for Sony A7S Series for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/razer-mouse-compatibility-guide-for-windows/"><u>Razer Mouse Compatibility Guide for WIndows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reliability-and-security-in-ai-web-extensions/"><u>Reliability and Security in AI Web Extensions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-audio-driver-issues-in-win10/"><u>Resolving Audio Driver Issues in Win10</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/revolutionize-your-tiktok-videos-with-professional-grade-slow-mo-techniques-for-2024/"><u>Revolutionize Your TikTok Videos with Professional-Grade Slow Mo Techniques for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-hp-1020-driver-functionality-in-windows/"><u>Streamlining HP 1020 Driver Functionality in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-how-googles-ai-enhanced-chromebook-poses-threat-to-microsofts-copilot/"><u>The Ultimate Showdown: How Google's AI-Enhanced Chromebook Poses Threat to Microsoft's Copilot</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y17s-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y17s Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-more-games-add-an-sd-card-to-your-steam-deck/"><u>Unlock More Games: Add an SD Card to Your Steam Deck</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-wacom-software-for-enhanced-performance-in-win-10117/"><u>Updating Wacom Software for Enhanced Performance in Win 10/11/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-system-enhancement-lenovo-ideapad-y470/"><u>Windows 7 System Enhancement: Lenovo IdeaPad Y470</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reinstall Graphics Driver on Windows 11/7/11
-date: 2025-01-03T20:20:54.810Z
-updated: 2025-01-10T05:29:59.795Z
+date: 2025-02-09T09:50:52.592Z
+updated: 2025-02-10T03:33:57.694Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/dbf5bef08d727fe5e5685fdf99546537bd3c0a61b
 [**Step 1: Uninstall the graphics driver**](#step1)
 [**Step 2: Install a new graphics driver**](#step2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 1: Uninstall the graphics driver
 
  To reinstall the driver, you need to uninstall the driver first.**You can uninstall the graphics driver via Device Manager** . Device Manager is a Control Panel application that allows you to manage devices and drivers in your system. You can uninstall, update or roll back drivers through Device Manager. I’ll lead you through how to uninstall the graphics driver via Device Manager below:
@@ -37,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/dbf5bef08d727fe5e5685fdf99546537bd3c0a61b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
 
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/dbf5bef08d727fe5e5685fdf99546537bd3c0a61b
  After uninstalling the driver, move on to [Step 2](#step2) to install the graphics driver again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Install a new graphics driver
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/dbf5bef08d727fe5e5685fdf99546537bd3c0a61b
 
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Reinstall the graphics driver with Driver Easy
 
  If you don’t have the time, patience or computer skills to reinstall the driver manually, or if Windows doesn’t provide the latest driver, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/dbf5bef08d727fe5e5685fdf99546537bd3c0a61b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/dbf5bef08d727fe5e5685fdf99546537bd3c0a61b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -125,20 +125,22 @@ thumbnail: https://thmb.techidaily.com/dbf5bef08d727fe5e5685fdf99546537bd3c0a61b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-allocating-money-wisely-in-youtube-advertising/"><u>[New] 2024 Approved Allocating Money Wisely in YouTube Advertising</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-your-video-call-process-with-obs-and-skype/"><u>[New] 2024 Approved Streamlining Your Video Call Process with OBS & Skype</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-earn-through-engagement-securing-youtube-partnership-membership/"><u>[New] In 2024, Earn Through Engagement Securing YouTube Partnership Membership</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-techniques-for-swiftly-cleaning-your-youtube-buffered-queue/"><u>[New] Techniques for Swiftly Cleaning Your YouTube Buffered Queue</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-vibey-vistas-your-guide-to-the-10-most-trending-discothemes/"><u>[Updated] 2024 Approved Vibey Vistas Your Guide to the 10 Most Trending DiscoThemes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/atiradeonhd5770rtkossupport/"><u>ATIRadeonHD5770RTKOSSupport</u></a></li>
-<li><a href="https://driver-install.techidaily.com/draw-like-a-pro-with-wacom-intuos-4-on-secure-windows-pc/"><u>Draw Like a Pro with Wacom Intuos 4 on Secure Windows PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-firmware-changes-on-lenovo-z50-70/"><u>Easy Firmware Changes on Lenovo Z50-70</u></a></li>
-<li><a href="https://driver-install.techidaily.com/end-wi-fi-hacks-with-ultimate-usb-fixes/"><u>End Wi-Fi Hacks with Ultimate USB Fixes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-key-finder-products-to-watch/"><u>Essential Key Finder Products to Watch</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a59-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A59 5G Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-issues-with-drivers-on-windows-platforms/"><u>Navigating Issues with Drivers on Windows Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-viewing-apples-pages-files-on-windows-systems/"><u>Quick Fixes for Viewing Apple's Pages Files on Windows Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-s10plus-vs-s20-face-off-a-comprehensive-examination/"><u>Samsung Galaxy S10+ Vs. S20 Face-Off: A Comprehensive Examination</u></a></li>
-<li><a href="https://driver-install.techidaily.com/system-update-guide-for-c6515-machine/"><u>System Update Guide for C6515 Machine</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-screen-capturing-on-iphoneipad-updated-strategies-for-2024/"><u>[New] Screen Capturing on iPhone/iPad Updated Strategies for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-comparative-analysis-of-ar-stickers-focusing-on-google/"><u>[Updated] 2024 Approved Comparative Analysis of AR Stickers, Focusing on Google</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-is-there-a-cash-incentive-in-critique-videos/"><u>2024 Approved Is There a Cash Incentive in Critique Videos?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-of-premiere-pros-full-screen-magic/"><u>2024 Approved Unveiling the Secrets of Premiere Pro's Full Screen Magic</u></a></li>
+<li><a href="https://driver-install.techidaily.com/directx-driver-software-windows-11-plus-xone-gaming/"><u>DirectX Driver Software: Windows 11 + Xone Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-advanced-computing-secrets-at-toms-hardware-universe/"><u>Discover Advanced Computing Secrets at Tom's Hardware Universe</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-xbox-controller-in-windows-os/"><u>Drive Xbox Controller in Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-for-converting-ts-video-files-to-mkv-using-top-free-tools/"><u>Effective Strategies for Converting TS Video Files to MKV Using Top Free Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-ie-driver-placement-in-windows-10plus/"><u>Efficient IE Driver Placement in Windows 10+</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hookup-hp-envy-5530-driver-with-windows-10/"><u>Hookup HP Envy 5530 Driver with Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-driver-updates-across-windows-versions-10plus81plus7/"><u>Optimizing Driver Updates Across Windows Versions 10+8.1+7</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/pixelpilot-review-the-years-leading-screen-capture-tech/"><u>PixelPilot Review The Year's Leading Screen Capture Tech</u></a></li>
+<li><a href="https://driver-install.techidaily.com/razer-usb-mouse-setup-for-windows-1078-users/"><u>Razer USB Mouse Setup for Windows 10/7/8 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalizing-usb-functionality-on-historic-oss/"><u>Revitalizing USB Functionality on Historic OSs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-premium-monitors-this-cyber-monday-checkout-sale-deals-by-leading-brands-like-samsung-asus-and-lg-zdnet-insights/"><u>Save Big on Premium Monitors This Cyber Monday: Checkout Sale Deals by Leading Brands Like Samsung, ASUS & LG | ZDNet Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-techniques-for-overcoming-the-absence-of-coredll-in-your-system/"><u>Ultimate Troubleshooting Techniques for Overcoming the Absence of Core.DLL in Your System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winprinter-setup-epson-et-2650-windows-installation/"><u>WinPrinter Setup: Epson ET-2650 Windows Installation</u></a></li>
 </ul></div>
 

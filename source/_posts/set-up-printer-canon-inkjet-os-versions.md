@@ -1,7 +1,7 @@
 ---
 title: "Set up Printer: Canon Inkjet, OS Versions"
-date: 2025-01-25T23:05:27.462Z
-updated: 2025-01-29T21:48:43.724Z
+date: 2025-02-06T08:03:45.716Z
+updated: 2025-02-10T09:46:36.893Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
@@ -35,26 +35,26 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
@@ -88,22 +88,22 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-generating-wealth-with-makeup-channels/"><u>[Updated] 2024 Approved Generating Wealth with Makeup Channels</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unleashing-the-power-of-screen-capture-with-hp-notebooks/"><u>[Updated] In 2024, Unleashing the Power of Screen Capture with HP Notebooks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-to-installing-streamlabs-in-obs-mac/"><u>[Updated] Step-by-Step Guide to Installing Streamlabs in OBS (Mac)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/a-step-by-step-approach-for-thumbnail-creation-professionals-for-2024/"><u>A Step-By-Step Approach for Thumbnail Creation Professionals for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/complete-tech-makeover-reinstalling-your-video-driver/"><u>Complete Tech Makeover: Reinstalling Your Video Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063136103-effortlessly-update-your-nvidia-drivers-today/"><u>Effortlessly Update Your Nvidia Drivers Today!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortlessly-updated-radeon-hd-4800-graphics-cards/"><u>Effortlessly Updated Radeon HD 4800 Graphics Cards</u></a></li>
-<li><a href="https://driver-install.techidaily.com/execute-compatible-software-for-radeon-gfx-drivers/"><u>Execute Compatible Software for Radeon GFX Drivers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-on-getting-past-the-deadlock-when-your-deathloop-wont-start/"><u>Expert Tips on Getting Past the Deadlock - When Your Deathloop Won't Start</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-hitching-a-ride-on-stream-success-obs-plus-zoom/"><u>In 2024, Hitching a Ride on Stream Success OBS + Zoom</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-m2-nvme-driver/"><u>Installing M.2 NVMe Driver</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-install-bluetooth-drivers-in-win-1011/"><u>Instantly Install Bluetooth Drivers in Win 10/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-step-by-step-for-driver-placement/"><u>Quick Step-by-Step for Driver Placement</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rectify-ftdi-signal-misalignment/"><u>Rectify FTDI Signal Misalignment</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-play-8t-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor Play 8T Phone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-reasons-behind-a-malfunctioning-youtube-experience/"><u>Understanding the Reasons Behind a Malfunctioning YouTube Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-optimal-orientation-for-fb-content-creation/"><u>[Updated] 2024 Approved Optimal Orientation for FB Content Creation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-content-masterpieces-select-the-ultimate-androidpc-apps-for-2024/"><u>[Updated] Crafting Content Masterpieces Select the Ultimate Android/PC Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-bites-to-blocks-top-10-video-editing-principles/"><u>[Updated] From Bites to Blocks Top 10 Video Editing Principles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-pairing-best-6-video-capture-tools-for-macos-for-2024/"><u>[Updated] Perfect Pairing Best 6 Video Capture Tools for MacOS for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-meizu-21-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Meizu 21 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fine-tune-your-scanner-with-updated-s1500-driver-instructions/"><u>Fine-Tune Your Scanner with Updated S1500 Driver Instructions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-configure-view-options-in-macos-finder-for-better-file-management/"><u>How to Configure View Options in macOS Finder for Better File Management</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-easy-ways-to-screen-record-instagram-story/"><u>In 2024, Easy Ways to Screen Record Instagram Story</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-itel-p55-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Itel P55 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-intel-graphics-520-now/"><u>Install Intel Graphics 520 Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-windows-performance-with-the-newest-intel-82579lm-driver/"><u>Streamlining Windows Performance with the Newest Intel 82579LM Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlocking-startech-potential-across-old-and-new-oss/"><u>Unlocking StarTech Potential Across Old and New OSs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-drivers-for-c6515-copier/"><u>Update Drivers for C6515 Copier</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-processor-suitability/"><u>Update Processor Suitability</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-f54-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy F54 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11s-audio-evolution-with-conexant-hd-support-software/"><u>Win11's Audio Evolution with Conexant HD Support Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xbox-remotes-for-pc-windows-adaptation/"><u>XBox Remotes for PC: Windows Adaptation</u></a></li>
 </ul></div>
 
