@@ -1,7 +1,7 @@
 ---
 title: "Easy Installation: Brother MFC-9340CDW Printer Drivers for Windows 11, 8 & 7 – Free Download & Update!"
-date: 2025-02-09T12:48:57.324Z
-updated: 2025-02-10T07:25:13.014Z
+date: 2025-02-13T23:43:17.188Z
+updated: 2025-02-19T20:02:21.633Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
 Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**  printer? Or you know it’s time but still looking for a quick & safe download? Look no further, this is your guide! ? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Choose the way you prefer
 
  Both methods below work in **Windows 10** , **8** and **7** . You may not have to try both; just decide if you want to do it manually or automatically and take your pick: 
@@ -39,13 +35,17 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Double-click on **Printer queues** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC-9340CDW** and click **Uninstall device** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click **Product Search** .  
@@ -55,11 +55,15 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a35c4d2e36.png)
 6. Click **Downloads** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a35fed0b08.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click **Search** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a364817b74.jpg)
@@ -68,10 +72,6 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a3678d7562.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
 10. Follow the notes to finish the manual install.  
 
@@ -79,10 +79,6 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 11. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Method 2: Update your Brother MFC-9340CDW driver automatically (Recommended)
 
@@ -96,6 +92,10 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2827d6896.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
@@ -124,15 +124,21 @@ Wondering whether or not to update the driver for your   **Brother MFC-9340CDW**
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-accelerated-conversion-of-yt-content-for-mac-screens/"><u>[Updated] In 2024, Accelerated Conversion of YT Content for MAC Screens</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comparative-analysis-64-vs-128gb-video-holding-power/"><u>2024 Approved Comparative Analysis 64 vs 128GB Video Holding Power</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-networking-install-usb-ethernet-converter/"><u>Efficient Networking: Install USB-Ethernet Converter</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortlessly-share-your-computer-display-with-your-tv-via-googles-chromecast-technology/"><u>Effortlessly Share Your Computer Display with Your TV via Google's Chromecast Technology</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-and-easy-driver-updates-for-gtx-760/"><u>Fast & Easy Driver Updates for GTX 760</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-resolving-fifa-22s-crashing-problems-for-a-flawless-gameplay-experience-on-windows/"><u>Mastering Stability: Resolving FIFA 22'S Crashing Problems for a Flawless Gameplay Experience on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-quadro-rtx-6000-software-update/"><u>NVIDIA Quadro RTX 6000 Software Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/setup-networking-with-avstar-lan-adapter-on-surface-go/"><u>Setup Networking with AVSTAR LAN Adapter on Surface Go</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-guide-to-top-instagram-metrics-monitors-for-ambitious-marketers-for-2024/"><u>The Guide to Top Instagram Metrics Monitors for Ambitious Marketers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-winxdvd-professional-dvd-ripping-and-mobile-transfer-solutions-online/"><u>The Ultimate Guide to WinXDVD: Professional DVD Ripping and Mobile Transfer Solutions Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-parrots-advanced-ar-drone-assessment-report/"><u>[New] 2024 Approved Parrot's Advanced AR Drone - Assessment Report</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-6-must-visit-destinations-for-top-notch-youtube-branding-elements-for-2024/"><u>[Updated] 6 Must-Visit Destinations For Top-Notch YouTube Branding Elements for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-skyrocketing-your-earning-potential-a-vimeo-monetization-guide/"><u>[Updated] In 2024, Skyrocketing Your Earning Potential A Vimeo Monetization Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-complete-gopro-comparison-guide/"><u>2024 Approved The Complete Gopro Comparison Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-driver-updates-for-rx-5500xt/"><u>Accelerate Driver Updates for RX 5500XT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-audio-driver-upgrades-on-windows-10/"><u>Efficient Audio Driver Upgrades on Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ce-creativity-how-to-attain-filmora-fcc-accreditation/"><u>Embrace Creativity How to Attain Filmora FCC Accreditation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enhance-your-watchlist-using-double-display-with-netflix/"><u>Enhance Your Watchlist Using Double Display with Netflix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-tracking-mouse-driver-installation-in-windows-10/"><u>Fast-Tracking Mouse Driver Installation in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-enhance-and-modernize-dell-audio-systems/"><u>How to Enhance and Modernize Dell Audio Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-from-tiktok-to-twitter-a-2023-blueprint/"><u>In 2024, From TikTok to Twitter A 2023 Blueprint</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-tecno-pop-8-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Tecno Pop 8 to Another | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-instagrams-search-function-a-pathway-to-complimentary-filters/"><u>In 2024, Navigating Instagram's Search Function A Pathway to Complimentary Filters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intel-driver-boost-for-win-10781/"><u>Intel Driver Boost for WIN 10/7/8.1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-art-of-mouse-driver-restoration/"><u>Mastering the Art of Mouse Driver Restoration</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-bluetooth-functionality-update-rtl87x-chipset-drivers/"><u>Optimize Bluetooth Functionality: Update RTL87x Chipset Drivers</u></a></li>
 </ul></div>
 

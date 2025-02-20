@@ -1,7 +1,7 @@
 ---
 title: Refresh Graphics Drivers in Win11/7
-date: 2025-02-02T16:51:52.866Z
-updated: 2025-02-10T12:10:02.954Z
+date: 2025-02-14T16:42:59.907Z
+updated: 2025-02-19T22:34:04.974Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 [**Step 2: Install a new graphics driver**](#step2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Uninstall the graphics driver
@@ -37,16 +37,12 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0472b0f4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click**Display adapters** to view the devices in the category. Then right click the graphics card name (for example, NVIDIA GeForce GT 640), and select**Uninstall device** (in some cases, this could be just**Uninstall**).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adda0ffeb43e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On the Uninstall confirm dialog box, click the**Delete the driver software for this device** option, then click**Uninstall** .
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  This method may not provide the latest driver for you. If you still have slow PC performance after having the graphics driver reinstalled, you can try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Reinstall the graphics driver with Driver Easy
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-631.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-632.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -125,24 +125,19 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-automatic-high-dynamic-range-enhances-image-quality/"><u>[New] How Automatic High Dynamic Range Enhances Image Quality</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-vlc-vs-mpc-decoding-the-best-free-media-player/"><u>[New] In 2024, VLC Vs. MPC Decoding the Best Free Media Player</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-and-youtube-synergy-sharing-video-links-in-stories-for-2024/"><u>[New] Instagram and YouTube Synergy Sharing Video Links in Stories for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-enrich-your-tweeting-experience-the-ultimate-toolkit-review/"><u>[Updated] 2024 Approved Enrich Your Tweeting Experience The Ultimate Toolkit Review</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-from-novice-to-pro-screen-record-mastery-on-hp/"><u>[Updated] 2024 Approved From Novice to Pro Screen Record Mastery on HP</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-opt-out-of-autoplayed-podcast-selection-by-spotify-for-2024/"><u>[Updated] Opt-Out of Autoplayed Podcast Selection by Spotify for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-prime-facebook-extra-tools-secure-file-grabber-firefox-version/"><u>2024 Approved Prime Facebook Extra Tools Secure File Grabber, Firefox Version</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oppo-reno-10-pro-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo Reno 10 Pro 5G Unlock Without Password</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-acer-display-performance-via-win11-updates/"><u>Enhance Acer Display Performance via Win11 Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-laserjet-1102w-driver-win-installation/"><u>HP LaserJet 1102W Driver - Win Installation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/if-you-want-to-make-cartoon-on-your-phone-we-will-present-you-with-10-best-cartoon-video-maker-app-on-android-and-iphone-check-it-out/"><u>If You Want to Make Cartoon on Your Phone, We Will Present You with 10 Best Cartoon Video Maker App on Android and iPhone. Check It Out</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-amd-drivers-for-rx-5700-graphics-card/"><u>Latest AMD Drivers for RX 5700 Graphics Card</u></a></li>
-<li><a href="https://driver-install.techidaily.com/modify-non-conformant-package/"><u>Modify Non-Conformant Package</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-the-maze-startech-drivers-for-xp-win1011/"><u>Navigating the Maze: StarTech Drivers for XP-Win10/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-760-drivers-updated-with-ease/"><u>Nvidia 760 Drivers Updated With Ease</u></a></li>
-<li><a href="https://driver-install.techidaily.com/old-school-usb-support-rework-in-various-windows/"><u>Old-School USB Support Rework in Various Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplified-guide-to-bluetooth-driver-reinstallation-in-windows/"><u>Simplified Guide to Bluetooth Driver Reinstallation in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-gameplay-quick-cure-for-amd-and-tarkov-gaffe/"><u>Smooth Gameplay: Quick Cure for AMD & Tarkov Gaffe</u></a></li>
-<li><a href="https://driver-install.techidaily.com/trim-down-lexmark-printer-driver-rollout-time/"><u>Trim Down Lexmark Printer Driver Rollout Time</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-inspire-yourself-with-these-ten-high-growth-youtube-sources/"><u>[Updated] 2024 Approved Inspire Yourself with These Ten High-Growth YouTube Sources</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flying-into-photography-discovering-the-dji-spark-advantage/"><u>[Updated] Flying Into Photography Discovering the DJI Spark Advantage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ideal-editing-tools-best-phones-options-for-gopro-videos/"><u>2024 Approved Ideal Editing Tools Best Phones' Options for GoPro Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/address-broken-drivers-impacting-windows-printers/"><u>Address Broken Drivers Impacting Windows Printers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bast-gratis-windowsskarmspel-for-windows-11-din-guide-till-finest-gaming/"><u>Bäst Gratis Windowsskärmspel För Windows 11 - Din Guide Till Finest Gaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oneplus-11-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your OnePlus 11 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-install-hassle-free-canon-scanner-drivers-for-pcs/"><u>Easy Install, Hassle-Free Canon Scanner Drivers for PCs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ensenanza-diaria-semana-completa-en-espanol/"><u>Enseñanza Diaria: Semana Completa en Español</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-officejet-7740-drivers-guidebook/"><u>HP Officejet 7740 Drivers Guidebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immediate-remedies-for-when-your-discord-overlay-wont-work-a-comprehensive-fix-guide/"><u>Immediate Remedies for When Your Discord Overlay Won't Work - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-apple-iphone-15-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on Apple iPhone 15 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-moto-g13-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Moto G13 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-logitech-c270-camera-software-on-pcs-windows/"><u>Install Logitech C270 Camera Software on PCs (Windows)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062334495-update-your-netgear-wi-fi-usb-adapter-now/"><u>Update Your Netgear Wi-Fi USB Adapter Now!</u></a></li>
 </ul></div>
 

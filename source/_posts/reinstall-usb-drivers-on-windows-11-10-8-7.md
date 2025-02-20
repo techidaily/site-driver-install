@@ -1,7 +1,7 @@
 ---
 title: Reinstall USB Drivers on Windows 11, 10, 8, 7
-date: 2025-02-05T19:40:36.853Z
-updated: 2025-02-10T01:50:06.487Z
+date: 2025-02-13T04:18:09.002Z
+updated: 2025-02-20T08:52:08.686Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  A range of peripherals including webcams, printers, digital cameras, external hard drives, mice, keyboards, and scanners is connected to your PC via the USB connection. When these devices don’t work properly, you may need to**reinstall the USB drivers** to fix your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to reinstall USB drivers
@@ -37,22 +37,26 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Universal Serial Bus controllers** to view the devices under this category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2.jpg)
 3. Right-click one device at a time and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3.jpg)
 4. Click**Uninstall** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4.jpg)
 5. After uninstalling all the device drivers under Universal Serial Bus controllers, reboot your PC to fully implement the changes. Then Windows will install the appropriate USB drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’s easy to reinstall the USB drivers via Device Manager, but the drivers on Microsoft’s driver library are sometimes outdated ([see why](https://tools.techidaily.com/drivereasy/download/) ). For an easier way to install the latest driver, you can go for Option 2.
 
@@ -67,15 +71,11 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -101,24 +101,18 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-best-youtube-video-reverser-online/"><u>[New] Best YouTube Video Reverser Online</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-5-samsung-gear-vr-games/"><u>[Updated] 2024 Approved Top 5 Samsung Gear VR Games</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-and-save-your-next-google-meet-with-iphoneandroid/"><u>[Updated] Capture & Save Your Next Google Meet with iPhone/Android</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mac-graphics-revolution-top-10-freeware-drawings/"><u>2024 Approved Mac Graphics Revolution Top 10 Freeware Drawings</u></a></li>
-<li><a href="https://driver-install.techidaily.com/driver-package-for-u-are-u-fingerreader-v45/"><u>Driver Package for U-Are-U FingerReader V4.5</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-system-performance-with-s620-drivers/"><u>Efficient System Performance with S620 Drivers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fcp-without-spending-practical-guide/"><u>FCP Without Spending – Practical Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/filmcrafters-compendium-unpacked-qanda-for-2024/"><u>FilmCrafters' Compendium Unpacked Q&A for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonize-intel-drivers-with-latest-windows-11-7-and-81-standards/"><u>Harmonize Intel Drivers with Latest Windows 11, 7 & 8.1 Standards</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-use-emeditors-reply-feature-in-a-bookmarked-thread/"><u>How to Use EmEditor's Reply Feature in a Bookmarked Thread</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone XR</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-efficiency-with-up-to-date-hp-printer-drivers-in-windows-11/"><u>Maximize Efficiency with Up-to-Date HP Printer Drivers in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigate-through-driver-updates-in-windows-xp-manually/"><u>Navigate Through Driver Updates in Windows XP Manually</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-usbasp-errors-across-different-windows-editions/"><u>Navigating USBasp Errors Across Different Windows Editions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-latest-driver-release/"><u>Quadro RTX 6000 Latest Driver Release</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-rotibox-bluetooth-ear-hat-evaluation-perfect-harmony-of-snug-comfort-and-enjoyable-sound-quality/"><u>The Rotibox Bluetooth Ear Hat Evaluation: Perfect Harmony of Snug Comfort and Enjoyable Sound Quality</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-wireless-driver-revamp-for-atheros-in-windows-10/"><u>The Ultimate Guide: Wireless Driver Revamp for Atheros in Windows 10</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-most-sought-after-game-systems/"><u>Unveiling the Most Sought-After Game Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-xerox-copier-6515-drivers/"><u>Update Xerox Copier 6515 Drivers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-under-the-waves-best-practices-in-underwater-filming-with-a-gopro/"><u>[New] 2024 Approved Under the Waves Best Practices in Underwater Filming with a GoPro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unveiling-video-visionaries-subscriber-top-5/"><u>[New] 2024 Approved Unveiling Video Visionaries Subscriber Top 5</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-enhance-your-iphone-photography-with-time-lapse/"><u>2024 Approved Enhance Your iPhone Photography with Time-Lapse</u></a></li>
+<li><a href="https://driver-install.techidaily.com/corrective-measures-for-non-installing-windows-drivers/"><u>Corrective Measures for Non-Installing Windows Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-installation-guide-logitech-hd-camera-c270-software/"><u>Direct Installation Guide: Logitech HD Camera (C270) Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-installation-of-canon-scanner-drivers-on-windows/"><u>Easy Installation of Canon Scanner Drivers on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-sound-quality-on-windows-10-with-updated-drivers/"><u>Enhance Sound Quality on Windows 10 with Updated Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-960-graphics-card-newest-driver-updates/"><u>GTX 960 Graphics Card: Newest Driver Updates</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-navigate-your-projects-faster-speed-control-essentials/"><u>In 2024, Navigate Your Projects Faster Speed Control Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-amusement-master-memes-with-kapwing/"><u>In 2024, The Art of Amusement – Master Memes with Kapwing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/integrating-youtube-videos-into-facebook-sharing-options-for-2024/"><u>Integrating YouTube Videos Into Facebook Sharing Options for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ate-the-looping-world-with-our-yt-video-playback-hacks/"><u>Navigate the Looping World with Our YT Video Playback Hacks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/shing-laughter-on-screen-essential-tactics-for-youtube-reaction-video-making-3-ways-for-2024/"><u>Unleashing Laughter on Screen Essential Tactics for YouTube Reaction Video Making (3 Ways) for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Meteor Lake CPU Driven New Mini-PC with OneXPlayer M1 - Intel Core Ultra Coffee Lake 9Th Gen, Up to 32GB RAM & OCuLink
-date: 2025-02-03T09:56:06.114Z
-updated: 2025-02-09T21:23:41.583Z
+date: 2025-02-14T12:27:01.435Z
+updated: 2025-02-20T07:48:21.642Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,18 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-navigating-the-world-of-filmmaking-best-cameras-for-novices/"><u>[New] Navigating the World of Filmmaking Best Cameras for Novices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-streamlining-captioning-processes-on-vimeo-videos/"><u>2024 Approved Streamlining Captioning Processes on Vimeo Videos</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-method-for-reinstalling-and-configuring-printer-drivers-in-winoss/"><u>Efficient Method for Reinstalling and Configuring Printer Drivers in WinOSs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-scsi-driver-installation/"><u>Effortless SCSI Driver Installation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-screen-output-tips-for-updating-your-hdmi-driver-in-w10w11/"><u>Enhanced Screen Output - Tips for Updating Your HDMI Driver in W10/W11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-13c-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi 13C Phone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-closer-look-at-high-end-vr-walking-machines/"><u>In 2024, A Closer Look at High-End VR Walking Machines</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-gamers-secrets-to-effective-playback-logging/"><u>In 2024, Gamers' Secrets to Effective Playback Logging</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-identifying-optimal-frame-rate-in-slow-motion-film-production/"><u>In 2024, Identifying Optimal Frame Rate in Slow Motion Film Production</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lsa-defense-mechanism-reactivated-for-enhanced-localized-safeguarding/"><u>LSA Defense Mechanism Reactivated for Enhanced Localized Safeguarding</u></a></li>
-<li><a href="https://driver-install.techidaily.com/m2-ssd-compatibility-tips/"><u>M.2 SSD Compatibility Tips</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sensorylingua-the-sensorial-approach-to-language-learning/"><u>SensoryLingua: The Sensorial Approach to Language Learning</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-intel-graphics-stack-fastly/"><u>Update Intel Graphics Stack Fastly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-power-of-youtube-videos-to-create-stunning-gifs-online-for-2024/"><u>[New] Harness the Power of Youtube Videos to Create Stunning Gifs Online for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-movie-capture-pc-mac-and-mobile-devices/"><u>[Updated] Mastering Movie Capture PC, Mac, & Mobile Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfecting-igtv-video-production-on-smartphonesdslrs/"><u>[Updated] Perfecting IGTV Video Production on Smartphones/DSLRs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressing-hp-print-driver-errors-win-10/"><u>Addressing HP Print Driver Errors Win 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-glitches-override-update-hardware-on-windows-11/"><u>Audio Glitches Override - Update Hardware on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-drivers-effortlessly-with-these-8-free-update-utilities-this-julys-guide/"><u>Enhance Your Drivers Effortlessly with These 8 Free Update Utilities - This July's Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95918150-9781683255512-entre-en-el-mundo-de-la-radiestesia/"><u>Entre en… el mundo de la radiestesia | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-msi-bravo-driver-update/"><u>Essential Tips for MSI Bravo Driver Update</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-unifying-hp-jetprinter-driver-with-windows/"><u>Harmonize: Unifying HP JetPrinter Driver with Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-laserprinter-model-w-driver-installation/"><u>HP LaserPrinter Model W Driver Installation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-officejet-pro-8620-get-the-latest-windows-drivers-for-flawless-printing/"><u>HP OfficeJet Pro 8620: Get the Latest Windows Drivers for Flawless Printing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Asus ROG Phone 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nokia-c32-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nokia C32 online without jailbreak</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-new-mouse-drivers-easy-and-swift-for-windows-7/"><u>Install New Mouse Drivers: Easy & Swift for Windows 7</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-avoid-print-server-communication-failures/"><u>Strategies to Avoid Print Server Communication Failures</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/utilizing-cookiebot-technology-for-better-conversion-tracking/"><u>Utilizing Cookiebot Technology for Better Conversion Tracking</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063277714-windows-usb-hub-troubleshooting-guide-fixed/"><u>Windows USB Hub Troubleshooting Guide - Fixed!</u></a></li>
 </ul></div>
 

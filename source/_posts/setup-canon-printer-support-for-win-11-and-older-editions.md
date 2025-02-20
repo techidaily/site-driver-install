@@ -1,7 +1,7 @@
 ---
 title: Setup Canon Printer Support for WIN 11 & Older Editions
-date: 2025-02-05T03:05:15.463Z
-updated: 2025-02-09T16:11:07.168Z
+date: 2025-02-14T21:47:41.473Z
+updated: 2025-02-19T18:39:11.556Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 * [**Way 1. Download the latest Canon MX870 driver from Canon website**](#Way1)
 * [**Way 2. Download the latest Canon MX870 driver via Driver Easy automatically**](#Way2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Way 1\. Download the latest Canon MX870 driver from Canon website**
 
  1) Head to [Canon Driver download center](https://www.usa.canon.com/internet/portal/us/home/support?tab=drivers) .
@@ -31,16 +35,12 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to click **Driver & Downloads** . Then locate your operating system. Click **Select**  under Drivers dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **DOWNLOAD** .
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now it will start downloading the driver. When it’s done, double-click the downloaded **.exe**  file to install the driver. Restart your computer to make the driver take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Download the latest Canon MX870 driver via Driver Easy automatically
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Moreover, 30-day **money back** and **professional tech support** anytime guarantee would be offered with Driver Easy pro version. Thus no worry to take it a try! Such a charming tool! **[TRY NOW !](https://tools.techidaily.com/drivereasy/download/)**  Any confusions, please feel free to leave your comment below.
@@ -88,19 +88,24 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-a-compre-written-in-sounds-youtube-playlists-decoded/"><u>[New] In 2024, A Compre Written in Sounds YouTube Playlists Decoded</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-explore-best-speech-recognition-software-on-your-mac/"><u>[New] In 2024, Explore Best Speech Recognition Software on Your Mac</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cut-to-the-chase-quick-guide-to-film-making-with-movie-maker/"><u>[Updated] 2024 Approved Cut to the Chase Quick Guide to Film-Making with Movie Maker</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974361412-approach-list-the-common-weld-defects-associated-with-arc-blow-based-on-the-facts-provided/"><u>Approach: List the Common Weld Defects Associated with Arc Blow Based on the Facts Provided.</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/cadence-and-codes-a-mac-studio-journey/"><u>Cadence and Codes A Mac Studio Journey</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-interaction-easy-install-for-windows-11s-touch/"><u>Enhance Interaction - Easy Install for Windows 11'S Touch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-fix-shell32dll-error-not-found-or-missing-issues/"><u>Guide to Fix Shell32.dll Error: Not Found or Missing Issues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-narzo-n55-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme Narzo N55 FRP Without Computer</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-gaming-and-graphics-on-hp-omen-15-through-updated-software/"><u>Maximize Gaming & Graphics on HP Omen 15 Through Updated Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/752418-9781780990620-powers-of-the-sixth-sense/"><u>Powers of the Sixth Sense | Free Book</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revise-installation-for-specifics/"><u>Revise Installation for Specifics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simple-steps-installing-updated-nvidia-drivers-in-windows-11/"><u>Simple Steps: Installing Updated NVIDIA Drivers in Windows 11</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-restoring-data-from-a-damaged-sd-card-via-command-prompt/"><u>Step-by-Step Guide: Restoring Data From a Damaged SD Card via Command Prompt</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-stability-secured-for-win-users/"><u>USB Stability Secured for WIN Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-exposing-effective-promotions/"><u>[Updated] In 2024, Exposing Effective Promotions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-dissecting-video-platform-features-youtube-vs-dailymention/"><u>2024 Approved Dissecting Video Platform Features YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-quintessential-5-filters-for-depth-video/"><u>2024 Approved Quintessential 5 Filters for Depth Video</u></a></li>
+<li><a href="https://driver-install.techidaily.com/a-guide-to-efficiently-tweak-device-drivers-for-windows-881-users/"><u>A Guide to Efficiently Tweak Device Drivers for Windows 8/8.1 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-visual-fidelity-of-hp-graphics-on-pc/"><u>Boost Visual Fidelity of HP Graphics on PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-install-updated-hp-officejet-8620-drivers-for-optimal-performance-in-windows/"><u>Download & Install Updated HP OfficeJet 8620 Drivers for Optimal Performance in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/eliminating-problems-samsung-ssd-and-windows-synergy/"><u>Eliminating Problems: Samsung SSD and Windows Synergy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-graphics-with-gtx-1050-ti-drivers-updates/"><u>Enhance Graphics with GTX 1050 Ti Drivers Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-window-compatibility-hp-1020-driver-fixes/"><u>Enhanced Window Compatibility: HP 1020 Driver Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-conflicts-ensure-seamless-operation-of-hp-laserjet-pro-400-on-win-os/"><u>Fix Conflicts: Ensure Seamless Operation of HP LaserJet Pro 400 on Win OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guidance-to-reestablish-nvidia-software-on-pcs/"><u>Guidance to Reestablish NVIDIA Software on PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-compatible-drivers-for-amd-radeon-200-series/"><u>Install Compatible Drivers for AMD Radeon 200 Series</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rapid-assembly-of-google-image-mosaics-for-2024/"><u>Rapid Assembly of Google Image Mosaics for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-dvd-mastery-choosing-the-right-movie-making-software-for-beginners/"><u>Updated DVD Mastery Choosing the Right Movie Making Software for Beginners</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-disappeared-desktop-icons-in-windows-10-a-step-by-step-resolution/"><u>Winning the Battle Against Disappeared Desktop Icons in Windows 10 – A Step-by-Step Resolution</u></a></li>
 </ul></div>
 

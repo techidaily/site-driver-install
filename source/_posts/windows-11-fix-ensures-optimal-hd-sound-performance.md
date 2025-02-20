@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Fix: Ensures Optimal HD Sound Performance"
-date: 2025-02-04T20:59:45.463Z
-updated: 2025-02-09T16:15:08.910Z
+date: 2025-02-14T21:46:58.534Z
+updated: 2025-02-19T20:37:18.623Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Fix 1: Reinstall the VIA HD audio driver
 
  You can try to uninstall the VIA high definition audio driver, and reinstall it in your computer.
@@ -33,31 +37,27 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a56c24763.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double click**Sound, video and game controllers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a5a189883.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right click your**VIA HD Audio driver** , and click**Uninstall device** . (If you are using Windows 7, click**Uninstall** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a858e6ea2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If you see a popup pane to confirm, check the box next to**Delete the driver software for this device** , then click**Uninstall** to delete. (If you are using Windows 7, click**OK** to confirm.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
- 5) After uninstalling, restart your computer and Windows will automatically download and install the audio driver for you at starting. After it’s done, check the audio device to see if it works properly.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 5) After uninstalling, restart your computer and Windows will automatically download and install the audio driver for you at starting. After it’s done, check the audio device to see if it works properly.
 
 ##  Fix 2: Update the VIA HD audio driver automatically
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dec2431048.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged audio driver to automatically download the latest VIA HD audio driver (you can do this with the**FREE** version), then install it in your computer.
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5a97a961c7174.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
@@ -113,20 +113,24 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-ranking-top-10-srt-modifications-for-pc-and-macos/"><u>[New] Ranking Top 10 SRT Modifications for PC & macOS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-gopros-superhero-5-and-sj7-showdown-for-2024/"><u>[Updated] GoPro's Superhero 5 and SJ7 Showdown for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-maximizing-viewership-live-stream-optimization-techniques/"><u>[Updated] Maximizing Viewership Live Stream Optimization Techniques</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comprehensive-tutorial-capturing-your-screen-on-obs-made-easy-a-complete-step-by-step-guide/"><u>Comprehensive Tutorial: Capturing Your Screen on OBS Made Easy - A Complete Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hasty-upgrade-lenovo-usb-c-docking-solution/"><u>Hasty Upgrade: Lenovo USB-C Docking Solution</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ideapad-y470-w7drivers-installation-tips/"><u>IdeaPad-Y470 W7Drivers: Installation Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-updated-hp-print-drivers-for-windows-11-ecosystem/"><u>Install Updated HP Print Drivers for Windows 11 Ecosystem</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-wacom-bamboo-drivers-in-seconds/"><u>Install Wacom Bamboo Drivers in Seconds</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installation-new-quadro-rtx-drivers/"><u>Installation: New Quadro RTX Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-updates-for-optimal-w10-performance/"><u>Lenovo Updates for Optimal W10 Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-with-tom-in-depth-reviews-and-insights/"><u>Mastering Gadgets with Tom: In-Depth Reviews and Insights</u></a></li>
-<li><a href="https://facebook.techidaily.com/organizing-social-media-integrations-facebook-tips/"><u>Organizing Social Media Integrations: Facebook Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simplify-usb-drive-management-with-instant-adb-installation/"><u>Simplify USB Drive Management with Instant ADB Installation!</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-lava-yuva-3-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Lava Yuva 3 Pro without backup.</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-mastering-morphvox-modifications/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Mastering MorphVOX Modifications</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-integrating-youtube-effective-strategies-for-modern-teachers-for-2024/"><u>[Updated] Integrating YouTube Effective Strategies for Modern Teachers for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-showing-and-hiding-excel-sheet-columns-for-better-organization/"><u>A Step-by-Step Guide to Showing and Hiding Excel Sheet Columns for Better Organization</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-convenient-techniques-for-customizing-your-own-short-videos/"><u>In 2024, Convenient Techniques for Customizing Your Own Short Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-x50i-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor X50i to New Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-atheros-wi-fi-driver-updates-on-windows-10/"><u>Instant Atheros Wi-Fi Driver Updates on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-update-lenovo-g580-drivers/"><u>Instantly Update Lenovo G580 Drivers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210352814-9781649527615-life-after-death-by-gods-hands/"><u>Life After Death by God's Hands | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-print-on-windows-hp-laserjet-success/"><u>Mastering Print on Windows: HP LaserJet Success</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-windows-drives-with-usbasp-resolved/"><u>Navigating Windows Drives with USBasp [Resolved]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-1650-installer-download/"><u>Nvidia GTX 1650: Installer Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-software-upgrade-gtx-1060-edition/"><u>Nvidia Software Upgrade: GTX 1060 Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pinning-down-usb-support-in-yesteryears-windows/"><u>Pinning Down USB Support in Yesteryear's Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-simple-win10-touch-driver-upgrade/"><u>Quick & Simple Win10 Touch Driver Upgrade</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-driver-updates-on-lenovo-ideapad/"><u>Quick Fix Driver Updates on Lenovo Ideapad</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-oppo-find-x7-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Oppo Find X7 has been deleted</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/subtitle-extraction-top-10-free-apps-rated-for-2024/"><u>Subtitle Extraction Top 10 Free Apps Rated for 2024</u></a></li>
 </ul></div>
 
